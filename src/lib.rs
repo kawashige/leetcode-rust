@@ -21,4 +21,5 @@ pub mod p0070_climbing_stairs;
 pub mod p0083_remove_duplicates_from_sorted_list;
 pub mod p0088_merge_sorted_array;
 pub mod p0100_same_tree;
+pub mod p0101_symmetric_tree;
 pub mod p0104_maximum_depth_of_binary_tree;
