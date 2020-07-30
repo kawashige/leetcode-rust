@@ -1,6 +1,7 @@
 pub mod p0001_two_sum;
 pub mod p0002_add_two_numbers;
 pub mod p0003_longest_substring;
+pub mod p0005_longest_palindromic_substring;
 pub mod p0007_reverse_integer;
 pub mod p0009_palindrome_number;
 pub mod p0013_roman_to_integer;
