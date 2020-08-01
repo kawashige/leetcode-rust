@@ -10,6 +10,7 @@ pub mod p0011_container_with_most_water;
 pub mod p0012_integer_to_roman;
 pub mod p0013_roman_to_integer;
 pub mod p0014_longest_common_prefix;
+pub mod p0017_letter_combination_of_phone_number;
 pub mod p0020_valid_parentheses;
 pub mod p0021_merge_two_sorted_lists;
 pub mod p0026_remove_duplicate_from_sorted_array;
