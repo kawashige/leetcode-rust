@@ -4,7 +4,7 @@ impl Solution {
     pub fn max_area(height: Vec<i32>) -> i32 {
         let mut max = 0;
         for i in 0..height.len() {
-            for j in 0..height.len() {
+            for j in (i + 1)..height.len() {
                 let area = (j - i) as i32 * std::cmp::min(height[i], height[j]);
                 if max < area {
                     max = area

@@ -1,0 +1,2 @@
+mod day1_detect_capital;
+mod day2_design_hashset;
