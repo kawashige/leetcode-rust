@@ -22,6 +22,7 @@ pub mod p0024_swap_nodes_in_pairs;
 pub mod p0026_remove_duplicate_from_sorted_array;
 pub mod p0027_remove_elements;
 pub mod p0028_implement_strstr;
+pub mod p0031_next_permutation;
 pub mod p0035_search_insertion_position;
 pub mod p0038_count_and_say;
 pub mod p0053_maximum_subarray;
