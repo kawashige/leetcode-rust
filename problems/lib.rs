@@ -26,6 +26,7 @@ pub mod p0031_next_permutation;
 pub mod p0033_search_in_rotated_sorted_array;
 pub mod p0034_find_first_and_last_position_of_element_in_sorted_array;
 pub mod p0035_search_insertion_position;
+pub mod p0036_valid_sudoku;
 pub mod p0038_count_and_say;
 pub mod p0046_permutations;
 pub mod p0053_maximum_subarray;
