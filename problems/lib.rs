@@ -30,6 +30,7 @@ pub mod p0036_valid_sudoku;
 pub mod p0038_count_and_say;
 pub mod p0039_combination_sum;
 pub mod p0040_combination_sum_ii;
+pub mod p0043_multiply_strings;
 pub mod p0046_permutations;
 pub mod p0053_maximum_subarray;
 pub mod p0058_length_of_last_word;
