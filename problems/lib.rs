@@ -33,6 +33,7 @@ pub mod p0040_combination_sum_ii;
 pub mod p0043_multiply_strings;
 pub mod p0046_permutations;
 pub mod p0047_permutations_ii;
+pub mod p0048_rotate_image;
 pub mod p0053_maximum_subarray;
 pub mod p0058_length_of_last_word;
 pub mod p0066_plus_one;
