@@ -37,6 +37,7 @@ pub mod p0048_rotate_image;
 pub mod p0049_group_anagrams;
 pub mod p0053_maximum_subarray;
 pub mod p0054_spiral_matrix;
+pub mod p0055_jump_game;
 pub mod p0058_length_of_last_word;
 pub mod p0066_plus_one;
 pub mod p0067_add_binary;
