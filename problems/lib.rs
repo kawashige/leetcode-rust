@@ -42,6 +42,7 @@ pub mod p0056_merge_intervals;
 pub mod p0058_length_of_last_word;
 pub mod p0059_spiral_matrix_ii;
 pub mod p0061_rotated_list;
+pub mod p0062_unique_paths;
 pub mod p0066_plus_one;
 pub mod p0067_add_binary;
 pub mod p0069_sqrt;
