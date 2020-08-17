@@ -5,6 +5,7 @@ pub mod day13_iterator_for_combination;
 pub mod day14_longest_palindrome;
 pub mod day15_non_overlapping_intervals;
 pub mod day16_best_time_to_buy_and_sell_stock_iii;
+pub mod day17_distribute_candies_to_people;
 pub mod day1_detect_capital;
 pub mod day2_design_hashset;
 pub mod day3_valid_palindrome;
