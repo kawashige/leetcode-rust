@@ -53,6 +53,7 @@ pub mod p0071_simplify_path;
 pub mod p0073_set_zeros;
 pub mod p0074_search_a_2d_matrix;
 pub mod p0075_sort_colors;
+pub mod p0080_remove_duplicates_from_sorted_array_ii;
 pub mod p0083_remove_duplicates_from_sorted_list;
 pub mod p0088_merge_sorted_array;
 pub mod p0100_same_tree;
