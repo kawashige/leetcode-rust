@@ -10,6 +10,7 @@ pub mod day18_numbers_with_same_consecutive_differences;
 pub mod day19_goat_latin;
 pub mod day1_detect_capital;
 pub mod day20_reoreder_list;
+pub mod day21_sort_array_by_parity;
 pub mod day2_design_hashset;
 pub mod day3_valid_palindrome;
 pub mod day4_power_of_four;
