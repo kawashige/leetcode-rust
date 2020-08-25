@@ -14,6 +14,7 @@ pub mod day21_sort_array_by_parity;
 pub mod day22_random_point_in_non_overlapping_rectangles;
 pub mod day23_stream_of_characters;
 pub mod day24_sum_of_left_leaves;
+pub mod day25_minimum_cost_for_ticket;
 pub mod day2_design_hashset;
 pub mod day3_valid_palindrome;
 pub mod day4_power_of_four;
