@@ -68,4 +68,5 @@ pub mod p0100_same_tree;
 pub mod p0101_symmetric_tree;
 pub mod p0104_maximum_depth_of_binary_tree;
 pub mod p0107_binary_level_order_traversal_ii;
+pub mod p0136_single_number;
 pub mod p0169_majority_element;
