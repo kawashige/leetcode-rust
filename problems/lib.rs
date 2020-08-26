@@ -62,6 +62,7 @@ pub mod p0082_remove_duplicated_from_sorted_list_ii;
 pub mod p0083_remove_duplicates_from_sorted_list;
 pub mod p0086_partition_list;
 pub mod p0088_merge_sorted_array;
+pub mod p0090_subset_ii;
 pub mod p0091_decode_ways;
 pub mod p0094_binary_tree_inorder_traversal;
 pub mod p0100_same_tree;
