@@ -16,6 +16,7 @@ pub mod day23_stream_of_characters;
 pub mod day24_sum_of_left_leaves;
 pub mod day25_minimum_cost_for_ticket;
 pub mod day26_fizz_buzz;
+pub mod day27_find_right_interval;
 pub mod day2_design_hashset;
 pub mod day3_valid_palindrome;
 pub mod day4_power_of_four;
