@@ -66,6 +66,7 @@ pub mod p0089_gray_code;
 pub mod p0090_subset_ii;
 pub mod p0091_decode_ways;
 pub mod p0092_reverse_linked_list_ii;
+pub mod p0093_restore_ip_addresses;
 pub mod p0094_binary_tree_inorder_traversal;
 pub mod p0100_same_tree;
 pub mod p0101_symmetric_tree;
