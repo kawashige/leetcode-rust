@@ -21,6 +21,7 @@ pub mod day28_implement_rand10_using_rand7;
 pub mod day29_pancake_sorting;
 pub mod day2_design_hashset;
 pub mod day30_largest_component_size_by_common_factor;
+pub mod day31_delete_node_in_a_bst;
 pub mod day3_valid_palindrome;
 pub mod day4_power_of_four;
 pub mod day5_add_and_search_word;
