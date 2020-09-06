@@ -83,5 +83,6 @@ pub mod p0108_convert_sorted_array_to_binary_search_tree;
 pub mod p0109_convert_sorted_list_to_binary_search_tree;
 pub mod p0110_balanced_binary_tree;
 pub mod p0111_minimum_depth_of_binary_tree;
+pub mod p0112_path_sum;
 pub mod p0136_single_number;
 pub mod p0169_majority_element;
