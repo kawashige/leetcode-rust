@@ -5,3 +5,4 @@ pub mod day4_partition_labels;
 pub mod day5_all_elements_in_two_binary_seach_trees;
 pub mod day6_image_overlap;
 pub mod day7_word_pattern;
+pub mod day8_sum_of_root_to_leaf_binary_numbers;
