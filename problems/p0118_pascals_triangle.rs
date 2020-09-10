@@ -2,7 +2,7 @@ pub struct Solution {}
 
 impl Solution {
     pub fn generate(num_rows: i32) -> Vec<Vec<i32>> {
-        let mut results = vec![vec![1], vec![1,1]];
+        let mut results = vec![vec![1], vec![1, 1]];
         match num_rows {
             0 => vec![],
             1 => vec![vec![1]],

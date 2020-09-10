@@ -58,7 +58,7 @@ impl Solution {
                     } else {
                         let mut new = TreeNode::new(n.val);
                         new.right = delete(n.right, key);
-                        new.left = n.left;;
+                        new.left = n.left;
                         Some(Rc::new(RefCell::new(new)))
                     }
                 }
