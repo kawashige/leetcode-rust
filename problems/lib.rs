@@ -88,5 +88,6 @@ pub mod p0113_path_sum_ii;
 pub mod p0114_flatten_binary_tree_to_linked_list;
 pub mod p0118_pascals_triangle;
 pub mod p0120_triangle;
+pub mod p0121_best_time_to_buy_and_sell_stock;
 pub mod p0136_single_number;
 pub mod p0169_majority_element;
