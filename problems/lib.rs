@@ -92,5 +92,6 @@ pub mod p0121_best_time_to_buy_and_sell_stock;
 pub mod p0122_best_time_to_buy_and_sell_stock_ii;
 pub mod p0127_word_ladder;
 pub mod p0129_sum_root_to_leaf_numbers;
+pub mod p0130_surrounding_regions;
 pub mod p0136_single_number;
 pub mod p0169_majority_element;
