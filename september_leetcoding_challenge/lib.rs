@@ -5,6 +5,7 @@ pub mod day13_insert_interval;
 pub mod day14_house_robber;
 pub mod day15_length_of_last_word;
 pub mod day16_maximum_xor_of_two_numbers_in_an_array;
+pub mod day17_robot_bounded_in_circle;
 pub mod day1_largest_time_for_given_digits;
 pub mod day2_contains_duplicate_iii;
 pub mod day3_repeated_substring_pattern;
