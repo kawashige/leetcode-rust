@@ -96,5 +96,6 @@ pub mod p0130_surrounding_regions;
 pub mod p0131_palindrome_partitioning;
 pub mod p0134_gas_station;
 pub mod p0136_single_number;
+pub mod p0137_single_number_ii;
 pub mod p0169_majority_element;
 pub mod p0219_contains_duplicate_ii;
