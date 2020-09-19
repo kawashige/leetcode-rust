@@ -98,5 +98,6 @@ pub mod p0134_gas_station;
 pub mod p0136_single_number;
 pub mod p0137_single_number_ii;
 pub mod p0139_word_break;
+pub mod p0144_binary_tree_preorder_traversal;
 pub mod p0169_majority_element;
 pub mod p0219_contains_duplicate_ii;
