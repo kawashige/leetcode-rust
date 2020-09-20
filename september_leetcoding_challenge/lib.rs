@@ -8,6 +8,7 @@ pub mod day16_maximum_xor_of_two_numbers_in_an_array;
 pub mod day17_robot_bounded_in_circle;
 pub mod day19_sequential_digits;
 pub mod day1_largest_time_for_given_digits;
+pub mod day20_unique_paths_iii;
 pub mod day2_contains_duplicate_iii;
 pub mod day3_repeated_substring_pattern;
 pub mod day4_partition_labels;
