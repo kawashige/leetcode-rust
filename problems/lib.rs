@@ -103,5 +103,6 @@ pub mod p0144_binary_tree_preorder_traversal;
 pub mod p0145_binary_tree_postorder_traversal;
 pub mod p0146_lru_cache;
 pub mod p0147_insertion_sort_list;
+pub mod p0148_sort_list;
 pub mod p0169_majority_element;
 pub mod p0219_contains_duplicate_ii;
