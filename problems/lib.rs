@@ -36,6 +36,7 @@ pub mod p0046_permutations;
 pub mod p0047_permutations_ii;
 pub mod p0048_rotate_image;
 pub mod p0049_group_anagrams;
+pub mod p0050_pow_x_n;
 pub mod p0053_maximum_subarray;
 pub mod p0054_spiral_matrix;
 pub mod p0055_jump_game;
