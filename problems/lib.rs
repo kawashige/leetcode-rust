@@ -108,5 +108,6 @@ pub mod p0148_sort_list;
 pub mod p0150_evaluate_reverse_polish_notation;
 pub mod p0151_reverse_words_in_a_string;
 pub mod p0153_find_minimum_in_rotated_sorted_array;
+pub mod p0155_min_stack;
 pub mod p0169_majority_element;
 pub mod p0219_contains_duplicate_ii;
