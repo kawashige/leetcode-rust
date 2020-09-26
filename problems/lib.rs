@@ -111,5 +111,6 @@ pub mod p0153_find_minimum_in_rotated_sorted_array;
 pub mod p0155_min_stack;
 pub mod p0162_find_peak_element;
 pub mod p0166_fraction_to_recurring_decimal;
+pub mod p0167_two_sum_ii_input_array_is_sorted;
 pub mod p0169_majority_element;
 pub mod p0219_contains_duplicate_ii;
