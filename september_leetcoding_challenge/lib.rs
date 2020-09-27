@@ -14,6 +14,7 @@ pub mod day22_majority_element_ii;
 pub mod day23_find_the_difference;
 pub mod day25_largest_number;
 pub mod day26_teemo_attacking;
+pub mod day27_evaluate_division;
 pub mod day2_contains_duplicate_iii;
 pub mod day3_repeated_substring_pattern;
 pub mod day4_partition_labels;
