@@ -17,6 +17,7 @@ pub mod day26_teemo_attacking;
 pub mod day27_evaluate_division;
 pub mod day28_subarray_product_less_than_k;
 pub mod day2_contains_duplicate_iii;
+pub mod day30_first_missing_positive;
 pub mod day3_repeated_substring_pattern;
 pub mod day4_partition_labels;
 pub mod day5_all_elements_in_two_binary_seach_trees;
