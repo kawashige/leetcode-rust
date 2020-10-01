@@ -120,4 +120,5 @@ pub mod p0187_repeated_dna_sequences;
 pub mod p0189_rotated_array;
 pub mod p0191_number_of_1_bits;
 pub mod p0199_binary_tree_right_side_view;
+pub mod p0200_number_of_islands;
 pub mod p0219_contains_duplicate_ii;
