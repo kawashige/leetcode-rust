@@ -124,4 +124,5 @@ pub mod p0200_number_of_islands;
 pub mod p0201_bitwise_and_of_numbers_range;
 pub mod p0202_happy_number;
 pub mod p0203_remove_linked_list_elements;
+pub mod p0204_count_primes;
 pub mod p0219_contains_duplicate_ii;
