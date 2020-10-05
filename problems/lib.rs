@@ -127,4 +127,5 @@ pub mod p0203_remove_linked_list_elements;
 pub mod p0204_count_primes;
 pub mod p0205_isomorphic_strings;
 pub mod p0206_reverse_linked_list;
+pub mod p0207_course_schedule;
 pub mod p0219_contains_duplicate_ii;
