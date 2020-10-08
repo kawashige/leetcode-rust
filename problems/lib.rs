@@ -131,4 +131,5 @@ pub mod p0207_course_schedule;
 pub mod p0208_implement_trie;
 pub mod p0209_minimum_size_subarray_sum;
 pub mod p0210_course_schedule_ii;
+pub mod p0213_house_robber_ii;
 pub mod p0219_contains_duplicate_ii;
