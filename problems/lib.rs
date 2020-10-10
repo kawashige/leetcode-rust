@@ -135,3 +135,4 @@ pub mod p0213_house_robber_ii;
 pub mod p0215_kth_largest_element_in_an_array;
 pub mod p0217_contains_duplicate;
 pub mod p0219_contains_duplicate_ii;
+pub mod p0221_maximum_square;
