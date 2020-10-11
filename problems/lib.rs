@@ -137,3 +137,4 @@ pub mod p0217_contains_duplicate;
 pub mod p0219_contains_duplicate_ii;
 pub mod p0221_maximum_square;
 pub mod p0222_count_complete_tree_nodes;
+pub mod p0223_rectangle_area;
