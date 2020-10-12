@@ -139,3 +139,4 @@ pub mod p0221_maximum_square;
 pub mod p0222_count_complete_tree_nodes;
 pub mod p0223_rectangle_area;
 pub mod p0225_implement_stack_using_queues;
+pub mod p0226_invert_binary_tree;
