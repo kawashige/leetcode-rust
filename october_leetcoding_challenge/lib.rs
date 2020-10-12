@@ -6,3 +6,4 @@ pub mod day06_insert_into_a_binary_tree;
 pub mod day08_binary_search;
 pub mod day10_minimum_number_of_arrows_to_balloons;
 pub mod day11_remove_duplicate_letters;
+pub mod day12_buddy_strings;
