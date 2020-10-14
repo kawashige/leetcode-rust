@@ -142,3 +142,4 @@ pub mod p0225_implement_stack_using_queues;
 pub mod p0226_invert_binary_tree;
 pub mod p0227_basic_calculator_ii;
 pub mod p0228_summary_ranges;
+pub mod p0230_kth_smallest_element_in_a_bst;
