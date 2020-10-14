@@ -143,3 +143,4 @@ pub mod p0226_invert_binary_tree;
 pub mod p0227_basic_calculator_ii;
 pub mod p0228_summary_ranges;
 pub mod p0230_kth_smallest_element_in_a_bst;
+pub mod p0231_power_of_two;
