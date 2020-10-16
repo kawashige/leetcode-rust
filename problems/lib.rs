@@ -146,3 +146,4 @@ pub mod p0230_kth_smallest_element_in_a_bst;
 pub mod p0231_power_of_two;
 pub mod p0232_implement_queue_using_stacks;
 pub mod p0234_palindrome_linked_list;
+pub mod p0235_lowest_common_ancestor_of_a_binary_saerch_tree;
