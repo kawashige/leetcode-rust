@@ -151,3 +151,4 @@ pub mod p0236_lowest_common_ancestor_of_a_binary_tree;
 pub mod p0238_product_of_array_except_self;
 pub mod p0240_search_a_2d_matrix_ii;
 pub mod p0242_valid_anagram;
+pub mod p0257_binary_tree_paths;
