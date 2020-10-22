@@ -155,6 +155,6 @@ pub mod p0242_valid_anagram;
 pub mod p0257_binary_tree_paths;
 pub mod p0258_add_digits;
 pub mod p0260_single_number_iii;
+pub mod p0263_ugly_number;
 pub mod p0264_ugly_number_ii;
 pub mod p0268_missing_number;
-pub mod p2063_ugly_number;
