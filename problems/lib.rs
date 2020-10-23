@@ -158,3 +158,4 @@ pub mod p0260_single_number_iii;
 pub mod p0263_ugly_number;
 pub mod p0264_ugly_number_ii;
 pub mod p0268_missing_number;
+pub mod p0275_h_index_ii;
