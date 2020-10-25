@@ -161,4 +161,5 @@ pub mod p0268_missing_number;
 pub mod p0275_h_index_ii;
 pub mod p0279_perfect_squares;
 pub mod p0283_move_zeros;
+pub mod p0287_find_the_duplicate_number;
 pub mod p0289_game_of_life;
