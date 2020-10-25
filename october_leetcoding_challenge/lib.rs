@@ -13,3 +13,4 @@ pub mod day19_minimum_domino_ratation_for_equal_row;
 pub mod day21_asteroid_collision;
 pub mod day23_123_pattern;
 pub mod day24_bag_of_tokens;
+pub mod day25_stone_game_iv;
