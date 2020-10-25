@@ -3,8 +3,12 @@ pub struct Solution {}
 impl Solution {
     pub fn winner_square_game(n: i32) -> bool {
         let mut dp = vec![false; n as usize + 1];
+        let squares = (1..=n)
+            .map(|v| (v as i32).pow(2))
+            .take_while(|v| v <= &n)
+            .collect::<Vec<i32>>();
         for i in 1..=n {
-            for s in (1..=i).map(|v| (v as i32).pow(2)).take_while(|v| v <= &i) {
+            for s in squares.iter().filter(|v| v <= &&i) {
                 if !dp[(i - s) as usize] {
                     dp[i as usize] = true;
                     break;
