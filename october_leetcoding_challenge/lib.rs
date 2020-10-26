@@ -14,3 +14,4 @@ pub mod day21_asteroid_collision;
 pub mod day23_123_pattern;
 pub mod day24_bag_of_tokens;
 pub mod day25_stone_game_iv;
+pub mod day26_campagne_tower;
