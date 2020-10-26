@@ -163,3 +163,4 @@ pub mod p0279_perfect_squares;
 pub mod p0283_move_zeros;
 pub mod p0287_find_the_duplicate_number;
 pub mod p0289_game_of_life;
+pub mod p0292_nim_game;
