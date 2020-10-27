@@ -164,3 +164,4 @@ pub mod p0283_move_zeros;
 pub mod p0287_find_the_duplicate_number;
 pub mod p0289_game_of_life;
 pub mod p0292_nim_game;
+pub mod p0303_range_sum_query_immutable;
