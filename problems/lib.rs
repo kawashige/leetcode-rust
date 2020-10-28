@@ -167,3 +167,4 @@ pub mod p0292_nim_game;
 pub mod p0300_longest_increasing_subsequence;
 pub mod p0303_range_sum_query_immutable;
 pub mod p0304_range_sum_query_2d_immutable;
+pub mod p0306_additive_number;
