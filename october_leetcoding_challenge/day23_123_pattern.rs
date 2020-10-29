@@ -36,9 +36,9 @@ mod test {
 
     #[test]
     fn test_day23() {
-        assert!(!Solution::find132pattern(vec![1,2,3,4]));
-        assert!(Solution::find132pattern(vec![3,1,4,2]));
-        assert!(Solution::find132pattern(vec![-1,3,2,0]));
-        assert!(Solution::find132pattern(vec![3,5,0,3,4]));
+        assert!(!Solution::find132pattern(vec![1, 2, 3, 4]));
+        assert!(Solution::find132pattern(vec![3, 1, 4, 2]));
+        assert!(Solution::find132pattern(vec![-1, 3, 2, 0]));
+        assert!(Solution::find132pattern(vec![3, 5, 0, 3, 4]));
     }
 }
