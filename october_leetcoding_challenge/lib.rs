@@ -17,3 +17,4 @@ pub mod day25_stone_game_iv;
 pub mod day26_campagne_tower;
 pub mod day29_maximum_distance_to_closest_perspon;
 pub mod day30_number_of_longest_increasing_subsequence;
+pub mod day31_recover_binary_search_tree;
