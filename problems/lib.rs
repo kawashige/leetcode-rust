@@ -173,3 +173,4 @@ pub mod p0309_best_time_to_by_and_sell_stock_with_cooldown;
 pub mod p0310_minnimum_highest_trees;
 pub mod p0313_super_ugly_number;
 pub mod p0318_maximum_product_of_word_lengths;
+pub mod p0319_bulb_switcher;
