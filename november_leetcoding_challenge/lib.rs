@@ -1,0 +1,1 @@
+pub mod day01_convert_binary_number_in_a_linked_list_to_integer;

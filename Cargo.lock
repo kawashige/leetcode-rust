@@ -28,6 +28,13 @@ version = "0.2.77"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
+name = "november_leetcoding_challenge"
+version = "0.1.0"
+dependencies = [
+ "rand 0.7.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "october_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [
