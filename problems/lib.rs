@@ -118,6 +118,7 @@ pub mod p0172_factorial_trailing_zeroes;
 pub mod p0173_binary_search_iterator;
 pub mod p0187_repeated_dna_sequences;
 pub mod p0189_rotated_array;
+pub mod p0190_reverse_bits;
 pub mod p0191_number_of_1_bits;
 pub mod p0199_binary_tree_right_side_view;
 pub mod p0200_number_of_islands;
