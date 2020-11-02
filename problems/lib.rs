@@ -175,3 +175,4 @@ pub mod p0310_minnimum_highest_trees;
 pub mod p0313_super_ugly_number;
 pub mod p0318_maximum_product_of_word_lengths;
 pub mod p0319_bulb_switcher;
+pub mod p0322_coin_charge;
