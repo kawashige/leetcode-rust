@@ -178,3 +178,4 @@ pub mod p0318_maximum_product_of_word_lengths;
 pub mod p0319_bulb_switcher;
 pub mod p0322_coin_charge;
 pub mod p0324_wiggle_sort_ii;
+pub mod p0326_power_of_three;
