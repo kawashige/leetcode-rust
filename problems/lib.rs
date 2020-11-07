@@ -184,3 +184,4 @@ pub mod p0331_verify_preorder_serialization_of_a_binary_tree;
 pub mod p0332_reconstruct_itinerary;
 pub mod p0334_increasing_triplet_subsequence;
 pub mod p0337_house_robber_iii;
+pub mod p0338_counting_bits;
