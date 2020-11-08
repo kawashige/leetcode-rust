@@ -185,4 +185,5 @@ pub mod p0332_reconstruct_itinerary;
 pub mod p0334_increasing_triplet_subsequence;
 pub mod p0337_house_robber_iii;
 pub mod p0338_counting_bits;
+pub mod p0341_flatten_nested_list_iterator;
 pub mod p0343_integer_break;
