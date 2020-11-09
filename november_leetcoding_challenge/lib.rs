@@ -3,4 +3,5 @@ pub mod day05_minimum_cost_to_move_chips_to_the_same_position;
 pub mod day06_find_the_smallest_divisor_given_a_threshold;
 pub mod day07_add_two_numbers_ii;
 pub mod day08_binary_tree_tilt;
+pub mod day09_maximum_difference_between_node_and_ancestor;
 pub mod day3_consecutive_characters;
