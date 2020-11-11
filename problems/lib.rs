@@ -189,3 +189,4 @@ pub mod p0341_flatten_nested_list_iterator;
 pub mod p0343_integer_break;
 pub mod p0344_reverse_string;
 pub mod p0345_reverse_vowels_of_a_string;
+pub mod p0347_top_k_frequent_elements;
