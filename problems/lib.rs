@@ -190,3 +190,4 @@ pub mod p0343_integer_break;
 pub mod p0344_reverse_string;
 pub mod p0345_reverse_vowels_of_a_string;
 pub mod p0347_top_k_frequent_elements;
+pub mod p0349_intersection_of_two_array;
