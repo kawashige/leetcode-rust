@@ -195,3 +195,4 @@ pub mod p0350_intersection_of_two_array_ii;
 pub mod p0355_design_twitter;
 pub mod p0357_count_numbers_with_unique_digits;
 pub mod p0365_water_and_jug_problem;
+pub mod p0367_valid_perfect_square;
