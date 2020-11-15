@@ -7,4 +7,5 @@ pub mod day09_maximum_difference_between_node_and_ancestor;
 pub mod day10_flipping_an_image;
 pub mod day11_valid_square;
 pub mod day14_poor_pigs;
+pub mod day15_range_sum_of_bst;
 pub mod day3_consecutive_characters;
