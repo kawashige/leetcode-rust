@@ -8,4 +8,5 @@ pub mod day10_flipping_an_image;
 pub mod day11_valid_square;
 pub mod day14_poor_pigs;
 pub mod day15_range_sum_of_bst;
+pub mod day16_longest_mountain_in_array;
 pub mod day3_consecutive_characters;
