@@ -198,3 +198,4 @@ pub mod p0365_water_and_jug_problem;
 pub mod p0367_valid_perfect_square;
 pub mod p0368_largest_divisible_subset;
 pub mod p0371_sum_of_two_integers;
+pub mod p0372_super_pow;
