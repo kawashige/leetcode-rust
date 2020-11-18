@@ -199,3 +199,4 @@ pub mod p0367_valid_perfect_square;
 pub mod p0368_largest_divisible_subset;
 pub mod p0371_sum_of_two_integers;
 pub mod p0372_super_pow;
+pub mod p0373_find_k_pairs_with_smallest_sums;
