@@ -203,3 +203,4 @@ pub mod p0373_find_k_pairs_with_smallest_sums;
 pub mod p0374_guess_number_higher_or_lower;
 pub mod p0376_wiggle_subsequesnce;
 pub mod p0383_ransom_node;
+pub mod p0387_find_unique_character_in_a_string;
