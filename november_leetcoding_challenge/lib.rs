@@ -11,4 +11,5 @@ pub mod day15_range_sum_of_bst;
 pub mod day16_longest_mountain_in_array;
 pub mod day17_mirror_reflection;
 pub mod day19_decode_string;
+pub mod day21_numbers_at_most_n_given_digit_set;
 pub mod day3_consecutive_characters;
