@@ -204,5 +204,6 @@ pub mod p0374_guess_number_higher_or_lower;
 pub mod p0375_guess_number_higher_or_lower_ii;
 pub mod p0376_wiggle_subsequesnce;
 pub mod p0377_combination_sum_iv;
+pub mod p0378_kth_smallest_element_in_a_sorted_matrix;
 pub mod p0383_ransom_node;
 pub mod p0387_find_unique_character_in_a_string;
