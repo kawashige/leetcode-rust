@@ -209,4 +209,5 @@ pub mod p0380_insert_delete_getrandom_o_1;
 pub mod p0382_linked_list_random_note;
 pub mod p0383_ransom_node;
 pub mod p0384_shuffle_an_array;
+pub mod p0385_mini_parser;
 pub mod p0387_find_unique_character_in_a_string;
