@@ -212,3 +212,4 @@ pub mod p0384_shuffle_an_array;
 pub mod p0385_mini_parser;
 pub mod p0386_lexicographical_numbers;
 pub mod p0387_find_unique_character_in_a_string;
+pub mod p0388_longest_absolute_file_path;
