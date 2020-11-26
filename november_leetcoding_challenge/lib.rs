@@ -14,4 +14,5 @@ pub mod day19_decode_string;
 pub mod day21_numbers_at_most_n_given_digit_set;
 pub mod day22_unique_morse_code_words;
 pub mod day25_smallest_integer_divisible_by_k;
+pub mod day26_longest_substring_with_at_least_k_repeating_characters;
 pub mod day3_consecutive_characters;
