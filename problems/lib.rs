@@ -215,3 +215,4 @@ pub mod p0387_find_unique_character_in_a_string;
 pub mod p0388_longest_absolute_file_path;
 pub mod p0390_elimination_game;
 pub mod p0392_is_subsequence;
+pub mod p0393_utf_8_validation;
