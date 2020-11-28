@@ -16,4 +16,5 @@ pub mod day22_unique_morse_code_words;
 pub mod day25_smallest_integer_divisible_by_k;
 pub mod day26_longest_substring_with_at_least_k_repeating_characters;
 pub mod day27_partition_equal_subset_sum;
+pub mod day28_sliding_window_maximum;
 pub mod day3_consecutive_characters;
