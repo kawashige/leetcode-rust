@@ -218,3 +218,4 @@ pub mod p0392_is_subsequence;
 pub mod p0393_utf_8_validation;
 pub mod p0396_roatate_function;
 pub mod p0397_integer_replacement;
+pub mod p0398_random_pick_index;
