@@ -18,4 +18,5 @@ pub mod day26_longest_substring_with_at_least_k_repeating_characters;
 pub mod day27_partition_equal_subset_sum;
 pub mod day28_sliding_window_maximum;
 pub mod day29_jump_geme_iii;
+pub mod day30_the_skyline_problem;
 pub mod day3_consecutive_characters;
