@@ -223,3 +223,4 @@ pub mod p0400_nth_digit;
 pub mod p0401_binary_watch;
 pub mod p0402_remove_k_digits;
 pub mod p0405_convert_a_number_to_hexadecimal;
+pub mod p0406_queue_reconstruction_by_height;
