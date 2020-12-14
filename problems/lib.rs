@@ -230,3 +230,4 @@ pub mod p0415_add_strings;
 pub mod p0417_pacific_atlantic_water_flow;
 pub mod p0419_battleship_in_a_board;
 pub mod p0423_reconstruct_original_digits_from_english;
+pub mod p0424_longest_repeating_character_replacement;
