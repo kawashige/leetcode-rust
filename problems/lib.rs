@@ -233,3 +233,4 @@ pub mod p0423_reconstruct_original_digits_from_english;
 pub mod p0424_longest_repeating_character_replacement;
 pub mod p0433_minimum_genetic_mutation;
 pub mod p0434_number_of_segments_in_a_string;
+pub mod p0438_find_all_anagrams_in_a_string;
