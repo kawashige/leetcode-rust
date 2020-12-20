@@ -8,3 +8,4 @@ pub mod day13_burst_balloons;
 pub mod day15_squares_of_a_sorted_array;
 pub mod day17_4sum_ii;
 pub mod day19_cherry_pickup_ii;
+pub mod day20_decoded_string_at_index;
