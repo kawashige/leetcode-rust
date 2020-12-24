@@ -236,3 +236,4 @@ pub mod p0434_number_of_segments_in_a_string;
 pub mod p0438_find_all_anagrams_in_a_string;
 pub mod p0441_arranging_coins;
 pub mod p0443_string_compression;
+pub mod p0447_number_of_boomerangs;
