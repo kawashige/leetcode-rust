@@ -238,3 +238,4 @@ pub mod p0441_arranging_coins;
 pub mod p0443_string_compression;
 pub mod p0447_number_of_boomerangs;
 pub mod p0448_find_all_numbers_disappeared_in_an_array;
+pub mod p0451_sort_characters_by_frequency;
