@@ -5,7 +5,10 @@ impl Solution {
         if n < k {
             return -1;
         }
-        (1..=n).filter(|i| n % i == 0).nth(k as usize - 1).unwrap_or(-1)
+        (1..=n)
+            .filter(|i| n % i == 0)
+            .nth(k as usize - 1)
+            .unwrap_or(-1)
     }
 }
 

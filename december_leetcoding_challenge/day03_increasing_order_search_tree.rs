@@ -88,7 +88,10 @@ mod test {
         r2.right = Some(Rc::new(RefCell::new(r3)));
         r1.right = Some(Rc::new(RefCell::new(r2)));
 
-        assert_eq!(Some(Rc::new(RefCell::new(r1))), Solution::increasing_bst(Some(Rc::new(RefCell::new(t1)))));
+        assert_eq!(
+            Some(Rc::new(RefCell::new(r1))),
+            Solution::increasing_bst(Some(Rc::new(RefCell::new(t1))))
+        );
 
         let mut t1 = TreeNode::new(5);
         let t2 = TreeNode::new(1);
@@ -102,6 +105,9 @@ mod test {
         r2.right = Some(Rc::new(RefCell::new(r3)));
         r1.right = Some(Rc::new(RefCell::new(r2)));
 
-        assert_eq!(Some(Rc::new(RefCell::new(r1))), Solution::increasing_bst(Some(Rc::new(RefCell::new(t1)))));
+        assert_eq!(
+            Some(Rc::new(RefCell::new(r1))),
+            Solution::increasing_bst(Some(Rc::new(RefCell::new(t1))))
+        );
     }
 }
