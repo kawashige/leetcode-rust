@@ -242,3 +242,4 @@ pub mod p0451_sort_characters_by_frequency;
 pub mod p0453_minimum_move_to_equal_array_elements;
 pub mod p0455_assign_cookies;
 pub mod p0457_circular_array_loop;
+pub mod p0461_humming_distance;
