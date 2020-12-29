@@ -10,9 +10,3 @@ rand = "0.7.3"
 [lib]
 name = "problems"
 path = "lib.rs"
-
-[workspace]
-
-members = [
-    "p0463_island_perimeter"
-]

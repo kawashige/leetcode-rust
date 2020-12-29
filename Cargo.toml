@@ -2,6 +2,8 @@
 
 members = [
     "problems",
+    "problems/p0463_island_perimeter",
+    "problems/p0464_can_i_win",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
