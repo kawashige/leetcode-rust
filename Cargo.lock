@@ -53,6 +53,10 @@ name = "p0463_island_perimeter"
 version = "0.1.0"
 
 [[package]]
+name = "p0464_can_i_win"
+version = "0.1.0"
+
+[[package]]
 name = "p0467_unique_substrings_in_wraparound_string"
 version = "0.1.0"
 

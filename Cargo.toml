@@ -3,6 +3,7 @@
 members = [
     "problems",
     "problems/p0463_island_perimeter",
+    "problems/p0464_can_i_win",
     "problems/p0467_unique_substrings_in_wraparound_string",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
