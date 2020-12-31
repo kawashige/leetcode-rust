@@ -15,3 +15,4 @@ pub mod day25_diagonal_traverse;
 pub mod day27_jump_game_iv;
 pub mod day28_reach_a_number;
 pub mod day29_pseudo_palindromic_paths_in_a_binary_tree;
+pub mod day31_largest_rectangle_in_histogram;
