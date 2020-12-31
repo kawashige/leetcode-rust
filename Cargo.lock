@@ -65,6 +65,10 @@ name = "p0468_validate_ip_address"
 version = "0.1.0"
 
 [[package]]
+name = "p0473_matchsticks_to_square"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
