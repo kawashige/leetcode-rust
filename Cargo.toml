@@ -7,6 +7,7 @@ members = [
     "problems/p0467_unique_substrings_in_wraparound_string",
     "problems/p0468_validate_ip_address",
     "problems/p0473_matchsticks_to_square",
+    "problems/p0474_ones_and_zeros",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
