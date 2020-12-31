@@ -13,11 +13,8 @@ impl Solution {
             })
             .collect::<Vec<(usize, usize)>>();
 
-        println!("counts: {:?}", counts);
         let mut dp = vec![vec![vec![0_usize; n + 1]; m + 1]; counts.len() + 1];
-        println!("dp.len(): {:?}, counts.len(): {:?}", dp.len(), counts.len());
         for i in 0..counts.len() {
-            println!("dp[i]: {:?}, counts[i[: {:?}", dp[i], counts[i]);
             for j in 0..=m {
                 for k in 0..=n {
                     if counts[i].0 <= j && counts[i].1 <= k {
@@ -29,7 +26,6 @@ impl Solution {
                 }
             }
         }
-        println!("dp.last(): {:?}", dp[dp.len() - 1]);
 
         dp[dp.len() - 1][m][n] as i32
     }
