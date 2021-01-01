@@ -30,6 +30,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "january_leetcoding_challenge"
+version = "0.1.0"
+
+[[package]]
 name = "libc"
 version = "0.2.80"
 source = "registry+https://github.com/rust-lang/crates.io-index"

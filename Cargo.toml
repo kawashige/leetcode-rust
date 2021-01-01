@@ -15,4 +15,5 @@ members = [
     "october_leetcoding_challenge",
     "november_leetcoding_challenge",
     "december_leetcoding_challenge",
+    "january_leetcoding_challenge",
 ]
