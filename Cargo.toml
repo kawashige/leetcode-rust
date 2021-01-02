@@ -9,6 +9,7 @@ members = [
     "problems/p0473_matchsticks_to_square",
     "problems/p0474_ones_and_zeros",
     "problems/p0475_heaters",
+    "problems/p0477_total_hamming_distance",
     "problems/p0476_number_complement",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
