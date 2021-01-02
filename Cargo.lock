@@ -89,6 +89,13 @@ name = "p0477_total_hamming_distance"
 version = "0.1.0"
 
 [[package]]
+name = "p0478_generate_random_point_in_a_circle"
+version = "0.1.0"
+dependencies = [
+ "rand 0.7.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
