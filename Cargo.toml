@@ -13,6 +13,7 @@ members = [
     "problems/p0478_generate_random_point_in_a_circle",
     "problems/p0476_number_complement",
     "problems/p0481_magical_string",
+    "problems/p0482_license_key_formatting",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

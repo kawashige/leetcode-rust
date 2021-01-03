@@ -100,6 +100,10 @@ name = "p0481_magical_string"
 version = "0.1.0"
 
 [[package]]
+name = "p0482_license_key_formatting"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
