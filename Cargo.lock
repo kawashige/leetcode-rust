@@ -116,6 +116,10 @@ name = "p0491_increasing_subsequence"
 version = "0.1.0"
 
 [[package]]
+name = "p0492_construct_the_rectangle"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

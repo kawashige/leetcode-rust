@@ -17,6 +17,7 @@ members = [
     "problems/p0485_max_consecutive_ones",
     "problems/p0486_predict_the_winner",
     "problems/p0491_increasing_subsequence",
+    "problems/p0492_construct_the_rectangle",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
