@@ -20,6 +20,7 @@ members = [
     "problems/p0492_construct_the_rectangle",
     "problems/p0494_target_sum",
     "problems/p0496_next_greater_element_i",
+    "problems/p0500_keyboard_row",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
