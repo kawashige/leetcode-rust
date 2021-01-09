@@ -22,6 +22,7 @@ members = [
     "problems/p0496_next_greater_element_i",
     "problems/p0500_keyboard_row",
     "problems/p0501_find_mode_in_binary_search_tree",
+    "problems/p0503_next_greater_element_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
