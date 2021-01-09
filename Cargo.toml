@@ -24,6 +24,7 @@ members = [
     "problems/p0501_find_mode_in_binary_search_tree",
     "problems/p0503_next_greater_element_ii",
     "problems/p0504_base_7",
+    "problems/p0506_relative_ranks",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
