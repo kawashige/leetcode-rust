@@ -25,6 +25,7 @@ members = [
     "problems/p0503_next_greater_element_ii",
     "problems/p0504_base_7",
     "problems/p0506_relative_ranks",
+    "problems/p0507_perfect_number",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
