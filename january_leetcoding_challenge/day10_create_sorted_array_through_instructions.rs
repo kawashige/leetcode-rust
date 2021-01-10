@@ -1,46 +1,72 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn create_sorted_array(instructions: Vec<i32>) -> i32 {
-        let mut nums = Vec::new();
-        let mut min = std::i32::MAX;
-        let mut max = std::i32::MIN;
-        let mut cost: i64 = 0;
-
-        for n in instructions {
-            min = std::cmp::min(min, n);
-            max = std::cmp::max(max, n);
-            if n == min {
-                nums.insert(0, n);
-                continue;
-            }
-            if max == n {
-                nums.push(n);
-                continue;
-            }
-            match nums.binary_search(&n) {
-                Ok(i) => {
-                    let j = (0..=i)
-                        .rev()
-                        .take_while(|j| nums[*j as usize] == n)
-                        .last()
-                        .unwrap();
-                    let k = (i..nums.len())
-                        .take_while(|j| nums[*j as usize] == n)
-                        .last()
-                        .unwrap();
-                    cost += std::cmp::min(j, nums.len() - k - 1) as i64;
-                    nums.insert(i, n);
+    pub fn merge(
+        nums: &mut Vec<(i32, usize)>,
+        counts: &mut Vec<Vec<i64>>,
+        left: usize,
+        mid: usize,
+        right: usize,
+    ) {
+        let mut l = Vec::new();
+        for i in 0..(mid - left) {
+            l.push(nums[left + i]);
+        }
+        let mut r = Vec::new();
+        for i in 0..(right - mid) {
+            r.push(nums[mid + i]);
+        }
+        l.push((std::i32::MAX, 0));
+        r.push((std::i32::MAX, 0));
+        let mut i = 0;
+        let mut j = 0;
+        let mut same_count = 1;
+        for k in left..right {
+            if l[i].0 <= r[j].0 {
+                nums[k] = l[i];
+                if 0 < i && l[i - 1].0 == l[i].0 {
+                    same_count += 1;
+                } else {
+                    same_count = 1;
                 }
-                Err(i) => {
-                    cost += std::cmp::min(i, nums.len() - i) as i64;
-                    nums.insert(i, n);
-                }
+                i += 1;
+            } else {
+                nums[k] = r[j];
+                counts[nums[k].1][0] += (i - if 0 < i && l[i - 1].0 == nums[k].0 {
+                    same_count
+                } else {
+                    0
+                }) as i64;
+                counts[nums[k].1][1] += (l.len() - i - 1) as i64;
+                j += 1;
             }
         }
+    }
 
-        println!("cost: {}", cost);
-        (cost % (1_000_000_000 + 7)) as i32
+    pub fn merge_sort(
+        nums: &mut Vec<(i32, usize)>,
+        counts: &mut Vec<Vec<i64>>,
+        left: usize,
+        right: usize,
+    ) {
+        if left + 1 < right {
+            let mid = (left + right) / 2;
+            Self::merge_sort(nums, counts, left, mid);
+            Self::merge_sort(nums, counts, mid, right);
+            Self::merge(nums, counts, left, mid, right);
+        }
+    }
+
+    pub fn create_sorted_array(instructions: Vec<i32>) -> i32 {
+        let l = instructions.len();
+        let mut counts = vec![vec![0; 2]; l];
+        let mut nums = instructions.into_iter().zip(0..).collect();
+        Self::merge_sort(&mut nums, &mut counts, 0, l);
+        (counts
+            .into_iter()
+            .map(|c| c.into_iter().min().unwrap())
+            .sum::<i64>()
+            % (1_000_000_000 + 7)) as i32
     }
 }
 
