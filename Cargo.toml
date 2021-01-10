@@ -26,6 +26,7 @@ members = [
     "problems/p0504_base_7",
     "problems/p0506_relative_ranks",
     "problems/p0507_perfect_number",
+    "problems/p0508_most_frequent_subtree_sum",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

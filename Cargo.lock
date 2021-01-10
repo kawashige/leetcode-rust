@@ -152,6 +152,10 @@ name = "p0507_perfect_number"
 version = "0.1.0"
 
 [[package]]
+name = "p0508_most_frequent_subtree_sum"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
