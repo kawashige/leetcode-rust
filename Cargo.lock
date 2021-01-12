@@ -168,6 +168,10 @@ name = "p0515_find_largest_value_in_each_row"
 version = "0.1.0"
 
 [[package]]
+name = "p0518_coin_change_2"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
