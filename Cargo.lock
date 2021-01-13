@@ -168,6 +168,10 @@ name = "p0515_find_largest_value_in_each_row"
 version = "0.1.0"
 
 [[package]]
+name = "p0516_longest_palindromic_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "p0518_coin_change_2"
 version = "0.1.0"
 

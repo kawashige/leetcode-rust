@@ -30,6 +30,7 @@ members = [
     "problems/p0509_fibonacci_number",
     "problems/p0513_find_bottom_left_tree_value",
     "problems/p0515_find_largest_value_in_each_row",
+    "problems/p0516_longest_palindromic_subsequence",
     "problems/p0518_coin_change_2",
     "problems/p0521_longest_uncommon_subsequence_i",
     "august_leetcoding_challenge",
