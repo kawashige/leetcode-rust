@@ -176,6 +176,13 @@ name = "p0518_coin_change_2"
 version = "0.1.0"
 
 [[package]]
+name = "p0519_random_flip_matrix"
+version = "0.1.0"
+dependencies = [
+ "rand 0.7.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "p0521_longest_uncommon_subsequence_i"
 version = "0.1.0"
 
