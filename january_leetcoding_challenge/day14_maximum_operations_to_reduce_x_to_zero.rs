@@ -3,8 +3,8 @@ pub struct Solution {}
 impl Solution {
     pub fn min_operations(nums: Vec<i32>, x: i32) -> i32 {
         let l = nums.len();
-        let sum = nums.iter().sum();
-        let target = sum - x;
+        let total_sum = nums.iter().sum::<i32>();
+        let target = total_sum - x;
 
         if target == 0 {
             return l as i32;
@@ -12,23 +12,24 @@ impl Solution {
             return -1;
         }
 
-        let mut sums = vec![vec![0; l]; l];
-        sums[0][l - 1] = sum;
-
-        for i in (0..(l - 1)).rev() {
-            for j in 0..(l - i) {
-                let sum = if j == 0 {
-                    sums[j][j + i + 1] - nums[j + i + 1]
-                } else {
-                    sums[j - 1][j + i] - nums[j - 1]
-                };
-                if sum == target {
-                    return (l - 1 - i) as i32;
-                }
-                sums[j][j + i] = sum;
+        let mut sum = nums[0];
+        let mut s = 0;
+        let mut max = 0;
+        for i in 1..nums.len() {
+            sum += nums[i];
+            while s < i && target < sum {
+                sum -= nums[s];
+                s += 1;
+            }
+            if sum == target {
+                max = std::cmp::max(max, i - s + 1);
             }
         }
-        -1
+        if 0 < max {
+            (l - max) as i32
+        } else {
+            -1
+        }
     }
 }
 
