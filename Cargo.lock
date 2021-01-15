@@ -160,6 +160,10 @@ name = "p0509_fibonacci_number"
 version = "0.1.0"
 
 [[package]]
+name = "p0512_longest_uncommon_subsequence_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p0513_find_bottom_left_tree_value"
 version = "0.1.0"
 

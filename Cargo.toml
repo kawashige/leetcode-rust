@@ -34,6 +34,7 @@ members = [
     "problems/p0518_coin_change_2",
     "problems/p0521_longest_uncommon_subsequence_i",
     "problems/p0519_random_flip_matrix",
+    "problems/p0512_longest_uncommon_subsequence_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
