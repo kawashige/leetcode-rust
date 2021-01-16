@@ -195,6 +195,10 @@ name = "p0523_cotinuous_subarray_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p0524_longest_word_in_dictionary_through_deleting"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
