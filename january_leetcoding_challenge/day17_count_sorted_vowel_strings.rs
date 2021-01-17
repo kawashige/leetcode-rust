@@ -4,13 +4,9 @@ impl Solution {
     pub fn count_vowel_strings(n: i32) -> i32 {
         let mut counts = [1; 5];
         for _ in 1..n {
-            let mut new_counts = [0; 5];
-            let mut sum = 0;
-            for i in 0..5 {
-                sum += counts[i];
-                new_counts[i] = sum;
+            for i in 1..5 {
+                counts[i] += counts[i - 1];
             }
-            counts = new_counts;
         }
         counts.iter().sum()
     }
