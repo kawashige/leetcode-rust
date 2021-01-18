@@ -6,12 +6,14 @@ impl Solution {
         let mut counts = HashMap::new();
         let mut result = 0;
         for n in nums {
-            if let Some(target) = counts.get_mut(&(k - n)) {
-                if &0 < target {
+            match counts.get_mut(&(k - n)) {
+                Some(0) => {}
+                Some(n) => {
                     result += 1;
-                    *target -= 1;
+                    *n -= 1;
                     continue;
                 }
+                _ => {}
             }
             *counts.entry(n).or_insert(0) += 1;
         }
