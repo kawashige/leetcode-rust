@@ -40,6 +40,7 @@ members = [
     "problems/p0525_contiguous_array",
     "problems/p0528_random_pick_with_weight",
     "problems/p0529_minesweeper",
+    "problems/p0530_minimum_absolute_difference_in_bst",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
