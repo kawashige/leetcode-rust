@@ -41,6 +41,7 @@ members = [
     "problems/p0528_random_pick_with_weight",
     "problems/p0529_minesweeper",
     "problems/p0530_minimum_absolute_difference_in_bst",
+    "problems/p0535_encode_and_decode_tiny_url",
     "problems/p0537_complex_number_multiplication",
     "problems/p0538_convert_bst_to_greater_tree",
     "problems/p0539_minimum_time_difference",

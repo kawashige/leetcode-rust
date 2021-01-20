@@ -218,6 +218,13 @@ name = "p0530_minimum_absolute_difference_in_bst"
 version = "0.1.0"
 
 [[package]]
+name = "p0535_encode_and_decode_tiny_url"
+version = "0.1.0"
+dependencies = [
+ "rand 0.7.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "p0537_complex_number_multiplication"
 version = "0.1.0"
 
