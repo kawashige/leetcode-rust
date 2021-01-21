@@ -237,6 +237,10 @@ name = "p0539_minimum_time_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p0540_single_emenet_in_a_sorted_array"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
