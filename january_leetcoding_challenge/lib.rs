@@ -5,6 +5,7 @@ pub mod day15_get_maximum_in_generated_array;
 pub mod day17_count_sorted_vowel_strings;
 pub mod day18_max_number_of_k_sum_pairs;
 pub mod day1_check_array_formation_through_concatenation;
+pub mod day21_find_the_most_competitive_subsequence;
 pub mod day3_beautiful_arrangement;
 pub mod day6_kth_missing_positive_number;
 pub mod day8_check_if_two_string_array_are_equivalent;
