@@ -47,6 +47,7 @@ members = [
     "problems/p0539_minimum_time_difference",
     "problems/p0540_single_emenet_in_a_sorted_array",
     "problems/p0541_reverse_string_ii",
+    "problems/p0542_01_matrix",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
