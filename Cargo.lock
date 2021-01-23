@@ -253,6 +253,10 @@ name = "p0543_diameter_of_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0551_student_attendance_record_i"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
