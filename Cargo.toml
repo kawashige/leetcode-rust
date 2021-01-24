@@ -52,6 +52,7 @@ members = [
     "problems/p0551_student_attendance_record_i",
     "problems/p0553_optimal_division",
     "problems/p0554_brick_wall",
+    "problems/p0557_reverse_words_in_a_string_iii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
