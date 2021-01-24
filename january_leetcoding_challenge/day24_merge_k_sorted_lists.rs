@@ -64,7 +64,6 @@ impl Solution {
                 lists[i] = n.next;
             }
         }
-        println!("{:?}", results);
 
         Self::to_list_node(&results)
     }
