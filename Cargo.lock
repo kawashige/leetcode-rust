@@ -261,6 +261,10 @@ name = "p0553_optimal_division"
 version = "0.1.0"
 
 [[package]]
+name = "p0554_brick_wall"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

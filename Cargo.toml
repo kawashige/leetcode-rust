@@ -51,6 +51,7 @@ members = [
     "problems/p0543_diameter_of_binary_tree",
     "problems/p0551_student_attendance_record_i",
     "problems/p0553_optimal_division",
+    "problems/p0554_brick_wall",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
