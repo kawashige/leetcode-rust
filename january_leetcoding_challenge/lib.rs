@@ -8,6 +8,7 @@ pub mod day1_check_array_formation_through_concatenation;
 pub mod day21_find_the_most_competitive_subsequence;
 pub mod day22_determine_if_two_strings_are_close;
 pub mod day23_sort_the_matrix_diagonally;
+pub mod day24_merge_k_sorted_lists;
 pub mod day3_beautiful_arrangement;
 pub mod day6_kth_missing_positive_number;
 pub mod day8_check_if_two_string_array_are_equivalent;
