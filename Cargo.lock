@@ -273,6 +273,10 @@ name = "p0557_reverse_words_in_a_string_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p0560_subarray_sum_equals_k"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
