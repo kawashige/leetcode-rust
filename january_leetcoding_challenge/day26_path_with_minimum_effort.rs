@@ -1,28 +1,34 @@
 pub struct Solution {}
 
-use std::collections::BTreeSet;
 impl Solution {
     pub fn dfs(
-        diffs: &Vec<Vec<[i32; 4]>>,
+        heights: &Vec<Vec<i32>>,
         i: usize,
         j: usize,
         max: i32,
         seen: &mut Vec<Vec<bool>>,
     ) -> bool {
-        if i == diffs.len() - 1 && j == diffs[0].len() - 1 {
+        if i == heights.len() - 1 && j == heights[0].len() - 1 {
             return true;
         }
 
         let moves = [(-1_i32, 0), (0, 1), (1, 0), (0, -1)];
         for k in 0..4 {
-            if diffs[i][j][k] != -1 && diffs[i][j][k] <= max {
-                let next_i = (moves[k].0 + i as i32) as usize;
-                let next_j = (moves[k].1 + j as i32) as usize;
-                if !seen[next_i][next_j] {
-                    seen[next_i][next_j] = true;
-                    if Self::dfs(diffs, next_i, next_j, max, seen) {
-                        return true;
-                    }
+            let next_i = moves[k].0 + i as i32;
+            let next_j = moves[k].1 + j as i32;
+            if next_i < 0
+                || heights.len() as i32 <= next_i
+                || next_j < 0
+                || heights[0].len() as i32 <= next_j
+            {
+                continue;
+            }
+            if !seen[next_i as usize][next_j as usize]
+                && (heights[i][j] - heights[next_i as usize][next_j as usize]).abs() <= max
+            {
+                seen[next_i as usize][next_j as usize] = true;
+                if Self::dfs(heights, next_i as usize, next_j as usize, max, seen) {
+                    return true;
                 }
             }
         }
@@ -30,44 +36,20 @@ impl Solution {
     }
 
     pub fn minimum_effort_path(heights: Vec<Vec<i32>>) -> i32 {
-        let mut diffs = BTreeSet::new();
-        let mut adjacent_diffs = vec![vec![[-1; 4]; heights[0].len()]; heights.len()];
-        for i in 0..heights.len() {
-            for j in 0..heights[0].len() {
-                if i < heights.len() - 1 {
-                    let d = (heights[i][j] - heights[i + 1][j]).abs();
-                    adjacent_diffs[i][j][2] = d;
-                    adjacent_diffs[i + 1][j][0] = d;
-                    diffs.insert(d);
-                }
-                if j < heights[0].len() - 1 {
-                    let d = (heights[i][j] - heights[i][j + 1]).abs();
-                    adjacent_diffs[i][j][1] = d;
-                    adjacent_diffs[i][j + 1][3] = d;
-                    diffs.insert(d);
-                }
-            }
-        }
-
-        if diffs.is_empty() {
-            return 0;
-        }
-
-        let mut max = diffs.len() - 1;
+        let mut max = 1_000_000;
         let mut min = 0;
-        let diffs: Vec<i32> = diffs.into_iter().collect();
         while min < max {
             let mid = (min + max) / 2;
             let mut seen = vec![vec![false; heights[0].len()]; heights.len()];
             seen[0][0] = true;
-            if Self::dfs(&adjacent_diffs, 0, 0, diffs[mid], &mut seen) {
+            if Self::dfs(&heights, 0, 0, mid, &mut seen) {
                 max = mid;
             } else {
                 min = mid + 1;
             }
         }
 
-        diffs[max]
+        max as i32
     }
 }
 
