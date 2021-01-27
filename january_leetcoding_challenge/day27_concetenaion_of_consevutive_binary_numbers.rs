@@ -2,15 +2,9 @@ pub struct Solution {}
 
 impl Solution {
     pub fn concatenated_binary(n: i32) -> i32 {
-        (1..=n)
-            .rev()
-            .fold((1_i64, 0_i64), |(mul, sum), i| {
-                (
-                    mul * 2_i64.pow(32 - i.leading_zeros()) % 1_000_000_007,
-                    (sum + (mul * i as i64)) % 1_000_000_007,
-                )
-            })
-            .1 as i32
+        (1..=n).fold(0_i64, |sum, i| {
+            ((sum << (32 - i.leading_zeros())) + i as i64) % 1_000_000_007
+        }) as i32
     }
 }
 
