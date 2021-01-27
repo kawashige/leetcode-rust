@@ -56,6 +56,7 @@ members = [
     "problems/p0547_number_of_provinces",
     "problems/p0560_subarray_sum_equals_k",
     "problems/p0561_array_partition_i",
+    "problems/p0565_array_nesting",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
