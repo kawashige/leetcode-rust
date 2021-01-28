@@ -5,7 +5,6 @@ impl Solution {
         (1..27)
             .rev()
             .scan((k, n), |(k, n), i| {
-                // println!("k: {}, n: {}, i: {}", k, n, i);
                 let mut s = String::new();
                 while 0 < *n && *k - i >= *n - 1 {
                     *k -= i;
