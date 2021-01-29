@@ -58,6 +58,7 @@ members = [
     "problems/p0561_array_partition_i",
     "problems/p0565_array_nesting",
     "problems/p0566_reshape_the_matrix",
+    "problems/p0567_permutation_in_string",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
