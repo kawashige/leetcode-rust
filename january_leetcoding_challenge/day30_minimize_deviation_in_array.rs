@@ -8,8 +8,8 @@ impl Solution {
             .map(|n| if n & 1 == 1 { n << 1 } else { n })
             .collect::<BTreeSet<i32>>();
 
-        let mut min = *set.iter().min().unwrap();
-        let mut max = *set.iter().max().unwrap();
+        let mut min = *set.iter().next().unwrap();
+        let mut max = *set.iter().next_back().unwrap();
         let mut deviation = max - min;
         while max & 1 == 0 {
             set.remove(&max);
