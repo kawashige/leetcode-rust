@@ -60,6 +60,7 @@ members = [
     "problems/p0566_reshape_the_matrix",
     "problems/p0567_permutation_in_string",
     "problems/p0572_subtree_of_another_tree",
+    "problems/p0575_distribute_candies",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
