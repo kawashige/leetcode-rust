@@ -13,6 +13,7 @@ pub mod day25_check_if_all_1s_are_at_least_length_k_places_away;
 pub mod day26_path_with_minimum_effort;
 pub mod day27_concetenaion_of_consevutive_binary_numbers;
 pub mod day28_smallest_string_with_a_given_numeric_value;
+pub mod day30_minimize_deviation_in_array;
 pub mod day3_beautiful_arrangement;
 pub mod day6_kth_missing_positive_number;
 pub mod day8_check_if_two_string_array_are_equivalent;
