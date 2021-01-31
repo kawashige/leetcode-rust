@@ -305,6 +305,10 @@ name = "p0576_out_of_boundary_paths"
 version = "0.1.0"
 
 [[package]]
+name = "p0581_shortest_unsorted_continuous_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
