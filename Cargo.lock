@@ -309,6 +309,14 @@ name = "p0581_shortest_unsorted_continuous_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p0583_delete_operation_for_two_strings"
+version = "0.1.0"
+
+[[package]]
+name = "p0594_longest_harmonious_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
