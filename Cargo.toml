@@ -64,6 +64,7 @@ members = [
     "problems/p0576_out_of_boundary_paths",
     "problems/p0581_shortest_unsorted_continuous_subarray",
     "problems/p0583_delete_operation_for_two_strings",
+    "problems/p0592_fraction_addition_and_subtraction",
     "problems/p0594_longest_harmonious_subsequence",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
