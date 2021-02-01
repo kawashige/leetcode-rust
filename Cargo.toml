@@ -66,6 +66,7 @@ members = [
     "problems/p0583_delete_operation_for_two_strings",
     "problems/p0592_fraction_addition_and_subtraction",
     "problems/p0594_longest_harmonious_subsequence",
+    "problems/p0598_range_addition_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
