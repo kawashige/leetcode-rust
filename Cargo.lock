@@ -13,6 +13,10 @@ version = "0.1.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
+name = "day02_trim_a_binary_search_tree"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [
