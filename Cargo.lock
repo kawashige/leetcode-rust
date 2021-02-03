@@ -333,6 +333,10 @@ name = "p0599_minimum_index_sum_of_two_lists"
 version = "0.1.0"
 
 [[package]]
+name = "p0606_construct_string_from_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
