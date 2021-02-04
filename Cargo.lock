@@ -341,6 +341,10 @@ name = "p0609_find_duplicate_file_in_system"
 version = "0.1.0"
 
 [[package]]
+name = "p0611_valid_triangle_number"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
