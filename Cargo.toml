@@ -69,6 +69,7 @@ members = [
     "problems/p0598_range_addition_ii",
     "problems/p0599_minimum_index_sum_of_two_lists",
     "problems/p0606_construct_string_from_binary_tree",
+    "problems/p0609_find_duplicate_file_in_system",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

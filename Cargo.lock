@@ -337,6 +337,10 @@ name = "p0606_construct_string_from_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0609_find_duplicate_file_in_system"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
