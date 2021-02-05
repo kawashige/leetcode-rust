@@ -345,6 +345,10 @@ name = "p0611_valid_triangle_number"
 version = "0.1.0"
 
 [[package]]
+name = "p0617_merge_two_binary_trees"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
