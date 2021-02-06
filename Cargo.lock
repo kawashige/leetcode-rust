@@ -349,6 +349,10 @@ name = "p0617_merge_two_binary_trees"
 version = "0.1.0"
 
 [[package]]
+name = "p0621_task_scheduler"
+version = "0.1.0"
+
+[[package]]
 name = "p0622_design_circular_queue"
 version = "0.1.0"
 
