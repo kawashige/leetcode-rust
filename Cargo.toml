@@ -83,5 +83,6 @@ members = [
     "november_leetcoding_challenge",
     "december_leetcoding_challenge",
     "january_leetcoding_challenge",
-    "february_leetcoding_challenge_2021/day02_trim_a_binary_search_tree"
+    "february_leetcoding_challenge_2021/day02_trim_a_binary_search_tree",
+    "february_leetcoding_challenge_2021/day07_shortest_distance_to_character"
 ]

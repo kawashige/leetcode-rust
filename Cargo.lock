@@ -17,6 +17,10 @@ name = "day02_trim_a_binary_search_tree"
 version = "0.1.0"
 
 [[package]]
+name = "day07_shortest_distance_to_character"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [
