@@ -361,6 +361,10 @@ name = "p0623_add_one_row_to_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0628_maximum_product_of_three_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
