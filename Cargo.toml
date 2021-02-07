@@ -76,6 +76,7 @@ members = [
     "problems/p0622_design_circular_queue",
     "problems/p0623_add_one_row_to_tree",
     "problems/p0628_maximum_product_of_three_numbers",
+    "problems/p0633_sum_of_square_numbers",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
