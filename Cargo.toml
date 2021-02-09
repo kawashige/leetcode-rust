@@ -79,6 +79,7 @@ members = [
     "problems/p0633_sum_of_square_numbers",
     "problems/p0636_exclusive_time_of_functions",
     "problems/p0638_shopping_offers",
+    "problems/p0640_solve_the_equation",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

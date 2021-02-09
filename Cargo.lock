@@ -381,6 +381,10 @@ name = "p0638_shopping_offers"
 version = "0.1.0"
 
 [[package]]
+name = "p0640_solve_the_equation"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
