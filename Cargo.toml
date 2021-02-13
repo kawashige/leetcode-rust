@@ -86,6 +86,7 @@ members = [
     "problems/p0646_maximum_length_of_pair_chain",
     "problems/p0647_palindromic_substrings",
     "problems/p0648_replace_words",
+    "problems/p0637_average_of_levels_in_binary_tree",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
