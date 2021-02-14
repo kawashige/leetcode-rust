@@ -429,6 +429,10 @@ name = "p0650_2_keys_keyboard"
 version = "0.1.0"
 
 [[package]]
+name = "p0652_find_duplicate_subtrees"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

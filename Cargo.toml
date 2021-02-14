@@ -89,6 +89,7 @@ members = [
     "problems/p0648_replace_words",
     "problems/p0649_dota2_senate",
     "problems/p0650_2_keys_keyboard",
+    "problems/p0652_find_duplicate_subtrees",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
