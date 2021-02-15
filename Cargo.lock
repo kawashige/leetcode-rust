@@ -29,6 +29,14 @@ name = "day13_shortest_path_in_binary_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "day14_is_graph_bipartite"
+version = "0.1.0"
+
+[[package]]
+name = "day15_the_k_th_weakest_rows_in_a_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [
