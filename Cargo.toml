@@ -91,6 +91,7 @@ members = [
     "problems/p0650_2_keys_keyboard",
     "problems/p0652_find_duplicate_subtrees",
     "problems/p0653_two_sum_iv_input_is_a_bst",
+    "problems/p0654_maximum_binary_tree",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
