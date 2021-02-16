@@ -37,6 +37,10 @@ name = "day15_the_k_th_weakest_rows_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "day16_letter_case_permutation"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [

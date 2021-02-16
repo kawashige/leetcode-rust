@@ -103,4 +103,5 @@ members = [
     "february_leetcoding_challenge_2021/day13_shortest_path_in_binary_matrix",
     "february_leetcoding_challenge_2021/day14_is_graph_bipartite",
     "february_leetcoding_challenge_2021/day15_the_k_th_weakest_rows_in_a_matrix",
+    "february_leetcoding_challenge_2021/day16_letter_case_permutation",
 ]
