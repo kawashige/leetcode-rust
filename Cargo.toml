@@ -93,6 +93,7 @@ members = [
     "problems/p0653_two_sum_iv_input_is_a_bst",
     "problems/p0654_maximum_binary_tree",
     "problems/p0655_print_binary_tree",
+    "problems/p0657_robot_return_to_origin",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
