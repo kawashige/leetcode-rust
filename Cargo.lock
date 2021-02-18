@@ -461,6 +461,10 @@ name = "p0657_robot_return_to_origin"
 version = "0.1.0"
 
 [[package]]
+name = "p0658_find_k_closest_elements"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
