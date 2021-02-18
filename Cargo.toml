@@ -95,6 +95,7 @@ members = [
     "problems/p0655_print_binary_tree",
     "problems/p0657_robot_return_to_origin",
     "problems/p0658_find_k_closest_elements",
+    "problems/p0659_split_array_into_consecutive_subsequences",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
