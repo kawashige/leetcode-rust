@@ -473,6 +473,10 @@ name = "p0659_split_array_into_consecutive_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p0661_image_smoother"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
