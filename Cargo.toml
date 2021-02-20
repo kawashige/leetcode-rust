@@ -97,6 +97,7 @@ members = [
     "problems/p0658_find_k_closest_elements",
     "problems/p0659_split_array_into_consecutive_subsequences",
     "problems/p0661_image_smoother",
+    "problems/p0662_maximum_witdh_of_binery_tree",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
