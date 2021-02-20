@@ -481,6 +481,10 @@ name = "p0662_maximum_witdh_of_binery_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0665_non_decreasing_array"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
