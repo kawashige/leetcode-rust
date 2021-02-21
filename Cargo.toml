@@ -100,6 +100,7 @@ members = [
     "problems/p0662_maximum_witdh_of_binery_tree",
     "problems/p0665_non_decreasing_array",
     "problems/p0667_beautiful_arrangement_ii",
+    "problems/p0670_maximum_swap",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
