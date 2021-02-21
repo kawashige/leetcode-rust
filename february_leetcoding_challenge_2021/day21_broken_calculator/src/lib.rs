@@ -12,7 +12,7 @@ impl Solution {
                 n += 1;
             }
         }
-        count + std::cmp::min(x * 2 - n * 2, x - n)
+        count + x - n
     }
 }
 
