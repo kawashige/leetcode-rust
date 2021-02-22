@@ -509,6 +509,10 @@ name = "p0674_longest_continuouts_increasing_subsequence"
 version = "0.1.0"
 
 [[package]]
+name = "p0676_implement_magic_dictionary"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
