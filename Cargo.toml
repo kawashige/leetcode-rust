@@ -102,6 +102,7 @@ members = [
     "problems/p0667_beautiful_arrangement_ii",
     "problems/p0670_maximum_swap",
     "problems/p0671_second_minimum_node_in_a_binary_tree",
+    "problems/p0672_bulb_switcher_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
