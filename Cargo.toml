@@ -105,6 +105,7 @@ members = [
     "problems/p0672_bulb_switcher_ii",
     "problems/p0674_longest_continuouts_increasing_subsequence",
     "problems/p0676_implement_magic_dictionary",
+    "problems/p0677_map_sum_pairs",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
