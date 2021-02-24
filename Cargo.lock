@@ -49,6 +49,10 @@ name = "day21_broken_calculator"
 version = "0.1.0"
 
 [[package]]
+name = "day24_score_of_parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [
