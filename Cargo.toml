@@ -108,6 +108,7 @@ members = [
     "problems/p0677_map_sum_pairs",
     "problems/p0678_valid_parenthesis_string",
     "problems/p0680_valid_palindrome_ii",
+    "problems/p0682_baseball_game",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
