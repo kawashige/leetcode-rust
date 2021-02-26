@@ -112,6 +112,7 @@ members = [
     "problems/p0684_redundant_connection",
     "problems/p0686_repeated_string_match",
     "problems/p0687_longest_univalue_path",
+    "problems/p0688_knight_probability_in_chessboard",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
