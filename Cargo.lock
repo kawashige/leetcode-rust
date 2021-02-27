@@ -561,6 +561,10 @@ name = "p0693_binary_number_with_altenating_bits"
 version = "0.1.0"
 
 [[package]]
+name = "p0695_max_area_of_island"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
