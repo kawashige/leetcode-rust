@@ -135,4 +135,5 @@ members = [
     "february_leetcoding_challenge_2021/day21_broken_calculator",
     "february_leetcoding_challenge_2021/day24_score_of_parentheses",
     "february_leetcoding_challenge_2021/day26_validate_stack_sequences",
+    "february_leetcoding_challenge_2021/day28_maximum_frequency_stack",
 ]
