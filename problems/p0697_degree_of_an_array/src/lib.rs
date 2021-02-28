@@ -4,21 +4,20 @@ pub struct Solution {}
 
 impl Solution {
     pub fn find_shortest_sub_array(nums: Vec<i32>) -> i32 {
-        nums.into_iter()
-            .enumerate()
-            .fold(HashMap::new(), |mut count, (i, n)| {
-                let entry = count.entry(n).or_insert((0, 50000, 0));
-                entry.0 += 1;
-                entry.1 = std::cmp::min(entry.1, i);
-                entry.2 = std::cmp::max(entry.2, i);
-                count
-            })
-            .values()
-            .map(|(l, min, max)| (l, -1 * (max - min + 1) as i32))
-            .max()
-            .unwrap()
-            .1
-            * -1
+        let mut count = HashMap::new();
+        let mut max_count = 0;
+        let mut min_length = 50001;
+        for i in 0..nums.len() {
+            let entry = count.entry(nums[i]).or_insert((0, i));
+            entry.0 += 1;
+            if max_count < entry.0 {
+                max_count = entry.0;
+                min_length = i - entry.1 + 1;
+            } else if max_count == entry.0 {
+                min_length = std::cmp::min(min_length, i - entry.1 + 1);
+            }
+        }
+        min_length as i32
     }
 }
 
