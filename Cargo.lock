@@ -569,6 +569,10 @@ name = "p0696_count_binary_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p0697_degree_of_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
