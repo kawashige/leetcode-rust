@@ -1,24 +1,33 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn dfs(nums: &Vec<i32>, i: usize, remains: &mut Vec<i32>) -> bool {
-        if remains.iter().all(|r| r == &0) {
+    pub fn dfs(
+        nums: &Vec<i32>,
+        i: usize,
+        g: usize,
+        k: usize,
+        sum: i32,
+        target: i32,
+        seen: &mut Vec<bool>,
+    ) -> bool {
+        if g == k {
             return true;
         }
-        if i > nums.len() - 1 {
+        if sum == target {
+            return Self::dfs(nums, 0, g + 1, k, 0, target, seen);
+        } else if sum > target {
             return false;
         }
 
-        for j in 0..remains.len() {
-            if nums[i] > remains[j] {
+        for j in i..nums.len() {
+            if seen[j] {
                 continue;
             }
-
-            remains[j] -= nums[i];
-            if Self::dfs(nums, i + 1, remains) {
+            seen[j] = true;
+            if Self::dfs(nums, j + 1, g, k, sum + nums[j], target, seen) {
                 return true;
             }
-            remains[j] += nums[i]
+            seen[j] = false;
         }
 
         false
@@ -30,13 +39,10 @@ impl Solution {
         if sum % k != 0 {
             return false;
         }
+
         let target = sum / k;
-        let mut remains = vec![target; k as usize];
-        if nums[0] > target {
-            return false;
-        }
-        remains[0] -= nums[0];
-        Self::dfs(&nums, 1, &mut remains)
+        let mut seen = vec![false; nums.len()];
+        Self::dfs(&nums, 0, 0, k as usize, 0, target, &mut seen)
     }
 }
 
