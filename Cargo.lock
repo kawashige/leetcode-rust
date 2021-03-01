@@ -581,6 +581,10 @@ name = "p0698_partition_to_k_equal_subsets"
 version = "0.1.0"
 
 [[package]]
+name = "p0700_search_in_a_binary_search_tree"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

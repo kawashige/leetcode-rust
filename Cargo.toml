@@ -119,6 +119,7 @@ members = [
     "problems/p0696_count_binary_substrings",
     "problems/p0697_degree_of_an_array",
     "problems/p0698_partition_to_k_equal_subsets",
+    "problems/p0700_search_in_a_binary_search_tree",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
