@@ -118,6 +118,7 @@ members = [
     "problems/p0695_max_area_of_island",
     "problems/p0696_count_binary_substrings",
     "problems/p0697_degree_of_an_array",
+    "problems/p0698_partition_to_k_equal_subsets",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
