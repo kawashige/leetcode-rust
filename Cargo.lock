@@ -585,6 +585,10 @@ name = "p0700_search_in_a_binary_search_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0703_kth_largest_element_in_a_stream"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
