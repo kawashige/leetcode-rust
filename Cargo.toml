@@ -123,6 +123,7 @@ members = [
     "problems/p0703_kth_largest_element_in_a_stream",
     "problems/p0706_design_hashmap",
     "problems/p0707_design_linked_list",
+    "problems/p0709_to_lower_case",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
