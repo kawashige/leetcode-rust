@@ -124,6 +124,7 @@ members = [
     "problems/p0706_design_hashmap",
     "problems/p0707_design_linked_list",
     "problems/p0709_to_lower_case",
+    "problems/p0712_minimum_ascii_delete_sum_for_two_strings",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

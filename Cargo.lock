@@ -601,6 +601,10 @@ name = "p0709_to_lower_case"
 version = "0.1.0"
 
 [[package]]
+name = "p0712_minimum_ascii_delete_sum_for_two_strings"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
