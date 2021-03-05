@@ -609,6 +609,10 @@ name = "p0714_best_time_to_buy_sell_stock_with_transaction_fee"
 version = "0.1.0"
 
 [[package]]
+name = "p0717_1_bit_and_2_bit_characters"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
