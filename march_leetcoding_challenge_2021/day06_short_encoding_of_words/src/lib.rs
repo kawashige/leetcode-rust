@@ -6,13 +6,13 @@ impl Solution {
         let mut set = HashSet::new();
         words.sort_unstable_by_key(|w| -(w.len() as i32));
         let mut result = 0;
-        for w in words {
-            if set.contains(&w) {
+        for w in &words {
+            if set.contains(&w.as_str()) {
                 continue;
             }
             result += w.len() + 1;
             for i in 0..w.len() {
-                set.insert(w[i..].to_string());
+                set.insert(&w[i..]);
             }
         }
         result as i32
