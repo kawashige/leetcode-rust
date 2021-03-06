@@ -127,6 +127,7 @@ members = [
     "problems/p0712_minimum_ascii_delete_sum_for_two_strings",
     "problems/p0714_best_time_to_buy_sell_stock_with_transaction_fee",
     "problems/p0717_1_bit_and_2_bit_characters",
+    "problems/p0718_maximum_length_of_repeated_subarray",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
