@@ -129,6 +129,7 @@ members = [
     "problems/p0717_1_bit_and_2_bit_characters",
     "problems/p0718_maximum_length_of_repeated_subarray",
     "problems/p0720_longest_word_in_dictionary",
+    "problems/p0722_remove_comments",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
