@@ -131,6 +131,7 @@ members = [
     "problems/p0720_longest_word_in_dictionary",
     "problems/p0721_accounts_merge",
     "problems/p0722_remove_comments",
+    "problems/p0724_find_pivot_index",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
@@ -150,4 +151,5 @@ members = [
     "february_leetcoding_challenge_2021/day26_validate_stack_sequences",
     "february_leetcoding_challenge_2021/day28_maximum_frequency_stack",
     "march_leetcoding_challenge_2021/day06_short_encoding_of_words",
+    "march_leetcoding_challenge_2021/day08_remove_palindromic_subsequences",
 ]
