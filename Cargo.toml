@@ -132,6 +132,7 @@ members = [
     "problems/p0721_accounts_merge",
     "problems/p0722_remove_comments",
     "problems/p0724_find_pivot_index",
+    "problems/p0725_split_linked_list_in_parts",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
