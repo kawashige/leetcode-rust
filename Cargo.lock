@@ -645,6 +645,10 @@ name = "p0725_split_linked_list_in_parts"
 version = "0.1.0"
 
 [[package]]
+name = "p0728_self_dividing_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
