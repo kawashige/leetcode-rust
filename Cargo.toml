@@ -134,6 +134,8 @@ members = [
     "problems/p0724_find_pivot_index",
     "problems/p0725_split_linked_list_in_parts",
     "problems/p0728_self_dividing_numbers",
+    "problems/p0729_my_calendar_i",
+    "problems/p0731_my_calendar_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
