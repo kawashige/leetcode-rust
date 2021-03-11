@@ -137,6 +137,7 @@ members = [
     "problems/p0729_my_calendar_i",
     "problems/p0731_my_calendar_ii",
     "problems/p0733_flood_fill",
+    "problems/p0738_monotone_increasing_digits",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

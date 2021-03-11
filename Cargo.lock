@@ -661,6 +661,10 @@ name = "p0733_flood_fill"
 version = "0.1.0"
 
 [[package]]
+name = "p0738_monotone_increasing_digits"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
