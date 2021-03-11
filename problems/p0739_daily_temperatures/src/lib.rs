@@ -3,16 +3,17 @@ pub struct Solution {}
 impl Solution {
     pub fn daily_temperatures(t: Vec<i32>) -> Vec<i32> {
         let mut result = vec![0; t.len()];
-        let mut t_indices = vec![0; 101];
+        let mut stack = Vec::new();
         for i in (0..t.len()).rev() {
-            if let Some(j) = t_indices[(t[i] as usize + 1)..]
-                .iter()
-                .filter(|n| n > &&0)
-                .min()
-            {
-                result[i] = (j - i) as i32;
+            while !stack.is_empty() && t[i] >= t[*stack.last().unwrap()] {
+                stack.pop();
             }
-            t_indices[t[i] as usize] = i;
+            result[i] = if stack.is_empty() {
+                0
+            } else {
+                (stack.last().unwrap() - i) as i32
+            };
+            stack.push(i);
         }
         result
     }
