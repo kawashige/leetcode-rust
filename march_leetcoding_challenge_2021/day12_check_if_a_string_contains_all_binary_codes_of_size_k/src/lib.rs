@@ -1,18 +1,24 @@
-use std::collections::HashSet;
-
 pub struct Solution {}
 
 impl Solution {
     pub fn has_all_codes(s: String, k: i32) -> bool {
         let k = k as usize;
-        if s.len() < k {
-            return false;
+        let mut need = 1 << k;
+        let mut got = vec![false; need as usize];
+        let all_one = need - 1;
+        let mut hash = 0;
+
+        for i in 0..s.len() {
+            hash = (hash << 1 & all_one) | (s.as_bytes()[i] - b'0') as i32;
+            if i >= k - 1 && !got[hash as usize] {
+                got[hash as usize] = true;
+                need -= 1;
+                if need == 0 {
+                    return true;
+                }
+            }
         }
-        (0..=(s.len() - k))
-            .map(|i| &s[i..(i + k)])
-            .collect::<HashSet<&str>>()
-            .len()
-            == 2_usize.pow(k as u32)
+        false
     }
 }
 
