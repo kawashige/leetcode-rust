@@ -140,6 +140,7 @@ members = [
     "problems/p0738_monotone_increasing_digits",
     "problems/p0739_daily_temperatures",
     "problems/p0740_delete_and_earn",
+    "problems/p0743_network_delay_time",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
