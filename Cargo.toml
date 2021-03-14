@@ -141,6 +141,7 @@ members = [
     "problems/p0739_daily_temperatures",
     "problems/p0740_delete_and_earn",
     "problems/p0743_network_delay_time",
+    "problems/p0744_find_smallest_letter_greater_than_target",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
