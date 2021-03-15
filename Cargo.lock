@@ -693,6 +693,10 @@ name = "p0744_find_smallest_letter_greater_than_target"
 version = "0.1.0"
 
 [[package]]
+name = "p0746_min_cost_climbing_stairs"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
