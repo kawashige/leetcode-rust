@@ -701,6 +701,10 @@ name = "p0747_largest_number_at_least_twice_of_others"
 version = "0.1.0"
 
 [[package]]
+name = "p0748_shortest_completing_word"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
