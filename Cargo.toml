@@ -146,6 +146,7 @@ members = [
     "problems/p0747_largest_number_at_least_twice_of_others",
     "problems/p0748_shortest_completing_word",
     "problems/p0752_open_the_lock",
+    "problems/p0756_pyramid_transition_matrix",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

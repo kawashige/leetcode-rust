@@ -713,6 +713,10 @@ name = "p0752_open_the_lock"
 version = "0.1.0"
 
 [[package]]
+name = "p0756_pyramid_transition_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
