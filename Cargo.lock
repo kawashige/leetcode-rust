@@ -61,6 +61,10 @@ name = "day16_letter_case_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "day19_keys_and_rooms"
+version = "0.1.0"
+
+[[package]]
 name = "day19_minimum_remove_to_make_valid_parentheses"
 version = "0.1.0"
 
