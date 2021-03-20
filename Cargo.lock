@@ -717,6 +717,10 @@ name = "p0756_pyramid_transition_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p0762_prime_number_of_set_bits_in_binary_representation"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
