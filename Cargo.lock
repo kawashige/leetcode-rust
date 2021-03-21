@@ -77,6 +77,10 @@ name = "day21_broken_calculator"
 version = "0.1.0"
 
 [[package]]
+name = "day21_reordered_power_of_2"
+version = "0.1.0"
+
+[[package]]
 name = "day24_score_of_parentheses"
 version = "0.1.0"
 
