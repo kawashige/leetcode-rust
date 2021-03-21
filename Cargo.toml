@@ -148,6 +148,7 @@ members = [
     "problems/p0752_open_the_lock",
     "problems/p0756_pyramid_transition_matrix",
     "problems/p0762_prime_number_of_set_bits_in_binary_representation",
+    "problems/p0764_largest_plus_sign",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
