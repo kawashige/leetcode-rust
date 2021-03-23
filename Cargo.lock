@@ -85,6 +85,10 @@ name = "day22_vowel_spellchecker"
 version = "0.1.0"
 
 [[package]]
+name = "day23_3sum_with_multiplicity"
+version = "0.1.0"
+
+[[package]]
 name = "day24_score_of_parentheses"
 version = "0.1.0"
 
