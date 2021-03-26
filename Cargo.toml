@@ -179,4 +179,5 @@ members = [
     "march_leetcoding_challenge_2021/day22_vowel_spellchecker",
     "march_leetcoding_challenge_2021/day23_3sum_with_multiplicity",
     "march_leetcoding_challenge_2021/day24_advantage_shuffle",
+    "march_leetcoding_challenge_2021/day26_word_subsets",
 ]

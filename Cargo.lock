@@ -101,6 +101,10 @@ name = "day26_validate_stack_sequences"
 version = "0.1.0"
 
 [[package]]
+name = "day26_word_subsets"
+version = "0.1.0"
+
+[[package]]
 name = "day28_maximum_frequency_stack"
 version = "0.1.0"
 
