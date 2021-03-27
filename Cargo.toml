@@ -150,6 +150,7 @@ members = [
     "problems/p0762_prime_number_of_set_bits_in_binary_representation",
     "problems/p0764_largest_plus_sign",
     "problems/p0766_toeplitz_matrix",
+    "problems/p0771_jewels_and_stones",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
