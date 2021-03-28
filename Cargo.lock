@@ -753,6 +753,10 @@ name = "p0766_toeplitz_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p0767_reorganize_string"
+version = "0.1.0"
+
+[[package]]
 name = "p0771_jewels_and_stones"
 version = "0.1.0"
 
