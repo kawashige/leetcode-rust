@@ -769,6 +769,10 @@ name = "p0767_reorganize_string"
 version = "0.1.0"
 
 [[package]]
+name = "p0769_max_chunks_to_make_sorted"
+version = "0.1.0"
+
+[[package]]
 name = "p0771_jewels_and_stones"
 version = "0.1.0"
 

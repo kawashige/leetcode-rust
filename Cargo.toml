@@ -152,6 +152,7 @@ members = [
     "problems/p0766_toeplitz_matrix",
     "problems/p0767_reorganize_string",
     "problems/p0771_jewels_and_stones",
+    "problems/p0769_max_chunks_to_make_sorted",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
