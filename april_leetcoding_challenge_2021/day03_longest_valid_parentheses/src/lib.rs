@@ -7,27 +7,28 @@ impl Solution {
         }
 
         let chars = s.chars().collect::<Vec<_>>();
-        let mut dp = vec![vec![false; s.len()]; s.len()];
-        let mut dp2 = vec![0; s.len()];
+        let mut dp = vec![0; s.len()];
 
-        for i in 0..s.len() {
+        let mut max = 0;
+        for i in 1..s.len() {
             if chars[i] == '(' {
                 continue;
             }
-            let mut tmp = 0;
-            for j in 0..i {
-                if chars[j] == '(' && (j + 1 == i || dp[j + 1][i - 1]) {
-                    dp[j][i] = true;
-                    if j > 0 && dp2[j - 1] > 0 {
-                        dp[j - dp2[j - 1]][i] = true;
+            if chars[i - 1] == '(' {
+                dp[i] = if i >= 2 { dp[i - 2] } else { 0 } + 2;
+            } else if i - dp[i - 1] > 0 && chars[i - dp[i - 1] - 1] == '(' {
+                dp[i] = dp[i - 1]
+                    + if i - dp[i - 1] >= 2 {
+                        dp[i - dp[i - 1] - 2]
+                    } else {
+                        0
                     }
-                    tmp = std::cmp::max(tmp, i - j + 1 + if j > 0 { dp2[j - 1] } else { 0 });
-                }
+                    + 2;
             }
-            dp2[i] = tmp;
+            max = std::cmp::max(max, dp[i]);
         }
 
-        dp2.into_iter().max().unwrap() as i32
+        max as i32
     }
 }
 
