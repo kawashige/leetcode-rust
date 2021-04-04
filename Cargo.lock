@@ -785,6 +785,10 @@ name = "p0775_global_and_local_inversions"
 version = "0.1.0"
 
 [[package]]
+name = "p0777_swap_adjacent_in_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
