@@ -155,6 +155,7 @@ members = [
     "problems/p0769_max_chunks_to_make_sorted",
     "problems/p0775_global_and_local_inversions",
     "problems/p0777_swap_adjacent_in_a_string",
+    "problems/p0779_kth_symbol_in_grammar",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
