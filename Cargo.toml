@@ -190,4 +190,5 @@ members = [
     "march_leetcoding_challenge_2021/day30_russian_doll_envelopes",
     "march_leetcoding_challenge_2021/day31_stamping_the_sequence",
     "april_leetcoding_challenge_2021/day03_longest_valid_parentheses",
+    "april_leetcoding_challenge_2021/day06_minimum_operations_to_make_array_equal",
 ]
