@@ -29,6 +29,10 @@ name = "day06_short_encoding_of_words"
 version = "0.1.0"
 
 [[package]]
+name = "day07_determine_if_string_halves_are_alike"
+version = "0.1.0"
+
+[[package]]
 name = "day07_shortest_distance_to_character"
 version = "0.1.0"
 
