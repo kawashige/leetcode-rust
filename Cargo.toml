@@ -194,4 +194,5 @@ members = [
     "april_leetcoding_challenge_2021/day06_minimum_operations_to_make_array_equal",
     "april_leetcoding_challenge_2021/day07_determine_if_string_halves_are_alike",
     "april_leetcoding_challenge_2021/day09_verifying_an_alien_dictionary",
+    "april_leetcoding_challenge_2021/day10_longest_increasing_path_in_a_matrix",
 ]
