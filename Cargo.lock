@@ -49,6 +49,10 @@ name = "day10_longest_increasing_path_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "day11_deepest_leaves_sum"
+version = "0.1.0"
+
+[[package]]
 name = "day12_check_if_a_string_contains_all_binary_codes_of_size_k"
 version = "0.1.0"
 
