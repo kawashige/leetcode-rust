@@ -817,6 +817,10 @@ name = "p0781_rabbits_in_forest"
 version = "0.1.0"
 
 [[package]]
+name = "p0787_cheapest_flights_within_k_stops"
+version = "0.1.0"
+
+[[package]]
 name = "p0788_rotate_digits"
 version = "0.1.0"
 

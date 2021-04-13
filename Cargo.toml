@@ -157,6 +157,7 @@ members = [
     "problems/p0777_swap_adjacent_in_a_string",
     "problems/p0779_kth_symbol_in_grammar",
     "problems/p0781_rabbits_in_forest",
+    "problems/p0787_cheapest_flights_within_k_stops",
     "problems/p0788_rotate_digits",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
