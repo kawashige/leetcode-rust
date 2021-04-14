@@ -158,7 +158,7 @@ members = [
     "problems/p0779_kth_symbol_in_grammar",
     "problems/p0781_rabbits_in_forest",
     "problems/p0787_cheapest_flights_within_k_stops",
-    "problems/p0788_rotate_digits",
+    "problems/p0789_escape_the_ghosts",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

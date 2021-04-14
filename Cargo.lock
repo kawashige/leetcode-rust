@@ -821,7 +821,7 @@ name = "p0787_cheapest_flights_within_k_stops"
 version = "0.1.0"
 
 [[package]]
-name = "p0788_rotate_digits"
+name = "p0789_escape_the_ghosts"
 version = "0.1.0"
 
 [[package]]
