@@ -159,6 +159,7 @@ members = [
     "problems/p0781_rabbits_in_forest",
     "problems/p0787_cheapest_flights_within_k_stops",
     "problems/p0789_escape_the_ghosts",
+    "problems/p0791_custom_sort_string",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
