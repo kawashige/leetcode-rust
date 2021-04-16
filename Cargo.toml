@@ -199,4 +199,5 @@ members = [
     "april_leetcoding_challenge_2021/day09_verifying_an_alien_dictionary",
     "april_leetcoding_challenge_2021/day10_longest_increasing_path_in_a_matrix",
     "april_leetcoding_challenge_2021/day11_deepest_leaves_sum",
+    "april_leetcoding_challenge_2021/day16_remove_all_adjacents_in_string_ii",
 ]

@@ -85,6 +85,10 @@ name = "day16_letter_case_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "day16_remove_all_adjacents_in_string_ii"
+version = "0.1.0"
+
+[[package]]
 name = "day19_keys_and_rooms"
 version = "0.1.0"
 
