@@ -833,6 +833,10 @@ name = "p0789_escape_the_ghosts"
 version = "0.1.0"
 
 [[package]]
+name = "p0790_domino_and_tromino_tiling"
+version = "0.1.0"
+
+[[package]]
 name = "p0791_custom_sort_string"
 version = "0.1.0"
 
