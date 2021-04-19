@@ -161,6 +161,7 @@ members = [
     "problems/p0789_escape_the_ghosts",
     "problems/p0791_custom_sort_string",
     "problems/p0790_domino_and_tromino_tiling",
+    "problems/p0792_number_of_matching_subsequences",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
