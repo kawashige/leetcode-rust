@@ -162,6 +162,7 @@ members = [
     "problems/p0791_custom_sort_string",
     "problems/p0790_domino_and_tromino_tiling",
     "problems/p0792_number_of_matching_subsequences",
+    "problems/p0794_valid_tic_tac_toe_state",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

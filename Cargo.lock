@@ -845,6 +845,10 @@ name = "p0792_number_of_matching_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p0794_valid_tic_tac_toe_state"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
