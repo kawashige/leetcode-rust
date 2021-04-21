@@ -849,6 +849,10 @@ name = "p0794_valid_tic_tac_toe_state"
 version = "0.1.0"
 
 [[package]]
+name = "p0795_number_of_subarrays_with_bounded_maximum"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
