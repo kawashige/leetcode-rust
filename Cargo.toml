@@ -207,4 +207,5 @@ members = [
     "april_leetcoding_challenge_2021/day11_deepest_leaves_sum",
     "april_leetcoding_challenge_2021/day16_remove_all_adjacents_in_string_ii",
     "april_leetcoding_challenge_2021/day17_number_of_submatrices_that_sum_to_target",
+    "april_leetcoding_challenge_2021/day24_critical_connections_in_a_network",
 ]
