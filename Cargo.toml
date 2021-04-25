@@ -166,6 +166,7 @@ members = [
     "problems/p0795_number_of_subarrays_with_bounded_maximum",
     "problems/p0796_rotate_string",
     "problems/p0797_all_paths_from_source_to_target",
+    "problems/p0801_minimum_swaps_to_make_sequences_increasing",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

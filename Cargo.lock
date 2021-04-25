@@ -865,6 +865,10 @@ name = "p0797_all_paths_from_source_to_target"
 version = "0.1.0"
 
 [[package]]
+name = "p0801_minimum_swaps_to_make_sequences_increasing"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
