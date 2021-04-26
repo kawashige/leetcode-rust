@@ -133,6 +133,10 @@ name = "day24_score_of_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "day26_furthest_building_you_can_reach"
+version = "0.1.0"
+
+[[package]]
 name = "day26_validate_stack_sequences"
 version = "0.1.0"
 
