@@ -8,11 +8,6 @@ impl Solution {
         for i in 0..grid.len() {
             for j in 0..grid[0].len() {
                 row_max[i] = std::cmp::max(row_max[i], grid[i][j]);
-            }
-        }
-
-        for j in 0..grid[0].len() {
-            for i in 0..grid.len() {
                 column_max[j] = std::cmp::max(column_max[j], grid[i][j]);
             }
         }
