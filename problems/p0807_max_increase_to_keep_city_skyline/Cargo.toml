@@ -1,0 +1,9 @@
+[package]
+name = "p0807_max_increase_to_keep_city_skyline"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

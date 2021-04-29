@@ -169,6 +169,7 @@ members = [
     "problems/p0801_minimum_swaps_to_make_sequences_increasing",
     "problems/p0802_find_eventual_safe_states",
     "problems/p0806_number_of_lines_to_write_string",
+    "problems/p0807_max_increase_to_keep_city_skyline",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
