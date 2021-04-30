@@ -213,4 +213,5 @@ members = [
     "april_leetcoding_challenge_2021/day17_number_of_submatrices_that_sum_to_target",
     "april_leetcoding_challenge_2021/day24_critical_connections_in_a_network",
     "april_leetcoding_challenge_2021/day26_furthest_building_you_can_reach",
+    "april_leetcoding_challenge_2021/day30_powerful_integers",
 ]
