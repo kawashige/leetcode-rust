@@ -1,8 +1,7 @@
-use std::collections::{BTreeSet, HashMap};
-
+use std::collections::HashMap;
 struct Trie {
     c: char,
-    indices: BTreeSet<usize>,
+    index: i32,
     children: HashMap<char, Trie>,
 }
 
@@ -10,35 +9,34 @@ impl Trie {
     fn new(c: char) -> Self {
         Trie {
             c,
-            indices: BTreeSet::new(),
+            index: 0,
             children: HashMap::new(),
         }
     }
 
-    fn insert(&mut self, key: &str, index: usize) {
+    fn insert(&mut self, key: &str, index: i32) {
         let mut trie = self;
         for c in key.chars() {
             trie = trie.children.entry(c).or_insert(Trie::new(c));
-            trie.indices.insert(index);
+            trie.index = index;
         }
     }
 
-    fn find(&self, prefix: String) -> BTreeSet<usize> {
+    fn find(&self, prefix: String) -> i32 {
         let mut trie = self;
         for c in prefix.chars() {
             if let Some(t) = trie.children.get(&c) {
                 trie = t;
             } else {
-                return BTreeSet::new();
+                return -1;
             }
         }
-        trie.indices.clone()
+        trie.index
     }
 }
 
 struct WordFilter {
-    prefix_trie: Trie,
-    suffix_trie: Trie,
+    trie: Trie,
 }
 
 /**
@@ -47,30 +45,21 @@ struct WordFilter {
  */
 impl WordFilter {
     fn new(words: Vec<String>) -> Self {
-        let mut wf = Self {
-            prefix_trie: Trie::new('*'),
-            suffix_trie: Trie::new('*'),
-        };
+        let mut trie = Trie::new('*');
 
         for (i, w) in words.into_iter().enumerate() {
-            wf.prefix_trie.insert(&w, i);
-            wf.suffix_trie
-                .insert(&w.chars().rev().collect::<String>(), i);
+            let key = format!("{}#{}", w, w);
+            for j in 0..w.len() {
+                trie.insert(&key[j..], i as i32);
+            }
         }
 
-        wf
+        Self { trie }
     }
 
     fn f(&self, prefix: String, suffix: String) -> i32 {
-        let prefix = self.prefix_trie.find(prefix);
-        let suffix = self.suffix_trie.find(suffix.chars().rev().collect());
-
-        for p in prefix.iter().rev() {
-            if suffix.contains(p) {
-                return *p as i32;
-            }
-        }
-        -1
+        let key = format!("{}#{}", suffix, prefix);
+        self.trie.find(key)
     }
 }
 
