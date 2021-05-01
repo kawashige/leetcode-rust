@@ -214,4 +214,5 @@ members = [
     "april_leetcoding_challenge_2021/day24_critical_connections_in_a_network",
     "april_leetcoding_challenge_2021/day26_furthest_building_you_can_reach",
     "april_leetcoding_challenge_2021/day30_powerful_integers",
+    "may_leetcoding_challenge_2021/day01_prefix_and_suffix_search",
 ]
