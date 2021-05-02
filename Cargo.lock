@@ -18,6 +18,10 @@ name = "day01_prefix_and_suffix_search"
 version = "0.1.0"
 
 [[package]]
+name = "day02_course_schedule_iii"
+version = "0.1.0"
+
+[[package]]
 name = "day02_trim_a_binary_search_tree"
 version = "0.1.0"
 
