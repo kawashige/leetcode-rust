@@ -1,27 +1,23 @@
+use std::collections::BinaryHeap;
+
 pub struct Solution {}
 
 impl Solution {
     pub fn schedule_course(mut courses: Vec<Vec<i32>>) -> i32 {
         courses.sort_unstable_by(|a, b| a[1].cmp(&b[1]));
 
-        let mut dp = vec![0; courses.last().unwrap()[1] as usize + 1];
-
+        let mut heap = BinaryHeap::new();
+        let mut t = 0;
         for course in courses {
-            if course[0] > course[1] {
-                continue;
-            }
-            for j in (1..=(course[1] - course[0])).rev() {
-                if dp[j as usize] > 0 {
-                    dp[(j + course[0]) as usize] =
-                        std::cmp::max(dp[j as usize] + 1, dp[(j + course[0]) as usize]);
+            t += course[0];
+            heap.push(course[0]);
+            while t > course[1] {
+                if let Some(d) = heap.pop() {
+                    t -= d;
                 }
             }
-            if dp[course[0] as usize] == 0 {
-                dp[course[0] as usize] = 1;
-            }
         }
-
-        dp.into_iter().max().unwrap()
+        heap.len() as i32
     }
 }
 
