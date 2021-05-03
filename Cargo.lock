@@ -30,6 +30,10 @@ name = "day03_longest_valid_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "day03_running_sum_of_1d_array"
+version = "0.1.0"
+
+[[package]]
 name = "day06_minimum_operations_to_make_array_equal"
 version = "0.1.0"
 
