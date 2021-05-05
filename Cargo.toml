@@ -218,4 +218,5 @@ members = [
     "may_leetcoding_challenge_2021/day01_prefix_and_suffix_search",
     "may_leetcoding_challenge_2021/day02_course_schedule_iii",
     "may_leetcoding_challenge_2021/day03_running_sum_of_1d_array/",
+    "may_leetcoding_challenge_2021/day05_jump_game_ii",
 ]
