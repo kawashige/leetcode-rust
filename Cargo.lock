@@ -908,6 +908,10 @@ name = "p0807_max_increase_to_keep_city_skyline"
 version = "0.1.0"
 
 [[package]]
+name = "p0808_soup_servings"
+version = "0.1.0"
+
+[[package]]
 name = "p0811_subdomain_visit_count"
 version = "0.1.0"
 
