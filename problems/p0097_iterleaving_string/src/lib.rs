@@ -5,31 +5,23 @@ impl Solution {
         if s1.len() + s2.len() != s3.len() {
             return false;
         }
+        let mut dp = vec![false; s2.len() + 1];
 
-        if s1.is_empty() {
-            return s2 == s3;
-        } else if s2.is_empty() {
-            return s1 == s3;
-        }
-
-        let mut dp = vec![vec![vec![false; s2.len() + 2]; s1.len() + 2]; s3.len() + 2];
-        dp[0][0][0] = true;
-
-        for i in 1..=s3.len() {
-            for j in 0..=i {
-                if j > s1.len() || i - j > s2.len() {
-                    continue;
-                }
-                dp[i][j][i - j] = (j > 0
-                    && s1.as_bytes()[j - 1] == s3.as_bytes()[i - 1]
-                    && dp[i - 1][j - 1][i - j])
-                    || (i - j > 0
-                        && s2.as_bytes()[i - j - 1] == s3.as_bytes()[i - 1]
-                        && dp[i - 1][j][i - j - 1]);
+        for i in 0..=s1.len() {
+            for j in 0..=s2.len() {
+                dp[j] = if i == 0 && j == 0 {
+                    true
+                } else if i == 0 {
+                    dp[j - 1] && s2.as_bytes()[j - 1] == s3.as_bytes()[i + j - 1]
+                } else if j == 0 {
+                    dp[j] && s1.as_bytes()[i - 1] == s3.as_bytes()[i + j - 1]
+                } else {
+                    dp[j] && s1.as_bytes()[i - 1] == s3.as_bytes()[i + j - 1]
+                        || dp[j - 1] && s2.as_bytes()[j - 1] == s3.as_bytes()[i + j - 1]
+                };
             }
         }
-
-        dp[s3.len()][s1.len()][s2.len()]
+        dp[s2.len()]
     }
 }
 
