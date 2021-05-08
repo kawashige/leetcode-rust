@@ -58,6 +58,10 @@ name = "day08_remove_palindromic_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "day08_super_palindromes"
+version = "0.1.0"
+
+[[package]]
 name = "day09_verifying_an_alien_dictionary"
 version = "0.1.0"
 
