@@ -222,4 +222,5 @@ members = [
     "may_leetcoding_challenge_2021/day03_running_sum_of_1d_array/",
     "may_leetcoding_challenge_2021/day05_jump_game_ii",
     "may_leetcoding_challenge_2021/day08_super_palindromes",
+    "may_leetcoding_challenge_2021/day09_construct_target_array_with_multiple_sums",
 ]

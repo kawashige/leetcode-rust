@@ -62,6 +62,10 @@ name = "day08_super_palindromes"
 version = "0.1.0"
 
 [[package]]
+name = "day09_construct_target_array_with_multiple_sums"
+version = "0.1.0"
+
+[[package]]
 name = "day09_verifying_an_alien_dictionary"
 version = "0.1.0"
 
