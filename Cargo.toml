@@ -172,6 +172,7 @@ members = [
     "problems/p0806_number_of_lines_to_write_string",
     "problems/p0807_max_increase_to_keep_city_skyline",
     "problems/p0808_soup_servings",
+    "problems/p0809_expressive_words",
     "problems/p0811_subdomain_visit_count",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",

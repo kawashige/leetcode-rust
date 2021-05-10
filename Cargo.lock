@@ -924,6 +924,10 @@ name = "p0808_soup_servings"
 version = "0.1.0"
 
 [[package]]
+name = "p0809_expressive_words"
+version = "0.1.0"
+
+[[package]]
 name = "p0811_subdomain_visit_count"
 version = "0.1.0"
 
