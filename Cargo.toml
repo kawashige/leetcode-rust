@@ -224,4 +224,5 @@ members = [
     "may_leetcoding_challenge_2021/day05_jump_game_ii",
     "may_leetcoding_challenge_2021/day08_super_palindromes",
     "may_leetcoding_challenge_2021/day09_construct_target_array_with_multiple_sums",
+    "may_leetcoding_challenge_2021/day11_maximum_points_you_can_obtain_from_cards",
 ]
