@@ -174,6 +174,7 @@ members = [
     "problems/p0808_soup_servings",
     "problems/p0809_expressive_words",
     "problems/p0811_subdomain_visit_count",
+    "problems/p0812_largest_triangle_area",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
