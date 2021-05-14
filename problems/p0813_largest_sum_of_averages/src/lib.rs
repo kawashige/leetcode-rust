@@ -1,33 +1,35 @@
+use std::collections::HashMap;
+
 pub struct Solution {}
 
 impl Solution {
-    pub fn dfs(nums: &[i32], i: usize, sum: f64, num: i32, count: i32, k: i32, max: &mut f64) {
-        if i == nums.len() {
-            let tmp = sum + num as f64 / count as f64;
-            if *max < tmp {
-                *max = tmp;
-            }
-            return;
+    pub fn dfs(nums: &[i32], k: usize, memo: &mut HashMap<(usize, usize), f64>) -> f64 {
+        if nums.len() == k {
+            return nums.iter().sum::<i32>() as f64;
+        } else if k == 1 {
+            return nums.iter().sum::<i32>() as f64 / nums.len() as f64;
         }
 
-        if k > 1 && count > 0 {
-            Self::dfs(
-                nums,
-                i + 1,
-                sum + num as f64 / count as f64,
-                nums[i],
-                1,
-                k - 1,
-                max,
-            );
+        if let Some(c) = memo.get(&(nums.len(), k)) {
+            return *c;
         }
-        Self::dfs(nums, i + 1, sum, num + nums[i], count + 1, k, max);
+
+        let mut num = 0;
+        let mut max = 0.0;
+        for j in 0..(nums.len() + 1 - k) {
+            num += nums[j];
+            let r = num as f64 / (j + 1) as f64 + Self::dfs(&nums[(j + 1)..], k - 1, memo);
+            if r > max {
+                max = r;
+            }
+        }
+
+        memo.insert((nums.len(), k), max);
+        max
     }
 
     pub fn largest_sum_of_averages(nums: Vec<i32>, k: i32) -> f64 {
-        let mut max = 0.0;
-        Self::dfs(&nums, 1, 0.0, nums[0], 1, k, &mut max);
-        max
+        Self::dfs(&nums, k as usize, &mut HashMap::new())
     }
 }
 
