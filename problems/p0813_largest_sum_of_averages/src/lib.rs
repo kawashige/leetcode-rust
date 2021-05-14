@@ -1,35 +1,32 @@
-use std::collections::HashMap;
-
 pub struct Solution {}
 
 impl Solution {
-    pub fn dfs(nums: &[i32], k: usize, memo: &mut HashMap<(usize, usize), f64>) -> f64 {
-        if nums.len() == k {
-            return nums.iter().sum::<i32>() as f64;
-        } else if k == 1 {
-            return nums.iter().sum::<i32>() as f64 / nums.len() as f64;
+    pub fn largest_sum_of_averages(nums: Vec<i32>, k: i32) -> f64 {
+        let n = nums.len();
+        let p = std::iter::once(0.0)
+            .chain(nums.into_iter().scan(0.0, |sum, num| {
+                *sum += num as f64;
+                Some(*sum)
+            }))
+            .collect::<Vec<f64>>();
+
+        let mut dp = vec![0.0; n];
+        for i in 0..n {
+            dp[i] = (p[n] - p[i]) / (n - i) as f64;
         }
 
-        if let Some(c) = memo.get(&(nums.len(), k)) {
-            return *c;
-        }
-
-        let mut num = 0;
-        let mut max = 0.0;
-        for j in 0..(nums.len() + 1 - k) {
-            num += nums[j];
-            let r = num as f64 / (j + 1) as f64 + Self::dfs(&nums[(j + 1)..], k - 1, memo);
-            if r > max {
-                max = r;
+        for _ in 0..(k - 1) {
+            for i in 0..n {
+                for j in (i + 1)..n {
+                    let r = (p[j] - p[i]) / (j - i) as f64 + dp[j];
+                    if dp[i] < r {
+                        dp[i] = r;
+                    }
+                }
             }
         }
 
-        memo.insert((nums.len(), k), max);
-        max
-    }
-
-    pub fn largest_sum_of_averages(nums: Vec<i32>, k: i32) -> f64 {
-        Self::dfs(&nums, k as usize, &mut HashMap::new())
+        dp[0]
     }
 }
 
