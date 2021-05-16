@@ -118,6 +118,10 @@ name = "day15_valid_number"
 version = "0.1.0"
 
 [[package]]
+name = "day16_binary_tree_cameras"
+version = "0.1.0"
+
+[[package]]
 name = "day16_letter_case_permutation"
 version = "0.1.0"
 
