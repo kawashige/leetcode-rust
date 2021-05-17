@@ -230,4 +230,5 @@ members = [
     "may_leetcoding_challenge_2021/day13_ambiguous_coodinates",
     "may_leetcoding_challenge_2021/day15_valid_number",
     "may_leetcoding_challenge_2021/day16_binary_tree_cameras",
+    "may_leetcoding_challenge_2021/day17_longest_string_chain",
 ]

@@ -130,6 +130,10 @@ name = "day16_remove_all_adjacents_in_string_ii"
 version = "0.1.0"
 
 [[package]]
+name = "day17_longest_string_chain"
+version = "0.1.0"
+
+[[package]]
 name = "day17_number_of_submatrices_that_sum_to_target"
 version = "0.1.0"
 
