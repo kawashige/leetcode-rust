@@ -960,6 +960,10 @@ name = "p0813_largest_sum_of_averages"
 version = "0.1.0"
 
 [[package]]
+name = "p0814_binary_tree_pruning"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

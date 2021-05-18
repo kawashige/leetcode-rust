@@ -176,6 +176,7 @@ members = [
     "problems/p0811_subdomain_visit_count",
     "problems/p0812_largest_triangle_area",
     "problems/p0813_largest_sum_of_averages",
+    "problems/p0814_binary_tree_pruning",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
