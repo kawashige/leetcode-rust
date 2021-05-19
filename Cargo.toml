@@ -177,6 +177,7 @@ members = [
     "problems/p0812_largest_triangle_area",
     "problems/p0813_largest_sum_of_averages",
     "problems/p0814_binary_tree_pruning",
+    "problems/p0817_linked_list_components",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
