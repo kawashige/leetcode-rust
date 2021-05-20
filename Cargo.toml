@@ -178,6 +178,7 @@ members = [
     "problems/p0813_largest_sum_of_averages",
     "problems/p0814_binary_tree_pruning",
     "problems/p0817_linked_list_components",
+    "problems/p0819_most_common_word",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
