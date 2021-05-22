@@ -235,4 +235,5 @@ members = [
     "may_leetcoding_challenge_2021/day16_binary_tree_cameras",
     "may_leetcoding_challenge_2021/day17_longest_string_chain",
     "may_leetcoding_challenge_2021/day21_find_and_replace_pattern",
+    "may_leetcoding_challenge_2021/day22_n_queens",
 ]

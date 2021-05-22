@@ -162,6 +162,10 @@ name = "day21_reordered_power_of_2"
 version = "0.1.0"
 
 [[package]]
+name = "day22_n_queens"
+version = "0.1.0"
+
+[[package]]
 name = "day22_vowel_spellchecker"
 version = "0.1.0"
 
