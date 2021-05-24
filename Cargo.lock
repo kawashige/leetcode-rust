@@ -984,6 +984,10 @@ name = "p0819_most_common_word"
 version = "0.1.0"
 
 [[package]]
+name = "p0822_card_flipping_game"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
