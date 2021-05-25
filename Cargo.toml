@@ -180,6 +180,7 @@ members = [
     "problems/p0817_linked_list_components",
     "problems/p0819_most_common_word",
     "problems/p0822_card_flipping_game",
+    "problems/p0825_friends_of_appropriate_ages",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
