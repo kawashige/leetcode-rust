@@ -194,6 +194,10 @@ name = "day26_furthest_building_you_can_reach"
 version = "0.1.0"
 
 [[package]]
+name = "day26_partitioning_into_maximum_nubmer_of_deci_binary_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "day26_validate_stack_sequences"
 version = "0.1.0"
 
