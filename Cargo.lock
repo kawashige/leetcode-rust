@@ -996,6 +996,10 @@ name = "p0825_friends_of_appropriate_ages"
 version = "0.1.0"
 
 [[package]]
+name = "p0826_most_profit_assigning_work"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
