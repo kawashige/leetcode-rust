@@ -241,4 +241,5 @@ members = [
     "may_leetcoding_challenge_2021/day22_n_queens",
     "may_leetcoding_challenge_2021/day23_find_the_shortest_superstring",
     "may_leetcoding_challenge_2021/day26_partitioning_into_maximum_nubmer_of_deci_binary_numbers",
+    "may_leetcoding_challenge_2021/day28_maximum_erasure_value",
 ]
