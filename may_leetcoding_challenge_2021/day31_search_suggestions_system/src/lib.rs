@@ -1,56 +1,65 @@
-use std::collections::HashMap;
 pub struct Solution {}
+
+#[derive(Default)]
 struct Trie {
-    indices: Vec<usize>,
-    children: HashMap<char, Trie>,
+    word: Option<String>,
+    children: [Option<Box<Trie>>; 26],
 }
 
 impl Trie {
     fn new() -> Self {
-        Trie {
-            indices: Vec::new(),
-            children: HashMap::new(),
-        }
+        Default::default()
     }
 
-    fn insert(&mut self, key: &str, index: usize) {
+    fn insert(&mut self, key: String) {
         let mut trie = self;
         for c in key.chars() {
-            trie = trie.children.entry(c).or_insert(Trie::new());
-            trie.indices.push(index);
+            trie = trie.children[c as usize - 0x61].get_or_insert(Box::new(Trie::new()));
         }
+        trie.word = key.into();
     }
 
-    fn find(&self, prefix: &str) -> Vec<usize> {
+    fn find(&self, prefix: &str) -> Vec<String> {
         let mut trie = self;
         for c in prefix.chars() {
-            if let Some(t) = trie.children.get(&c) {
+            if let Some(t) = trie.children[c as usize - 0x61].as_ref() {
                 trie = t;
             } else {
                 return Default::default();
             }
         }
-        trie.indices.clone()
+
+        let mut results = Vec::new();
+        trie.collect(&mut results);
+        results
+    }
+
+    fn collect(&self, results: &mut Vec<String>) {
+        if results.len() == 3 {
+            return;
+        }
+
+        if let Some(w) = self.word.as_ref() {
+            results.push(w.to_string());
+        }
+
+        for c in &self.children {
+            if let Some(trie) = c.as_ref() {
+                trie.collect(results);
+            }
+        }
     }
 }
 
 impl Solution {
     pub fn suggested_products(products: Vec<String>, search_word: String) -> Vec<Vec<String>> {
         let mut trie = Trie::new();
-        for i in 0..products.len() {
-            trie.insert(&products[i], i);
+        for p in products {
+            trie.insert(p);
         }
 
         (1..=search_word.len())
-            .map(|i| {
-                let mut v = trie
-                    .find(&search_word[..i])
-                    .into_iter()
-                    .map(|j| &products[j])
-                    .collect::<Vec<&String>>();
-                v.sort_unstable();
-                v.into_iter().take(3).cloned().collect()
-            })
+            .map(|i| trie.find(&search_word[..i]))
             .collect()
     }
 }
