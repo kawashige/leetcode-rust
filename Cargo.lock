@@ -234,6 +234,10 @@ name = "day30_russian_doll_envelopes"
 version = "0.1.0"
 
 [[package]]
+name = "day31_search_suggestions_system"
+version = "0.1.0"
+
+[[package]]
 name = "day31_stamping_the_sequence"
 version = "0.1.0"
 
