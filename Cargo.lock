@@ -1012,7 +1012,7 @@ name = "p0825_friends_of_appropriate_ages"
 version = "0.1.0"
 
 [[package]]
-name = "p0826_most_profit_assigning_work"
+name = "p0830_positions_of_large_groups"
 version = "0.1.0"
 
 [[package]]
