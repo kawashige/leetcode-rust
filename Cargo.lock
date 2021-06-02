@@ -1016,6 +1016,10 @@ name = "p0830_positions_of_large_groups"
 version = "0.1.0"
 
 [[package]]
+name = "p0831_masking_personal_information"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -182,6 +182,7 @@ members = [
     "problems/p0822_card_flipping_game",
     "problems/p0825_friends_of_appropriate_ages",
     "problems/p0830_positions_of_large_groups",
+    "problems/p0831_masking_personal_information",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
