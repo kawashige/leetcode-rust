@@ -30,6 +30,10 @@ name = "day03_longest_valid_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "day03_maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts"
+version = "0.1.0"
+
+[[package]]
 name = "day03_running_sum_of_1d_array"
 version = "0.1.0"
 

@@ -246,4 +246,5 @@ members = [
     "may_leetcoding_challenge_2021/day29_n_queens_ii",
     "may_leetcoding_challenge_2021/day30_maximum_gap",
     "may_leetcoding_challenge_2021/day31_search_suggestions_system",
+    "june_leetcoding_challenge_2021/day03_maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts",
 ]
