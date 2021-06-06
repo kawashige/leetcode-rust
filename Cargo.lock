@@ -46,6 +46,10 @@ name = "day05_maximum_performance_of_a_team"
 version = "0.1.0"
 
 [[package]]
+name = "day06_longest_consecutive_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "day06_minimum_operations_to_make_array_equal"
 version = "0.1.0"
 
