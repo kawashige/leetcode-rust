@@ -1036,6 +1036,10 @@ name = "p0833_find_and_replace_in_string"
 version = "0.1.0"
 
 [[package]]
+name = "p0836_rectangle_overlap"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

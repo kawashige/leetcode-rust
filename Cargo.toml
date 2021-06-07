@@ -184,6 +184,7 @@ members = [
     "problems/p0830_positions_of_large_groups",
     "problems/p0831_masking_personal_information",
     "problems/p0833_find_and_replace_in_string",
+    "problems/p0836_rectangle_overlap",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
