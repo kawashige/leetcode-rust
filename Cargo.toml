@@ -185,6 +185,7 @@ members = [
     "problems/p0831_masking_personal_information",
     "problems/p0833_find_and_replace_in_string",
     "problems/p0836_rectangle_overlap",
+    "problems/p0844_backspace_string_compare",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
