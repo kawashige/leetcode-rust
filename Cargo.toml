@@ -254,4 +254,5 @@ members = [
     "june_leetcoding_challenge_2021/day05_maximum_performance_of_a_team",
     "june_leetcoding_challenge_2021/day06_longest_consecutive_sequence",
     "june_leetcoding_challenge_2021/day09_jump_game_vi",
+    "june_leetcoding_challenge_2021/day11_stone_game_vii",
 ]
