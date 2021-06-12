@@ -106,6 +106,10 @@ name = "day12_check_if_a_string_contains_all_binary_codes_of_size_k"
 version = "0.1.0"
 
 [[package]]
+name = "day12_minimum_number_of_refueling_stops"
+version = "0.1.0"
+
+[[package]]
 name = "day12_number_of_steps_to_reduce_a_number_to_zero"
 version = "0.1.0"
 
