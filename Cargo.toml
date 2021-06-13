@@ -256,4 +256,5 @@ members = [
     "june_leetcoding_challenge_2021/day09_jump_game_vi",
     "june_leetcoding_challenge_2021/day11_stone_game_vii",
     "june_leetcoding_challenge_2021/day12_minimum_number_of_refueling_stops",
+    "june_leetcoding_challenge_2021/day13_palindrome_pairs",
 ]

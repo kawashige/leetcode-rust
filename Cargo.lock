@@ -122,6 +122,10 @@ name = "day13_binary_trees_with_factors"
 version = "0.1.0"
 
 [[package]]
+name = "day13_palindrome_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "day13_shortest_path_in_binary_matrix"
 version = "0.1.0"
 
