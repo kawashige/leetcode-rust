@@ -1060,6 +1060,10 @@ name = "p0836_rectangle_overlap"
 version = "0.1.0"
 
 [[package]]
+name = "p0837_new_21_game"
+version = "0.1.0"
+
+[[package]]
 name = "p0844_backspace_string_compare"
 version = "0.1.0"
 
