@@ -190,6 +190,7 @@ members = [
     "problems/p0837_new_21_game",
     "problems/p0838_push_dominoes",
     "problems/p0840_magic_squares_in_grid",
+    "problems/p0842_split_array_into_fibonacci_sequence",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

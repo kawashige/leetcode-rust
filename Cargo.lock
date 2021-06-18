@@ -1072,6 +1072,10 @@ name = "p0840_magic_squares_in_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p0842_split_array_into_fibonacci_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "p0844_backspace_string_compare"
 version = "0.1.0"
 
