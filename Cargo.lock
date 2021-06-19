@@ -170,6 +170,10 @@ name = "day17_number_of_submatrices_that_sum_to_target"
 version = "0.1.0"
 
 [[package]]
+name = "day19_k_inverse_pairs_array"
+version = "0.1.0"
+
+[[package]]
 name = "day19_keys_and_rooms"
 version = "0.1.0"
 
