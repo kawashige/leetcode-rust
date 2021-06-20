@@ -186,6 +186,10 @@ name = "day20_design_underground_system"
 version = "0.1.0"
 
 [[package]]
+name = "day20_swim_in_riging_water"
+version = "0.1.0"
+
+[[package]]
 name = "day21_broken_calculator"
 version = "0.1.0"
 
