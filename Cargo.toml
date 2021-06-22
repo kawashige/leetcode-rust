@@ -192,6 +192,7 @@ members = [
     "problems/p0840_magic_squares_in_grid",
     "problems/p0842_split_array_into_fibonacci_sequence",
     "problems/p0846_hand_of_straights",
+    "problems/p0848_shifting_letters",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
