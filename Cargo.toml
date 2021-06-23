@@ -193,6 +193,7 @@ members = [
     "problems/p0842_split_array_into_fibonacci_sequence",
     "problems/p0846_hand_of_straights",
     "problems/p0848_shifting_letters",
+    "problems/p0851_loud_and_rich",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
