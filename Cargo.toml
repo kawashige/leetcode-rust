@@ -270,4 +270,5 @@ members = [
     "june_leetcoding_challenge_2021/day19_k_inverse_pairs_array",
     "june_leetcoding_challenge_2021/day20_swim_in_riging_water",
     "june_leetcoding_challenge_2021/day26_count_of_smaller_numbers_after_self",
+    "june_leetcoding_challenge_2021/day27_candy",
 ]
