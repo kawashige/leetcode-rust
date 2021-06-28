@@ -262,6 +262,10 @@ name = "day28_maximum_frequency_stack"
 version = "0.1.0"
 
 [[package]]
+name = "day28_remove_all_adjacent_duplicates_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "day29_flip_binary_tree_to_match_preorder_traversal"
 version = "0.1.0"
 
