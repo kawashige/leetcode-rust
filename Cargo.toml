@@ -196,6 +196,7 @@ members = [
     "problems/p0851_loud_and_rich",
     "problems/p0853_car_fleet",
     "problems/p0860_lemonade_change",
+    "problems/p0861_score_after_flipping_matrix",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
