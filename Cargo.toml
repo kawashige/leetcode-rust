@@ -276,4 +276,5 @@ members = [
     "june_leetcoding_challenge_2021/day28_remove_all_adjacent_duplicates_in_string",
     "june_leetcoding_challenge_2021/day29_max_consecutive_ones_iii",
     "july_leetcoding_challenge_2021/day01_gray_code",
+    "july_leetcoding_challenge_2021/day03_max_sum_of_rectangle_no_larget_than_k",
 ]
