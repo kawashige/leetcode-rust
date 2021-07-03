@@ -2,20 +2,11 @@ pub struct Solution {}
 
 impl Solution {
     pub fn max_sum_submatrix(matrix: Vec<Vec<i32>>, k: i32) -> i32 {
-        let mut acc = vec![vec![0; matrix[0].len()]; matrix.len()];
+        let mut acc = vec![vec![0; matrix[0].len() + 1]; matrix.len() + 1];
 
         for i in 0..matrix.len() {
             for j in 0..matrix[0].len() {
-                acc[i][j] = matrix[i][j];
-                if i > 0 {
-                    acc[i][j] += acc[i - 1][j];
-                }
-                if j > 0 {
-                    acc[i][j] += acc[i][j - 1];
-                }
-                if i > 0 && j > 0 {
-                    acc[i][j] -= acc[i - 1][j - 1];
-                }
+                acc[i + 1][j + 1] = matrix[i][j] + acc[i][j + 1] + acc[i + 1][j] - acc[i][j];
             }
         }
 
@@ -25,16 +16,7 @@ impl Solution {
             for j in 0..matrix[0].len() {
                 for l in i..matrix.len() {
                     for m in j..matrix[0].len() {
-                        let mut sum = acc[l][m];
-                        if i > 0 {
-                            sum -= acc[i - 1][m];
-                        }
-                        if j > 0 {
-                            sum -= acc[l][j - 1];
-                        }
-                        if i > 0 && j > 0 {
-                            sum += acc[i - 1][j - 1];
-                        }
+                        let sum = acc[l + 1][m + 1] - acc[l + 1][j] - acc[i][m + 1] + acc[i][j];
                         if sum <= k {
                             max = std::cmp::max(max, sum);
                         }
