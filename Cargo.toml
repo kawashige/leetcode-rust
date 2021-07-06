@@ -279,4 +279,5 @@ members = [
     "july_leetcoding_challenge_2021/day01_gray_code",
     "july_leetcoding_challenge_2021/day03_max_sum_of_rectangle_no_larget_than_k",
     "july_leetcoding_challenge_2021/day04_count_vowels_permutation",
+    "july_leetcoding_challenge_2021/day06_reduce_array_size_to_the_half",
 ]
