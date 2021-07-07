@@ -199,6 +199,7 @@ members = [
     "problems/p0860_lemonade_change",
     "problems/p0861_score_after_flipping_matrix",
     "problems/p0863_all_nodes_distance_k_in_binary_tree",
+    "problems/p0866_prime_palindrome",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
