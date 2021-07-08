@@ -1160,6 +1160,10 @@ name = "p0866_prime_palindrome"
 version = "0.1.0"
 
 [[package]]
+name = "p0867_transpose_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
