@@ -98,6 +98,10 @@ name = "day09_jump_game_vi"
 version = "0.1.0"
 
 [[package]]
+name = "day09_longest_increaseing_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "day09_verifying_an_alien_dictionary"
 version = "0.1.0"
 
