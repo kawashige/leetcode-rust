@@ -106,6 +106,10 @@ name = "day09_verifying_an_alien_dictionary"
 version = "0.1.0"
 
 [[package]]
+name = "day10_decode_ways_ii"
+version = "0.1.0"
+
+[[package]]
 name = "day10_longest_increasing_path_in_a_matrix"
 version = "0.1.0"
 

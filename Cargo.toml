@@ -283,4 +283,5 @@ members = [
     "july_leetcoding_challenge_2021/day04_count_vowels_permutation",
     "july_leetcoding_challenge_2021/day06_reduce_array_size_to_the_half",
     "july_leetcoding_challenge_2021/day09_longest_increaseing_subsequence",
+    "july_leetcoding_challenge_2021/day10_decode_ways_ii",
 ]
