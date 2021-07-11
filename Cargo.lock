@@ -118,6 +118,10 @@ name = "day11_deepest_leaves_sum"
 version = "0.1.0"
 
 [[package]]
+name = "day11_find_median_from_data_stream"
+version = "0.1.0"
+
+[[package]]
 name = "day11_maximum_points_you_can_obtain_from_cards"
 version = "0.1.0"
 
