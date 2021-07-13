@@ -202,6 +202,7 @@ members = [
     "problems/p0866_prime_palindrome",
     "problems/p0867_transpose_matrix",
     "problems/p0868_binary_gap",
+    "problems/p0872_laaf_similar_trees",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

@@ -1180,6 +1180,10 @@ name = "p0868_binary_gap"
 version = "0.1.0"
 
 [[package]]
+name = "p0872_laaf_similar_trees"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
