@@ -205,6 +205,7 @@ members = [
     "problems/p0872_laaf_similar_trees",
     "problems/p0873_length_of_longest_fibonacci_subsequence",
     "problems/p0874_walking_robot_simulation",
+    "problems/p0875_koko_eating_bananas",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
