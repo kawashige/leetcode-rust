@@ -202,6 +202,10 @@ name = "day17_three_equal_parts"
 version = "0.1.0"
 
 [[package]]
+name = "day18_reverse_nodes_in_k_group"
+version = "0.1.0"
+
+[[package]]
 name = "day19_k_inverse_pairs_array"
 version = "0.1.0"
 
