@@ -1208,6 +1208,10 @@ name = "p0876_middle_of_the_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p0877_stone_game"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -207,6 +207,7 @@ members = [
     "problems/p0874_walking_robot_simulation",
     "problems/p0875_koko_eating_bananas",
     "problems/p0876_middle_of_the_linked_list",
+    "problems/p0877_stone_game",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
