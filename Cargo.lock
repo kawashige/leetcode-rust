@@ -242,6 +242,10 @@ name = "day22_n_queens"
 version = "0.1.0"
 
 [[package]]
+name = "day22_parition_array_into_disjoint_intervals"
+version = "0.1.0"
+
+[[package]]
 name = "day22_vowel_spellchecker"
 version = "0.1.0"
 

@@ -295,4 +295,5 @@ members = [
     "july_leetcoding_challenge_2021/day11_find_median_from_data_stream",
     "july_leetcoding_challenge_2021/day17_three_equal_parts",
     "july_leetcoding_challenge_2021/day18_reverse_nodes_in_k_group",
+    "july_leetcoding_challenge_2021/day22_parition_array_into_disjoint_intervals",
 ]
