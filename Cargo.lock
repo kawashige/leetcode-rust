@@ -274,6 +274,10 @@ name = "day24_word_ladder_ii"
 version = "0.1.0"
 
 [[package]]
+name = "day25_non_negative_integers_without_consecutive_ones"
+version = "0.1.0"
+
+[[package]]
 name = "day26_count_of_smaller_numbers_after_self"
 version = "0.1.0"
 

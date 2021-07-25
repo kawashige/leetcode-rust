@@ -298,4 +298,5 @@ members = [
     "july_leetcoding_challenge_2021/day18_reverse_nodes_in_k_group",
     "july_leetcoding_challenge_2021/day22_parition_array_into_disjoint_intervals",
     "july_leetcoding_challenge_2021/day24_word_ladder_ii",
+    "july_leetcoding_challenge_2021/day25_non_negative_integers_without_consecutive_ones",
 ]
