@@ -1236,6 +1236,10 @@ name = "p0885_spiral_matrix_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p0886_possible_bipartition"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
