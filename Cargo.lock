@@ -302,6 +302,10 @@ name = "day27_candy"
 version = "0.1.0"
 
 [[package]]
+name = "day28_beautiful_array"
+version = "0.1.0"
+
+[[package]]
 name = "day28_maximum_erasure_value"
 version = "0.1.0"
 
