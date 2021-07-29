@@ -212,6 +212,7 @@ members = [
     "problems/p0884_uncommon_words_from_two_sentences",
     "problems/p0885_spiral_matrix_iii",
     "problems/p0886_possible_bipartition",
+    "problems/p0888_fair_candy_swap",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
