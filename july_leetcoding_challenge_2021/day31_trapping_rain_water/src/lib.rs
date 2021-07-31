@@ -8,14 +8,11 @@ impl Solution {
         for i in 0..height.len() {
             while !stack.is_empty() && stack.last().unwrap().1 <= height[i] {
                 let (_, h) = stack.pop().unwrap();
-                if !stack.is_empty() {
-                    let (k, h2) = stack.last().unwrap();
+                if let Some((k, h2)) = stack.last() {
                     r += (height[i].min(*h2) - h) * (i - k - 1) as i32;
                 }
             }
-            if stack.is_empty() || stack.last().unwrap().1 != height[i] {
-                stack.push((i, height[i]));
-            }
+            stack.push((i, height[i]));
         }
 
         r
