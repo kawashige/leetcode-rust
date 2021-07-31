@@ -350,6 +350,10 @@ name = "day31_stamping_the_sequence"
 version = "0.1.0"
 
 [[package]]
+name = "day31_trapping_rain_water"
+version = "0.1.0"
+
+[[package]]
 name = "december_leetcoding_challenge"
 version = "0.1.0"
 dependencies = [

@@ -304,4 +304,5 @@ members = [
     "july_leetcoding_challenge_2021/day24_word_ladder_ii",
     "july_leetcoding_challenge_2021/day25_non_negative_integers_without_consecutive_ones",
     "july_leetcoding_challenge_2021/day28_beautiful_array",
+    "july_leetcoding_challenge_2021/day31_trapping_rain_water",
 ]
