@@ -18,6 +18,10 @@ name = "day01_gray_code"
 version = "0.1.0"
 
 [[package]]
+name = "day01_making_a_large_island"
+version = "0.1.0"
+
+[[package]]
 name = "day01_prefix_and_suffix_search"
 version = "0.1.0"
 
