@@ -1260,6 +1260,10 @@ name = "p0889_construct_binary_tree_from_preorder_and_postorder_traversal"
 version = "0.1.0"
 
 [[package]]
+name = "p0892_surface_area_of_3d_shapes"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
