@@ -1268,6 +1268,10 @@ name = "p0893_groups_of_special_equivalent_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p0894_all_possible_full_binary_trees"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
