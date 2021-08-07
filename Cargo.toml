@@ -311,4 +311,5 @@ members = [
     "july_leetcoding_challenge_2021/day28_beautiful_array",
     "july_leetcoding_challenge_2021/day31_trapping_rain_water",
     "august_leetcoding_challenge_2021/day01_making_a_large_island",
+    "august_leetcoding_challenge_2021/day07_palindrome_paritioning_ii",
 ]

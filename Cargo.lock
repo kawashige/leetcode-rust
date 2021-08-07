@@ -82,6 +82,10 @@ name = "day07_determine_if_string_halves_are_alike"
 version = "0.1.0"
 
 [[package]]
+name = "day07_palindrome_paritioning_ii"
+version = "0.1.0"
+
+[[package]]
 name = "day07_shortest_distance_to_character"
 version = "0.1.0"
 
