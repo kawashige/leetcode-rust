@@ -90,6 +90,10 @@ name = "day07_shortest_distance_to_character"
 version = "0.1.0"
 
 [[package]]
+name = "day08_rank_transform_of_a_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "day08_remove_palindromic_subsequences"
 version = "0.1.0"
 
