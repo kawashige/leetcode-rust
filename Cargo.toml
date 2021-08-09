@@ -219,6 +219,7 @@ members = [
     "problems/p0894_all_possible_full_binary_trees",
     "problems/p0896_monotonic_array",
     "problems/p0898_bitwise_ors_of_subarrays",
+    "problems/p0900_rle_iterator",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
