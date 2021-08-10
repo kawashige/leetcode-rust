@@ -314,4 +314,5 @@ members = [
     "august_leetcoding_challenge_2021/day01_making_a_large_island",
     "august_leetcoding_challenge_2021/day07_palindrome_paritioning_ii",
     "august_leetcoding_challenge_2021/day08_rank_transform_of_a_matrix",
+    "august_leetcoding_challenge_2021/day10_flip_string_to_monotone_increasing",
 ]
