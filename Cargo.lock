@@ -130,6 +130,10 @@ name = "day10_longest_increasing_path_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "day11_array_of_doubled_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "day11_deepest_leaves_sum"
 version = "0.1.0"
 
