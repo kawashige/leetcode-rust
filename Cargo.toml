@@ -221,6 +221,7 @@ members = [
     "problems/p0898_bitwise_ors_of_subarrays",
     "problems/p0900_rle_iterator",
     "problems/p0901_online_stock_span",
+    "problems/p0904_fruit_into_baskets",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
