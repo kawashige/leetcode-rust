@@ -1,43 +1,41 @@
-use std::collections::HashMap;
-
 pub struct Solution {}
 
 impl Solution {
     pub fn recurse(
         s: usize,
         e: usize,
-        k: i32,
+        k: usize,
         boxes: &Vec<i32>,
-        memo: &mut HashMap<(usize, usize, i32), i32>,
-    ) -> i32 {
+        memo: &mut Vec<Vec<Vec<usize>>>,
+    ) -> usize {
         if s > e {
             return 0;
         }
 
-        if let Some(x) = memo.get(&(s, e, k)) {
-            return *x;
+        if memo[s][e][k] > 0 {
+            return memo[s][e][k];
         }
 
-        let mut max = if e > 0 {
+        memo[s][e][k] = if e > 0 {
             Self::recurse(s, e - 1, 0, boxes, memo)
         } else {
             0
         } + (k + 1) * (k + 1);
         for i in s..e {
             if boxes[i] == boxes[e] {
-                max = max.max(
+                memo[s][e][k] = memo[s][e][k].max(
                     Self::recurse(s, i, k + 1, boxes, memo)
                         + Self::recurse(i + 1, e - 1, 0, boxes, memo),
                 );
             }
         }
 
-        memo.insert((s, e, k), max);
-        max
+        memo[s][e][k]
     }
 
     pub fn remove_boxes(boxes: Vec<i32>) -> i32 {
-        Self::recurse(0, boxes.len() - 1, 0, &boxes, &mut HashMap::new())
+        let mut memo = vec![vec![vec![0; 100]; 100]; 100];
+        Self::recurse(0, boxes.len() - 1, 0, &boxes, &mut memo) as i32
     }
 }
 
