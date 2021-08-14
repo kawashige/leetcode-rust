@@ -186,6 +186,10 @@ name = "day14_maximum_units_in_a_truck"
 version = "0.1.0"
 
 [[package]]
+name = "day14_remove_boxes"
+version = "0.1.0"
+
+[[package]]
 name = "day14_swapping_nodes_in_a_linked_list"
 version = "0.1.0"
 
