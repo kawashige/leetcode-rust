@@ -321,4 +321,5 @@ members = [
     "august_leetcoding_challenge_2021/day11_array_of_doubled_pairs",
     "august_leetcoding_challenge_2021/day14_remove_boxes",
     "august_leetcoding_challenge_2021/day15_minimum_window_substring",
+    "august_leetcoding_challenge_2021/day17_count_good_nodes_in_binary_tree",
 ]
