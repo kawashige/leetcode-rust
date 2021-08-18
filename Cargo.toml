@@ -223,6 +223,7 @@ members = [
     "problems/p0901_online_stock_span",
     "problems/p0904_fruit_into_baskets",
     "problems/p0907_sum_of_subarray_minimums",
+    "problems/p0908_smallest_range_i",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
