@@ -224,6 +224,7 @@ members = [
     "problems/p0904_fruit_into_baskets",
     "problems/p0907_sum_of_subarray_minimums",
     "problems/p0908_smallest_range_i",
+    "problems/p0909_snakes_and_ladders",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
