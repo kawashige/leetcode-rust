@@ -326,4 +326,5 @@ members = [
     "august_leetcoding_challenge_2021/day17_count_good_nodes_in_binary_tree",
     "august_leetcoding_challenge_2021/day19_maximum_product_of_splitted_binary_tree",
     "august_leetcoding_challenge_2021/day21_sudoku_solver",
+    "august_leetcoding_challenge_2021/day22_rectangle_area_ii",
 ]
