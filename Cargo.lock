@@ -1348,6 +1348,10 @@ name = "p0911_online_election"
 version = "0.1.0"
 
 [[package]]
+name = "p0912_sort_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
