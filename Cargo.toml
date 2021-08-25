@@ -227,6 +227,7 @@ members = [
     "problems/p0909_snakes_and_ladders",
     "problems/p0911_online_election",
     "problems/p0912_sort_an_array",
+    "problems/p0914_x_of_a_kind_in_a_deck_of_cards",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
