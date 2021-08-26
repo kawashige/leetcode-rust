@@ -1356,6 +1356,10 @@ name = "p0914_x_of_a_kind_in_a_deck_of_cards"
 version = "0.1.0"
 
 [[package]]
+name = "p0917_reverse_only_letters"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
