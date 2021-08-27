@@ -1360,6 +1360,10 @@ name = "p0917_reverse_only_letters"
 version = "0.1.0"
 
 [[package]]
+name = "p0918_maximum_sum_circular_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
