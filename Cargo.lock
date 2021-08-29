@@ -378,6 +378,10 @@ name = "day29_n_queens_ii"
 version = "0.1.0"
 
 [[package]]
+name = "day29_patching_array"
+version = "0.1.0"
+
+[[package]]
 name = "day30_maximum_gap"
 version = "0.1.0"
 

@@ -333,4 +333,5 @@ members = [
     "august_leetcoding_challenge_2021/day21_sudoku_solver",
     "august_leetcoding_challenge_2021/day22_rectangle_area_ii",
     "august_leetcoding_challenge_2021/day28_maximum_profit_in_job_scheduling",
+    "august_leetcoding_challenge_2021/day29_patching_array",
 ]
