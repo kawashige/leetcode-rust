@@ -231,6 +231,7 @@ members = [
     "problems/p0917_reverse_only_letters",
     "problems/p0918_maximum_sum_circular_subarray",
     "problems/p0919_complete_binary_tree_inserter",
+    "problems/p0921_minimum_add_to_make_parantheses_valid",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
