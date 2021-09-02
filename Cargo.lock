@@ -1384,6 +1384,10 @@ name = "p0922_sort_array_by_parity_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p0925_long_pressed_name"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
