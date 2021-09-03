@@ -34,6 +34,10 @@ name = "day02_trim_a_binary_search_tree"
 version = "0.1.0"
 
 [[package]]
+name = "day03_erect_the_fence"
+version = "0.1.0"
+
+[[package]]
 name = "day03_longest_valid_parentheses"
 version = "0.1.0"
 
