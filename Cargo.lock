@@ -58,6 +58,10 @@ name = "day04_count_vowels_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "day04_sum_of_distances_in_tree"
+version = "0.1.0"
+
+[[package]]
 name = "day05_jump_game_ii"
 version = "0.1.0"
 
