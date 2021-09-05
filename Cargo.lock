@@ -70,6 +70,10 @@ name = "day05_maximum_performance_of_a_team"
 version = "0.1.0"
 
 [[package]]
+name = "day05_orderly_queue"
+version = "0.1.0"
+
+[[package]]
 name = "day06_longest_consecutive_sequence"
 version = "0.1.0"
 

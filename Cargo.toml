@@ -340,4 +340,5 @@ members = [
     "august_leetcoding_challenge_2021/day29_patching_array",
     "september_leetcoding_challenge_2021/day03_erect_the_fence",
     "september_leetcoding_challenge_2021/day04_sum_of_distances_in_tree",
+    "september_leetcoding_challenge_2021/day05_orderly_queue",
 ]
