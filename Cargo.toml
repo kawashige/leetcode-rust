@@ -234,6 +234,7 @@ members = [
     "problems/p0921_minimum_add_to_make_parantheses_valid",
     "problems/p0922_sort_array_by_parity_ii",
     "problems/p0925_long_pressed_name",
+    "problems/p0929_unique_email_addresses",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
