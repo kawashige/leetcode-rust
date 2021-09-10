@@ -134,6 +134,10 @@ name = "day09_verifying_an_alien_dictionary"
 version = "0.1.0"
 
 [[package]]
+name = "day10_arithmeric_slices_ii"
+version = "0.1.0"
+
+[[package]]
 name = "day10_decode_ways_ii"
 version = "0.1.0"
 

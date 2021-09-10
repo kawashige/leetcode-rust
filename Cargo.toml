@@ -345,4 +345,5 @@ members = [
     "september_leetcoding_challenge_2021/day04_sum_of_distances_in_tree",
     "september_leetcoding_challenge_2021/day05_orderly_queue",
     "september_leetcoding_challenge_2021/day06_slowest_key",
+    "september_leetcoding_challenge_2021/day10_arithmeric_slices_ii",
 ]
