@@ -154,6 +154,10 @@ name = "day11_array_of_doubled_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "day11_basic_calculator"
+version = "0.1.0"
+
+[[package]]
 name = "day11_deepest_leaves_sum"
 version = "0.1.0"
 
