@@ -198,6 +198,10 @@ name = "day13_binary_trees_with_factors"
 version = "0.1.0"
 
 [[package]]
+name = "day13_maximum_number_of_balloons"
+version = "0.1.0"
+
+[[package]]
 name = "day13_palindrome_pairs"
 version = "0.1.0"
 
