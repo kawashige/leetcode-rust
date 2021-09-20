@@ -355,4 +355,5 @@ members = [
     "september_leetcoding_challenge_2021/day15_longest_turbulent_subarray",
     "september_leetcoding_challenge_2021/day19_expression_add_operators",
     "september_leetcoding_challenge_2021/day20_distinct_subsequences",
+    "september_leetcoding_challenge_2021/day21_find_winner_on_a_tic_tac_toe_game",
 ]

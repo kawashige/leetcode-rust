@@ -314,6 +314,10 @@ name = "day21_find_and_replace_pattern"
 version = "0.1.0"
 
 [[package]]
+name = "day21_find_winner_on_a_tic_tac_toe_game"
+version = "0.1.0"
+
+[[package]]
 name = "day21_reordered_power_of_2"
 version = "0.1.0"
 
