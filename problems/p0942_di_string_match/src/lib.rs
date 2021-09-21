@@ -3,24 +3,20 @@ pub struct Solution {}
 impl Solution {
     pub fn di_string_match(s: String) -> Vec<i32> {
         let mut result = Vec::with_capacity(s.len() + 1);
-        result.push(0);
-        let mut min: i32 = 0;
-        let mut max = 0;
+        let mut lo = 0;
+        let mut high = s.len() as i32;
 
         for c in s.chars() {
             if c == 'I' {
-                result.push(max + 1);
-                max += 1;
+                result.push(lo);
+                lo += 1;
             } else {
-                result.push(min - 1);
-                min -= 1;
+                result.push(high);
+                high -= 1
             }
         }
 
-        for i in 0..result.len() {
-            result[i] += min.abs();
-        }
-
+        result.push(lo);
         result
     }
 }
