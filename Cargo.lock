@@ -326,6 +326,10 @@ name = "day21_sudoku_solver"
 version = "0.1.0"
 
 [[package]]
+name = "day22_maximum_length_of_a_concatenated_string_with_unique_characters"
+version = "0.1.0"
+
+[[package]]
 name = "day22_n_queens"
 version = "0.1.0"
 
