@@ -358,4 +358,5 @@ members = [
     "september_leetcoding_challenge_2021/day20_distinct_subsequences",
     "september_leetcoding_challenge_2021/day21_find_winner_on_a_tic_tac_toe_game",
     "september_leetcoding_challenge_2021/day22_maximum_length_of_a_concatenated_string_with_unique_characters",
+    "september_leetcoding_challenge_2021/day23_break_a_palindrome",
 ]

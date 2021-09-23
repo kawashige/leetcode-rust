@@ -350,6 +350,10 @@ name = "day23_3sum_with_multiplicity"
 version = "0.1.0"
 
 [[package]]
+name = "day23_break_a_palindrome"
+version = "0.1.0"
+
+[[package]]
 name = "day23_find_the_shortest_superstring"
 version = "0.1.0"
 
