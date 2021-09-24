@@ -366,6 +366,10 @@ name = "day24_critical_connections_in_a_network"
 version = "0.1.0"
 
 [[package]]
+name = "day24_n_th_tribonacci_number"
+version = "0.1.0"
+
+[[package]]
 name = "day24_score_of_parentheses"
 version = "0.1.0"
 
