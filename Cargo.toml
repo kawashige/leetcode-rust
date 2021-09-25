@@ -360,4 +360,5 @@ members = [
     "september_leetcoding_challenge_2021/day22_maximum_length_of_a_concatenated_string_with_unique_characters",
     "september_leetcoding_challenge_2021/day23_break_a_palindrome",
     "september_leetcoding_challenge_2021/day24_n_th_tribonacci_number",
+    "september_leetcoding_challenge_2021/day25_shortest_path_in_a_grid_with_obstacles_elimination",
 ]

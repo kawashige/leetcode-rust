@@ -382,6 +382,10 @@ name = "day25_non_negative_integers_without_consecutive_ones"
 version = "0.1.0"
 
 [[package]]
+name = "day25_shortest_path_in_a_grid_with_obstacles_elimination"
+version = "0.1.0"
+
+[[package]]
 name = "day26_count_of_smaller_numbers_after_self"
 version = "0.1.0"
 
