@@ -1484,6 +1484,10 @@ name = "p0942_di_string_match"
 version = "0.1.0"
 
 [[package]]
+name = "p0944_delete_columns_to_make_sorted"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
