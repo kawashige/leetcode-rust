@@ -240,6 +240,7 @@ members = [
     "problems/p0934_shortest_bridge",
     "problems/p0935_knight_dialer",
     "problems/p0937_reorder_data_in_log_files",
+    "problems/p0939_minimum_area_rectangle",
     "problems/p0942_di_string_match",
     "problems/p0944_delete_columns_to_make_sorted",
     "august_leetcoding_challenge",

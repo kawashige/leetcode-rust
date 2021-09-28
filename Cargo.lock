@@ -1480,6 +1480,10 @@ name = "p0937_reorder_data_in_log_files"
 version = "0.1.0"
 
 [[package]]
+name = "p0939_minimum_area_rectangle"
+version = "0.1.0"
+
+[[package]]
 name = "p0942_di_string_match"
 version = "0.1.0"
 
