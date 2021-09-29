@@ -243,6 +243,7 @@ members = [
     "problems/p0939_minimum_area_rectangle",
     "problems/p0942_di_string_match",
     "problems/p0944_delete_columns_to_make_sorted",
+    "problems/p0945_minimum_increment_to_make_array_unique",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
