@@ -1496,6 +1496,10 @@ name = "p0945_minimum_increment_to_make_array_unique"
 version = "0.1.0"
 
 [[package]]
+name = "p0947_most_stones_romoved_with_same_row_or_column"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
