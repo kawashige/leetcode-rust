@@ -1504,6 +1504,10 @@ name = "p0947_most_stones_romoved_with_same_row_or_column"
 version = "0.1.0"
 
 [[package]]
+name = "p0950_reveal_cards_in_increasing_order"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 

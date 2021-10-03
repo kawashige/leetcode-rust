@@ -247,6 +247,7 @@ members = [
     "problems/p0947_most_stones_romoved_with_same_row_or_column",
     "problems/p1143_longest_common_subsequence",
     "problems/p0174_dungeon_game",
+    "problems/p0950_reveal_cards_in_increasing_order",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
