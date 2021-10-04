@@ -1508,6 +1508,10 @@ name = "p0950_reveal_cards_in_increasing_order"
 version = "0.1.0"
 
 [[package]]
+name = "p0951_flip_equivalent_binary_trees"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
