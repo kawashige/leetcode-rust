@@ -249,6 +249,7 @@ members = [
     "problems/p0174_dungeon_game",
     "problems/p0950_reveal_cards_in_increasing_order",
     "problems/p0951_flip_equivalent_binary_trees",
+    "problems/p0955_delete_columns_to_make_sorted_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
