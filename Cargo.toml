@@ -252,6 +252,7 @@ members = [
     "problems/p0955_delete_columns_to_make_sorted_ii",
     "problems/p0957_prison_cells_after_n_days",
     "problems/p0958_check_cmpleteness_of_a_binary_tree",
+    "problems/p0959_reginons_cut_by_slases",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
