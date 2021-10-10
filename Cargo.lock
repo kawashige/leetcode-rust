@@ -1532,6 +1532,10 @@ name = "p0959_reginons_cut_by_slases"
 version = "0.1.0"
 
 [[package]]
+name = "p0961_n_repeated_element_in_size_2n_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
