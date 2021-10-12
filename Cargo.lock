@@ -1540,6 +1540,10 @@ name = "p0962_maximum_width_ramp"
 version = "0.1.0"
 
 [[package]]
+name = "p0963_minimum_area_rectangle_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
