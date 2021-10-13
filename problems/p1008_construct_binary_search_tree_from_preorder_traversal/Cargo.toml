@@ -1,0 +1,9 @@
+[package]
+name = "p1008_construct_binary_search_tree_from_preorder_traversal"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

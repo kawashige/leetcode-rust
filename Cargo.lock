@@ -1544,6 +1544,10 @@ name = "p0963_minimum_area_rectangle_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p1008_construct_binary_search_tree_from_preorder_traversal"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 

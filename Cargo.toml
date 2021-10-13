@@ -257,6 +257,7 @@ members = [
     "problems/p0961_n_repeated_element_in_size_2n_array",
     "problems/p0962_maximum_width_ramp",
     "problems/p0963_minimum_area_rectangle_ii",
+    "problems/p1008_construct_binary_search_tree_from_preorder_traversal",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
