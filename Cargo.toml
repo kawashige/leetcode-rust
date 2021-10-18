@@ -262,6 +262,7 @@ members = [
     "problems/p0123_best_time_to_bus_and_sell_stock_iii",
     "problems/p1008_construct_binary_search_tree_from_preorder_traversal",
     "problems/p0974_subarray_sums_divisible_by_k",
+    "problems/p0993_cousins_in_binary_tree",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
