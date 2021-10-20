@@ -1564,6 +1564,10 @@ name = "p0976_largest_perimeter_triangle"
 version = "0.1.0"
 
 [[package]]
+name = "p0979_distributed_coins_in_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p0993_cousins_in_binary_tree"
 version = "0.1.0"
 
