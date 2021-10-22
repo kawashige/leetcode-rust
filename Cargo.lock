@@ -1572,6 +1572,10 @@ name = "p0981_time_based_key_value_store"
 version = "0.1.0"
 
 [[package]]
+name = "p0989_add_to_array_form_of_integer"
+version = "0.1.0"
+
+[[package]]
 name = "p0993_cousins_in_binary_tree"
 version = "0.1.0"
 
