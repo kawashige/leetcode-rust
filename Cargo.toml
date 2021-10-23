@@ -267,6 +267,7 @@ members = [
     "problems/p0981_time_based_key_value_store",
     "problems/p0989_add_to_array_form_of_integer",
     "problems/p0993_cousins_in_binary_tree",
+    "problems/p0154_find_minimun_in_rotated_sorted_array_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
