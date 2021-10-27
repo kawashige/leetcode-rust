@@ -1588,6 +1588,10 @@ name = "p0986_interval_list_intersections"
 version = "0.1.0"
 
 [[package]]
+name = "p0988_smallest_string_from_leaf"
+version = "0.1.0"
+
+[[package]]
 name = "p0989_add_to_array_form_of_integer"
 version = "0.1.0"
 

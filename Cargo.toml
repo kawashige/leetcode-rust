@@ -268,6 +268,7 @@ members = [
     "problems/p0984_string_without_aaa_or_bbb",
     "problems/p0985_sum_of_even_numbers_after_queries",
     "problems/p0986_interval_list_intersections",
+    "problems/p0988_smallest_string_from_leaf",
     "problems/p0989_add_to_array_form_of_integer",
     "problems/p0993_cousins_in_binary_tree",
     "problems/p0154_find_minimun_in_rotated_sorted_array_ii",
