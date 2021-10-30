@@ -1612,6 +1612,10 @@ name = "p1008_construct_binary_search_tree_from_preorder_traversal"
 version = "0.1.0"
 
 [[package]]
+name = "p1044_longest_duplicate_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
