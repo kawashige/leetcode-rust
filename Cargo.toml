@@ -275,6 +275,7 @@ members = [
     "problems/p0997_find_the_town_judge",
     "problems/p0999_available_captures_for_rook",
     "problems/p0154_find_minimun_in_rotated_sorted_array_ii",
+    "problems/p1002_find_common_characters",
     "problems/p1044_longest_duplicate_substring",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",

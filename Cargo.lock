@@ -1612,6 +1612,10 @@ name = "p0999_available_captures_for_rook"
 version = "0.1.0"
 
 [[package]]
+name = "p1002_find_common_characters"
+version = "0.1.0"
+
+[[package]]
 name = "p1008_construct_binary_search_tree_from_preorder_traversal"
 version = "0.1.0"
 
