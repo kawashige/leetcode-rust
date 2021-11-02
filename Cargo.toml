@@ -264,6 +264,7 @@ members = [
     "problems/p0974_subarray_sums_divisible_by_k",
     "problems/p0976_largest_perimeter_triangle",
     "problems/p0979_distributed_coins_in_binary_tree",
+    "problems/p0980_unique_paths_iii",
     "problems/p0981_time_based_key_value_store",
     "problems/p0984_string_without_aaa_or_bbb",
     "problems/p0985_sum_of_even_numbers_after_queries",
