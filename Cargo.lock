@@ -1612,6 +1612,10 @@ name = "p0997_find_the_town_judge"
 version = "0.1.0"
 
 [[package]]
+name = "p0998_maximum_binary_tree_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p0999_available_captures_for_rook"
 version = "0.1.0"
 
