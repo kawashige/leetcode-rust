@@ -279,6 +279,7 @@ members = [
     "problems/p0154_find_minimun_in_rotated_sorted_array_ii",
     "problems/p1002_find_common_characters",
     "problems/p1003_check_if_word_is_a_valid_after_substitutions",
+    "problems/p1005_maximize_sum_of_array_after_k_negations",
     "problems/p1044_longest_duplicate_substring",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",

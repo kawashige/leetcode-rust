@@ -1628,6 +1628,10 @@ name = "p1003_check_if_word_is_a_valid_after_substitutions"
 version = "0.1.0"
 
 [[package]]
+name = "p1005_maximize_sum_of_array_after_k_negations"
+version = "0.1.0"
+
+[[package]]
 name = "p1008_construct_binary_search_tree_from_preorder_traversal"
 version = "0.1.0"
 
