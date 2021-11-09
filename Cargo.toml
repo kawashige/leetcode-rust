@@ -282,6 +282,7 @@ members = [
     "problems/p1005_maximize_sum_of_array_after_k_negations",
     "problems/p1006_clumsy_factorial",
     "problems/p1044_longest_duplicate_substring",
+    "problems/p1178_number_of_valid_words_for_each_puzzle",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

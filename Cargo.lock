@@ -1648,6 +1648,10 @@ name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
 [[package]]
+name = "p1178_number_of_valid_words_for_each_puzzle"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
