@@ -1,0 +1,9 @@
+[package]
+name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
