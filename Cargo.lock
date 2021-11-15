@@ -1652,6 +1652,10 @@ name = "p1014_best_sightseeing_pair"
 version = "0.1.0"
 
 [[package]]
+name = "p1018_binary_prefix_divisible_by_5"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
