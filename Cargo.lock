@@ -940,6 +940,10 @@ name = "p0667_beautiful_arrangement_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p0668_kth_smallest_number_in_multiplication_table"
+version = "0.1.0"
+
+[[package]]
 name = "p0670_maximum_swap"
 version = "0.1.0"
 

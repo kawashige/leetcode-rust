@@ -101,6 +101,7 @@ members = [
     "problems/p0662_maximum_witdh_of_binery_tree",
     "problems/p0665_non_decreasing_array",
     "problems/p0667_beautiful_arrangement_ii",
+    "problems/p0668_kth_smallest_number_in_multiplication_table",
     "problems/p0670_maximum_swap",
     "problems/p0671_second_minimum_node_in_a_binary_tree",
     "problems/p0672_bulb_switcher_ii",
