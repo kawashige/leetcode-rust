@@ -1660,6 +1660,10 @@ name = "p1018_binary_prefix_divisible_by_5"
 version = "0.1.0"
 
 [[package]]
+name = "p1019_next_greater_node_in_linked_list"
+version = "0.1.0"
+
+[[package]]
 name = "p1020_number_of_enclaves"
 version = "0.1.0"
 

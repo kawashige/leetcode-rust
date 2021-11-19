@@ -287,6 +287,7 @@ members = [
     "problems/p1013_partition_array_into_three_parts_with_equal_sum",
     "problems/p1014_best_sightseeing_pair",
     "problems/p1018_binary_prefix_divisible_by_5",
+    "problems/p1019_next_greater_node_in_linked_list",
     "problems/p1020_number_of_enclaves",
     "problems/p1021_remove_outermost_parenthese",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
