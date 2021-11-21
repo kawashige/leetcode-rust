@@ -291,6 +291,7 @@ members = [
     "problems/p1019_next_greater_node_in_linked_list",
     "problems/p1020_number_of_enclaves",
     "problems/p1021_remove_outermost_parenthese",
+    "problems/p1023_camelcase_matching",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",

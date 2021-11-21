@@ -1676,6 +1676,10 @@ name = "p1021_remove_outermost_parenthese"
 version = "0.1.0"
 
 [[package]]
+name = "p1023_camelcase_matching"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
