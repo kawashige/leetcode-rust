@@ -1688,6 +1688,10 @@ name = "p1024_video_stiching"
 version = "0.1.0"
 
 [[package]]
+name = "p1025_divisor_game"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
