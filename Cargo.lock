@@ -1696,6 +1696,10 @@ name = "p1025_divisor_game"
 version = "0.1.0"
 
 [[package]]
+name = "p1027_longest_arithmetic_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 

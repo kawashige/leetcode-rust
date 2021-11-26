@@ -296,6 +296,7 @@ members = [
     "problems/p1023_camelcase_matching",
     "problems/p1024_video_stiching",
     "problems/p1025_divisor_game",
+    "problems/p1027_longest_arithmetic_subsequence",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
