@@ -1704,6 +1704,10 @@ name = "p1029_two_city_scheduling"
 version = "0.1.0"
 
 [[package]]
+name = "p1030_matrix_cells_in_distance_order"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
