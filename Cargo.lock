@@ -520,6 +520,10 @@ name = "p0053_maximum_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p0085_maximum_rectangle"
+version = "0.1.0"
+
+[[package]]
 name = "p0097_iterleaving_string"
 version = "0.1.0"
 

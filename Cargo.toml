@@ -3,6 +3,7 @@
 members = [
     "problems",
     "problems/p0053_maximum_subarray",
+    "problems/p0085_maximum_rectangle",
     "problems/p0097_iterleaving_string",
     "problems/p0463_island_perimeter",
     "problems/p0464_can_i_win",
