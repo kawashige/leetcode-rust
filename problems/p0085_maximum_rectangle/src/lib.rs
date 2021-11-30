@@ -24,8 +24,6 @@ impl Solution {
             }
         }
 
-        println!("{:?}", left_ones);
-
         max_area
     }
 }
