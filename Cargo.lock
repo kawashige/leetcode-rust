@@ -1724,6 +1724,10 @@ name = "p1034_coloring_a_border"
 version = "0.1.0"
 
 [[package]]
+name = "p1035_unclosed_lines"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
