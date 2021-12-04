@@ -1728,6 +1728,10 @@ name = "p1035_unclosed_lines"
 version = "0.1.0"
 
 [[package]]
+name = "p1037_valid_boomerang"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
