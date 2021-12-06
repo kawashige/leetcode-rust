@@ -1736,6 +1736,10 @@ name = "p1038_binary_search_tree_to_greater_sum_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p1039_minimum_score_triangulation_of_polygon"
+version = "0.1.0"
+
+[[package]]
 name = "p1044_longest_duplicate_substring"
 version = "0.1.0"
 
