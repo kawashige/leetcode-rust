@@ -308,6 +308,7 @@ members = [
     "problems/p1038_binary_search_tree_to_greater_sum_tree",
     "problems/p1039_minimum_score_triangulation_of_polygon",
     "problems/p1046_last_stone_weight",
+    "problems/p1051_height_checker",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
