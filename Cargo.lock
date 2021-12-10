@@ -1752,6 +1752,10 @@ name = "p1046_last_stone_weight"
 version = "0.1.0"
 
 [[package]]
+name = "p1049_last_stone_weight_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p1051_height_checker"
 version = "0.1.0"
 
