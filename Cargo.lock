@@ -1772,6 +1772,10 @@ name = "p1053_previous_permutations_with_one_swap"
 version = "0.1.0"
 
 [[package]]
+name = "p1054_distant_barcodes"
+version = "0.1.0"
+
+[[package]]
 name = "p1078_occurrences_after_bigram"
 version = "0.1.0"
 
