@@ -315,6 +315,7 @@ members = [
     "problems/p1052_grumpy_bookstore_owner",
     "problems/p1053_previous_permutations_with_one_swap",
     "problems/p1054_distant_barcodes",
+    "problems/p1071_greatest_common_divisor_of_strings",
     "problems/p1078_occurrences_after_bigram",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
