@@ -317,6 +317,7 @@ members = [
     "problems/p1054_distant_barcodes",
     "problems/p1071_greatest_common_divisor_of_strings",
     "problems/p1078_occurrences_after_bigram",
+    "problems/p1089_duplicate_zeros",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
