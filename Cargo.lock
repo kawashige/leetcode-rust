@@ -1780,6 +1780,10 @@ name = "p1071_greatest_common_divisor_of_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1072_flip_columns_for_maximum_number_of_equal_rows"
+version = "0.1.0"
+
+[[package]]
 name = "p1078_occurrences_after_bigram"
 version = "0.1.0"
 
