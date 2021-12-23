@@ -1792,6 +1792,10 @@ name = "p1079_letter_tile_possibilities"
 version = "0.1.0"
 
 [[package]]
+name = "p1080_insufficient_nodes_in_root_to_leaf_paths"
+version = "0.1.0"
+
+[[package]]
 name = "p1089_duplicate_zeros"
 version = "0.1.0"
 
