@@ -320,6 +320,7 @@ members = [
     "problems/p1078_occurrences_after_bigram",
     "problems/p1079_letter_tile_possibilities",
     "problems/p1080_insufficient_nodes_in_root_to_leaf_paths",
+    "problems/p1081_smallest_subsequences_of_distinct_characters",
     "problems/p1089_duplicate_zeros",
     "problems/p1108_defanging_an_ip_address",
     "problems/p1122_relative_sort_array",
