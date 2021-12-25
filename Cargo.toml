@@ -324,6 +324,7 @@ members = [
     "problems/p1089_duplicate_zeros",
     "problems/p1108_defanging_an_ip_address",
     "problems/p1122_relative_sort_array",
+    "problems/p1128_number_of_equivalent_domino_pairs",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1200_minimum_absolute_difference",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
