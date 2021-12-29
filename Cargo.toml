@@ -325,6 +325,7 @@ members = [
     "problems/p1089_duplicate_zeros",
     "problems/p1090_largest_values_from_labels",
     "problems/p1093_statistics_from_a_large_sample",
+    "problems/p1104_path_in_zigzag_labelled_binary_tree",
     "problems/p1108_defanging_an_ip_address",
     "problems/p1122_relative_sort_array",
     "problems/p1128_number_of_equivalent_domino_pairs",
