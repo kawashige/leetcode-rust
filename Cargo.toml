@@ -327,6 +327,7 @@ members = [
     "problems/p1093_statistics_from_a_large_sample",
     "problems/p1104_path_in_zigzag_labelled_binary_tree",
     "problems/p1108_defanging_an_ip_address",
+    "problems/p1109_corporate_flight_bookings",
     "problems/p1122_relative_sort_array",
     "problems/p1128_number_of_equivalent_domino_pairs",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
