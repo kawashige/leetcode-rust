@@ -1840,6 +1840,10 @@ name = "p1128_number_of_equivalent_domino_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p1138_alphabet_board_path"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
