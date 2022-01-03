@@ -1840,6 +1840,10 @@ name = "p1122_relative_sort_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1124_longest_well_performing_interval"
+version = "0.1.0"
+
+[[package]]
 name = "p1128_number_of_equivalent_domino_pairs"
 version = "0.1.0"
 
