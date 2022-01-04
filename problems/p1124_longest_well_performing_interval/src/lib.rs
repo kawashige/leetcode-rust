@@ -10,8 +10,6 @@ impl Solution {
             })
             .collect::<Vec<_>>();
 
-        println!("{:?}", acc);
-
         (1..acc.len())
             .map(|i| i - (0..i).find(|j| acc[i] - acc[*j] > 0).unwrap_or(i))
             .max()
