@@ -333,6 +333,7 @@ members = [
     "problems/p1122_relative_sort_array",
     "problems/p1124_longest_well_performing_interval",
     "problems/p1128_number_of_equivalent_domino_pairs",
+    "problems/p1129_shortest_path_with_alternating_colors",
     "problems/p1139_largest_1_bordered_square",
     "problems/p1138_alphabet_board_path",
     "problems/p1160_find_words_that_can_be_formed_by_characters",
