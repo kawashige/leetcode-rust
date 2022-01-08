@@ -1868,6 +1868,10 @@ name = "p1144_decrease_elements_to_make_array_zigzag"
 version = "0.1.0"
 
 [[package]]
+name = "p1145_binary_tree_coloring_game"
+version = "0.1.0"
+
+[[package]]
 name = "p1160_find_words_that_can_be_formed_by_characters"
 version = "0.1.0"
 
