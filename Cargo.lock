@@ -1872,6 +1872,10 @@ name = "p1145_binary_tree_coloring_game"
 version = "0.1.0"
 
 [[package]]
+name = "p1154_day_of_the_year"
+version = "0.1.0"
+
+[[package]]
 name = "p1160_find_words_that_can_be_formed_by_characters"
 version = "0.1.0"
 
