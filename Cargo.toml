@@ -341,6 +341,7 @@ members = [
     "problems/p1154_day_of_the_year",
     "problems/p1155_number_of_dice_rolls_with_target_sum",
     "problems/p1160_find_words_that_can_be_formed_by_characters",
+    "problems/p1162_as_far_from_land_as_possible",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1200_minimum_absolute_difference",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
