@@ -343,6 +343,7 @@ members = [
     "problems/p1160_find_words_that_can_be_formed_by_characters",
     "problems/p1161_maximum_level_sum_of_a_binary_tree",
     "problems/p1162_as_far_from_land_as_possible",
+    "problems/p1169_invalid_transactions",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1200_minimum_absolute_difference",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",

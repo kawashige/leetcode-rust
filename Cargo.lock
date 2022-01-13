@@ -1892,6 +1892,10 @@ name = "p1162_as_far_from_land_as_possible"
 version = "0.1.0"
 
 [[package]]
+name = "p1169_invalid_transactions"
+version = "0.1.0"
+
+[[package]]
 name = "p1178_number_of_valid_words_for_each_puzzle"
 version = "0.1.0"
 
