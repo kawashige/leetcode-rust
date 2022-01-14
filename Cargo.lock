@@ -1896,6 +1896,10 @@ name = "p1169_invalid_transactions"
 version = "0.1.0"
 
 [[package]]
+name = "p1170_compare_strings_by_frequency_of_the_smallest_character"
+version = "0.1.0"
+
+[[package]]
 name = "p1178_number_of_valid_words_for_each_puzzle"
 version = "0.1.0"
 
