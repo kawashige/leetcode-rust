@@ -347,6 +347,7 @@ members = [
     "problems/p1170_compare_strings_by_frequency_of_the_smallest_character",
     "problems/p1178_number_of_valid_words_for_each_puzzle",
     "problems/p1200_minimum_absolute_difference",
+    "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
