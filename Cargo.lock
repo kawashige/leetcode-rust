@@ -1904,6 +1904,10 @@ name = "p1171_remove_zero_sum_consecutive_nodes_from_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p1175_prime_arragements"
+version = "0.1.0"
+
+[[package]]
 name = "p1178_number_of_valid_words_for_each_puzzle"
 version = "0.1.0"
 
