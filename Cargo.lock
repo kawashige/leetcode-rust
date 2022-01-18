@@ -1908,6 +1908,10 @@ name = "p1175_prime_arragements"
 version = "0.1.0"
 
 [[package]]
+name = "p1177_can_make_palindrome_from_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1178_number_of_valid_words_for_each_puzzle"
 version = "0.1.0"
 
