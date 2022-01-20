@@ -1920,6 +1920,10 @@ name = "p1184_distance_between_bus_stops"
 version = "0.1.0"
 
 [[package]]
+name = "p1185_day_of_the_week"
+version = "0.1.0"
+
+[[package]]
 name = "p1200_minimum_absolute_difference"
 version = "0.1.0"
 
