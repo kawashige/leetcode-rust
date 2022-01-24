@@ -1940,6 +1940,10 @@ name = "p1200_minimum_absolute_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p1201_ugly_number_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 

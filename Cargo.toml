@@ -355,6 +355,7 @@ members = [
     "problems/p1186_maximum_subarray_sum_with_one_deletion",
     "problems/p1190_reverse_substrings_between_each_pair_of_parentheses",
     "problems/p1200_minimum_absolute_difference",
+    "problems/p1201_ugly_number_iii",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
