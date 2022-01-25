@@ -1936,6 +1936,10 @@ name = "p1190_reverse_substrings_between_each_pair_of_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "p1191_k_concatnation_maximum_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1200_minimum_absolute_difference"
 version = "0.1.0"
 
