@@ -28,9 +28,6 @@ impl Solution {
             max_suffix_sum = max_suffix_sum.max(sum);
         }
 
-        println!("max_prefix_sum: {}", max_prefix_sum);
-        println!("max_suffix_sum: {}", max_suffix_sum);
-
         (max.max(max_prefix_sum + max_suffix_sum + (sum * (k as i64 - 2 % M)).max(0)) % M) as i32
     }
 }
