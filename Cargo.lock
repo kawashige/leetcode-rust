@@ -1948,6 +1948,10 @@ name = "p1201_ugly_number_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p1202_smallest_string_with_swaps"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
