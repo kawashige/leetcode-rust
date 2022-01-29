@@ -1960,6 +1960,10 @@ name = "p1208_get_equal_substrings_within_budget"
 version = "0.1.0"
 
 [[package]]
+name = "p1219_longest_arithmeric_subsequence_of_given_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
