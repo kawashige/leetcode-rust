@@ -361,6 +361,7 @@ members = [
     "problems/p1207_unique_number_of_occurences",
     "problems/p1208_get_equal_substrings_within_budget",
     "problems/p1219_longest_arithmeric_subsequence_of_given_difference",
+    "problems/p1219_path_wigh_maximum_gold",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "august_leetcoding_challenge",
