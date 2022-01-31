@@ -1976,6 +1976,10 @@ name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p1672_richest_customer_wealth"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
