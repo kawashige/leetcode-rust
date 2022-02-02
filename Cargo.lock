@@ -1972,6 +1972,10 @@ name = "p1221_split_a_string_in_balanced_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1222_queens_that_can_attack_the_king"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
