@@ -1976,6 +1976,10 @@ name = "p1222_queens_that_can_attack_the_king"
 version = "0.1.0"
 
 [[package]]
+name = "p1227_ariplane_seat_assignment_probability"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
