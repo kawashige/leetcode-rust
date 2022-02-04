@@ -1980,6 +1980,10 @@ name = "p1227_ariplane_seat_assignment_probability"
 version = "0.1.0"
 
 [[package]]
+name = "p1232_check_if_it_is_a_straight_line"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
