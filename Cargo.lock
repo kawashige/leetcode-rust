@@ -1984,6 +1984,10 @@ name = "p1232_check_if_it_is_a_straight_line"
 version = "0.1.0"
 
 [[package]]
+name = "p1233_remove_sub_folders_from_the_filesystem"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
