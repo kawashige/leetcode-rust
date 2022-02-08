@@ -369,6 +369,7 @@ members = [
     "problems/p1233_remove_sub_folders_from_the_filesystem",
     "problems/p1234_replace_the_substring_for_balanced_string",
     "problems/p1237_find_positive_integer_solution_for_a_given_equation",
+    "problems/p1252_cells_with_odd_values_in_a_matrix",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
