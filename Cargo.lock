@@ -1996,6 +1996,10 @@ name = "p1237_find_positive_integer_solution_for_a_given_equation"
 version = "0.1.0"
 
 [[package]]
+name = "p1238_circular_permutation_in_binary_representation"
+version = "0.1.0"
+
+[[package]]
 name = "p1252_cells_with_odd_values_in_a_matrix"
 version = "0.1.0"
 
