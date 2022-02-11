@@ -2004,6 +2004,10 @@ name = "p1247_minimum_swaps_to_make_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p1248_count_number_of_nice_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p1252_cells_with_odd_values_in_a_matrix"
 version = "0.1.0"
 
