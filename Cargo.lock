@@ -2012,6 +2012,10 @@ name = "p1252_cells_with_odd_values_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p1253_reconstruct_a_2_row_binary_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 

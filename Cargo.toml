@@ -373,6 +373,7 @@ members = [
     "problems/p1247_minimum_swaps_to_make_strings_equal",
     "problems/p1248_count_number_of_nice_subarrays",
     "problems/p1252_cells_with_odd_values_in_a_matrix",
+    "problems/p1253_reconstruct_a_2_row_binary_matrix",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
