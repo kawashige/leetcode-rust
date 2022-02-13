@@ -2016,6 +2016,10 @@ name = "p1253_reconstruct_a_2_row_binary_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p1254_number_of_closed_islands"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
