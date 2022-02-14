@@ -375,6 +375,7 @@ members = [
     "problems/p1252_cells_with_odd_values_in_a_matrix",
     "problems/p1253_reconstruct_a_2_row_binary_matrix",
     "problems/p1254_number_of_closed_islands",
+    "problems/p1260_shift_2d_grid",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",

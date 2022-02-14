@@ -2020,6 +2020,10 @@ name = "p1254_number_of_closed_islands"
 version = "0.1.0"
 
 [[package]]
+name = "p1260_shift_2d_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
