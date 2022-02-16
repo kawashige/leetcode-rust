@@ -2028,6 +2028,10 @@ name = "p1261_find_elements_in_a_contaminated_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p1262_greatest_sum_divisible_by_three"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
