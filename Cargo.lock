@@ -2036,6 +2036,10 @@ name = "p1266_minimum_time_visiting_all_points"
 version = "0.1.0"
 
 [[package]]
+name = "p1267_count_servers_that_communicate"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
