@@ -2040,6 +2040,10 @@ name = "p1267_count_servers_that_communicate"
 version = "0.1.0"
 
 [[package]]
+name = "p1276_number_of_burgers_with_no_waste_of_ingredients"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
