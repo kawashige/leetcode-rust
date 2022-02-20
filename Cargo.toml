@@ -381,6 +381,7 @@ members = [
     "problems/p1266_minimum_time_visiting_all_points",
     "problems/p1267_count_servers_that_communicate",
     "problems/p1276_number_of_burgers_with_no_waste_of_ingredients",
+    "problems/p1277_count_square_submatices_with_all_ones",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
