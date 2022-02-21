@@ -2048,6 +2048,10 @@ name = "p1277_count_square_submatices_with_all_ones"
 version = "0.1.0"
 
 [[package]]
+name = "p1281_subtract_the_product_and_sum_of_digits_of_an_integer"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
