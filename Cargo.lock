@@ -2058,6 +2058,10 @@ name = "p1282_group_the_people_given_the_group_size_they_belong_to"
 version = "0.1.0"
 
 [[package]]
+name = "p1287_element_appearing_more_than_25_percent_in_sorted_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
