@@ -1318,6 +1318,10 @@ name = "p0846_hand_of_straights"
 version = "0.1.0"
 
 [[package]]
+name = "p0847_shortest_path_visiting_all_nodes"
+version = "0.1.0"
+
+[[package]]
 name = "p0848_shifting_letters"
 version = "0.1.0"
 
