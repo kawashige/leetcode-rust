@@ -1,3 +1,5 @@
+use std::collections::HashMap;
+
 pub struct Solution {}
 
 impl Solution {
@@ -8,11 +10,19 @@ impl Solution {
         path: i32,
         min_path: &mut i32,
         dist: &Vec<Vec<i32>>,
+        memo: &mut HashMap<(usize, usize), i32>,
     ) {
         if seen.count_ones() as usize == n {
             *min_path = std::cmp::min(*min_path, path);
             return;
         }
+
+        if let Some(p) = memo.get(&(prev, seen)) {
+            if *p <= path {
+                return;
+            }
+        }
+        memo.insert((prev, seen), path);
 
         if *min_path <= path {
             return;
@@ -29,6 +39,7 @@ impl Solution {
                 path + dist[prev][next],
                 min_path,
                 dist,
+                memo,
             );
         }
     }
@@ -53,9 +64,10 @@ impl Solution {
         }
 
         let mut min_path = std::i32::MAX;
+        let mut memo = HashMap::new();
 
         for i in 0..graph.len() {
-            Self::dfs(i, 1 << i, graph.len(), 0, &mut min_path, &dist);
+            Self::dfs(i, 1 << i, graph.len(), 0, &mut min_path, &dist, &mut memo);
         }
 
         min_path
@@ -68,6 +80,23 @@ mod test {
 
     #[test]
     fn test_0847() {
+        assert_eq!(
+            Solution::shortest_path_length(vec![
+                vec![2, 10],
+                vec![2, 7],
+                vec![0, 1, 3, 4, 5, 8],
+                vec![2],
+                vec![2],
+                vec![2],
+                vec![8],
+                vec![9, 11, 8, 1],
+                vec![7, 6, 2],
+                vec![7],
+                vec![11, 0],
+                vec![7, 10]
+            ]),
+            15
+        );
         assert_eq!(
             Solution::shortest_path_length(vec![vec![1, 2, 3], vec![0], vec![0], vec![0]]),
             4
