@@ -2074,6 +2074,10 @@ name = "p1295_find_numbers_with_even_number_of_digits"
 version = "0.1.0"
 
 [[package]]
+name = "p1296_divide_array_in_sets_of_k_consevutive_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
