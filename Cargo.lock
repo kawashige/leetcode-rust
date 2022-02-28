@@ -2078,6 +2078,10 @@ name = "p1296_divide_array_in_sets_of_k_consevutive_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "p1297_maximum_number_of_occurences_of_a_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
