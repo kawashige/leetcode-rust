@@ -390,6 +390,7 @@ members = [
     "problems/p1295_find_numbers_with_even_number_of_digits",
     "problems/p1296_divide_array_in_sets_of_k_consevutive_numbers",
     "problems/p1297_maximum_number_of_occurences_of_a_substring",
+    "problems/p1299_replace_elements_with_greatest_element_on_right_side",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
