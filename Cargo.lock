@@ -2094,6 +2094,10 @@ name = "p1309_decrypt_string_from_alphabet_to_integer_mapping"
 version = "0.1.0"
 
 [[package]]
+name = "p1310_xor_queries_of_a_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
