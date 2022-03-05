@@ -2098,6 +2098,10 @@ name = "p1310_xor_queries_of_a_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p1311_get_watched_videos_by_your_friends"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 

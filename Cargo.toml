@@ -394,6 +394,7 @@ members = [
     "problems/p1304_find_n_unique_integers_sum_up_to_zero",
     "problems/p1309_decrypt_string_from_alphabet_to_integer_mapping",
     "problems/p1310_xor_queries_of_a_subarray",
+    "problems/p1311_get_watched_videos_by_your_friends",
     "problems/p1345_jump_game_iv",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
