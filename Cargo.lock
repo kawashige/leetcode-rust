@@ -2110,6 +2110,10 @@ name = "p1314_matrix_block_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p1315_sum_of_nodes_with_even_valued_grandparent"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
