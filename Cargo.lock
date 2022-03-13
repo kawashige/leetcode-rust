@@ -2126,6 +2126,10 @@ name = "p1319_number_of_operations_to_make_network_connected"
 version = "0.1.0"
 
 [[package]]
+name = "p1323_maximum_69_number"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
