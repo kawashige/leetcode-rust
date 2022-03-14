@@ -2130,6 +2130,10 @@ name = "p1323_maximum_69_number"
 version = "0.1.0"
 
 [[package]]
+name = "p1324_print_words_vertically"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
