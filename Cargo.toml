@@ -403,6 +403,7 @@ members = [
     "problems/p1319_number_of_operations_to_make_network_connected",
     "problems/p1323_maximum_69_number",
     "problems/p1324_print_words_vertically",
+    "problems/p1325_delete_leaves_with_a_given_value",
     "problems/p1345_jump_game_iv",
     "problems/p1359_count_all_valid_pickup_and_delivery_options",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
