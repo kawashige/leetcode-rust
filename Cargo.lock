@@ -2142,6 +2142,10 @@ name = "p1331_rank_transform_of_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1333_filter_restaurants_by_vegan_friendly_price_and_distance"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
