@@ -2146,6 +2146,10 @@ name = "p1333_filter_restaurants_by_vegan_friendly_price_and_distance"
 version = "0.1.0"
 
 [[package]]
+name = "p1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
