@@ -407,6 +407,8 @@ members = [
     "problems/p1331_rank_transform_of_an_array",
     "problems/p1333_filter_restaurants_by_vegan_friendly_price_and_distance",
     "problems/p1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance",
+    "problems/p1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_qeual_to_threshold",
+    "problems/p1344_angle_between_hands_of_a_clock",
     "problems/p1345_jump_game_iv",
     "problems/p1359_count_all_valid_pickup_and_delivery_options",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",

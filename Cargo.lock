@@ -2150,6 +2150,14 @@ name = "p1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold
 version = "0.1.0"
 
 [[package]]
+name = "p1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_qeual_to_threshold"
+version = "0.1.0"
+
+[[package]]
+name = "p1344_angle_between_hands_of_a_clock"
+version = "0.1.0"
+
+[[package]]
 name = "p1345_jump_game_iv"
 version = "0.1.0"
 
