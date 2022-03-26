@@ -2182,6 +2182,10 @@ name = "p1352_product_of_last_k_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "p1353_maximum_number_of_events_that_can_be_attended"
+version = "0.1.0"
+
+[[package]]
 name = "p1359_count_all_valid_pickup_and_delivery_options"
 version = "0.1.0"
 
