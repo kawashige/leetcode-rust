@@ -2186,6 +2186,10 @@ name = "p1353_maximum_number_of_events_that_can_be_attended"
 version = "0.1.0"
 
 [[package]]
+name = "p1356_sort_integers_by_the_number_of_1_bits"
+version = "0.1.0"
+
+[[package]]
 name = "p1359_count_all_valid_pickup_and_delivery_options"
 version = "0.1.0"
 
