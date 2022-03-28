@@ -2190,6 +2190,10 @@ name = "p1356_sort_integers_by_the_number_of_1_bits"
 version = "0.1.0"
 
 [[package]]
+name = "p1357_apply_discount_every_n_orders"
+version = "0.1.0"
+
+[[package]]
 name = "p1359_count_all_valid_pickup_and_delivery_options"
 version = "0.1.0"
 
