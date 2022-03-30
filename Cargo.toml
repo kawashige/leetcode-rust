@@ -420,6 +420,7 @@ members = [
     "problems/p1357_apply_discount_every_n_orders",
     "problems/p1358_number_of_substrings_containing_all_three_characters",
     "problems/p1359_count_all_valid_pickup_and_delivery_options",
+    "problems/p1360_number_of_days_between_two_dates",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
