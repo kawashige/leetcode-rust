@@ -550,6 +550,10 @@ name = "p0212_word_search_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p0410_split_array_largest_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p0463_island_perimeter"
 version = "0.1.0"
 
