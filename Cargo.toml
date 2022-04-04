@@ -425,6 +425,7 @@ members = [
     "problems/p1361_validate_binary_tree_nodes",
     "problems/p1362_closest_divisors",
     "problems/p1365_how_many_numbers_are_smaller_than_the_current_number",
+    "problems/p1366_rank_team_by_votes",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

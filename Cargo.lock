@@ -2222,6 +2222,10 @@ name = "p1365_how_many_numbers_are_smaller_than_the_current_number"
 version = "0.1.0"
 
 [[package]]
+name = "p1366_rank_team_by_votes"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
