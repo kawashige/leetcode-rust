@@ -2,6 +2,7 @@
 
 members = [
     "problems",
+    "problems/p0011_containing_with_most_water",
     "problems/p0053_maximum_subarray",
     "problems/p0085_maximum_rectangle",
     "problems/p0097_iterleaving_string",
