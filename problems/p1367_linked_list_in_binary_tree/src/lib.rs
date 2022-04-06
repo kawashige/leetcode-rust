@@ -34,31 +34,32 @@ use std::rc::Rc;
 pub struct Solution {}
 
 impl Solution {
-    pub fn check(
-        head: &Option<Box<ListNode>>,
-        current_head: &Option<Box<ListNode>>,
-        root: &Option<Rc<RefCell<TreeNode>>>,
-    ) -> bool {
-        if let Some(node) = root {
-            let n = node.borrow();
-            if let Some(h) = current_head {
-                if h.val == n.val
-                    && (Self::check(&h.next, &h.next, &n.left)
-                        || Self::check(&h.next, &h.next, &n.right))
-                {
-                    return true;
-                }
-            } else {
-                return true;
+    pub fn check(head: &Option<Box<ListNode>>, root: &Option<Rc<RefCell<TreeNode>>>) -> bool {
+        match (head, root) {
+            (Some(h), Some(r)) => {
+                let n = r.borrow();
+                h.val == n.val && (Self::check(&h.next, &n.left) || Self::check(&h.next, &n.right))
             }
-            Self::check(head, head, &n.left) || Self::check(head, head, &n.right)
+            (None, _) => true,
+            _ => false,
+        }
+    }
+
+    pub fn traverse(head: &Option<Box<ListNode>>, root: &Option<Rc<RefCell<TreeNode>>>) -> bool {
+        if Self::check(&head, &root) {
+            true
         } else {
-            current_head.is_none()
+            if let Some(node) = root {
+                let n = node.borrow();
+                Self::traverse(head, &n.left) || Self::traverse(head, &n.right)
+            } else {
+                false
+            }
         }
     }
 
     pub fn is_sub_path(head: Option<Box<ListNode>>, root: Option<Rc<RefCell<TreeNode>>>) -> bool {
-        Self::check(&head, &head, &root)
+        Self::traverse(&head, &root)
     }
 }
 
