@@ -430,6 +430,7 @@ members = [
     "problems/p1367_linked_list_in_binary_tree",
     "problems/p1370_increasing_decreasing_string",
     "problems/p1371_find_the_longest_substring_containing_vowels_in_even_counts",
+    "problems/p1372_longest_zigzag_path_in_a_binary_tree",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

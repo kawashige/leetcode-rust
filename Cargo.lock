@@ -2242,6 +2242,10 @@ name = "p1371_find_the_longest_substring_containing_vowels_in_even_counts"
 version = "0.1.0"
 
 [[package]]
+name = "p1372_longest_zigzag_path_in_a_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
