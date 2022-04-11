@@ -2250,6 +2250,10 @@ name = "p1374_generate_a_string_with_characters_that_have_odd_counts"
 version = "0.1.0"
 
 [[package]]
+name = "p1375_number_of_times_binary_string_is_prefix_aligned"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
