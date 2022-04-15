@@ -2266,6 +2266,10 @@ name = "p1381_design_a_stack_with_increment_operation"
 version = "0.1.0"
 
 [[package]]
+name = "p1382_balance_a_binary_search_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
