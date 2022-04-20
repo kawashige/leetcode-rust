@@ -2278,6 +2278,10 @@ name = "p1386_cinema_seat_allocation"
 version = "0.1.0"
 
 [[package]]
+name = "p1387_sort_integers_by_the_power_value"
+version = "0.1.0"
+
+[[package]]
 name = "p1389_create_target_array_in_the_given_order"
 version = "0.1.0"
 

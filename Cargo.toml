@@ -439,6 +439,7 @@ members = [
     "problems/p1382_balance_a_binary_search_tree",
     "problems/p1385_find_the_distance_value_between_two_arrays",
     "problems/p1386_cinema_seat_allocation",
+    "problems/p1387_sort_integers_by_the_power_value",
     "problems/p1389_create_target_array_in_the_given_order",
     "problems/p1413_minimum_value_to_get_positive_step_by_step_sum",
     "problems/p1672_richest_customer_wealth",
