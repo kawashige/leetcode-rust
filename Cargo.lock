@@ -2294,6 +2294,10 @@ name = "p1391_check_if_there_is_a_valid_path_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p1394_find_lucky_integer_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
