@@ -2298,6 +2298,10 @@ name = "p1394_find_lucky_integer_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1395_count_number_of_teams"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
