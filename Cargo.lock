@@ -2310,6 +2310,10 @@ name = "p1400_construct_k_palindrome_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1403_minimum_subsequence_in_non_increasing_order"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
