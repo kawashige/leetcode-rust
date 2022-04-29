@@ -2314,6 +2314,10 @@ name = "p1403_minimum_subsequence_in_non_increasing_order"
 version = "0.1.0"
 
 [[package]]
+name = "p1404_number_of_steps_to_reduce_a_number_in_binary_representation_to_one"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
