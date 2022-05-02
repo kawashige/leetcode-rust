@@ -2326,6 +2326,10 @@ name = "p1408_string_matching_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1409_queries_on_a_permutation_with_key"
+version = "0.1.0"
+
+[[package]]
 name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 

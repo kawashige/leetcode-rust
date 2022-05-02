@@ -1,0 +1,8 @@
+[package]
+name = "p1409_queries_on_a_permutation_with_key"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
