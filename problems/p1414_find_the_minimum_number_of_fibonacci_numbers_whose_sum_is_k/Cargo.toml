@@ -1,0 +1,8 @@
+[package]
+name = "p1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

@@ -2338,6 +2338,10 @@ name = "p1413_minimum_value_to_get_positive_step_by_step_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
