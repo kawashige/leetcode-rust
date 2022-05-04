@@ -19,8 +19,8 @@ impl Solution {
                     "&quot;" => s.push('"'),
                     "&apos;" => s.push('\''),
                     "&amp;" => s.push('&'),
-                    "&gt;" => s.push('<'),
-                    "&lt;" => s.push('>'),
+                    "&gt;" => s.push('>'),
+                    "&lt;" => s.push('<'),
                     "&frasl;" => s.push('/'),
                     _ => s += tmp.as_str(),
                 }
