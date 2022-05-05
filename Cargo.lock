@@ -2342,6 +2342,10 @@ name = "p1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k"
 version = "0.1.0"
 
 [[package]]
+name = "p1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
