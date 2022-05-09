@@ -2358,6 +2358,10 @@ name = "p1418_display_table_of_food_orders_in_a_restaurant"
 version = "0.1.0"
 
 [[package]]
+name = "p1422_maximum_score_after_splitting_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
