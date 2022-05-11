@@ -461,6 +461,7 @@ members = [
     "problems/p1418_display_table_of_food_orders_in_a_restaurant",
     "problems/p1419_minimum_number_of_frogs_croaking",
     "problems/p1422_maximum_score_after_splitting_a_string",
+    "problems/p1424_diagonal_traverse_ii",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
