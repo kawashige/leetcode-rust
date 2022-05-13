@@ -463,6 +463,7 @@ members = [
     "problems/p1422_maximum_score_after_splitting_a_string",
     "problems/p1424_diagonal_traverse_ii",
     "problems/p1431_kids_with_the_greatest_number_of_candies",
+    "problems/p1432_max_difference_you_can_get_from_changing_an_integer",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
