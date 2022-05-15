@@ -2378,6 +2378,10 @@ name = "p1432_max_difference_you_can_get_from_changing_an_integer"
 version = "0.1.0"
 
 [[package]]
+name = "p1433_check_if_a_string_can_break_another_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1436_destination_city"
 version = "0.1.0"
 
