@@ -2386,6 +2386,10 @@ name = "p1436_destination_city"
 version = "0.1.0"
 
 [[package]]
+name = "p1441_build_an_array_with_stack_operation"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 

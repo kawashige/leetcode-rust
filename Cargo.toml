@@ -466,6 +466,7 @@ members = [
     "problems/p1432_max_difference_you_can_get_from_changing_an_integer",
     "problems/p1433_check_if_a_string_can_break_another_string",
     "problems/p1436_destination_city",
+    "problems/p1441_build_an_array_with_stack_operation",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
