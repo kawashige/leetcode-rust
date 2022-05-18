@@ -2394,6 +2394,10 @@ name = "p1442_count_triples_that_can_from_two_arrays_of_equal_xor"
 version = "0.1.0"
 
 [[package]]
+name = "p1447_simplified_fractions"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
