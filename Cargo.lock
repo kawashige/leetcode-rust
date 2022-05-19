@@ -2394,6 +2394,10 @@ name = "p1442_count_triples_that_can_from_two_arrays_of_equal_xor"
 version = "0.1.0"
 
 [[package]]
+name = "p1443_minimum_time_to_collect_all_apples_in_a_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p1447_simplified_fractions"
 version = "0.1.0"
 
