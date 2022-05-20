@@ -470,6 +470,7 @@ members = [
     "problems/p1442_count_triples_that_can_from_two_arrays_of_equal_xor",
     "problems/p1443_minimum_time_to_collect_all_apples_in_a_tree",
     "problems/p1447_simplified_fractions",
+    "problems/p1450_number_of_students_doing_homework_at_a_given_time",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

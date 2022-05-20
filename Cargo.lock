@@ -2402,6 +2402,10 @@ name = "p1447_simplified_fractions"
 version = "0.1.0"
 
 [[package]]
+name = "p1450_number_of_students_doing_homework_at_a_given_time"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
