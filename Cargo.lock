@@ -2410,6 +2410,10 @@ name = "p1451_rearrange_words_in_a_sentence"
 version = "0.1.0"
 
 [[package]]
+name = "p1452_people_whose_list_of_favvorite_companies_is_not_a_subset_of_another_list"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
