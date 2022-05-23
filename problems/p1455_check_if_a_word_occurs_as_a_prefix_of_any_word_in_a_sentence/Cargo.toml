@@ -1,0 +1,8 @@
+[package]
+name = "p1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
