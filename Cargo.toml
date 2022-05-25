@@ -7,6 +7,7 @@ members = [
     "problems/p0085_maximum_rectangle",
     "problems/p0097_iterleaving_string",
     "problems/p0134_gas_station",
+    "problems/p0354_russian_doll_envelopes",
     "problems/p0410_split_array_largest_sum",
     "problems/p0456_132_pattern",
     "problems/p0463_island_perimeter",
