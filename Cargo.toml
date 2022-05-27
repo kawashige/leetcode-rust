@@ -477,6 +477,7 @@ members = [
     "problems/p1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence",
     "problems/p1456_maximum_number_of_vowels_in_a_substring_of_given_length",
     "problems/p1460_make_two_arrays_equal_by_reversing_sub_arrays",
+    "problems/p1462_course_schedule_iv",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

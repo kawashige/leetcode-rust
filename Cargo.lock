@@ -2430,6 +2430,10 @@ name = "p1460_make_two_arrays_equal_by_reversing_sub_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p1462_course_schedule_iv"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
