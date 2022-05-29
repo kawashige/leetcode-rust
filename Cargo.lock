@@ -2438,6 +2438,10 @@ name = "p1464_maximum_product_of_two_element_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1466_reorder_routes_to_make_all_paths_load_to_the_city_zero"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
