@@ -2450,6 +2450,10 @@ name = "p1471_the_k_strongest_values_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1472_design_browser_history"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
