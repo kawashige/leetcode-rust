@@ -2462,6 +2462,10 @@ name = "p1476_subrectabgle_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p1477_find_two_non_overlapping_sub_arrays_each_with_target_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
