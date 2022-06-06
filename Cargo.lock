@@ -2470,6 +2470,10 @@ name = "p1481_least_number_of_unique_integers_after_k_removals"
 version = "0.1.0"
 
 [[package]]
+name = "p1482_minimum_number_of_days_to_make_m_bouquets"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
