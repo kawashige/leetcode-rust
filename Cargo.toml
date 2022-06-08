@@ -489,6 +489,7 @@ members = [
     "problems/p1481_least_number_of_unique_integers_after_k_removals",
     "problems/p1482_minimum_number_of_days_to_make_m_bouquets",
     "problems/p1486_xor_operation_in_an_array",
+    "problems/p1487_making_file_names_unique",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

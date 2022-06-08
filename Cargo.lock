@@ -2478,6 +2478,10 @@ name = "p1486_xor_operation_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1487_making_file_names_unique"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
