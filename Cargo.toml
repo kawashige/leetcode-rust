@@ -491,6 +491,7 @@ members = [
     "problems/p1486_xor_operation_in_an_array",
     "problems/p1487_making_file_names_unique",
     "problems/p1488_avoid_flood_in_the_city",
+    "problems/p1491_average_salary_excluding_minimum_and_maximum_salary",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
