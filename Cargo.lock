@@ -2490,6 +2490,10 @@ name = "p1491_average_salary_excluding_minimum_and_maximum_salary"
 version = "0.1.0"
 
 [[package]]
+name = "p1493_longest_subarray_of_1s_after_deleting_one_element"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
