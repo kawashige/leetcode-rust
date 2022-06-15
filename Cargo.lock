@@ -2494,6 +2494,10 @@ name = "p1493_longest_subarray_of_1s_after_deleting_one_element"
 version = "0.1.0"
 
 [[package]]
+name = "p1496_path_crossing"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
