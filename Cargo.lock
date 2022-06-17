@@ -2502,6 +2502,10 @@ name = "p1497_check_if_array_pairs_are_divisible_by_k"
 version = "0.1.0"
 
 [[package]]
+name = "p1498_number_of_subsequences_that_satisfy_the_given_sum_condition"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
