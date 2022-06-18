@@ -1,0 +1,8 @@
+[package]
+name = "p1502_can_make_arithmetic_pregresssion_from_sequence"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
