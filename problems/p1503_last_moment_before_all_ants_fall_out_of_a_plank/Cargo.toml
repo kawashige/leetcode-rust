@@ -1,0 +1,8 @@
+[package]
+name = "p1503_last_moment_before_all_ants_fall_out_of_a_plank"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
