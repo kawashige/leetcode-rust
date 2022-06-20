@@ -498,6 +498,7 @@ members = [
     "problems/p1498_number_of_subsequences_that_satisfy_the_given_sum_condition",
     "problems/p1502_can_make_arithmetic_pregresssion_from_sequence",
     "problems/p1503_last_moment_before_all_ants_fall_out_of_a_plank",
+    "problems/p1504_count_submatrices_with_all_ones",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

@@ -2514,6 +2514,10 @@ name = "p1503_last_moment_before_all_ants_fall_out_of_a_plank"
 version = "0.1.0"
 
 [[package]]
+name = "p1504_count_submatrices_with_all_ones"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
