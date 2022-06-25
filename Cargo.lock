@@ -2534,6 +2534,10 @@ name = "p1512_number_of_good_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p1513_number_of_substrings_withn_only_1s"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
