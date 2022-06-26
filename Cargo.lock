@@ -2538,6 +2538,10 @@ name = "p1513_number_of_substrings_withn_only_1s"
 version = "0.1.0"
 
 [[package]]
+name = "p1514_path_with_maximum_probability"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
