@@ -505,6 +505,7 @@ members = [
     "problems/p1512_number_of_good_pairs",
     "problems/p1513_number_of_substrings_withn_only_1s",
     "problems/p1514_path_with_maximum_probability",
+    "problems/p1518_water_bottles",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

@@ -2542,6 +2542,10 @@ name = "p1514_path_with_maximum_probability"
 version = "0.1.0"
 
 [[package]]
+name = "p1518_water_bottles"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
