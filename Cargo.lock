@@ -2546,6 +2546,10 @@ name = "p1518_water_bottles"
 version = "0.1.0"
 
 [[package]]
+name = "p1519_number_of_nodes_in_the_sub_tree_with_the_same_label"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
