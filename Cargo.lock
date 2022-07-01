@@ -2554,6 +2554,10 @@ name = "p1523_count_odd_numbers_in_an_interval_range"
 version = "0.1.0"
 
 [[package]]
+name = "p1524_number_of_sub_arrays_with_odd_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
