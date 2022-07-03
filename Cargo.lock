@@ -2562,6 +2562,10 @@ name = "p1525_number_of_good_ways_to_split_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1528_shuffle_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
