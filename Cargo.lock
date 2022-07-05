@@ -2570,6 +2570,10 @@ name = "p1529_minimum_suffix_flips"
 version = "0.1.0"
 
 [[package]]
+name = "p1530_number_of_good_leaf_node_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 

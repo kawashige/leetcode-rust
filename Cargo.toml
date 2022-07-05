@@ -512,6 +512,7 @@ members = [
     "problems/p1525_number_of_good_ways_to_split_a_string",
     "problems/p1528_shuffle_string",
     "problems/p1529_minimum_suffix_flips",
+    "problems/p1530_number_of_good_leaf_node_pairs",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
