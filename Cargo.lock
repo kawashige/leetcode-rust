@@ -2578,6 +2578,10 @@ name = "p1534_count_good_triplets"
 version = "0.1.0"
 
 [[package]]
+name = "p1535_find_the_winner_of_an_array_game"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
