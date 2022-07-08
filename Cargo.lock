@@ -2454,6 +2454,10 @@ name = "p1472_design_browser_history"
 version = "0.1.0"
 
 [[package]]
+name = "p1473_paint_house_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p1475_final_prices_with_a_special_discount_in_a_shop"
 version = "0.1.0"
 

@@ -483,6 +483,7 @@ members = [
     "problems/p1470_shuffle_the_array",
     "problems/p1471_the_k_strongest_values_in_an_array",
     "problems/p1472_design_browser_history",
+    "problems/p1473_paint_house_iii",
     "problems/p1475_final_prices_with_a_special_discount_in_a_shop",
     "problems/p1476_subrectabgle_queries",
     "problems/p1477_find_two_non_overlapping_sub_arrays_each_with_target_sum",
