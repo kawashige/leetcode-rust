@@ -2586,6 +2586,10 @@ name = "p1535_find_the_winner_of_an_array_game"
 version = "0.1.0"
 
 [[package]]
+name = "p1536_minimum_swaps_to_arrange_a_binary_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
