@@ -2590,6 +2590,10 @@ name = "p1536_minimum_swaps_to_arrange_a_binary_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p1540_can_convert_string_in_k_moves"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 

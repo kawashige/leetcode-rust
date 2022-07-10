@@ -517,6 +517,7 @@ members = [
     "problems/p1534_count_good_triplets",
     "problems/p1535_find_the_winner_of_an_array_game",
     "problems/p1536_minimum_swaps_to_arrange_a_binary_grid",
+    "problems/p1540_can_convert_string_in_k_moves",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
