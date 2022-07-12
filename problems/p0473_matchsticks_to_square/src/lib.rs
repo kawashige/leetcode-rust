@@ -1,31 +1,28 @@
 pub struct Solution {}
 
-use std::collections::HashSet;
 impl Solution {
-    pub fn makesquare(mut nums: Vec<i32>) -> bool {
-        fn recurse(nums: &Vec<i32>, selected: &mut HashSet<usize>, target: i32) -> bool {
-            for i in 0..nums.len() {
-                if selected.contains(&i) {
-                    continue;
-                }
-                if target < nums[i] {
-                    return false;
-                }
-
-                selected.insert(i);
-                if nums[i] == target {
-                    return true;
-                } else {
-                    if recurse(nums, selected, target - nums[i]) {
-                        return true;
-                    } else {
-                        selected.remove(&i);
-                    }
-                }
-            }
-            false
+    pub fn recurse(i: usize, nums: &Vec<i32>, target: i32, sides: &mut [i32; 4]) -> bool {
+        if i == nums.len() {
+            return true;
         }
 
+        if target < nums[i] {
+            return false;
+        }
+
+        for j in 0..sides.len() {
+            if sides[j] + nums[i] <= target {
+                sides[j] += nums[i];
+                if Self::recurse(i + 1, nums, target, sides) {
+                    return true;
+                }
+                sides[j] -= nums[i];
+            }
+        }
+        false
+    }
+
+    pub fn makesquare(mut nums: Vec<i32>) -> bool {
         if nums.len() < 4 {
             return false;
         }
@@ -36,21 +33,9 @@ impl Solution {
         }
 
         let edge_length = sum_length / 4;
-        nums.sort();
-        nums.reverse();
-        for _ in 0..4 {
-            let mut selected = HashSet::new();
-            if !recurse(&nums, &mut selected, edge_length) {
-                return false;
-            }
-            nums = nums
-                .into_iter()
-                .enumerate()
-                .filter(|(i, _)| !selected.contains(i))
-                .map(|(_, v)| v)
-                .collect();
-        }
-        true
+        let mut sides = [0; 4];
+        nums.sort_unstable_by(|a, b| b.cmp(&a));
+        Self::recurse(0, &nums, edge_length, &mut sides)
     }
 }
 
@@ -60,6 +45,12 @@ mod test {
 
     #[test]
     fn test_0473() {
+        assert!(!Solution::makesquare(vec![
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 102
+        ]));
+        assert!(Solution::makesquare(vec![
+            13, 11, 1, 8, 6, 7, 8, 8, 6, 7, 8, 9, 8
+        ]));
         assert!(Solution::makesquare(vec![
             5, 5, 5, 5, 4, 4, 4, 4, 3, 3, 3, 3
         ]));
