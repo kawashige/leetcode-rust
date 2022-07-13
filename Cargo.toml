@@ -519,6 +519,7 @@ members = [
     "problems/p1536_minimum_swaps_to_arrange_a_binary_grid",
     "problems/p1540_can_convert_string_in_k_moves",
     "problems/p1541_minimum_insertions_to_balance_a_parentheses_string",
+    "problems/p1544_make_the_string_great",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",

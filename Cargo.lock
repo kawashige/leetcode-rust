@@ -2598,6 +2598,10 @@ name = "p1541_minimum_insertions_to_balance_a_parentheses_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1544_make_the_string_great"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
