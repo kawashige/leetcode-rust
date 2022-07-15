@@ -521,6 +521,7 @@ members = [
     "problems/p1541_minimum_insertions_to_balance_a_parentheses_string",
     "problems/p1544_make_the_string_great",
     "problems/p1545_find_kth_bit_in_nth_binary_string",
+    "problems/p1546_maximum_number_of_non_overlapping_subarrays_with_sum_equals_target",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
