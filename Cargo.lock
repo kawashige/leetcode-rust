@@ -2610,6 +2610,10 @@ name = "p1546_maximum_number_of_non_overlapping_subarrays_with_sum_equals_target
 version = "0.1.0"
 
 [[package]]
+name = "p1550_three_cosecutive_odds"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
