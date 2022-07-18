@@ -2614,6 +2614,10 @@ name = "p1550_three_cosecutive_odds"
 version = "0.1.0"
 
 [[package]]
+name = "p1552_magnetic_force_between_two_balls"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
