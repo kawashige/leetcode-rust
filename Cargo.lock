@@ -2626,6 +2626,10 @@ name = "p1557_minimum_number_of_vertices_to_reach_all_nodes"
 version = "0.1.0"
 
 [[package]]
+name = "p1558_minimum_number_of_function_calls_to_make_target_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 

@@ -1,0 +1,8 @@
+[package]
+name = "p1558_minimum_number_of_function_calls_to_make_target_array"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
