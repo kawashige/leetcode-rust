@@ -528,6 +528,7 @@ members = [
     "problems/p1557_minimum_number_of_vertices_to_reach_all_nodes",
     "problems/p1558_minimum_number_of_function_calls_to_make_target_array",
     "problems/p1559_detect_cycles_in_2d_grid",
+    "problems/p1560_most_visited_sector_in_a_circular_track",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
