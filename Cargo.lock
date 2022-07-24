@@ -2638,6 +2638,10 @@ name = "p1560_most_visited_sector_in_a_circular_track"
 version = "0.1.0"
 
 [[package]]
+name = "p1561_maximum_number_of_coins_you_can_get"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
