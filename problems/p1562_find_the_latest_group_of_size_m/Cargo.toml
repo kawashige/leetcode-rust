@@ -1,0 +1,8 @@
+[package]
+name = "p1562_find_the_latest_group_of_size_m"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

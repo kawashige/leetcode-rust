@@ -2642,6 +2642,10 @@ name = "p1561_maximum_number_of_coins_you_can_get"
 version = "0.1.0"
 
 [[package]]
+name = "p1562_find_the_latest_group_of_size_m"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
