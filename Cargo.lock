@@ -2646,6 +2646,10 @@ name = "p1562_find_the_latest_group_of_size_m"
 version = "0.1.0"
 
 [[package]]
+name = "p1566_detect_petern_of_length_m_repeated_k_or_more_times"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
