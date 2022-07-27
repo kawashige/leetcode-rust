@@ -532,6 +532,7 @@ members = [
     "problems/p1561_maximum_number_of_coins_you_can_get",
     "problems/p1562_find_the_latest_group_of_size_m",
     "problems/p1566_detect_petern_of_length_m_repeated_k_or_more_times",
+    "problems/p1567_maximum_length_of_subarray_with_positive_product",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",

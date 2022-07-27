@@ -2650,6 +2650,10 @@ name = "p1566_detect_petern_of_length_m_repeated_k_or_more_times"
 version = "0.1.0"
 
 [[package]]
+name = "p1567_maximum_length_of_subarray_with_positive_product"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
