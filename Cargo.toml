@@ -534,6 +534,7 @@ members = [
     "problems/p1566_detect_petern_of_length_m_repeated_k_or_more_times",
     "problems/p1567_maximum_length_of_subarray_with_positive_product",
     "problems/p1572_matrix_diagonal_sum",
+    "problems/p1573_number_of_ways_to_split_a_string",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
