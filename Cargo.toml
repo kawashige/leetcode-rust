@@ -538,6 +538,7 @@ members = [
     "problems/p1574_shortest_subarray_to_be_removed_to_make_array_sorted",
     "problems/p1576_replace_all_s_to_avoid_consecutive_repeating_charaters",
     "problems/p1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers",
+    "problems/p1578_minimum_time_to_make_rope_colorful",
     "problems/p1584_min_cost_connect_all_points",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
