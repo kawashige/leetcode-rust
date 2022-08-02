@@ -17,10 +17,6 @@ impl Solution {
                 sum_cost = needed_time[i];
                 prev_color = *b;
             }
-            println!(
-                "{}: sum_cost: {}, min_cost: {}, total_cost: {}",
-                i, sum_cost, max_cost, total_cost
-            );
         }
 
         total_cost + sum_cost - max_cost
