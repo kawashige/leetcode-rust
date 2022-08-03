@@ -2678,6 +2678,10 @@ name = "p1578_minimum_time_to_make_rope_colorful"
 version = "0.1.0"
 
 [[package]]
+name = "p1582_special_positions_in_a_binary_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
