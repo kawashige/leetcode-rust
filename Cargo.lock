@@ -2682,6 +2682,10 @@ name = "p1582_special_positions_in_a_binary_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p1583_count_unhappy_friends"
+version = "0.1.0"
+
+[[package]]
 name = "p1584_min_cost_connect_all_points"
 version = "0.1.0"
 
