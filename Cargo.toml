@@ -542,6 +542,7 @@ members = [
     "problems/p1582_special_positions_in_a_binary_matrix",
     "problems/p1583_count_unhappy_friends",
     "problems/p1584_min_cost_connect_all_points",
+    "problems/p1588_sum_of_all_odd_length_subarrays",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
