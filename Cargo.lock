@@ -2698,6 +2698,10 @@ name = "p1589_maximum_sum_obtained_of_any_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "p1590_make_sum_divisible_by_p"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
