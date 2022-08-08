@@ -2702,6 +2702,10 @@ name = "p1590_make_sum_divisible_by_p"
 version = "0.1.0"
 
 [[package]]
+name = "p1592_rearrange_spaces_between_words"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
