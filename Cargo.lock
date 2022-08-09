@@ -2706,6 +2706,10 @@ name = "p1592_rearrange_spaces_between_words"
 version = "0.1.0"
 
 [[package]]
+name = "p1593_split_a_string_into_the_max_number_of_unique_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
