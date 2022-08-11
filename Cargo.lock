@@ -2714,6 +2714,10 @@ name = "p1594_maximum_non_negative_product_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p1598_crawler_log_folder"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 

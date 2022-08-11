@@ -548,6 +548,7 @@ members = [
     "problems/p1592_rearrange_spaces_between_words",
     "problems/p1593_split_a_string_into_the_max_number_of_unique_substring",
     "problems/p1594_maximum_non_negative_product_in_a_matrix",
+    "problems/p1598_crawler_log_folder",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
