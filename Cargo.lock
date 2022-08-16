@@ -2734,6 +2734,10 @@ name = "p1600_throne_inheritance"
 version = "0.1.0"
 
 [[package]]
+name = "p1603_design_parking_system"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
