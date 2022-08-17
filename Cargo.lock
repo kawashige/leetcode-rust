@@ -2738,6 +2738,10 @@ name = "p1603_design_parking_system"
 version = "0.1.0"
 
 [[package]]
+name = "p1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
