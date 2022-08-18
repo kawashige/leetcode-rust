@@ -24,7 +24,6 @@ impl Solution {
                 }
                 _ => break,
             }
-            println!("{:?}", result);
         }
 
         result
