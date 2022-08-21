@@ -558,6 +558,7 @@ members = [
     "problems/p1605_find_valid_matrix_given_row_and_column_sums",
     "problems/p1608_special_array_with_x_elements_greater_than_or_equal_x",
     "problems/p1609_even_odd_tree",
+    "problems/p1614_maximum_nesting_depth_of_the_parentheses",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

@@ -2754,6 +2754,10 @@ name = "p1609_even_odd_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p1614_maximum_nesting_depth_of_the_parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
