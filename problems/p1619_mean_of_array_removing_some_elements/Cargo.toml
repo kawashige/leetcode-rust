@@ -1,0 +1,8 @@
+[package]
+name = "p1619_mean_of_array_removing_some_elements"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
