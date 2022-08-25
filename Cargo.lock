@@ -2770,6 +2770,10 @@ name = "p1619_mean_of_array_removing_some_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p1620_coodinate_with_maximum_network_quality"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
