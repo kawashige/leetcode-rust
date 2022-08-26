@@ -563,6 +563,7 @@ members = [
     "problems/p1616_split_two_strings_to_make_palindrome",
     "problems/p1619_mean_of_array_removing_some_elements",
     "problems/p1620_coodinate_with_maximum_network_quality",
+    "problems/p1621_number_of_sets_of_k_non_overlappin_line_segments",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

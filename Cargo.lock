@@ -2774,6 +2774,10 @@ name = "p1620_coodinate_with_maximum_network_quality"
 version = "0.1.0"
 
 [[package]]
+name = "p1621_number_of_sets_of_k_non_overlappin_line_segments"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
