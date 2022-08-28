@@ -2782,6 +2782,10 @@ name = "p1624_largest_substring_between_two_equal_characters"
 version = "0.1.0"
 
 [[package]]
+name = "p1625_lexicographically_smallest_string_after_applying_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
