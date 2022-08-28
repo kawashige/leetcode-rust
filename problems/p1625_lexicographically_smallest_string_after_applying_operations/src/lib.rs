@@ -33,8 +33,6 @@ impl Solution {
             candidate.push(rotated);
         }
 
-        println!("{:?}", generated);
-
         generated.into_iter().min().unwrap()
     }
 }
