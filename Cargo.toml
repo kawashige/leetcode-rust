@@ -566,6 +566,7 @@ members = [
     "problems/p1621_number_of_sets_of_k_non_overlappin_line_segments",
     "problems/p1624_largest_substring_between_two_equal_characters",
     "problems/p1625_lexicographically_smallest_string_after_applying_operations",
+    "problems/p1626_best_team_with_no_conflicts",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",

@@ -2786,6 +2786,10 @@ name = "p1625_lexicographically_smallest_string_after_applying_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p1626_best_team_with_no_conflicts"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
