@@ -5,8 +5,6 @@ impl Solution {
         let mut prayers = ages.into_iter().zip(scores.into_iter()).collect::<Vec<_>>();
         prayers.sort_unstable();
 
-        println!("{:?}", prayers);
-
         let mut dp = vec![0; prayers.len()];
         dp[0] = prayers[0].1;
 
@@ -18,8 +16,6 @@ impl Solution {
                 }
             }
         }
-
-        println!("dp: {:?}", dp);
 
         dp.into_iter().max().unwrap()
     }
