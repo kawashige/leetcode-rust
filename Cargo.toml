@@ -568,6 +568,7 @@ members = [
     "problems/p1625_lexicographically_smallest_string_after_applying_operations",
     "problems/p1626_best_team_with_no_conflicts",
     "problems/p1630_arithmetic_subarrays",
+    "problems/p1636_sort_array_by_increasing_frequency",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
