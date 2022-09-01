@@ -1,0 +1,8 @@
+[package]
+name = "p1637_widest_vertical_area_between_two_points_containing_no_points"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
