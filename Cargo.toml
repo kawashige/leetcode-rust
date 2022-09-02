@@ -570,6 +570,7 @@ members = [
     "problems/p1630_arithmetic_subarrays",
     "problems/p1636_sort_array_by_increasing_frequency",
     "problems/p1637_widest_vertical_area_between_two_points_containing_no_points",
+    "problems/p1652_defuse_the_bomb",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
