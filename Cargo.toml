@@ -570,6 +570,7 @@ members = [
     "problems/p1630_arithmetic_subarrays",
     "problems/p1636_sort_array_by_increasing_frequency",
     "problems/p1637_widest_vertical_area_between_two_points_containing_no_points",
+    "problems/p1638_count_substrings_that_differ_by_one_character",
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1652_defuse_the_bomb",
     "problems/p1656_design_an_orderd_stream",

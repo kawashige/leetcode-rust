@@ -2802,6 +2802,10 @@ name = "p1637_widest_vertical_area_between_two_points_containing_no_points"
 version = "0.1.0"
 
 [[package]]
+name = "p1638_count_substrings_that_differ_by_one_character"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
