@@ -2818,6 +2818,10 @@ name = "p1652_defuse_the_bomb"
 version = "0.1.0"
 
 [[package]]
+name = "p1653_minimum_deletions_to_make_string_balance"
+version = "0.1.0"
+
+[[package]]
 name = "p1656_design_an_orderd_stream"
 version = "0.1.0"
 

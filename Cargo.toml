@@ -574,6 +574,7 @@ members = [
     "problems/p1647_minimum_deletion_to_make_character_frequencies_unique",
     "problems/p1648_sell_diminishing_valued_colored_balls",
     "problems/p1652_defuse_the_bomb",
+    "problems/p1653_minimum_deletions_to_make_string_balance",
     "problems/p1656_design_an_orderd_stream",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
