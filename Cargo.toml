@@ -577,6 +577,7 @@ members = [
     "problems/p1653_minimum_deletions_to_make_string_balance",
     "problems/p1654_minimum_jumps_to_reach_home",
     "problems/p1656_design_an_orderd_stream",
+    "problems/p1664_ways_to_make_a_fair_array",
     "problems/p1672_richest_customer_wealth",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
