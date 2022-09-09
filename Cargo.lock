@@ -2838,6 +2838,10 @@ name = "p1672_richest_customer_wealth"
 version = "0.1.0"
 
 [[package]]
+name = "p1996_the_number_of_week_characters_in_the_game"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
