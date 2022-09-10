@@ -2834,6 +2834,10 @@ name = "p1664_ways_to_make_a_fair_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1668_maximum_repeating_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1672_richest_customer_wealth"
 version = "0.1.0"
 
