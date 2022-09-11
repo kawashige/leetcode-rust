@@ -580,6 +580,7 @@ members = [
     "problems/p1664_ways_to_make_a_fair_array",
     "problems/p1672_richest_customer_wealth",
     "problems/p1668_maximum_repeating_substring",
+    "problems/p1669_merge_in_between_linked_lists",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
