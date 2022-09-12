@@ -2842,6 +2842,10 @@ name = "p1669_merge_in_between_linked_lists"
 version = "0.1.0"
 
 [[package]]
+name = "p1670_design_front_middle_bacK_queue"
+version = "0.1.0"
+
+[[package]]
 name = "p1672_richest_customer_wealth"
 version = "0.1.0"
 
