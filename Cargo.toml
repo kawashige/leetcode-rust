@@ -583,6 +583,7 @@ members = [
     "problems/p1669_merge_in_between_linked_lists",
     "problems/p1670_design_front_middle_bacK_queue",
     "problems/p1674_minimum_moves_to_make_array_complementary",
+    "problems/p1678_goal_parser_interpretation",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",

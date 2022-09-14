@@ -2854,6 +2854,10 @@ name = "p1674_minimum_moves_to_make_array_complementary"
 version = "0.1.0"
 
 [[package]]
+name = "p1678_goal_parser_interpretation"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
