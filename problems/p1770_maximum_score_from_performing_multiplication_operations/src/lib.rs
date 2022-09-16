@@ -2,33 +2,16 @@ pub struct Solution {}
 
 impl Solution {
     pub fn maximum_score(nums: Vec<i32>, multipliers: Vec<i32>) -> i32 {
-        let mut dp = vec![vec![std::i32::MIN; nums.len()]; nums.len()];
-        dp[0][nums.len() - 1] = 0;
+        let mut dp = vec![vec![0; nums.len() + 1]; multipliers.len() + 1];
 
-        let mut result = std::i32::MIN;
-        for i in 0..multipliers.len() {
-            for j in 0..=i {
-                let left = j;
-                let right = nums.len() - 1 - (i - j);
-
-                if left + 1 < nums.len() {
-                    dp[left + 1][right] =
-                        dp[left + 1][right].max(dp[left][right] + multipliers[i] * nums[left]);
-                    if i == multipliers.len() - 1 {
-                        result = result.max(dp[left + 1][right]);
-                    }
-                }
-                if 0 < right {
-                    dp[left][right - 1] =
-                        dp[left][right - 1].max(dp[left][right] + multipliers[i] * nums[right]);
-                    if i == multipliers.len() - 1 {
-                        result = result.max(dp[left][right - 1]);
-                    }
-                }
+        for i in (0..multipliers.len()).rev() {
+            for j in (0..=i).rev() {
+                dp[i][j] = (dp[i + 1][j + 1] + nums[j] * multipliers[i])
+                    .max(dp[i + 1][j] + nums[nums.len() - 1 - (i - j)] * multipliers[i]);
             }
         }
 
-        result
+        dp[0][0]
     }
 }
 
