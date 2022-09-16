@@ -2858,6 +2858,10 @@ name = "p1678_goal_parser_interpretation"
 version = "0.1.0"
 
 [[package]]
+name = "p1770_maximum_score_from_performing_multiplication_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
