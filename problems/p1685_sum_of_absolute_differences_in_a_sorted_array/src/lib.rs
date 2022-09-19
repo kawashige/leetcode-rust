@@ -8,8 +8,6 @@ impl Solution {
             acc[i] += acc[i - 1] + nums[i];
         }
 
-        println!("{:?}", acc);
-
         (0..nums.len())
             .map(|i| {
                 let mut diff = 0;
