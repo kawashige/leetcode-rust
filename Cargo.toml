@@ -586,6 +586,7 @@ members = [
     "problems/p1678_goal_parser_interpretation",
     "problems/p1684_count_the_number_of_consistent_strings",
     "problems/p1685_sum_of_absolute_differences_in_a_sorted_array",
+    "problems/p1686_stone_game_vi",
     "problems/p1770_maximum_score_from_performing_multiplication_operations",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",

@@ -2866,6 +2866,10 @@ name = "p1685_sum_of_absolute_differences_in_a_sorted_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1686_stone_game_vi"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
