@@ -592,6 +592,7 @@ members = [
     "problems/p1700_number_of_students_unable_to_eat_lunch",
     "problems/p1701_average_waiting_time",
     "problems/p1702_maximum_binary_string_after_change",
+    "problems/p1705_maximum_number_of_eaten_apples",
     "problems/p1770_maximum_score_from_performing_multiplication_operations",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
