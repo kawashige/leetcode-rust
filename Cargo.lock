@@ -2894,6 +2894,10 @@ name = "p1705_maximum_number_of_eaten_apples"
 version = "0.1.0"
 
 [[package]]
+name = "p1706_where_will_the_ball_fall"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
