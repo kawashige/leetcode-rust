@@ -2906,6 +2906,10 @@ name = "p1716_calculate_money_in_leetcode_bank"
 version = "0.1.0"
 
 [[package]]
+name = "p1720_decode_xored_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 

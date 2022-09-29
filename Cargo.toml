@@ -596,6 +596,7 @@ members = [
     "problems/p1706_where_will_the_ball_fall",
     "problems/p1711_count_good_meals",
     "problems/p1716_calculate_money_in_leetcode_bank",
+    "problems/p1720_decode_xored_array",
     "problems/p1770_maximum_score_from_performing_multiplication_operations",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
