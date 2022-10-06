@@ -2902,7 +2902,7 @@ name = "p1711_count_good_meals"
 version = "0.1.0"
 
 [[package]]
-name = "p1716_calculate_money_in_leetcode_bank"
+name = "p1718_construct_the_lexicographically_largest_valid_subsequence"
 version = "0.1.0"
 
 [[package]]
