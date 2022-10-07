@@ -147,6 +147,7 @@ members = [
     "problems/p0728_self_dividing_numbers",
     "problems/p0729_my_calendar_i",
     "problems/p0731_my_calendar_ii",
+    "problems/p0732_my_calendar_iii",
     "problems/p0733_flood_fill",
     "problems/p0738_monotone_increasing_digits",
     "problems/p0739_daily_temperatures",
