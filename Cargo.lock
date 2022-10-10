@@ -2910,6 +2910,10 @@ name = "p1711_count_good_meals"
 version = "0.1.0"
 
 [[package]]
+name = "p1712_ways_to_split_array_into_three_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p1717_minimum_score4_from_removing_substring"
 version = "0.1.0"
 
