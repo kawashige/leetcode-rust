@@ -518,6 +518,7 @@ members = [
     "problems/p1528_shuffle_string",
     "problems/p1529_minimum_suffix_flips",
     "problems/p1530_number_of_good_leaf_node_pairs",
+    "problems/p1531_string_compression_ii",
     "problems/p1534_count_good_triplets",
     "problems/p1535_find_the_winner_of_an_array_game",
     "problems/p1536_minimum_swaps_to_arrange_a_binary_grid",

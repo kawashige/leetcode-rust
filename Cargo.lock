@@ -2594,6 +2594,10 @@ name = "p1530_number_of_good_leaf_node_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p1531_string_compression_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p1534_count_good_triplets"
 version = "0.1.0"
 
