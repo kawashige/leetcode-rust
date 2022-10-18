@@ -2946,6 +2946,10 @@ name = "p1726_tuple_with_same_product"
 version = "0.1.0"
 
 [[package]]
+name = "p1727_largest_submatrix_with_rearrangements"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
