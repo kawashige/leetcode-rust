@@ -608,6 +608,7 @@ members = [
     "problems/p1726_tuple_with_same_product",
     "problems/p1770_maximum_score_from_performing_multiplication_operations",
     "problems/p1727_largest_submatrix_with_rearrangements",
+    "problems/p1732_find_the_highest_attitude",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
