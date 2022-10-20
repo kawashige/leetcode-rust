@@ -2954,6 +2954,10 @@ name = "p1732_find_the_highest_attitude"
 version = "0.1.0"
 
 [[package]]
+name = "p1733_minimum_number_of_people_to_teach"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
