@@ -2962,6 +2962,10 @@ name = "p1734_decode_xored_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "p1736_latest_time_by_replacing_hidden_digits"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
