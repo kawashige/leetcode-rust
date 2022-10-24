@@ -21,8 +21,6 @@ impl Solution {
             }
         }
 
-        println!("{:?}", xor_values);
-
         xor_values.sort_unstable_by(|a, b| b.cmp(&a));
         xor_values[k as usize - 1]
     }
