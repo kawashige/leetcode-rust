@@ -2966,6 +2966,10 @@ name = "p1736_latest_time_by_replacing_hidden_digits"
 version = "0.1.0"
 
 [[package]]
+name = "p1737_change_minimum_characters_to_satisfy_one_of_three_conditions"
+version = "0.1.0"
+
+[[package]]
 name = "p1738_find_the_largest_xor_coodinate_value"
 version = "0.1.0"
 

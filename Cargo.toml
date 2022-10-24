@@ -612,6 +612,7 @@ members = [
     "problems/p1733_minimum_number_of_people_to_teach",
     "problems/p1734_decode_xored_permutation",
     "problems/p1736_latest_time_by_replacing_hidden_digits",
+    "problems/p1737_change_minimum_characters_to_satisfy_one_of_three_conditions",
     "problems/p1738_find_the_largest_xor_coodinate_value",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
