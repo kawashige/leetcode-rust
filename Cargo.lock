@@ -2978,6 +2978,10 @@ name = "p1742_maximum_number_of_balls_in_a_box"
 version = "0.1.0"
 
 [[package]]
+name = "p1743_restore_the_array_from_adjacent_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
