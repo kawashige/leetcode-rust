@@ -1322,6 +1322,10 @@ name = "p0833_find_and_replace_in_string"
 version = "0.1.0"
 
 [[package]]
+name = "p0835_image_overlap"
+version = "0.1.0"
+
+[[package]]
 name = "p0836_rectangle_overlap"
 version = "0.1.0"
 
