@@ -622,6 +622,7 @@ members = [
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
+    "problems/p2136_earliest_possible_day_of_full_bloom",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

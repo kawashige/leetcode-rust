@@ -1,0 +1,8 @@
+[package]
+name = "p2136_earliest_possible_day_of_full_bloom"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
