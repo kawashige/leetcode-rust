@@ -2986,6 +2986,10 @@ name = "p1743_restore_the_array_from_adjacent_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p1744_can_you_eat_your_favorite_candy_on_your_favorite_day"
+version = "0.1.0"
+
+[[package]]
 name = "p1748_sum_of_unique_elements"
 version = "0.1.0"
 

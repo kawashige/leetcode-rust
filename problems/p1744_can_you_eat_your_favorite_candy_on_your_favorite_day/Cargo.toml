@@ -1,0 +1,8 @@
+[package]
+name = "p1744_can_you_eat_your_favorite_candy_on_your_favorite_day"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
