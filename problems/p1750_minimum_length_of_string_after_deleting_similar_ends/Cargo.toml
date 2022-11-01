@@ -1,0 +1,8 @@
+[package]
+name = "p1750_minimum_length_of_string_after_deleting_similar_ends"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
