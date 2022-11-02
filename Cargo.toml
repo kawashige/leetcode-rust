@@ -621,6 +621,7 @@ members = [
     "problems/p1748_sum_of_unique_elements",
     "problems/p1749_maximum_absolute_sum_of_any_subarray",
     "problems/p1750_minimum_length_of_string_after_deleting_similar_ends",
+    "problems/p1752_check_if_array_is_sorted_and_roated",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
