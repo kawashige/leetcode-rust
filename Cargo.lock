@@ -3010,6 +3010,10 @@ name = "p1753_maximum_score_from_removing_stones"
 version = "0.1.0"
 
 [[package]]
+name = "p1754_largest_merge_of_two_strings"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
