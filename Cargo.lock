@@ -3014,6 +3014,10 @@ name = "p1754_largest_merge_of_two_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1759_count_number_of_homogenous_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 

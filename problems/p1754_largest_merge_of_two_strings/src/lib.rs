@@ -6,7 +6,7 @@ impl Solution {
         let mut i1 = 0;
         let mut i2 = 0;
 
-        while i1 < word1.len() || i2 < word2.len() {
+        while i1 < word1.len() && i2 < word2.len() {
             if &word1[i1..] < &word2[i2..] {
                 merge.push(word2.as_bytes()[i2] as char);
                 i2 += 1

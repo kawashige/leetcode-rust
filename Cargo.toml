@@ -624,6 +624,7 @@ members = [
     "problems/p1752_check_if_array_is_sorted_and_roated",
     "problems/p1753_maximum_score_from_removing_stones",
     "problems/p1754_largest_merge_of_two_strings",
+    "problems/p1759_count_number_of_homogenous_substrings",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
