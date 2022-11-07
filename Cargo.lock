@@ -3014,6 +3014,10 @@ name = "p1754_largest_merge_of_two_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1758_minimum_changes_to_make_alternating_binary_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1759_count_number_of_homogenous_substrings"
 version = "0.1.0"
 
