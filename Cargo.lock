@@ -3022,6 +3022,10 @@ name = "p1759_count_number_of_homogenous_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p1760_minimum_limit_of_balls_in_a_bag"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
