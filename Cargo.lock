@@ -3026,6 +3026,10 @@ name = "p1760_minimum_limit_of_balls_in_a_bag"
 version = "0.1.0"
 
 [[package]]
+name = "p1763_longest_nice_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
