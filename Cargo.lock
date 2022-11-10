@@ -3030,6 +3030,10 @@ name = "p1763_longest_nice_substring"
 version = "0.1.0"
 
 [[package]]
+name = "p1764_from_array_by_concatnating_subarrays_of_another_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 

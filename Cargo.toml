@@ -628,6 +628,7 @@ members = [
     "problems/p1759_count_number_of_homogenous_substrings",
     "problems/p1760_minimum_limit_of_balls_in_a_bag",
     "problems/p1763_longest_nice_substring",
+    "problems/p1764_from_array_by_concatnating_subarrays_of_another_array",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",

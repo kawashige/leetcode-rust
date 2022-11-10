@@ -1,0 +1,8 @@
+[package]
+name = "p1764_from_array_by_concatnating_subarrays_of_another_array"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
