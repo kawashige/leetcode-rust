@@ -3038,6 +3038,10 @@ name = "p1765_map_of_highest_peak"
 version = "0.1.0"
 
 [[package]]
+name = "p1768_merge_strings_alternately"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
