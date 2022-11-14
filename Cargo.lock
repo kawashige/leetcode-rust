@@ -3046,6 +3046,10 @@ name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p1773_count_items_matching_a_rule"
+version = "0.1.0"
+
+[[package]]
 name = "p1774_closest_dessert_cost"
 version = "0.1.0"
 
