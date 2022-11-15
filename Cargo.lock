@@ -3042,6 +3042,10 @@ name = "p1768_merge_strings_alternately"
 version = "0.1.0"
 
 [[package]]
+name = "p1769_minimum_number_of_operations_to_move_all_balls_to_each_box"
+version = "0.1.0"
+
+[[package]]
 name = "p1770_maximum_score_from_performing_multiplication_operations"
 version = "0.1.0"
 
