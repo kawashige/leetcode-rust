@@ -22,9 +22,6 @@ impl Solution {
         let mut i_small = 0;
         let mut count = 0;
 
-        println!("large: {:?}", large);
-        println!("small: {:?}", small);
-
         while sum_small != sum_large {
             let d_large = if large.len() <= i_large {
                 0
