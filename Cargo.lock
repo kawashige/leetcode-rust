@@ -3058,6 +3058,10 @@ name = "p1774_closest_dessert_cost"
 version = "0.1.0"
 
 [[package]]
+name = "p1775_equal_sum_arrays_with_minimum_number_of_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 

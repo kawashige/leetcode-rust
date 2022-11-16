@@ -634,6 +634,7 @@ members = [
     "problems/p1769_minimum_number_of_operations_to_move_all_balls_to_each_box",
     "problems/p1773_count_items_matching_a_rule",
     "problems/p1774_closest_dessert_cost",
+    "problems/p1775_equal_sum_arrays_with_minimum_number_of_operations",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
