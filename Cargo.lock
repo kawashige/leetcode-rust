@@ -3066,6 +3066,10 @@ name = "p1779_find_nearest_point_that_has_the_smae_x_or_y_coodinate"
 version = "0.1.0"
 
 [[package]]
+name = "p1780_check_if_number_is_a_sum_of_powers_of_three"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
