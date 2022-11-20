@@ -3074,6 +3074,10 @@ name = "p1781_sum_of_beauty_of_all_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p1784_check_if_binary_string_has_at_most_one_segment_of_ones"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
