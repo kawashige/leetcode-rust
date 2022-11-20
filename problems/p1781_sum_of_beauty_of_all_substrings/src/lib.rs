@@ -9,8 +9,6 @@ impl Solution {
             counts[i + 1] = count;
         }
 
-        println!("counts: {:?}", counts);
-
         let mut beatuy = 0;
         for i in 0..s.len() {
             for j in i..s.len() {
