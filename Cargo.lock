@@ -3082,6 +3082,10 @@ name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
 [[package]]
+name = "p1926_nearest_exit_from_entrance_in_maze"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
