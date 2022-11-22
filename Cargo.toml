@@ -639,6 +639,7 @@ members = [
     "problems/p1780_check_if_number_is_a_sum_of_powers_of_three",
     "problems/p1781_sum_of_beauty_of_all_substrings",
     "problems/p1784_check_if_binary_string_has_at_most_one_segment_of_ones",
+    "problems/p1785_minimum_number_of_elements_to_add_to_form_a_given_sum",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1996_the_number_of_week_characters_in_the_game",

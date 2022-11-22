@@ -3078,6 +3078,10 @@ name = "p1784_check_if_binary_string_has_at_most_one_segment_of_ones"
 version = "0.1.0"
 
 [[package]]
+name = "p1785_minimum_number_of_elements_to_add_to_form_a_given_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
