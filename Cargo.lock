@@ -3086,6 +3086,10 @@ name = "p1786_number_of_restricted_paths_from_first_to_last_node"
 version = "0.1.0"
 
 [[package]]
+name = "p1790_check_if_one_string_swap_can_make_strings_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
