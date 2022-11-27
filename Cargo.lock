@@ -3090,6 +3090,10 @@ name = "p1790_check_if_one_string_swap_can_make_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p1791_find_center_of_star_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
