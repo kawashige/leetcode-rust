@@ -650,6 +650,7 @@ members = [
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
     "problems/p2136_earliest_possible_day_of_full_bloom",
+    "problems/p2225_find_players_with_zero_or_one_loses",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
