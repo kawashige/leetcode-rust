@@ -3094,6 +3094,10 @@ name = "p1791_find_center_of_star_graph"
 version = "0.1.0"
 
 [[package]]
+name = "p1792_maximum_average_past_ratio"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
