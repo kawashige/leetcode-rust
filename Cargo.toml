@@ -644,6 +644,7 @@ members = [
     "problems/p1790_check_if_one_string_swap_can_make_strings_equal",
     "problems/p1791_find_center_of_star_graph",
     "problems/p1792_maximum_average_past_ratio",
+    "problems/p1796_second_largest_digit_in_a_string",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1996_the_number_of_week_characters_in_the_game",
