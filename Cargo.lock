@@ -3102,6 +3102,10 @@ name = "p1796_second_largest_digit_in_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1797_design_authentication_manager"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
