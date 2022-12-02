@@ -3106,6 +3106,10 @@ name = "p1797_design_authentication_manager"
 version = "0.1.0"
 
 [[package]]
+name = "p1800_maximum_ascending_subarray_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
