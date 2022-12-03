@@ -3106,6 +3106,10 @@ name = "p1797_design_authentication_manager"
 version = "0.1.0"
 
 [[package]]
+name = "p1798_minimum_number_of_consecutive_values_you_can_make"
+version = "0.1.0"
+
+[[package]]
 name = "p1800_maximum_ascending_subarray_sum"
 version = "0.1.0"
 
