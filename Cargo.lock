@@ -3122,6 +3122,10 @@ name = "p1802_maximum_value_at_given_index_in_a_bounded_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1805_number_of_different_integers_in_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
