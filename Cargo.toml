@@ -651,6 +651,7 @@ members = [
     "problems/p1801_numbeof_order_in_backlog",
     "problems/p1802_maximum_value_at_given_index_in_a_bounded_array",
     "problems/p1805_number_of_different_integers_in_a_string",
+    "problems/p1806_minimum_number_of_operations_to_reinitialize_a_permutation",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1996_the_number_of_week_characters_in_the_game",
