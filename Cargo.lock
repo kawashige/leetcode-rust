@@ -546,6 +546,10 @@ name = "p0123_best_time_to_bus_and_sell_stock_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p0124_binary_tree_maximum_path_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p0126_word_ladder_ii"
 version = "0.1.0"
 
