@@ -3142,6 +3142,10 @@ name = "p1812_determine_color_of_a_chessboard_square"
 version = "0.1.0"
 
 [[package]]
+name = "p1813_sentence_similarity_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
