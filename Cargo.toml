@@ -656,6 +656,7 @@ members = [
     "problems/p1807_evaluate_the_bracket_pairs_of_a_string",
     "problems/p1812_determine_color_of_a_chessboard_square",
     "problems/p1813_sentence_similarity_iii",
+    "problems/p1814_count_nice_pairs_in_an_array",
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1996_the_number_of_week_characters_in_the_game",

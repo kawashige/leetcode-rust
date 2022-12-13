@@ -3146,6 +3146,10 @@ name = "p1813_sentence_similarity_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p1814_count_nice_pairs_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
