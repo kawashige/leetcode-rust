@@ -3154,6 +3154,10 @@ name = "p1816_truncate_sentence"
 version = "0.1.0"
 
 [[package]]
+name = "p1817_finding_the_users_active_minutes"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
