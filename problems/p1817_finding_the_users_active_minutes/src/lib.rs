@@ -13,8 +13,6 @@ impl Solution {
             }
         }
 
-        println!("{:?}", uam);
-
         let mut result = vec![0; k as usize];
 
         for x in uam.values() {
