@@ -3170,6 +3170,10 @@ name = "p1823_find_the_winner_of_the_circular_game"
 version = "0.1.0"
 
 [[package]]
+name = "p1827_minimum_operations_to_make_the_array_increasing"
+version = "0.1.0"
+
+[[package]]
 name = "p1832_check_if_the_sentence_is_pangram"
 version = "0.1.0"
 
