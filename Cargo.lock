@@ -3230,6 +3230,10 @@ name = "p2256_minimum_averate_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p2389_longest_subsequence_with_limited_sum"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
