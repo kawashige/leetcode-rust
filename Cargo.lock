@@ -3194,6 +3194,10 @@ name = "p1833_maximum_ice_cream_bars"
 version = "0.1.0"
 
 [[package]]
+name = "p1834_single_threaded_cpu"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
