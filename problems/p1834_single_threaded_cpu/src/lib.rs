@@ -13,7 +13,7 @@ impl Solution {
         let mut result = Vec::new();
 
         while result.len() < tasks.len() {
-            if i < tasks.len() && time < tasks[i].1[0] {
+            if heap.is_empty() && i < tasks.len() && time < tasks[i].1[0] {
                 time = tasks[i].1[0];
             }
             while i < tasks.len() && tasks[i].1[0] <= time {
