@@ -678,6 +678,7 @@ members = [
     "problems/p2136_earliest_possible_day_of_full_bloom",
     "problems/p2225_find_players_with_zero_or_one_loses",
     "problems/p2256_minimum_averate_difference",
+    "problems/",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
