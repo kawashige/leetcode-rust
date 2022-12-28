@@ -3202,6 +3202,10 @@ name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
 [[package]]
+name = "p1962_remove_stones_to_minimize_the_total"
+version = "0.1.0"
+
+[[package]]
 name = "p1971_find_if_path_exists_in_graph"
 version = "0.1.0"
 
