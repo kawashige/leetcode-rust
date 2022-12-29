@@ -669,6 +669,7 @@ members = [
     "problems/p1832_check_if_the_sentence_is_pangram",
     "problems/p1833_maximum_ice_cream_bars",
     "problems/p1834_single_threaded_cpu",
+    "problems/p1837_sum_of_digits_in_base_k",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
