@@ -3202,6 +3202,10 @@ name = "p1837_sum_of_digits_in_base_k"
 version = "0.1.0"
 
 [[package]]
+name = "p1838_frequency_of_the_most_frequent_element"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
