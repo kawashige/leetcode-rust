@@ -3206,6 +3206,10 @@ name = "p1838_frequency_of_the_most_frequent_element"
 version = "0.1.0"
 
 [[package]]
+name = "p1839_longest_substring_of_all_vowels_in_order"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
