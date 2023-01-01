@@ -672,6 +672,7 @@ members = [
     "problems/p1837_sum_of_digits_in_base_k",
     "problems/p1838_frequency_of_the_most_frequent_element",
     "problems/p1839_longest_substring_of_all_vowels_in_order",
+    "problems/p1844_replace_all_digits_with_characters",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
