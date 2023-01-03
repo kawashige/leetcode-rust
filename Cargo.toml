@@ -674,6 +674,7 @@ members = [
     "problems/p1839_longest_substring_of_all_vowels_in_order",
     "problems/p1844_replace_all_digits_with_characters",
     "problems/p1845_seat_reservation_manager",
+    "problems/p1846_maximum_element_after_decreasing_and_rearranging",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",

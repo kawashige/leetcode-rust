@@ -3218,6 +3218,10 @@ name = "p1845_seat_reservation_manager"
 version = "0.1.0"
 
 [[package]]
+name = "p1846_maximum_element_after_decreasing_and_rearranging"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
