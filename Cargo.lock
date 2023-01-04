@@ -3258,6 +3258,10 @@ name = "p2225_find_players_with_zero_or_one_loses"
 version = "0.1.0"
 
 [[package]]
+name = "p2244_minimum_rounds_to_complete_all_takes"
+version = "0.1.0"
+
+[[package]]
 name = "p2256_minimum_averate_difference"
 version = "0.1.0"
 
