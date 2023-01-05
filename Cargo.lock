@@ -3222,6 +3222,10 @@ name = "p1846_maximum_element_after_decreasing_and_rearranging"
 version = "0.1.0"
 
 [[package]]
+name = "p1848_minimum_distance_to_the_target_element"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
