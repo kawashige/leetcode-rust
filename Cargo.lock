@@ -558,6 +558,10 @@ name = "p0134_gas_station"
 version = "0.1.0"
 
 [[package]]
+name = "p0149_max_line_on_a_line"
+version = "0.1.0"
+
+[[package]]
 name = "p0154_find_minimun_in_rotated_sorted_array_ii"
 version = "0.1.0"
 
