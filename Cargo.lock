@@ -3230,6 +3230,10 @@ name = "p1848_minimum_distance_to_the_target_element"
 version = "0.1.0"
 
 [[package]]
+name = "p1849_splitting_a_string_into_descending_consecutive_values"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
