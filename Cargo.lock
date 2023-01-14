@@ -1834,6 +1834,10 @@ name = "p1054_distant_barcodes"
 version = "0.1.0"
 
 [[package]]
+name = "p1061_lexicographically_smallest_equivalent_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1071_greatest_common_divisor_of_strings"
 version = "0.1.0"
 
