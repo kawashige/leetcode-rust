@@ -680,6 +680,7 @@ members = [
     "problems/p1846_maximum_element_after_decreasing_and_rearranging",
     "problems/p1848_minimum_distance_to_the_target_element",
     "problems/p1849_splitting_a_string_into_descending_consecutive_values",
+    "problems/p1854_maximum_population_year",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
