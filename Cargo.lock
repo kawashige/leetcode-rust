@@ -3246,6 +3246,10 @@ name = "p1854_maximum_population_year"
 version = "0.1.0"
 
 [[package]]
+name = "p1855_maximum_distance_between_a_pair_of_values"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
