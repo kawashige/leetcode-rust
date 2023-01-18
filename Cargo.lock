@@ -3242,6 +3242,10 @@ name = "p1849_splitting_a_string_into_descending_consecutive_values"
 version = "0.1.0"
 
 [[package]]
+name = "p1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number"
+version = "0.1.0"
+
+[[package]]
 name = "p1854_maximum_population_year"
 version = "0.1.0"
 

@@ -680,6 +680,7 @@ members = [
     "problems/p1846_maximum_element_after_decreasing_and_rearranging",
     "problems/p1848_minimum_distance_to_the_target_element",
     "problems/p1849_splitting_a_string_into_descending_consecutive_values",
+    "problems/p1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number",
     "problems/p1855_maximum_distance_between_a_pair_of_values",
     "problems/p1854_maximum_population_year",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
