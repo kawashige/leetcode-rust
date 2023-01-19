@@ -28,7 +28,6 @@ impl Solution {
     }
 
     pub fn count_swaps(org: &[usize], new: &[usize]) -> i32 {
-        print!("org: {:?}, new: {:?}", org, new);
         let mut new = new.to_vec();
         let mut count = 0;
         for i in 0..new.len() {
@@ -58,7 +57,6 @@ impl Solution {
 
         let mut remains = k;
         for i in (0..digits.len() - 1).rev() {
-            println!("i: {}, digits[i]: {}: count: {:?}", i, digits[i], count);
             count[digits[i]] += 1;
             for j in digits[i] + 1..count.len() {
                 if count[j] == 0 {
@@ -67,7 +65,6 @@ impl Solution {
                 let mut new_digits = vec![j];
                 count[j] -= 1;
                 if Self::find_kth_smallest_number(&mut count, &mut remains, &mut new_digits) {
-                    println!("{:?}", new_digits);
                     return Self::count_swaps(
                         &digits[digits.len() - new_digits.len()..],
                         &new_digits,
