@@ -683,6 +683,7 @@ members = [
     "problems/p1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number",
     "problems/p1854_maximum_population_year",
     "problems/p1855_maximum_distance_between_a_pair_of_values",
+    "problems/p1856_maximum_subarray_min_product",
     "problems/p1859_sorting_the_sentence",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",

@@ -3254,6 +3254,10 @@ name = "p1855_maximum_distance_between_a_pair_of_values"
 version = "0.1.0"
 
 [[package]]
+name = "p1856_maximum_subarray_min_product"
+version = "0.1.0"
+
+[[package]]
 name = "p1859_sorting_the_sentence"
 version = "0.1.0"
 
