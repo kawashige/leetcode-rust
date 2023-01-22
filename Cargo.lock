@@ -3266,6 +3266,10 @@ name = "p1860_incremental_memory_leak"
 version = "0.1.0"
 
 [[package]]
+name = "p1861_rotating_the_box"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
