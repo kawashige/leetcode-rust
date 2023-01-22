@@ -14,7 +14,6 @@ impl Solution {
                 }
 
                 if b[i][j] == '*' || j == b[0].len() - 1 {
-                    // println!("count: {}", count);
                     for k in 0..count {
                         rotated[j - k - if b[i][j] == '*' { 1 } else { 0 }][b.len() - 1 - i] = '#';
                     }
