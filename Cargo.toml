@@ -687,6 +687,7 @@ members = [
     "problems/p1859_sorting_the_sentence",
     "problems/p1860_incremental_memory_leak",
     "problems/p1861_rotating_the_box",
+    "problems/p1863_sum_of_the_subset_xor_totals",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",

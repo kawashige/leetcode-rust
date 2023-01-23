@@ -3270,6 +3270,10 @@ name = "p1861_rotating_the_box"
 version = "0.1.0"
 
 [[package]]
+name = "p1863_sum_of_the_subset_xor_totals"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
