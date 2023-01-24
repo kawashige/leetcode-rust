@@ -22,10 +22,10 @@ impl Solution {
         }
 
         let mut deque = VecDeque::new();
-        deque.push_back((1, 0, false));
+        deque.push_back((1, 0));
         let mut seen = vec![false; ladders.len()];
 
-        while let Some((i, c, used)) = deque.pop_front() {
+        while let Some((i, c)) = deque.pop_front() {
             if seen[i] {
                 continue;
             }
@@ -34,9 +34,7 @@ impl Solution {
                 return c;
             }
 
-            if !used || ladders[i] == -1 {
-                seen[i] = true;
-            }
+            seen[i] = true;
 
             for j in 1..7 {
                 if i + j >= ladders.len() {
@@ -50,7 +48,6 @@ impl Solution {
                         i + j
                     },
                     c + 1,
-                    ladders[i + j] != -1,
                 ));
             }
         }
@@ -99,6 +96,15 @@ mod test {
         );
         assert_eq!(
             Solution::snakes_and_ladders(vec![vec![1, 1, -1], vec![1, 1, 1], vec![-1, 1, 1]]),
+            -1
+        );
+        assert_eq!(
+            Solution::snakes_and_ladders(vec![
+                vec![-1, 1, 1, 1],
+                vec![-1, 7, 1, 1],
+                vec![1, 1, 1, 1],
+                vec![-1, 1, 9, 1]
+            ]),
             -1
         );
     }
