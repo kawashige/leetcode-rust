@@ -3274,6 +3274,10 @@ name = "p1863_sum_of_the_subset_xor_totals"
 version = "0.1.0"
 
 [[package]]
+name = "p1864_minimum_number_of_swaps_to_make_the_bonary_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
