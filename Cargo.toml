@@ -19,6 +19,7 @@ members = [
     "problems/p0464_can_i_win",
     "problems/p0467_unique_substrings_in_wraparound_string",
     "problems/p0468_validate_ip_address",
+    "problems/p0472_concatenated_words",
     "problems/p0473_matchsticks_to_square",
     "problems/p0474_ones_and_zeros",
     "problems/p0475_heaters",

@@ -602,6 +602,10 @@ name = "p0468_validate_ip_address"
 version = "0.1.0"
 
 [[package]]
+name = "p0472_concatenated_words"
+version = "0.1.0"
+
+[[package]]
 name = "p0473_matchsticks_to_square"
 version = "0.1.0"
 
