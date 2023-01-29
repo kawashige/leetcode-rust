@@ -1,6 +1,9 @@
+use std::collections::VecDeque;
+
 struct LFUCache {
-    values: Vec<i32>,
-    cache: Vec<(usize, i32, i32)>,
+    values: Vec<(i32, usize)>,
+    frequencies: Vec<VecDeque<(i32, usize)>>,
+    count: usize,
     capacity: usize,
 }
 
@@ -11,62 +14,60 @@ struct LFUCache {
 impl LFUCache {
     fn new(capacity: i32) -> Self {
         Self {
-            values: vec![-1; 100_001],
-            cache: Vec::with_capacity(capacity as usize),
+            values: vec![(-1, 0); 100_001],
+            frequencies: vec![VecDeque::new(), VecDeque::new()],
+            count: 0,
             capacity: capacity as usize,
         }
     }
 
     fn get(&mut self, key: i32) -> i32 {
-        println!(
-            "cache: {:?}, values: {:?}",
-            self.cache,
-            (0..5).map(|i| self.values[i]).collect::<Vec<_>>()
-        );
         if self.capacity == 0 {
             return -1;
         }
-        if self.values[key as usize] != -1 {
-            let val = self.cache[self.values[key as usize] as usize].2;
-            self.cache[self.values[key as usize] as usize].0 += 1;
-            self.rearrange(self.values[key as usize] as usize);
-            val
-        } else {
-            -1
+        if self.values[key as usize].0 != -1 {
+            self.values[key as usize].1 += 1;
+            if self.frequencies.len() - 1 < self.values[key as usize].1 {
+                self.frequencies.push(VecDeque::new());
+            }
+            self.frequencies[self.values[key as usize].1]
+                .push_back((key, self.values[key as usize].1));
         }
+        self.values[key as usize].0
     }
 
     fn put(&mut self, key: i32, value: i32) {
-        println!(
-            "cache: {:?}, values: {:?}",
-            self.cache,
-            (0..5).map(|i| self.values[i]).collect::<Vec<_>>()
-        );
         if self.capacity == 0 {
             return;
         }
-        if self.values[key as usize] == -1 {
-            if self.cache.len() == self.capacity {
-                let (_, del_key, _) = self.cache.pop().unwrap();
-                self.values[del_key as usize] = -1;
+        if self.values[key as usize].0 == -1 {
+            if self.count == self.capacity {
+                let mut found = false;
+                for j in 1.. {
+                    if found {
+                        break;
+                    }
+                    while let Some((del_key, del_count)) = self.frequencies[j].pop_front() {
+                        if self.values[del_key as usize].1 == del_count {
+                            self.values[del_key as usize] = (-1, 0);
+                            found = true;
+                            break;
+                        }
+                    }
+                }
+            } else {
+                self.count += 1;
             }
-            self.cache.push((1, key, value));
-            self.values[key as usize] = self.cache.len() as i32 - 1;
+            self.values[key as usize] = (value, 1);
+            self.frequencies[1].push_back((key, 1));
         } else {
-            self.cache[self.values[key as usize] as usize].0 += 1;
-            self.cache[self.values[key as usize] as usize].2 = value;
-        }
-        self.rearrange(self.values[key as usize] as usize);
-    }
-
-    fn rearrange(&mut self, start: usize) {
-        for i in (0..start).rev() {
-            if self.cache[i + 1].0 < self.cache[i].0 {
-                break;
+            self.values[key as usize].0 = value;
+            self.values[key as usize].1 += 1;
+            if self.frequencies.len() - 1 < self.values[key as usize].1 {
+                self.frequencies.push(VecDeque::new());
             }
-            self.values[self.cache[i].1 as usize] = i as i32 + 1;
-            self.values[self.cache[i + 1].1 as usize] = i as i32;
-            self.cache.swap(i, i + 1);
+            self.frequencies[self.values[key as usize].1]
+                .push_back((key, self.values[key as usize].1));
         }
     }
 }
