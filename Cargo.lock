@@ -590,6 +590,10 @@ name = "p0456_132_pattern"
 version = "0.1.0"
 
 [[package]]
+name = "p0460_lfu_cache"
+version = "0.1.0"
+
+[[package]]
 name = "p0463_island_perimeter"
 version = "0.1.0"
 
