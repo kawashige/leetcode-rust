@@ -3290,6 +3290,10 @@ name = "p1864_minimum_number_of_swaps_to_make_the_bonary_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1865_finding_pairs_with_a_certain_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 

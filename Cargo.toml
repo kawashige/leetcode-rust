@@ -692,6 +692,7 @@ members = [
     "problems/p1861_rotating_the_box",
     "problems/p1863_sum_of_the_subset_xor_totals",
     "problems/p1864_minimum_number_of_swaps_to_make_the_bonary_string",
+    "problems/p1865_finding_pairs_with_a_certain_sum",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
