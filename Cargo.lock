@@ -3294,6 +3294,10 @@ name = "p1865_finding_pairs_with_a_certain_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p1869_longer_contiguous_segments_of_ones_than_zeros"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
