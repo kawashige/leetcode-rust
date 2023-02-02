@@ -695,6 +695,7 @@ members = [
     "problems/p1865_finding_pairs_with_a_certain_sum",
     "problems/p1869_longer_contiguous_segments_of_ones_than_zeros",
     "problems/p1870_minimum_speed_to_arrive_on_time",
+    "problems/p1871_jump_game_vii",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
