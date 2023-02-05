@@ -3306,6 +3306,10 @@ name = "p1871_jump_game_vii"
 version = "0.1.0"
 
 [[package]]
+name = "p1876_substrings_of_size_three_with_distinct_characters"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
