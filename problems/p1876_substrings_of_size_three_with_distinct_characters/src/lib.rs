@@ -2,9 +2,6 @@ pub struct Solution {}
 
 impl Solution {
     pub fn count_good_substrings(s: String) -> i32 {
-        // if s.len() < 3 {
-        //     return 0;
-        // }
         s.as_bytes()
             .windows(3)
             .filter(|bytes| bytes[0] != bytes[1] && bytes[1] != bytes[2] && bytes[2] != bytes[0])
