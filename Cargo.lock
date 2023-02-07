@@ -3314,6 +3314,10 @@ name = "p1877_minimize_maximum_pair_sum_in_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1878_get_biggest_three_rhombus_sums_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
