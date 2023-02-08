@@ -3318,6 +3318,10 @@ name = "p1878_get_biggest_three_rhombus_sums_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p1880_check_if_word_equals_summation_of_two_words"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
