@@ -712,6 +712,7 @@ members = [
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2246_longest_path_with_different_adjacent_characters",
     "problems/p2256_minimum_averate_difference",
+    "problems/p2306_naming_a_company",
     "problems/p2359_find_the_closest_node_to_given_nodes",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2421_number_of_good_paths",
