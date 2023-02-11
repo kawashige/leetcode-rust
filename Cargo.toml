@@ -701,6 +701,7 @@ members = [
     "problems/p1878_get_biggest_three_rhombus_sums_in_a_grid",
     "problems/p1880_check_if_word_equals_summation_of_two_words",
     "problems/p1881_maximum_value_after_insertion",
+    "problems/p1882_process_tasks_using_servers",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",

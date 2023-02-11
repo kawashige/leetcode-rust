@@ -3326,6 +3326,10 @@ name = "p1881_maximum_value_after_insertion"
 version = "0.1.0"
 
 [[package]]
+name = "p1882_process_tasks_using_servers"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
