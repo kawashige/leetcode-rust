@@ -3394,6 +3394,10 @@ name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
 [[package]]
+name = "p2477_minimum_fuel_cost_to_report_to_the_capital"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
