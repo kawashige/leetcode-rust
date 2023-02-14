@@ -1,0 +1,8 @@
+[package]
+name = "p1886_determine_whether_matrix_can_be_obtained_by_rotation"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

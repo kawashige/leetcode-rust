@@ -703,6 +703,7 @@ members = [
     "problems/p1881_maximum_value_after_insertion",
     "problems/p1882_process_tasks_using_servers",
     "problems/p1884_egg_drop_with_2_eggs_and_n_floors",
+    "problems/p1886_determine_whether_matrix_can_be_obtained_by_rotation",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
