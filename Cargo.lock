@@ -3338,6 +3338,10 @@ name = "p1886_determine_whether_matrix_can_be_obtained_by_rotation"
 version = "0.1.0"
 
 [[package]]
+name = "p1887_reduction_operation_to_make_the_array_elements_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
