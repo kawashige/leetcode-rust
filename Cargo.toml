@@ -706,6 +706,7 @@ members = [
     "problems/p1886_determine_whether_matrix_can_be_obtained_by_rotation",
     "problems/p1887_reduction_operation_to_make_the_array_elements_equal",
     "problems/p1893_check_if_all_the_integers_in_a_range_are_covered",
+    "problems/p1897_redistrubute_characters_to_make_all_strings_equal",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",

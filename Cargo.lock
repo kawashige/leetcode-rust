@@ -3346,6 +3346,10 @@ name = "p1893_check_if_all_the_integers_in_a_range_are_covered"
 version = "0.1.0"
 
 [[package]]
+name = "p1897_redistrubute_characters_to_make_all_strings_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
