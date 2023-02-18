@@ -3342,6 +3342,10 @@ name = "p1887_reduction_operation_to_make_the_array_elements_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p1888_minimum_number_of_flips_to_make_the_binary_string_alternating"
+version = "0.1.0"
+
+[[package]]
 name = "p1893_check_if_all_the_integers_in_a_range_are_covered"
 version = "0.1.0"
 
