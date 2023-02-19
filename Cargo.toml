@@ -707,6 +707,7 @@ members = [
     "problems/p1887_reduction_operation_to_make_the_array_elements_equal",
     "problems/p1888_minimum_number_of_flips_to_make_the_binary_string_alternating",
     "problems/p1893_check_if_all_the_integers_in_a_range_are_covered",
+    "problems/p1894_find_the_student_that_will_replace_the_chalk",
     "problems/p1897_redistrubute_characters_to_make_all_strings_equal",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
