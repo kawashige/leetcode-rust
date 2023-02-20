@@ -3354,6 +3354,10 @@ name = "p1894_find_the_student_that_will_replace_the_chalk"
 version = "0.1.0"
 
 [[package]]
+name = "p1895_largest_magic_square"
+version = "0.1.0"
+
+[[package]]
 name = "p1897_redistrubute_characters_to_make_all_strings_equal"
 version = "0.1.0"
 
