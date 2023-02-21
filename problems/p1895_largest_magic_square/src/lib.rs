@@ -26,9 +26,6 @@ impl Solution {
             }
         }
 
-        println!("r: {:?}", row_sum);
-        println!("c: {:?}", column_sum);
-
         let mut max_size = 1;
 
         for i in 0..grid.len() {
