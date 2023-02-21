@@ -3362,6 +3362,10 @@ name = "p1897_redistrubute_characters_to_make_all_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p1899_merge_triplets_to_from_target_triplet"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
