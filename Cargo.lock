@@ -3362,6 +3362,10 @@ name = "p1897_redistrubute_characters_to_make_all_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p1898_maximum_number_of_removable_characters"
+version = "0.1.0"
+
+[[package]]
 name = "p1899_merge_triplets_to_from_target_triplet"
 version = "0.1.0"
 

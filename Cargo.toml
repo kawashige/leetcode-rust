@@ -710,6 +710,7 @@ members = [
     "problems/p1894_find_the_student_that_will_replace_the_chalk",
     "problems/p1895_largest_magic_square",
     "problems/p1897_redistrubute_characters_to_make_all_strings_equal",
+    "problems/p1898_maximum_number_of_removable_characters",
     "problems/p1899_merge_triplets_to_from_target_triplet",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
