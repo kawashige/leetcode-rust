@@ -681,6 +681,10 @@ name = "p0501_find_mode_in_binary_search_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0502_ipo"
+version = "0.1.0"
+
+[[package]]
 name = "p0503_next_greater_element_ii"
 version = "0.1.0"
 
