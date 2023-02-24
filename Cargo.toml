@@ -713,6 +713,7 @@ members = [
     "problems/p1897_redistrubute_characters_to_make_all_strings_equal",
     "problems/p1898_maximum_number_of_removable_characters",
     "problems/p1899_merge_triplets_to_from_target_triplet",
+    "problems/p1901_find_a_peak_element_ii",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
