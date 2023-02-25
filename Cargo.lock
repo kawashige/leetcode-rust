@@ -3378,6 +3378,10 @@ name = "p1901_find_a_peak_element_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p1904_the_number_of_full_rounds_you_have_played"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
