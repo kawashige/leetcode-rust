@@ -3382,6 +3382,10 @@ name = "p1901_find_a_peak_element_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p1903_largest_odd_number_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1904_the_number_of_full_rounds_you_have_played"
 version = "0.1.0"
 
