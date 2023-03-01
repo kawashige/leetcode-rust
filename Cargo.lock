@@ -3394,6 +3394,10 @@ name = "p1905_count_sub_islands"
 version = "0.1.0"
 
 [[package]]
+name = "p1906_minimum_absolute_difference_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 

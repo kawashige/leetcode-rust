@@ -718,6 +718,7 @@ members = [
     "problems/p1903_largest_odd_number_in_string",
     "problems/p1904_the_number_of_full_rounds_you_have_played",
     "problems/p1905_count_sub_islands",
+    "problems/p1906_minimum_absolute_difference_queries",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
