@@ -3398,6 +3398,10 @@ name = "p1906_minimum_absolute_difference_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p1909_remove_one_element_to_make_the_array_strictly_increasing"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
