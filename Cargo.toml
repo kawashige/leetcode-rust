@@ -728,6 +728,7 @@ members = [
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
     "problems/p2136_earliest_possible_day_of_full_bloom",
+    "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2225_find_players_with_zero_or_one_loses",
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2246_longest_path_with_different_adjacent_characters",
