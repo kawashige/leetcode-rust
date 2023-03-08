@@ -720,6 +720,7 @@ members = [
     "problems/p1905_count_sub_islands",
     "problems/p1906_minimum_absolute_difference_queries",
     "problems/p1909_remove_one_element_to_make_the_array_strictly_increasing",
+    "problems/p1910_remove_all_occurrences_of_a_substring",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
