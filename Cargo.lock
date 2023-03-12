@@ -3418,6 +3418,10 @@ name = "p1914_cyclically_roatating_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p1915_number_of_wonderful_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 

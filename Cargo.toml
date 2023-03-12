@@ -724,6 +724,7 @@ members = [
     "problems/p1911_maximum_alternating_subsequence_sum",
     "problems/p1913_maximum_product_difference_between_two_pairs",
     "problems/p1914_cyclically_roatating_a_grid",
+    "problems/p1915_number_of_wonderful_substrings",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
