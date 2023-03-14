@@ -3426,6 +3426,10 @@ name = "p1920_build_array_from_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "p1921_eliminate_maximum_number_of_monsters"
+version = "0.1.0"
+
+[[package]]
 name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
