@@ -727,6 +727,7 @@ members = [
     "problems/p1915_number_of_wonderful_substrings",
     "problems/p1920_build_array_from_permutation",
     "problems/p1921_eliminate_maximum_number_of_monsters",
+    "problems/p1922_count_good_numbers",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
