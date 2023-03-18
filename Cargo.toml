@@ -730,6 +730,7 @@ members = [
     "problems/p1922_count_good_numbers",
     "problems/p1925_count_square_sum_triples",
     "problems/p1926_nearest_exit_from_entrance_in_maze",
+    "problems/p1927_sum_game",
     "problems/p1929_concetenation_of_array",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",

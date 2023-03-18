@@ -3442,6 +3442,10 @@ name = "p1926_nearest_exit_from_entrance_in_maze"
 version = "0.1.0"
 
 [[package]]
+name = "p1927_sum_game"
+version = "0.1.0"
+
+[[package]]
 name = "p1929_concetenation_of_array"
 version = "0.1.0"
 
