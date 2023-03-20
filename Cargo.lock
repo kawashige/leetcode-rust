@@ -3454,6 +3454,10 @@ name = "p1930_unique_length_3_palindromic_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p1935_maximum_number_of_words_you_can_type"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 
