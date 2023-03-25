@@ -1,0 +1,8 @@
+[package]
+name = "p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
