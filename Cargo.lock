@@ -3530,6 +3530,10 @@ name = "p2359_find_the_closest_node_to_given_nodes"
 version = "0.1.0"
 
 [[package]]
+name = "p2360_longest_cycle_in_a_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p2389_longest_subsequence_with_limited_sum"
 version = "0.1.0"
 

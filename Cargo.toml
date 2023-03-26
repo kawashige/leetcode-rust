@@ -752,6 +752,7 @@ members = [
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2348_number_of_zero_filled_subarrays",
     "problems/p2359_find_the_closest_node_to_given_nodes",
+    "problems/p2360_longest_cycle_in_a_graph",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2421_number_of_good_paths",
     "problems/p2444_count_subarrays_with_fixed_bounds",
