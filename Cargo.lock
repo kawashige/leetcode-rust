@@ -3466,6 +3466,10 @@ name = "p1941_check_if_all_characters_have_equal_number_of_occurences"
 version = "0.1.0"
 
 [[package]]
+name = "p1942_the_number_of_the_smallest_unoccupied_chair"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 
