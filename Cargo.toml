@@ -737,6 +737,7 @@ members = [
     "problems/p1936_add_minimum_number_of_rungs",
     "problems/p1941_check_if_all_characters_have_equal_number_of_occurences",
     "problems/p1942_the_number_of_the_smallest_unoccupied_chair",
+    "problems/p1943_describe_the_painting",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
     "problems/p1996_the_number_of_week_characters_in_the_game",
