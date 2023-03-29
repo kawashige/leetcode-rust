@@ -2374,6 +2374,10 @@ name = "p1400_construct_k_palindrome_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p1402_reducing_dishes"
+version = "0.1.0"
+
+[[package]]
 name = "p1403_minimum_subsequence_in_non_increasing_order"
 version = "0.1.0"
 
