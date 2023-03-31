@@ -20,8 +20,6 @@ impl Solution {
             }
         }
 
-        println!("count: {:?}", count);
-
         let mut dp = vec![vec![vec![0; k as usize]; pizza[0].len()]; pizza.len()];
         dp[0][0][0] = 1;
         let mut result = 0;
@@ -51,8 +49,6 @@ impl Solution {
                 result %= M;
             }
         }
-
-        println!("dp: {:?}", dp);
 
         result as i32
     }
