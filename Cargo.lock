@@ -3474,6 +3474,10 @@ name = "p1936_add_minimum_number_of_rungs"
 version = "0.1.0"
 
 [[package]]
+name = "p1937_maximum_number_of_points_with_cost"
+version = "0.1.0"
+
+[[package]]
 name = "p1941_check_if_all_characters_have_equal_number_of_occurences"
 version = "0.1.0"
 
