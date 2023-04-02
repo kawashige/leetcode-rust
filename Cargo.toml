@@ -754,6 +754,7 @@ members = [
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2246_longest_path_with_different_adjacent_characters",
     "problems/p2256_minimum_averate_difference",
+    "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2306_naming_a_company",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2348_number_of_zero_filled_subarrays",
