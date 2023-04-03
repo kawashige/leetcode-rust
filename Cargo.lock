@@ -3490,6 +3490,10 @@ name = "p1943_describe_the_painting"
 version = "0.1.0"
 
 [[package]]
+name = "p1945_sum_of_digits_of_string_after_convert"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 
