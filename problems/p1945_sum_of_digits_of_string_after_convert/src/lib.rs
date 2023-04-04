@@ -7,6 +7,7 @@ impl Solution {
             .iter()
             .map(|b| ((b - b'a') as i32 + 1).to_string())
             .collect::<String>();
+
         for _ in 0..k {
             s = s
                 .as_bytes()
