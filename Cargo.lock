@@ -3578,6 +3578,10 @@ name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
 [[package]]
+name = "p2439_minimize_maximum_of_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2444_count_subarrays_with_fixed_bounds"
 version = "0.1.0"
 

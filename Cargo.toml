@@ -764,6 +764,7 @@ members = [
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2405_optimal_partition_of_string",
     "problems/p2421_number_of_good_paths",
+    "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
