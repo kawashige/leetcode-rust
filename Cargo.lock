@@ -3498,6 +3498,10 @@ name = "p1946_largest_number_after_mutating_substring"
 version = "0.1.0"
 
 [[package]]
+name = "p1947_maximum_compatibility_score_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 
