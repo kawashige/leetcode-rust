@@ -745,6 +745,7 @@ members = [
     "problems/p1945_sum_of_digits_of_string_after_convert",
     "problems/p1946_largest_number_after_mutating_substring",
     "problems/p1947_maximum_compatibility_score_sum",
+    "problems/p1952_three_divisors",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
     "problems/p1996_the_number_of_week_characters_in_the_game",
