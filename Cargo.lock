@@ -3290,6 +3290,10 @@ name = "p1856_maximum_subarray_min_product"
 version = "0.1.0"
 
 [[package]]
+name = "p1857_largest_color_value_in_a_directed_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p1859_sorting_the_sentence"
 version = "0.1.0"
 

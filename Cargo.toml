@@ -693,6 +693,7 @@ members = [
     "problems/p1854_maximum_population_year",
     "problems/p1855_maximum_distance_between_a_pair_of_values",
     "problems/p1856_maximum_subarray_min_product",
+    "problems/p1857_largest_color_value_in_a_directed_graph",
     "problems/p1859_sorting_the_sentence",
     "problems/p1860_incremental_memory_leak",
     "problems/p1861_rotating_the_box",
