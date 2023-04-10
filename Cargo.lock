@@ -3510,6 +3510,10 @@ name = "p1952_three_divisors"
 version = "0.1.0"
 
 [[package]]
+name = "p1957_delete_characters_to_make_fancy_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 
