@@ -3590,6 +3590,10 @@ name = "p2389_longest_subsequence_with_limited_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p2390_removing_stars_from_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2405_optimal_partition_of_string"
 version = "0.1.0"
 
