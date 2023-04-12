@@ -12,12 +12,9 @@ impl Solution {
 
         while ok + 1 < ng {
             let mid = (ok + ng) / 2;
-            println!("mid: {}", mid);
             if Self::is_ok(&milestones, mid) {
-                println!("ok");
                 ok = mid;
             } else {
-                println!("ng");
                 ng = mid
             }
         }
