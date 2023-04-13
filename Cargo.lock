@@ -3514,6 +3514,10 @@ name = "p1953_maximum_number_of_weeks_for_which_yout_can_work"
 version = "0.1.0"
 
 [[package]]
+name = "p1954_minimum_garden_perimeter_to_collect_enough_apples"
+version = "0.1.0"
+
+[[package]]
 name = "p1957_delete_characters_to_make_fancy_string"
 version = "0.1.0"
 
