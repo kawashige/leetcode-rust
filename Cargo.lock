@@ -3554,6 +3554,10 @@ name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
 [[package]]
+name = "p2218_maximum_value_of_k_coins_from_piles"
+version = "0.1.0"
+
+[[package]]
 name = "p2225_find_players_with_zero_or_one_loses"
 version = "0.1.0"
 
