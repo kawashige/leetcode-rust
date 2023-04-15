@@ -18,8 +18,6 @@ impl Solution {
                     }
                 }
             }
-
-            println!("{}: {:?}", i, dp[i + 1]);
         }
 
         dp.last().unwrap()[k as usize]
