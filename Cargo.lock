@@ -2870,6 +2870,10 @@ name = "p1638_count_substrings_that_differ_by_one_character"
 version = "0.1.0"
 
 [[package]]
+name = "p1639_number_of_ways_to_from_a_target_string_given_a_dictionary"
+version = "0.1.0"
+
+[[package]]
 name = "p1647_minimum_deletion_to_make_character_frequencies_unique"
 version = "0.1.0"
 
