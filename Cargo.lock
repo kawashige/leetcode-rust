@@ -3530,6 +3530,10 @@ name = "p1958_check_if_move_is_legal"
 version = "0.1.0"
 
 [[package]]
+name = "p1959_minimum_total_space_wasted_with_k_resizing_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p1962_remove_stones_to_minimize_the_total"
 version = "0.1.0"
 

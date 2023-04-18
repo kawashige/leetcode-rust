@@ -752,6 +752,7 @@ members = [
     "problems/p1954_minimum_garden_perimeter_to_collect_enough_apples",
     "problems/p1957_delete_characters_to_make_fancy_string",
     "problems/p1958_check_if_move_is_legal",
+    "problems/p1959_minimum_total_space_wasted_with_k_resizing_operations",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1971_find_if_path_exists_in_graph",
     "problems/p1996_the_number_of_week_characters_in_the_game",
