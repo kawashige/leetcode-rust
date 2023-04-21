@@ -231,6 +231,7 @@ members = [
     "problems/p0876_middle_of_the_linked_list",
     "problems/p0877_stone_game",
     "problems/p0878_nth_magical_number",
+    "problems/p0879_profitable_schemas",
     "problems/p0883_projection_area_of_3d_shapes",
     "problems/p0884_uncommon_words_from_two_sentences",
     "problems/p0885_spiral_matrix_iii",

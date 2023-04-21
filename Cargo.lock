@@ -1462,6 +1462,10 @@ name = "p0878_nth_magical_number"
 version = "0.1.0"
 
 [[package]]
+name = "p0879_profitable_schemas"
+version = "0.1.0"
+
+[[package]]
 name = "p0883_projection_area_of_3d_shapes"
 version = "0.1.0"
 
