@@ -2426,6 +2426,10 @@ name = "p1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n"
 version = "0.1.0"
 
 [[package]]
+name = "p1416_restore_the_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1417_reformat_the_string"
 version = "0.1.0"
 
