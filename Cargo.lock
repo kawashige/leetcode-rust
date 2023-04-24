@@ -3558,6 +3558,10 @@ name = "p1963_minimum_number_of_swaps_to_make_the_string_balanced"
 version = "0.1.0"
 
 [[package]]
+name = "p1967_number_of_strings_that_appears_as_substrings_in_word"
+version = "0.1.0"
+
+[[package]]
 name = "p1971_find_if_path_exists_in_graph"
 version = "0.1.0"
 
