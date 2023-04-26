@@ -760,6 +760,7 @@ members = [
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1963_minimum_number_of_swaps_to_make_the_string_balanced",
     "problems/p1967_number_of_strings_that_appears_as_substrings_in_word",
+    "problems/p1968_array_with_elements_not_equal_to_average_of_neighbors",
     "problems/p1971_find_if_path_exists_in_graph",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
