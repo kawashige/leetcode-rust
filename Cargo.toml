@@ -206,6 +206,7 @@ members = [
     "problems/p0833_find_and_replace_in_string",
     "problems/p0835_image_overlap",
     "problems/p0836_rectangle_overlap",
+    "problems/p0839_similar_string_group",
     "problems/p0844_backspace_string_compare",
     "problems/p0852_peak_index_in_a_mountain_array",
     "problems/p0837_new_21_game",

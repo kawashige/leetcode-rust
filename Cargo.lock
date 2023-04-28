@@ -1370,6 +1370,10 @@ name = "p0838_push_dominoes"
 version = "0.1.0"
 
 [[package]]
+name = "p0839_similar_string_group"
+version = "0.1.0"
+
+[[package]]
 name = "p0840_magic_squares_in_grid"
 version = "0.1.0"
 
