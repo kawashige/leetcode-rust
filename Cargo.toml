@@ -562,6 +562,7 @@ members = [
     "problems/p1576_replace_all_s_to_avoid_consecutive_repeating_charaters",
     "problems/p1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers",
     "problems/p1578_minimum_time_to_make_rope_colorful",
+    "problems/p1579_remove_max_number_of_edges_to_keep_graph_fully_traversable",
     "problems/p1582_special_positions_in_a_binary_matrix",
     "problems/p1583_count_unhappy_friends",
     "problems/p1584_min_cost_connect_all_points",

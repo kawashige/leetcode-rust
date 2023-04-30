@@ -1,0 +1,8 @@
+[package]
+name = "p1579_remove_max_number_of_edges_to_keep_graph_fully_traversable"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
