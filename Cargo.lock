@@ -3582,6 +3582,10 @@ name = "p1971_find_if_path_exists_in_graph"
 version = "0.1.0"
 
 [[package]]
+name = "p1974_minimum_time_to_type_word_using_special_typewriter"
+version = "0.1.0"
+
+[[package]]
 name = "p1975_maximum_matrix_sum"
 version = "0.1.0"
 
