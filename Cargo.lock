@@ -3590,6 +3590,10 @@ name = "p1975_maximum_matrix_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p1976_number_of_ways_to_arrive_at_destination"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
