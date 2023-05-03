@@ -3618,6 +3618,10 @@ name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
 [[package]]
+name = "p2215_find_the_difference_of_two_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2218_maximum_value_of_k_coins_from_piles"
 version = "0.1.0"
 
