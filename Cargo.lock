@@ -3598,6 +3598,10 @@ name = "p1979_find_greatest_common_divisor_of_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1980_find_unique_binary_string"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
