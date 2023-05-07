@@ -761,6 +761,7 @@ members = [
     "problems/p1961_check_if_string_is_a_prefix_of_array",
     "problems/p1962_remove_stones_to_minimize_the_total",
     "problems/p1963_minimum_number_of_swaps_to_make_the_string_balanced",
+    "problems/p1964_find_the_longest_valid_obstacle_course_at_each_position",
     "problems/p1967_number_of_strings_that_appears_as_substrings_in_word",
     "problems/p1968_array_with_elements_not_equal_to_average_of_neighbors",
     "problems/p1969_minimum_non_zero_product_of_array_elements",

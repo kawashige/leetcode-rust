@@ -1,0 +1,8 @@
+[package]
+name = "p1964_find_the_longest_valid_obstacle_course_at_each_position"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
