@@ -3610,6 +3610,10 @@ name = "p1981_minimize_the_difference_between_target_and_chosen_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p1984_minimum_difference_between_highest_and_lowest_of_k_scores"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 

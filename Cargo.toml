@@ -772,6 +772,7 @@ members = [
     "problems/p1979_find_greatest_common_divisor_of_array",
     "problems/p1980_find_unique_binary_string",
     "problems/p1981_minimize_the_difference_between_target_and_chosen_elements",
+    "problems/p1984_minimum_difference_between_highest_and_lowest_of_k_scores",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
