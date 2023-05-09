@@ -3614,6 +3614,10 @@ name = "p1984_minimum_difference_between_highest_and_lowest_of_k_scores"
 version = "0.1.0"
 
 [[package]]
+name = "p1985_find_the_k_th_largest_integer_in_the_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
