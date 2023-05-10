@@ -11,9 +11,6 @@ impl Solution {
             right_sum[i + 1] = right_sum[i + 2] + nums[i];
         }
 
-        println!("{:?}", left_sum);
-        println!("{:?}", right_sum);
-
         (0..nums.len() as i32)
             .find(|i| left_sum[*i as usize] == right_sum[*i as usize + 2])
             .unwrap_or(-1)
