@@ -774,6 +774,7 @@ members = [
     "problems/p1981_minimize_the_difference_between_target_and_chosen_elements",
     "problems/p1984_minimum_difference_between_highest_and_lowest_of_k_scores",
     "problems/p1985_find_the_k_th_largest_integer_in_the_array",
+    "problems/p1986_minimum_number_of_work_sessions_to_finish_the_tasks",
     "problems/p1991_find_the_middle_index_in_array",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",

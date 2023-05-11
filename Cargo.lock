@@ -3618,6 +3618,10 @@ name = "p1985_find_the_k_th_largest_integer_in_the_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1986_minimum_number_of_work_sessions_to_finish_the_tasks"
+version = "0.1.0"
+
+[[package]]
 name = "p1991_find_the_middle_index_in_array"
 version = "0.1.0"
 
