@@ -1,0 +1,8 @@
+[package]
+name = "p2466_count_ways_to_build_good_strings"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
