@@ -3182,6 +3182,10 @@ name = "p1798_minimum_number_of_consecutive_values_you_can_make"
 version = "0.1.0"
 
 [[package]]
+name = "p1799_maximize_score_after_n_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p1800_maximum_ascending_subarray_sum"
 version = "0.1.0"
 
