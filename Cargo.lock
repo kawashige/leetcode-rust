@@ -3630,6 +3630,10 @@ name = "p1991_find_the_middle_index_in_array"
 version = "0.1.0"
 
 [[package]]
+name = "p1992_find_all_groups_of_farmland"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 

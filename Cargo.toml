@@ -777,6 +777,7 @@ members = [
     "problems/p1985_find_the_k_th_largest_integer_in_the_array",
     "problems/p1986_minimum_number_of_work_sessions_to_finish_the_tasks",
     "problems/p1991_find_the_middle_index_in_array",
+    "problems/p1992_find_all_groups_of_farmland",
     "problems/p1996_the_number_of_week_characters_in_the_game",
     "problems/p2007_find_original_array_from_doubled_array",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
