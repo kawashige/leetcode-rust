@@ -1,5 +1,3 @@
-use std::borrow::Borrow;
-
 // Definition for singly-linked list.
 #[derive(PartialEq, Eq, Clone, Debug)]
 pub struct ListNode {
