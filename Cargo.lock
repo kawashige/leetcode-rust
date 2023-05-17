@@ -3650,6 +3650,10 @@ name = "p2095_delete_the_middle_node_of_a_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p2130_maximum_twin_sum_of_a_linked_list"
+version = "0.1.0"
+
+[[package]]
 name = "p2131_longest_palindrome_by_concatenationg_two_letter_words"
 version = "0.1.0"
 
