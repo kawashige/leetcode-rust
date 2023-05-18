@@ -3638,6 +3638,10 @@ name = "p1993_operations_on_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p1995_count_special_quadruples"
+version = "0.1.0"
+
+[[package]]
 name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
