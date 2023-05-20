@@ -3646,6 +3646,10 @@ name = "p1996_the_number_of_week_characters_in_the_game"
 version = "0.1.0"
 
 [[package]]
+name = "p1997_first_day_where_you_have_been_in_all_the_rooms"
+version = "0.1.0"
+
+[[package]]
 name = "p2000_reverse_prefix_of_word"
 version = "0.1.0"
 
