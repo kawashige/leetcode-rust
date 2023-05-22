@@ -3658,6 +3658,10 @@ name = "p2001_nubmer_of_pairs_of_interchangable_rectangles"
 version = "0.1.0"
 
 [[package]]
+name = "p2002_maximum_product_of_the_length_of_two_palindromic_subsequences"
+version = "0.1.0"
+
+[[package]]
 name = "p2007_find_original_array_from_doubled_array"
 version = "0.1.0"
 
