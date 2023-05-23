@@ -3662,6 +3662,10 @@ name = "p2002_maximum_product_of_the_length_of_two_palindromic_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p2006_count_number_of_pairs_with_absolute_difference_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2007_find_original_array_from_doubled_array"
 version = "0.1.0"
 
