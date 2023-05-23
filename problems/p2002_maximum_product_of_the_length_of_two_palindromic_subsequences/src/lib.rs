@@ -24,11 +24,6 @@ impl Solution {
 
         let mut max_product = 1;
 
-        println!("palindromes: {:?}", palindromes);
-        for p in &palindromes {
-            println!("{:b}", p);
-        }
-
         for i in 0..palindromes.len() {
             for j in i + 1..palindromes.len() {
                 if palindromes[i] & palindromes[j] == 0 {
