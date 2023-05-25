@@ -3670,6 +3670,10 @@ name = "p2007_find_original_array_from_doubled_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2008_maximum_earnings_from_taxi"
+version = "0.1.0"
+
+[[package]]
 name = "p2095_delete_the_middle_node_of_a_linked_list"
 version = "0.1.0"
 
