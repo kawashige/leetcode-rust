@@ -1950,6 +1950,10 @@ name = "p1139_largest_1_bordered_square"
 version = "0.1.0"
 
 [[package]]
+name = "p1140_stone_game_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p1143_longest_common_subsequence"
 version = "0.1.0"
 
