@@ -472,6 +472,7 @@ members = [
     "problems/p1403_minimum_subsequence_in_non_increasing_order",
     "problems/p1404_number_of_steps_to_reduce_a_number_in_binary_representation_to_one",
     "problems/p1405_longest_happy_string",
+    "problems/p1406_stone_game_iii",
     "problems/p1408_string_matching_in_an_array",
     "problems/p1409_queries_on_a_permutation_with_key",
     "problems/p1410_html_entity_parser",

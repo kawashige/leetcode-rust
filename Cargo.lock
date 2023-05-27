@@ -2410,6 +2410,10 @@ name = "p1405_longest_happy_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1406_stone_game_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p1408_string_matching_in_an_array"
 version = "0.1.0"
 
