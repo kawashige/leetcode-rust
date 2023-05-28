@@ -547,6 +547,7 @@ members = [
     "problems/p1544_make_the_string_great",
     "problems/p1545_find_kth_bit_in_nth_binary_string",
     "problems/p1546_maximum_number_of_non_overlapping_subarrays_with_sum_equals_target",
+    "problems/p1547_minimum_cost_to_cut_a_stick",
     "problems/p1550_three_cosecutive_odds",
     "problems/p1552_magnetic_force_between_two_balls",
     "problems/p1556_thousand_separator",
