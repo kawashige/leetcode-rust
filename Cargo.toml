@@ -793,6 +793,7 @@ members = [
     "problems/p2008_maximum_earnings_from_taxi",
     "problems/p2011_final_value_of_variable_after_performing_operations",
     "problems/p2012_sum_of_beauty_in_the_array",
+    "problems/p2013_detect_squares",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2130_maximum_twin_sum_of_a_linked_list",
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
