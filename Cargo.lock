@@ -3714,6 +3714,10 @@ name = "p2022_convert_1d_array_to_2d_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2023_number_of_pairs_of_strings_with_concatenation_equal_to_target"
+version = "0.1.0"
+
+[[package]]
 name = "p2095_delete_the_middle_node_of_a_linked_list"
 version = "0.1.0"
 
