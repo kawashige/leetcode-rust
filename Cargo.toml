@@ -799,6 +799,7 @@ members = [
     "problems/p2018_check_if_word_can_be_placed_in_crossword",
     "problems/p2022_convert_1d_array_to_2d_array",
     "problems/p2023_number_of_pairs_of_strings_with_concatenation_equal_to_target",
+    "problems/p2024_maximize_the_confusion_of_an_exam",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2101_detonate_the_maximum_bombs",
     "problems/p2130_maximum_twin_sum_of_a_linked_list",
