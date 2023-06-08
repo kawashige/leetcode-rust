@@ -3722,6 +3722,10 @@ name = "p2024_maximize_the_confusion_of_an_exam"
 version = "0.1.0"
 
 [[package]]
+name = "p2027_minimum_move_to_convert_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2095_delete_the_middle_node_of_a_linked_list"
 version = "0.1.0"
 
