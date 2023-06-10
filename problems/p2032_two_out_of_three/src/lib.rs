@@ -9,7 +9,6 @@ impl Solution {
                 counts[i][nums[i][j] as usize] = true;
             }
         }
-        println!("{:?}", counts);
         (0..counts[0].len())
             .filter_map(|i| {
                 if 1 < counts.iter().filter(|c| c[i]).count() {
