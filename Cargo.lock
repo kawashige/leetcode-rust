@@ -3734,6 +3734,10 @@ name = "p2028_find_missing_observations"
 version = "0.1.0"
 
 [[package]]
+name = "p2029_stone_game_ix"
+version = "0.1.0"
+
+[[package]]
 name = "p2032_two_out_of_three"
 version = "0.1.0"
 
