@@ -2758,6 +2758,10 @@ name = "p1567_maximum_length_of_subarray_with_positive_product"
 version = "0.1.0"
 
 [[package]]
+name = "p1569_number_of_ways_to_reorder_array_to_get_same_bst"
+version = "0.1.0"
+
+[[package]]
 name = "p1572_matrix_diagonal_sum"
 version = "0.1.0"
 
