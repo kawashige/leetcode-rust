@@ -826,6 +826,7 @@ members = [
     "problems/p2306_naming_a_company",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2336_smallest_number_in_infinite_set",
+    "problems/p2328_number_of_increasing_path_in_a_grid",
     "problems/p2348_number_of_zero_filled_subarrays",
     "problems/p2352_equal_row_and_column_pairs",
     "problems/p2359_find_the_closest_node_to_given_nodes",
