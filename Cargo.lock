@@ -3762,6 +3762,10 @@ name = "p2037_minimum_number_of_moves_to_seat_everyone"
 version = "0.1.0"
 
 [[package]]
+name = "p2038_remove_colored_pieces_if_both_neighbors_are_the_same_color"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
