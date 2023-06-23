@@ -3766,6 +3766,10 @@ name = "p2038_remove_colored_pieces_if_both_neighbors_are_the_same_color"
 version = "0.1.0"
 
 [[package]]
+name = "p2039_the_time_when_the_netwrork_becomes_idle"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
