@@ -2782,6 +2782,10 @@ name = "p1574_shortest_subarray_to_be_removed_to_make_array_sorted"
 version = "0.1.0"
 
 [[package]]
+name = "p1575_count_all_possible_routes"
+version = "0.1.0"
+
+[[package]]
 name = "p1576_replace_all_s_to_avoid_consecutive_repeating_charaters"
 version = "0.1.0"
 
