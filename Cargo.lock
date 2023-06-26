@@ -3898,6 +3898,10 @@ name = "p2448_minimum_cost_to_make_array_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p2462_total_cost_to_hire_k_workers"
+version = "0.1.0"
+
+[[package]]
 name = "p2466_count_ways_to_build_good_strings"
 version = "0.1.0"
 
