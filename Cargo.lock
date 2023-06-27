@@ -3778,6 +3778,10 @@ name = "p2039_the_time_when_the_netwrork_becomes_idle"
 version = "0.1.0"
 
 [[package]]
+name = "p2042_check_if_numbers_are_ascending_in_a_sentence"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
