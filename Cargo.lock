@@ -3782,6 +3782,10 @@ name = "p2042_check_if_numbers_are_ascending_in_a_sentence"
 version = "0.1.0"
 
 [[package]]
+name = "p2043_simple_bank_system"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
