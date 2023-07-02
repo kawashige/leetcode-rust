@@ -2854,6 +2854,10 @@ name = "p1600_throne_inheritance"
 version = "0.1.0"
 
 [[package]]
+name = "p1601_maximum_number_of_achievable_transfer_requests"
+version = "0.1.0"
+
+[[package]]
 name = "p1603_design_parking_system"
 version = "0.1.0"
 

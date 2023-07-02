@@ -584,6 +584,7 @@ members = [
     "problems/p1598_crawler_log_folder",
     "problems/p1599_maximum_profit_of_operating_a_centennial_wheel",
     "problems/p1600_throne_inheritance",
+    "problems/p1601_maximum_number_of_achievable_transfer_requests",
     "problems/p1603_design_parking_system",
     "problems/p1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period",
     "problems/p1605_find_valid_matrix_given_row_and_column_sums",
