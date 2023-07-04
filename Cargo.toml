@@ -820,6 +820,7 @@ members = [
     "problems/p2042_check_if_numbers_are_ascending_in_a_sentence",
     "problems/p2043_simple_bank_system",
     "problems/p2044_count_number_of_maximum_bitwise_or_sebusets",
+    "problems/p2047_number_of_valid_words_in_a_sentence",
     "problems/p2090_k_radius_subarray_averages",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2101_detonate_the_maximum_bombs",

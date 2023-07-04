@@ -3802,6 +3802,10 @@ name = "p2044_count_number_of_maximum_bitwise_or_sebusets"
 version = "0.1.0"
 
 [[package]]
+name = "p2047_number_of_valid_words_in_a_sentence"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
