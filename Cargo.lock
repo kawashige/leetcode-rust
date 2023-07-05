@@ -3806,6 +3806,10 @@ name = "p2047_number_of_valid_words_in_a_sentence"
 version = "0.1.0"
 
 [[package]]
+name = "p2048_next_greater_numerically_balanced_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
