@@ -3810,6 +3810,10 @@ name = "p2048_next_greater_numerically_balanced_number"
 version = "0.1.0"
 
 [[package]]
+name = "p2049_count_nodes_with_the_highest_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
