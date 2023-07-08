@@ -6,7 +6,6 @@ impl Solution {
             .map(|i| weights[i] as i64 + weights[i + 1] as i64)
             .collect::<Vec<_>>();
         inside.sort_unstable();
-        println!("{:?}", inside);
         inside[inside.len() + 1 - k as usize..].iter().sum::<i64>()
             - inside[0..k as usize - 1].iter().sum::<i64>()
     }
