@@ -3958,6 +3958,10 @@ name = "p2542_maximum_subsequence_score"
 version = "0.1.0"
 
 [[package]]
+name = "p2551_put_marbles_in_bags"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
