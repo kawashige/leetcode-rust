@@ -3818,6 +3818,10 @@ name = "p2053_kth_distinct_string_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2054_two_best_non_overlapping_events"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
