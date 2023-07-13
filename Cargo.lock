@@ -3826,6 +3826,10 @@ name = "p2055_plates_between_candles"
 version = "0.1.0"
 
 [[package]]
+name = "p2057_smallest_index_with_equal_value"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
