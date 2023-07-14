@@ -827,6 +827,7 @@ members = [
     "problems/p2054_two_best_non_overlapping_events",
     "problems/p2055_plates_between_candles",
     "problems/p2057_smallest_index_with_equal_value",
+    "problems/p2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points",
     "problems/p2090_k_radius_subarray_averages",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2101_detonate_the_maximum_bombs",
