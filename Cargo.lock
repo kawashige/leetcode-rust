@@ -3114,6 +3114,10 @@ name = "p1750_minimum_length_of_string_after_deleting_similar_ends"
 version = "0.1.0"
 
 [[package]]
+name = "p1751_maximum_number_of_events_that_can_be_attended_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p1752_check_if_array_is_sorted_and_roated"
 version = "0.1.0"
 
