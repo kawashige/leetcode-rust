@@ -3842,6 +3842,10 @@ name = "p2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_poin
 version = "0.1.0"
 
 [[package]]
+name = "p2059_minimum_operations_to_convert_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
