@@ -3846,6 +3846,10 @@ name = "p2059_minimum_operations_to_convert_number"
 version = "0.1.0"
 
 [[package]]
+name = "p2062_count_vowel_substrings_of_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
