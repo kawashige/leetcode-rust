@@ -832,6 +832,7 @@ members = [
     "problems/p2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points",
     "problems/p2059_minimum_operations_to_convert_number",
     "problems/p2062_count_vowel_substrings_of_a_string",
+    "problems/p2063_vowels_of_all_substrings",
     "problems/p2090_k_radius_subarray_averages",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2101_detonate_the_maximum_bombs",
