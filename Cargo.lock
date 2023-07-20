@@ -3854,6 +3854,10 @@ name = "p2063_vowels_of_all_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p2064_minimized_maximum_of_products_distributed_to_any_store"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
