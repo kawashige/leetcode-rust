@@ -1,0 +1,8 @@
+[package]
+name = "p2070_most_beautiful_item_for_each_query"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

@@ -3866,6 +3866,10 @@ name = "p2069_walking_robot_simulation_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2070_most_beautiful_item_for_each_query"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
