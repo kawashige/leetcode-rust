@@ -3870,6 +3870,10 @@ name = "p2070_most_beautiful_item_for_each_query"
 version = "0.1.0"
 
 [[package]]
+name = "p2073_time_needed_to_buy_tickets"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
