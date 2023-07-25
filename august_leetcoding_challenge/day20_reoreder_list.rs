@@ -86,7 +86,7 @@ mod test {
         let mut r2_1 = ListNode::new(1);
         let mut r2_2 = ListNode::new(5);
         let mut r2_3 = ListNode::new(2);
-        let mut r2_4 = ListNode::new(4);
+        let mut r2_4 = ::new(4);
         let r2_5 = ListNode::new(3);
         r2_4.next = Some(Box::new(r2_5));
         r2_3.next = Some(Box::new(r2_4));
