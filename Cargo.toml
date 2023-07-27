@@ -847,6 +847,7 @@ members = [
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
     "problems/p2136_earliest_possible_day_of_full_bloom",
     "problems/p2140_solving_questions_with_brainpower",
+    "problems/p2141_maximum_running_time_of_n_computers",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
