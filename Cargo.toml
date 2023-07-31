@@ -843,6 +843,7 @@ members = [
     "problems/p2075_decode_the_slanted_ciphertext",
     "problems/p2078_two_furthest_houses_with_different_colors",
     "problems/p2079_watering_plants",
+    "problems/p2080_range_frequency_queries",
     "problems/p2090_k_radius_subarray_averages",
     "problems/p2095_delete_the_middle_node_of_a_linked_list",
     "problems/p2101_detonate_the_maximum_bombs",

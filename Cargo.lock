@@ -3894,6 +3894,10 @@ name = "p2079_watering_plants"
 version = "0.1.0"
 
 [[package]]
+name = "p2080_range_frequency_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
