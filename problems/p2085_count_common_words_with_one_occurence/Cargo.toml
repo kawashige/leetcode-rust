@@ -1,0 +1,8 @@
+[package]
+name = "p2085_count_common_words_with_one_occurence"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
