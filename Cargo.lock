@@ -3906,6 +3906,10 @@ name = "p2086_minimum_number_of_food_buckets_to_feed_the_hamsters"
 version = "0.1.0"
 
 [[package]]
+name = "p2087_minimum_cost_homecoming_of_a_robot_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
