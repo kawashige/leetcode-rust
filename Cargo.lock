@@ -3910,6 +3910,10 @@ name = "p2087_minimum_cost_homecoming_of_a_robot_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2089_find_target_indices_after_sorting_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2090_k_radius_subarray_averages"
 version = "0.1.0"
 
