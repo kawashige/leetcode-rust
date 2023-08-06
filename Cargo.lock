@@ -1570,6 +1570,10 @@ name = "p0919_complete_binary_tree_inserter"
 version = "0.1.0"
 
 [[package]]
+name = "p0920_number_of_music_playlists"
+version = "0.1.0"
+
+[[package]]
 name = "p0921_minimum_add_to_make_parantheses_valid"
 version = "0.1.0"
 
