@@ -3934,6 +3934,10 @@ name = "p2095_delete_the_middle_node_of_a_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p2096_step_by_step_directions_from_a_binary_tree_node_to_another"
+version = "0.1.0"
+
+[[package]]
 name = "p2101_detonate_the_maximum_bombs"
 version = "0.1.0"
 
