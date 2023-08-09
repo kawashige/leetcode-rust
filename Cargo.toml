@@ -892,6 +892,7 @@ members = [
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
+    "problems/p2616_minimize_the_maximum_difference_of_pairs",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
