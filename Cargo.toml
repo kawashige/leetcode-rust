@@ -858,6 +858,7 @@ members = [
     "problems/p2099_find_subsequence_of_k_with_the_largest_sum",
     "problems/p2100_find_good_days_to_rob_the_bank",
     "problems/p2101_detonate_the_maximum_bombs",
+    "problems/p2103_rings_and_rods",
     "problems/p2130_maximum_twin_sum_of_a_linked_list",
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
     "problems/p2136_earliest_possible_day_of_full_bloom",

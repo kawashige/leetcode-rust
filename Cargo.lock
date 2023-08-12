@@ -3950,6 +3950,10 @@ name = "p2101_detonate_the_maximum_bombs"
 version = "0.1.0"
 
 [[package]]
+name = "p2103_rings_and_rods"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
