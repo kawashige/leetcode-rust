@@ -4046,6 +4046,10 @@ name = "p2360_longest_cycle_in_a_graph"
 version = "0.1.0"
 
 [[package]]
+name = "p2369_check_if_there_is_a_valid_partition_for_the_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2389_longest_subsequence_with_limited_sum"
 version = "0.1.0"
 
