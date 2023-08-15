@@ -3958,6 +3958,10 @@ name = "p2104_sum_of_subarray_ranges"
 version = "0.1.0"
 
 [[package]]
+name = "p2105_watering_plants_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
