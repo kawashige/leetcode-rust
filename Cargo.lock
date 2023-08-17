@@ -3966,6 +3966,10 @@ name = "p2108_find_first_palindromic_string_in_the_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2109_adding_spaces_to_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
