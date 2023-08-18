@@ -3970,6 +3970,10 @@ name = "p2109_adding_spaces_to_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2110_number_of_smooth_descent_periods_of_a_stock"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
