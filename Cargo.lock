@@ -2070,6 +2070,10 @@ name = "p1202_smallest_string_with_swaps"
 version = "0.1.0"
 
 [[package]]
+name = "p1203_sort_items_by_groups_respecting_dependencies"
+version = "0.1.0"
+
+[[package]]
 name = "p1207_unique_number_of_occurences"
 version = "0.1.0"
 

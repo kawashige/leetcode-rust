@@ -388,6 +388,7 @@ members = [
     "problems/p1200_minimum_absolute_difference",
     "problems/p1201_ugly_number_iii",
     "problems/p1202_smallest_string_with_swaps",
+    "problems/p1203_sort_items_by_groups_respecting_dependencies",
     "problems/p1207_unique_number_of_occurences",
     "problems/p1208_get_equal_substrings_within_budget",
     "problems/p1219_longest_arithmeric_subsequence_of_given_difference",
