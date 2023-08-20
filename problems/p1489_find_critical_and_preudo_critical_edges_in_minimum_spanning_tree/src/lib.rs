@@ -1,68 +1,89 @@
 pub struct Solution {}
 
-impl Solution {
-    pub fn recurse(
-        node_count: usize,
-        edges: &Vec<Vec<i32>>,
-        node_added: &mut Vec<bool>,
-        used_edge: &mut Vec<bool>,
-        critical_edge: &mut Vec<bool>,
-        preude_critical_edge: &mut Vec<bool>,
-        cost: i32,
-        min_cost: i32,
-    ) {
-        if node_count == node_added.len() {
-            for i in 0..used_edge.len() {
-                if used_edge[i] {
-                    preude_critical_edge[i] = true;
-                } else {
-                    critical_edge[i] = false
-                }
-            }
+pub struct DisjointSet {
+    pub parent: Vec<usize>,
+    size: Vec<usize>,
+}
+
+impl DisjointSet {
+    pub fn new(n: usize) -> Self {
+        Self {
+            parent: (0..n).collect(),
+            size: vec![1; n],
+        }
+    }
+
+    pub fn root(&mut self, i: usize) -> usize {
+        if self.parent[i] == i {
+            return i;
+        }
+
+        let parent = self.root(self.parent[i]);
+        self.parent[i] = parent;
+        parent
+    }
+
+    pub fn unite(&mut self, i: usize, j: usize) {
+        let mut parent_i = self.root(i);
+        let mut parent_j = self.root(j);
+
+        if parent_i == parent_j {
             return;
         }
 
-        for i in 0..edges.len() {
-            if used_edge[i] {
-                continue;
+        if self.size(parent_i) < self.size(parent_j) {
+            std::mem::swap(&mut parent_i, &mut parent_j);
+        }
+
+        self.parent[parent_j] = parent_i;
+        self.size[parent_i] += self.size[parent_j];
+    }
+
+    pub fn size(&mut self, i: usize) -> usize {
+        let root = self.root(i);
+        self.size[root]
+    }
+}
+impl Solution {
+    pub fn find_mst(n: usize, edges: &Vec<(Vec<i32>, usize)>, initial_edges: Option<usize>) -> i32 {
+        let mut disjoint_set = DisjointSet::new(n as usize);
+        let mut cost = 0;
+        let mut root_node = 0;
+
+        if let Some(i) = initial_edges {
+            cost += edges[i].0[2];
+            root_node = edges[i].0[0] as usize;
+            disjoint_set.unite(root_node, edges[i].0[1] as usize);
+        }
+
+        while disjoint_set.size(root_node) < n {
+            let mut found = false;
+            for i in 0..edges.len() {
+                if disjoint_set.root(root_node) == disjoint_set.root(edges[i].0[0] as usize)
+                    && disjoint_set.root(root_node) != disjoint_set.root(edges[i].0[1] as usize)
+                {
+                    disjoint_set.unite(root_node, edges[i].0[1] as usize);
+                    cost += edges[i].0[2];
+                    found = true;
+                    break;
+                } else if disjoint_set.root(root_node) != disjoint_set.root(edges[i].0[0] as usize)
+                    && disjoint_set.root(root_node) == disjoint_set.root(edges[i].0[1] as usize)
+                {
+                    disjoint_set.unite(root_node, edges[i].0[0] as usize);
+                    cost += edges[i].0[2];
+                    found = true;
+                    break;
+                }
             }
-            if node_added[edges[i][0] as usize]
-                && !node_added[edges[i][1] as usize]
-                && cost + edges[i][2] <= min_cost
-            {
-                node_added[edges[i][1] as usize] = true;
-                used_edge[i] = true;
-                Self::recurse(
-                    node_count + 1,
-                    edges,
-                    node_added,
-                    used_edge,
-                    critical_edge,
-                    preude_critical_edge,
-                    cost + edges[i][2],
-                    min_cost,
-                );
-                node_added[edges[i][1] as usize] = false;
-                used_edge[i] = false;
-            } else if !node_added[edges[i][0] as usize]
-                && node_added[edges[i][1] as usize]
-                && cost + edges[i][2] <= min_cost
-            {
-                node_added[edges[i][0] as usize] = true;
-                used_edge[i] = true;
-                Self::recurse(
-                    node_count + 1,
-                    edges,
-                    node_added,
-                    used_edge,
-                    critical_edge,
-                    preude_critical_edge,
-                    cost + edges[i][2],
-                    min_cost,
-                );
-                node_added[edges[i][0] as usize] = false;
-                used_edge[i] = false;
+            if !found {
+                break;
             }
+        }
+
+        if disjoint_set.size(root_node) != n {
+            std::i32::MAX
+        } else {
+            cost
         }
     }
 
@@ -70,56 +91,24 @@ impl Solution {
         let mut sorted_edges = edges.iter().cloned().zip(0..).collect::<Vec<_>>();
         sorted_edges.sort_unstable_by(|a, b| a.0[2].cmp(&b.0[2]));
 
-        let mut added = vec![false; n as usize];
-        added[0] = true;
-        let mut min_cost = 0;
-        let mut critical_edge = vec![false; sorted_edges.len()];
+        let min_cost = Self::find_mst(n as usize, &sorted_edges, None);
+        let mut critical_edges = Vec::new();
+        let mut pseude_critical_edges = Vec::new();
 
-        for _ in 0..n - 1 {
-            for i in 0..sorted_edges.len() {
-                if added[sorted_edges[i].0[0] as usize] && !added[sorted_edges[i].0[1] as usize] {
-                    added[sorted_edges[i].0[1] as usize] = true;
-                    min_cost += sorted_edges[i].0[2];
-                    critical_edge[sorted_edges[i].1] = true;
-                    break;
-                } else if !added[sorted_edges[i].0[0] as usize]
-                    && added[sorted_edges[i].0[1] as usize]
-                {
-                    added[sorted_edges[i].0[0] as usize] = true;
-                    min_cost += sorted_edges[i].0[2];
-                    critical_edge[sorted_edges[i].1] = true;
-                    break;
+        for i in 0..sorted_edges.len() {
+            let mut deleted_edges = sorted_edges.clone();
+            deleted_edges.remove(i);
+
+            if min_cost < Self::find_mst(n as usize, &deleted_edges, None) {
+                critical_edges.push(sorted_edges[i].1 as i32);
+            } else {
+                if min_cost == Self::find_mst(n as usize, &sorted_edges, Some(i)) {
+                    pseude_critical_edges.push(sorted_edges[i].1 as i32);
                 }
             }
         }
 
-        let mut preude_critical_edge = vec![false; edges.len()];
-        let mut used_edge = vec![false; edges.len()];
-        let mut node_added = vec![false; n as usize];
-        node_added[0] = true;
-
-        Self::recurse(
-            1,
-            &edges,
-            &mut node_added,
-            &mut used_edge,
-            &mut critical_edge,
-            &mut preude_critical_edge,
-            0,
-            min_cost,
-        );
-
-        let mut result = vec![vec![], vec![]];
-
-        for i in 0..edges.len() {
-            if critical_edge[i] {
-                result[0].push(i as i32);
-            } else if preude_critical_edge[i] {
-                result[1].push(i as i32);
-            }
-        }
-
-        result
+        vec![critical_edges, pseude_critical_edges]
     }
 }
 
@@ -129,6 +118,104 @@ mod test {
 
     #[test]
     fn test_1489() {
+        assert_eq!(
+            Solution::find_critical_and_pseudo_critical_edges(
+                14,
+                vec![
+                    vec![0, 1, 13],
+                    vec![0, 2, 6],
+                    vec![2, 3, 13],
+                    vec![3, 4, 4],
+                    vec![0, 5, 11],
+                    vec![4, 6, 14],
+                    vec![4, 7, 8],
+                    vec![2, 8, 6],
+                    vec![4, 9, 6],
+                    vec![7, 10, 4],
+                    vec![5, 11, 3],
+                    vec![6, 12, 7],
+                    vec![12, 13, 9],
+                    vec![7, 13, 2],
+                    vec![5, 13, 10],
+                    vec![0, 6, 4],
+                    vec![2, 7, 3],
+                    vec![0, 7, 8],
+                    vec![1, 12, 9],
+                    vec![10, 12, 11],
+                    vec![1, 2, 7],
+                    vec![1, 3, 10],
+                    vec![3, 10, 6],
+                    vec![6, 10, 4],
+                    vec![4, 8, 5],
+                    vec![1, 13, 4],
+                    vec![11, 13, 8],
+                    vec![2, 12, 10],
+                    vec![5, 8, 1],
+                    vec![3, 7, 6],
+                    vec![7, 12, 12],
+                    vec![1, 7, 9],
+                    vec![5, 9, 1],
+                    vec![2, 13, 10],
+                    vec![10, 11, 4],
+                    vec![3, 5, 10],
+                    vec![6, 11, 14],
+                    vec![5, 12, 3],
+                    vec![0, 8, 13],
+                    vec![8, 9, 1],
+                    vec![3, 6, 8],
+                    vec![0, 3, 4],
+                    vec![2, 9, 6],
+                    vec![0, 11, 4],
+                    vec![2, 5, 14],
+                    vec![4, 11, 2],
+                    vec![7, 11, 11],
+                    vec![1, 11, 6],
+                    vec![2, 10, 12],
+                    vec![0, 13, 4],
+                    vec![3, 9, 9],
+                    vec![4, 12, 3],
+                    vec![6, 7, 10],
+                    vec![6, 8, 13],
+                    vec![9, 11, 3],
+                    vec![1, 6, 2],
+                    vec![2, 4, 12],
+                    vec![0, 10, 3],
+                    vec![3, 12, 1],
+                    vec![3, 8, 12],
+                    vec![1, 8, 6],
+                    vec![8, 13, 2],
+                    vec![10, 13, 12],
+                    vec![9, 13, 11],
+                    vec![2, 11, 14],
+                    vec![5, 10, 9],
+                    vec![5, 6, 10],
+                    vec![2, 6, 9],
+                    vec![4, 10, 7],
+                    vec![3, 13, 10],
+                    vec![4, 13, 3],
+                    vec![3, 11, 9],
+                    vec![7, 9, 14],
+                    vec![6, 9, 5],
+                    vec![1, 5, 12],
+                    vec![4, 5, 3],
+                    vec![11, 12, 3],
+                    vec![0, 4, 8],
+                    vec![5, 7, 8],
+                    vec![9, 12, 13],
+                    vec![8, 12, 12],
+                    vec![1, 10, 6],
+                    vec![1, 9, 9],
+                    vec![7, 8, 9],
+                    vec![9, 10, 13],
+                    vec![8, 11, 3],
+                    vec![6, 13, 7],
+                    vec![0, 12, 10],
+                    vec![1, 4, 8],
+                    vec![8, 10, 2]
+                ]
+            ),
+            vec![vec![0, 2, 3, 5], vec![1, 4]]
+        );
         assert_eq!(
             Solution::find_critical_and_pseudo_critical_edges(
                 5,
