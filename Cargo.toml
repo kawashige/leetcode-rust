@@ -1274,6 +1274,7 @@ members = [
     "problems/p1486_xor_operation_in_an_array",
     "problems/p1487_making_file_names_unique",
     "problems/p1488_avoid_flood_in_the_city",
+    "problems/p1489_find_critical_and_preudo_critical_edges_in_minimum_spanning_tree",
     "problems/p1491_average_salary_excluding_minimum_and_maximum_salary",
     "problems/p1493_longest_subarray_of_1s_after_deleting_one_element",
     "problems/p1496_path_crossing",

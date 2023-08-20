@@ -2610,6 +2610,10 @@ name = "p1488_avoid_flood_in_the_city"
 version = "0.1.0"
 
 [[package]]
+name = "p1489_find_critical_and_preudo_critical_edges_in_minimum_spanning_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p1491_average_salary_excluding_minimum_and_maximum_salary"
 version = "0.1.0"
 

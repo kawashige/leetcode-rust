@@ -1,0 +1,8 @@
+[package]
+name = "p1489_find_critical_and_preudo_critical_edges_in_minimum_spanning_tree"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
