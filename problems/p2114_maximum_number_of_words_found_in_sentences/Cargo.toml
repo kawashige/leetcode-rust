@@ -1,0 +1,8 @@
+[package]
+name = "p2114_maximum_number_of_words_found_in_sentences"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
