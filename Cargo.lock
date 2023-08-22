@@ -3986,6 +3986,10 @@ name = "p2114_maximum_number_of_words_found_in_sentences"
 version = "0.1.0"
 
 [[package]]
+name = "p2115_find_all_possible_recipes_from_given_supplies"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
