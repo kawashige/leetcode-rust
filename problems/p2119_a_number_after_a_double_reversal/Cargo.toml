@@ -1,0 +1,8 @@
+[package]
+name = "p2119_a_number_after_a_double_reversal"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
