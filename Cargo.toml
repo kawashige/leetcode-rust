@@ -6,6 +6,7 @@ members = [
     "problems/p0016_3sum_closest",
     "problems/p0030_substring_with_concatenation_of_all_words",
     "problems/p0053_maximum_subarray",
+    "problems/p0068_text_justification",
     "problems/p0072_edit_distance",
     "problems/p0085_maximum_rectangle",
     "problems/p0087_scramble_string",

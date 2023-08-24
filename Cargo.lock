@@ -534,6 +534,10 @@ name = "p0053_maximum_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p0068_text_justification"
+version = "0.1.0"
+
+[[package]]
 name = "p0072_edit_distance"
 version = "0.1.0"
 
