@@ -21,9 +21,6 @@ impl Solution {
         lines.push(line.clone());
         words_len.push(len);
 
-        println!("lines: {:?}", lines);
-        println!("len: {:?}", words_len);
-
         let mut result = Vec::new();
 
         for i in 0..lines.len() {
@@ -39,7 +36,6 @@ impl Solution {
                 } else if lines[i].len() == 1 {
                     max_width - s.len()
                 } else if j < lines[i].len() - 1 {
-                    println!("{}", (max_width - words_len[i]) % (lines[i].len() - 1));
                     if j < (max_width - words_len[i]) % (lines[i].len() - 1) {
                         (max_width - words_len[i] + lines[i].len() - 2) / (lines[i].len() - 1)
                     } else {
@@ -48,14 +44,6 @@ impl Solution {
                 } else {
                     0
                 };
-                println!(
-                    "spaces: {}, {}, {}, {}, {}",
-                    spaces,
-                    i,
-                    j,
-                    max_width,
-                    s.len()
-                );
                 for _ in 0..spaces {
                     s.push(' ')
                 }
