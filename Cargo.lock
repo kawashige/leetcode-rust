@@ -594,6 +594,10 @@ name = "p0354_russian_doll_envelopes"
 version = "0.1.0"
 
 [[package]]
+name = "p0403_frog_jump"
+version = "0.1.0"
+
+[[package]]
 name = "p0410_split_array_largest_sum"
 version = "0.1.0"
 
