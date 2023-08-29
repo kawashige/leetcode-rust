@@ -4150,6 +4150,10 @@ name = "p2477_minimum_fuel_cost_to_report_to_the_capital"
 version = "0.1.0"
 
 [[package]]
+name = "p2483_minimum_penalty_for_a_shop"
+version = "0.1.0"
+
+[[package]]
 name = "p2492_minimum_score_of_a_path_between_two_cities"
 version = "0.1.0"
 

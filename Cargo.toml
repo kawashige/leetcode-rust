@@ -907,6 +907,7 @@ members = [
     "problems/p2462_total_cost_to_hire_k_workers",
     "problems/p2466_count_ways_to_build_good_strings",
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
+    "problems/p2483_minimum_penalty_for_a_shop",
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
