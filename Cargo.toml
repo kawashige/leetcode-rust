@@ -896,6 +896,7 @@ members = [
     "problems/p2352_equal_row_and_column_pairs",
     "problems/p2359_find_the_closest_node_to_given_nodes",
     "problems/p2360_longest_cycle_in_a_graph",
+    "problems/p2366_minimum_replacement_to_sort_the_array",
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2390_removing_stars_from_a_string",
