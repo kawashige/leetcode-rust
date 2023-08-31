@@ -2266,6 +2266,10 @@ name = "p1325_delete_leaves_with_a_given_value"
 version = "0.1.0"
 
 [[package]]
+name = "p1326_minimum_number_of_taps_to_open_to_water_a_garden"
+version = "0.1.0"
+
+[[package]]
 name = "p1331_rank_transform_of_an_array"
 version = "0.1.0"
 

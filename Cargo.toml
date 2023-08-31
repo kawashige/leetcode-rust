@@ -1195,6 +1195,7 @@ members = [
     "problems/p1323_maximum_69_number",
     "problems/p1324_print_words_vertically",
     "problems/p1325_delete_leaves_with_a_given_value",
+    "problems/p1326_minimum_number_of_taps_to_open_to_water_a_garden",
     "problems/p1331_rank_transform_of_an_array",
     "problems/p1333_filter_restaurants_by_vegan_friendly_price_and_distance",
     "problems/p1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance",
