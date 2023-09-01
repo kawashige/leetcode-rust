@@ -4014,6 +4014,10 @@ name = "p2120_execution_all_suffix_instructions_staying_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2121_intervals_between_identical_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p2124_check_if_all_as_appears_before_all_bs"
 version = "0.1.0"
 
