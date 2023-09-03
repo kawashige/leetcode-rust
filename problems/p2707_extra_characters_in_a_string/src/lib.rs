@@ -17,8 +17,6 @@ impl Solution {
             }
         }
 
-        println!("dp: {:?}", dp);
-
         *dp.last().unwrap()
     }
 }
