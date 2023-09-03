@@ -4022,6 +4022,10 @@ name = "p2124_check_if_all_as_appears_before_all_bs"
 version = "0.1.0"
 
 [[package]]
+name = "p2125_number_of_laser_beams_in_a_bank"
+version = "0.1.0"
+
+[[package]]
 name = "p2130_maximum_twin_sum_of_a_linked_list"
 version = "0.1.0"
 
