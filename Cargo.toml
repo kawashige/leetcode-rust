@@ -879,6 +879,7 @@ members = [
     "problems/p2129_capitalize_the_title",
     "problems/p2130_maximum_twin_sum_of_a_linked_list",
     "problems/p2131_longest_palindrome_by_concatenationg_two_letter_words",
+    "problems/p2133_check_if_every_row_and_column_contains_all_numbers",
     "problems/p2136_earliest_possible_day_of_full_bloom",
     "problems/p2140_solving_questions_with_brainpower",
     "problems/p2141_maximum_running_time_of_n_computers",
