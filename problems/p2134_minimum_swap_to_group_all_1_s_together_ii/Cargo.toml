@@ -1,0 +1,8 @@
+[package]
+name = "p2134_minimum_swap_to_group_all_1_s_together_ii"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
