@@ -4050,6 +4050,10 @@ name = "p2134_minimum_swap_to_group_all_1_s_together_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2135_count_words_obtained_after_adding_a_letter"
+version = "0.1.0"
+
+[[package]]
 name = "p2136_earliest_possible_day_of_full_bloom"
 version = "0.1.0"
 
