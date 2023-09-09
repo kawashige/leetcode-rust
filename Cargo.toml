@@ -883,6 +883,7 @@ members = [
     "problems/p2134_minimum_swap_to_group_all_1_s_together_ii",
     "problems/p2135_count_words_obtained_after_adding_a_letter",
     "problems/p2136_earliest_possible_day_of_full_bloom",
+    "problems/p2138_divide_a_atring_into_groups_of_size_k",
     "problems/p2140_solving_questions_with_brainpower",
     "problems/p2141_maximum_running_time_of_n_computers",
     "problems/p2187_minimum_time_to_complete_trip",

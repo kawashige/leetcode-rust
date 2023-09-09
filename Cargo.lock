@@ -4058,6 +4058,10 @@ name = "p2136_earliest_possible_day_of_full_bloom"
 version = "0.1.0"
 
 [[package]]
+name = "p2138_divide_a_atring_into_groups_of_size_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2140_solving_questions_with_brainpower"
 version = "0.1.0"
 
