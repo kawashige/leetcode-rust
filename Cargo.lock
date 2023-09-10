@@ -4062,6 +4062,10 @@ name = "p2138_divide_a_atring_into_groups_of_size_k"
 version = "0.1.0"
 
 [[package]]
+name = "p2139_minimum_moves_to_reach_target_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2140_solving_questions_with_brainpower"
 version = "0.1.0"
 
