@@ -7,10 +7,6 @@ impl Solution {
         let mut doubles = max_doubles;
 
         while 1 < current {
-            println!(
-                "current: {}, count: {}, doubles: {}",
-                current, count, doubles
-            );
             if 0 < doubles {
                 if current % 2 == 1 {
                     current -= 1;
