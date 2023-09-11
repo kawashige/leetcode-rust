@@ -887,6 +887,7 @@ members = [
     "problems/p2139_minimum_moves_to_reach_target_score",
     "problems/p2140_solving_questions_with_brainpower",
     "problems/p2141_maximum_running_time_of_n_computers",
+    "problems/p2144_minimum_cost_of_buying_candies_with_discount",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
