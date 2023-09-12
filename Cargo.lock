@@ -4078,6 +4078,10 @@ name = "p2144_minimum_cost_of_buying_candies_with_discount"
 version = "0.1.0"
 
 [[package]]
+name = "p2145_count_the_hidden_sequences"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
