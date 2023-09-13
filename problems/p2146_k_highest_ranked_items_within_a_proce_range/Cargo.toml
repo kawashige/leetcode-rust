@@ -1,0 +1,8 @@
+[package]
+name = "p2146_k_highest_ranked_items_within_a_proce_range"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
