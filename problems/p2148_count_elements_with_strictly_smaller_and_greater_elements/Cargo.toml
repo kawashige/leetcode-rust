@@ -1,0 +1,8 @@
+[package]
+name = "p2148_count_elements_with_strictly_smaller_and_greater_elements"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

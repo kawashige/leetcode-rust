@@ -890,6 +890,7 @@ members = [
     "problems/p2144_minimum_cost_of_buying_candies_with_discount",
     "problems/p2145_count_the_hidden_sequences",
     "problems/p2146_k_highest_ranked_items_within_a_proce_range",
+    "problems/p2148_count_elements_with_strictly_smaller_and_greater_elements",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
