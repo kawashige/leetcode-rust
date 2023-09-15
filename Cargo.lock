@@ -4090,6 +4090,10 @@ name = "p2148_count_elements_with_strictly_smaller_and_greater_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p2149_rearrange_array_elements_by_sign"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
