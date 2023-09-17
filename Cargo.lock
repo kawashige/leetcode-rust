@@ -4098,6 +4098,10 @@ name = "p2150_find_all_lonely_numbers_in_the_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2154_keep_multiplying_found_values_by_two"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
