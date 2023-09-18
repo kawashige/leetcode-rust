@@ -4102,6 +4102,10 @@ name = "p2154_keep_multiplying_found_values_by_two"
 version = "0.1.0"
 
 [[package]]
+name = "p2155_all_divisions_with_the_highest_score_of_a_binary_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 

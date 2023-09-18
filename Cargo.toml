@@ -894,6 +894,7 @@ members = [
     "problems/p2149_rearrange_array_elements_by_sign",
     "problems/p2150_find_all_lonely_numbers_in_the_array",
     "problems/p2154_keep_multiplying_found_values_by_two",
+    "problems/p2155_all_divisions_with_the_highest_score_of_a_binary_array",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
