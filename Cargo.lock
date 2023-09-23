@@ -4122,6 +4122,10 @@ name = "p2162_minimum_cost_to_set_cooking_time"
 version = "0.1.0"
 
 [[package]]
+name = "p2164_sort_even_and_odd_indices_independently"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
