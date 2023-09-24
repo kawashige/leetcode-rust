@@ -4126,6 +4126,10 @@ name = "p2164_sort_even_and_odd_indices_independently"
 version = "0.1.0"
 
 [[package]]
+name = "p2165_smallest_value_of_the_rearranged_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
