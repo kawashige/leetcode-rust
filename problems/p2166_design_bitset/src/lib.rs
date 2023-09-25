@@ -29,7 +29,6 @@ impl Bitset {
             }
             self.state[idx as usize] = true;
         }
-        println!("{:?}, {}, {}", self.state, self.base, self.count);
     }
 
     fn unfix(&mut self, idx: i32) {
@@ -44,13 +43,11 @@ impl Bitset {
             }
             self.state[idx as usize] = false;
         }
-        println!("{:?}, {}, {}", self.state, self.base, self.count);
     }
 
     fn flip(&mut self) {
         self.base = !self.base;
         self.count = self.state.len() - self.count;
-        println!("{:?}, {}, {}", self.state, self.base, self.count);
     }
 
     fn all(&self) -> bool {
@@ -58,12 +55,10 @@ impl Bitset {
     }
 
     fn one(&self) -> bool {
-        println!("{:?}, {}, {}", self.state, self.base, self.count);
         0 < self.count
     }
 
     fn count(&self) -> i32 {
-        println!("{:?}, {}, {}", self.state, self.base, self.count);
         self.count as i32
     }
 
