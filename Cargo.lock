@@ -4134,6 +4134,10 @@ name = "p2166_design_bitset"
 version = "0.1.0"
 
 [[package]]
+name = "p2169_count_operations_to_obtain_zeros"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
