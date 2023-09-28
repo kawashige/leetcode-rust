@@ -4142,6 +4142,10 @@ name = "p2170_minimum_operations_to_make_the_array_alternating"
 version = "0.1.0"
 
 [[package]]
+name = "p2171_removing_minimum_number_of_magic_beans"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
