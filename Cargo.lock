@@ -4146,6 +4146,10 @@ name = "p2171_removing_minimum_number_of_magic_beans"
 version = "0.1.0"
 
 [[package]]
+name = "p2176_count_equal_and_ddivisible_pairs_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
