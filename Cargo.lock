@@ -4150,6 +4150,10 @@ name = "p2176_count_equal_and_ddivisible_pairs_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2177_find_three_consequtive_integers_that_sum_to_a_given_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 

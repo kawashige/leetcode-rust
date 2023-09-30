@@ -1,0 +1,8 @@
+[package]
+name = "p2177_find_three_consequtive_integers_that_sum_to_a_given_number"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
