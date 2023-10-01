@@ -907,6 +907,7 @@ members = [
     "problems/p2171_removing_minimum_number_of_magic_beans",
     "problems/p2176_count_equal_and_ddivisible_pairs_in_an_array",
     "problems/p2177_find_three_consequtive_integers_that_sum_to_a_given_number",
+    "problems/p2178_maximum_split_of_positive_even_integers",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",

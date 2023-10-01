@@ -4154,6 +4154,10 @@ name = "p2177_find_three_consequtive_integers_that_sum_to_a_given_number"
 version = "0.1.0"
 
 [[package]]
+name = "p2178_maximum_split_of_positive_even_integers"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
