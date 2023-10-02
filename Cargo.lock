@@ -4158,6 +4158,10 @@ name = "p2178_maximum_split_of_positive_even_integers"
 version = "0.1.0"
 
 [[package]]
+name = "p2180_count_integers_with_even_digit_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
