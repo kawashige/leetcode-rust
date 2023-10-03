@@ -909,6 +909,7 @@ members = [
     "problems/p2177_find_three_consequtive_integers_that_sum_to_a_given_number",
     "problems/p2178_maximum_split_of_positive_even_integers",
     "problems/p2180_count_integers_with_even_digit_sum",
+    "problems/p2181_merge_nodes_in_between_zeros",
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
