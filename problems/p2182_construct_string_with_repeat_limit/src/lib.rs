@@ -12,8 +12,6 @@ impl Solution {
         let mut repeat = 0;
         let mut changed = true;
 
-        println!("{:?}", count);
-
         while changed {
             changed = false;
             for i in (0..26).rev() {
