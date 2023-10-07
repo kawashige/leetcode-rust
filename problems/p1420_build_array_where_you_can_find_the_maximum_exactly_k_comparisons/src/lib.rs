@@ -20,14 +20,6 @@ impl Solution {
             }
         }
 
-        for i in 0..dp.len() {
-            for j in 0..dp[0].len() {
-                for l in 0..dp[0][0].len() {
-                    println!("({}, {}, {}): {}", i, j, l, dp[i][j][l]);
-                }
-            }
-        }
-
         (1..=m as usize).fold(0, |acc, i| (acc + dp[n as usize][k as usize][i]) % M) as i32
     }
 }
