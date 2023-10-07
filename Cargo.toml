@@ -1289,6 +1289,7 @@ members = [
     "problems/p1417_reformat_the_string",
     "problems/p1418_display_table_of_food_orders_in_a_restaurant",
     "problems/p1419_minimum_number_of_frogs_croaking",
+    "problems/p1420_build_array_where_you_can_find_the_maximum_exactly_k_comparisons",
     "problems/p1422_maximum_score_after_splitting_a_string",
     "problems/p1424_diagonal_traverse_ii",
     "problems/p1431_kids_with_the_greatest_number_of_candies",
