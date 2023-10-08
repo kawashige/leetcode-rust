@@ -2570,6 +2570,10 @@ name = "p1456_maximum_number_of_vowels_in_a_substring_of_given_length"
 version = "0.1.0"
 
 [[package]]
+name = "p1458_max_dot_product_of_two_subsequences"
+version = "0.1.0"
+
+[[package]]
 name = "p1460_make_two_arrays_equal_by_reversing_sub_arrays"
 version = "0.1.0"
 
