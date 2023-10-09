@@ -4190,6 +4190,10 @@ name = "p2187_minimum_time_to_complete_trip"
 version = "0.1.0"
 
 [[package]]
+name = "p2190_most_frequent_number_following_key_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 
