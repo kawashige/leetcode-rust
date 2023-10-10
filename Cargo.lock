@@ -3766,6 +3766,10 @@ name = "p2008_maximum_earnings_from_taxi"
 version = "0.1.0"
 
 [[package]]
+name = "p2009_minimum_number_of_operations_to_make_array_continuous"
+version = "0.1.0"
+
+[[package]]
 name = "p2011_final_value_of_variable_after_performing_operations"
 version = "0.1.0"
 
