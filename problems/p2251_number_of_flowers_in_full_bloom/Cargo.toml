@@ -1,0 +1,8 @@
+[package]
+name = "p2251_number_of_flowers_in_full_bloom"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
