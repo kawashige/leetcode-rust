@@ -1934,6 +1934,10 @@ name = "p1093_statistics_from_a_large_sample"
 version = "0.1.0"
 
 [[package]]
+name = "p1095_find_in_mountain_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1104_path_in_zigzag_labelled_binary_tree"
 version = "0.1.0"
 
