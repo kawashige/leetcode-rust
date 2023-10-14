@@ -4350,6 +4350,10 @@ name = "p2707_extra_characters_in_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2742_painting_the_walls"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
