@@ -2178,6 +2178,10 @@ name = "p1267_count_servers_that_communicate"
 version = "0.1.0"
 
 [[package]]
+name = "p1269_number_of_ways_to_stay_in_the_same_place_after_some_steps"
+version = "0.1.0"
+
+[[package]]
 name = "p1276_number_of_burgers_with_no_waste_of_ingredients"
 version = "0.1.0"
 

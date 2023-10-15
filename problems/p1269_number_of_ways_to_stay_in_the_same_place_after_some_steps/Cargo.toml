@@ -1,0 +1,8 @@
+[package]
+name = "p1269_number_of_ways_to_stay_in_the_same_place_after_some_steps"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

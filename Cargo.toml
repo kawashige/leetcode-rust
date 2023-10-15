@@ -1211,6 +1211,7 @@ members = [
     "problems/p1262_greatest_sum_divisible_by_three",
     "problems/p1266_minimum_time_visiting_all_points",
     "problems/p1267_count_servers_that_communicate",
+    "problems/p1269_number_of_ways_to_stay_in_the_same_place_after_some_steps",
     "problems/p1276_number_of_burgers_with_no_waste_of_ingredients",
     "problems/p1277_count_square_submatices_with_all_ones",
     "problems/p1281_subtract_the_product_and_sum_of_digits_of_an_integer",
