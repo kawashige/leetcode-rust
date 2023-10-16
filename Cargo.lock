@@ -4210,6 +4210,10 @@ name = "p2191_sort_the_jumped_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "p2192_all_ancesters_of_a_node_in_a_directed_acyclic_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 
