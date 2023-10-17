@@ -4214,6 +4214,10 @@ name = "p2192_all_ancesters_of_a_node_in_a_directed_acyclic_graph"
 version = "0.1.0"
 
 [[package]]
+name = "p2194_cells_in_a_range_on_an_excel_sheet"
+version = "0.1.0"
+
+[[package]]
 name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 
