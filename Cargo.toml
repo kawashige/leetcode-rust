@@ -833,6 +833,7 @@ members = [
     "problems/p2047_number_of_valid_words_in_a_sentence",
     "problems/p2048_next_greater_numerically_balanced_number",
     "problems/p2049_count_nodes_with_the_highest_score",
+    "problems/p2050_parallel_courses_iii",
     "problems/p2053_kth_distinct_string_in_an_array",
     "problems/p2054_two_best_non_overlapping_events",
     "problems/p2055_plates_between_candles",
