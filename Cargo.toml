@@ -497,6 +497,7 @@ members = [
     "problems/p1419_minimum_number_of_frogs_croaking",
     "problems/p1422_maximum_score_after_splitting_a_string",
     "problems/p1424_diagonal_traverse_ii",
+    "problems/p1425_constrained_subsequence_sum",
     "problems/p1431_kids_with_the_greatest_number_of_candies",
     "problems/p1432_max_difference_you_can_get_from_changing_an_integer",
     "problems/p1433_check_if_a_string_can_break_another_string",

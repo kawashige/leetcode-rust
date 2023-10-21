@@ -2522,6 +2522,10 @@ name = "p1424_diagonal_traverse_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p1425_constrained_subsequence_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p1431_kids_with_the_greatest_number_of_candies"
 version = "0.1.0"
 
