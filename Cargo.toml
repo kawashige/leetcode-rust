@@ -920,6 +920,7 @@ members = [
     "problems/p2187_minimum_time_to_complete_trip",
     "problems/p2200_find_all_k_distant_indices_in_an_array",
     "problems/p2201_count_artifacts_that_can_be_extracted",
+    "problems/p2206_divide_array_into_equal_pairs",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
     "problems/p2225_find_players_with_zero_or_one_loses",
