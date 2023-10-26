@@ -4246,6 +4246,10 @@ name = "p2201_count_artifacts_that_can_be_extracted"
 version = "0.1.0"
 
 [[package]]
+name = "p2202_maximize_the_topmost_element_after_k_moves"
+version = "0.1.0"
+
+[[package]]
 name = "p2206_divide_array_into_equal_pairs"
 version = "0.1.0"
 
