@@ -4258,6 +4258,10 @@ name = "p2207_maximum_number_of_subsequences_in_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2208_minimum_operataions_to_have_array_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 

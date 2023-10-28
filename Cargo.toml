@@ -923,6 +923,7 @@ members = [
     "problems/p2202_maximize_the_topmost_element_after_k_moves",
     "problems/p2206_divide_array_into_equal_pairs",
     "problems/p2207_maximum_number_of_subsequences_in_a_string",
+    "problems/p2208_minimum_operataions_to_have_array_sum",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
     "problems/p2225_find_players_with_zero_or_one_loses",
