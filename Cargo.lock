@@ -4366,6 +4366,10 @@ name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
 [[package]]
+name = "p2433_find_the_original_array_of_prefix_xor"
+version = "0.1.0"
+
+[[package]]
 name = "p2439_minimize_maximum_of_array"
 version = "0.1.0"
 
