@@ -4270,6 +4270,10 @@ name = "p2211_count_collisions_on_a_road"
 version = "0.1.0"
 
 [[package]]
+name = "p2212_maximum_points_in_an_archery_competition"
+version = "0.1.0"
+
+[[package]]
 name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 
