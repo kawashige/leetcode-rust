@@ -934,6 +934,7 @@ members = [
     "problems/p2246_longest_path_with_different_adjacent_characters",
     "problems/p2251_number_of_flowers_in_full_bloom",
     "problems/p2256_minimum_averate_difference",
+    "problems/p2265_count_nodes_equal_to_average_of_subtree",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
