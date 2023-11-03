@@ -4278,6 +4278,10 @@ name = "p2215_find_the_difference_of_two_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2216_manimum_deletions_to_make_array_beautiful"
+version = "0.1.0"
+
+[[package]]
 name = "p2218_maximum_value_of_k_coins_from_piles"
 version = "0.1.0"
 
