@@ -4290,6 +4290,10 @@ name = "p2218_maximum_value_of_k_coins_from_piles"
 version = "0.1.0"
 
 [[package]]
+name = "p2221_find_triangular_sum_of_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2225_find_players_with_zero_or_one_loses"
 version = "0.1.0"
 
