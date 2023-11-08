@@ -971,6 +971,7 @@ members = [
     "problems/p2616_minimize_the_maximum_difference_of_pairs",
     "problems/p2707_extra_characters_in_a_string",
     "problems/p2742_painting_the_walls",
+    "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
