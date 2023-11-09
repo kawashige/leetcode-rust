@@ -1694,6 +1694,7 @@ members = [
     "problems/p2196_crate_binary_tree_from_description",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
+    "problems/p2224_minimum_number_of_operations_to_convert_time",
     "problems/p2225_find_players_with_zero_or_one_loses",
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2246_longest_path_with_different_adjacent_characters",
