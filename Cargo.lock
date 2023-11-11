@@ -4454,6 +4454,10 @@ name = "p2616_minimize_the_maximum_difference_of_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p2642_design_graph_with_shortest_path_calculator"
+version = "0.1.0"
+
+[[package]]
 name = "p2707_extra_characters_in_a_string"
 version = "0.1.0"
 
