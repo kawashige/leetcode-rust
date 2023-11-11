@@ -14,7 +14,6 @@ impl Solution {
                     * (nums[0][l..].parse::<i32>().unwrap()
                         + nums[1][..=r].parse::<i32>().unwrap())
                     * nums[1][r + 1..].parse::<i32>().unwrap_or(1);
-                println!("({}, {}): {}", l, r, result);
                 if result < min_result {
                     min_result = result;
                     min_l = l;
