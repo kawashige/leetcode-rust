@@ -1,7 +1,4 @@
-use std::{
-    cmp::Reverse,
-    collections::{BinaryHeap, VecDeque},
-};
+use std::{cmp::Reverse, collections::BinaryHeap};
 
 struct Graph {
     matrix: Vec<Vec<(usize, i32)>>,
