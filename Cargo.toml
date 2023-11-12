@@ -201,6 +201,7 @@ members = [
     "problems/p0812_largest_triangle_area",
     "problems/p0813_largest_sum_of_averages",
     "problems/p0814_binary_tree_pruning",
+    "problems/p0815_bus_routes",
     "problems/p0817_linked_list_components",
     "problems/p0819_most_common_word",
     "problems/p0822_card_flipping_game",
