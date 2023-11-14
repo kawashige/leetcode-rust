@@ -1,0 +1,8 @@
+[package]
+name = "p2231_largest_number_after_digit_swaps_by_parity"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
