@@ -4342,6 +4342,10 @@ name = "p2240_number_of_ways_to_buy_pens_and_pencils"
 version = "0.1.0"
 
 [[package]]
+name = "p2241_design_an_atm_machine"
+version = "0.1.0"
+
+[[package]]
 name = "p2244_minimum_rounds_to_complete_all_takes"
 version = "0.1.0"
 
