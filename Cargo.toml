@@ -962,6 +962,7 @@ members = [
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2390_removing_stars_from_a_string",
+    "problems/p2391_minimum_amount_of_time_to_collect_garbage",
     "problems/p2405_optimal_partition_of_string",
     "problems/p2421_number_of_good_paths",
     "problems/p2433_find_the_original_array_of_prefix_xor",

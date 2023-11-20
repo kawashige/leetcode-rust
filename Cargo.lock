@@ -4426,6 +4426,10 @@ name = "p2390_removing_stars_from_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2391_minimum_amount_of_time_to_collect_garbage"
+version = "0.1.0"
+
+[[package]]
 name = "p2405_optimal_partition_of_string"
 version = "0.1.0"
 
