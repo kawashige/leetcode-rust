@@ -4334,6 +4334,10 @@ name = "p2235_add_two_integers"
 version = "0.1.0"
 
 [[package]]
+name = "p2236_root_equal_sum_of_children"
+version = "0.1.0"
+
+[[package]]
 name = "p2239_find_closest_number_to_zero"
 version = "0.1.0"
 

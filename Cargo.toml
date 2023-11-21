@@ -939,6 +939,7 @@ members = [
     "problems/p2231_largest_number_after_digit_swaps_by_parity",
     "problems/p2233_maximum_product_after_k_increments",
     "problems/p2235_add_two_integers",
+    "problems/p2236_root_equal_sum_of_children",
     "problems/p2239_find_closest_number_to_zero",
     "problems/p2240_number_of_ways_to_buy_pens_and_pencils",
     "problems/p2241_design_an_atm_machine",
