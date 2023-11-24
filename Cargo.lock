@@ -4366,6 +4366,10 @@ name = "p2246_longest_path_with_different_adjacent_characters"
 version = "0.1.0"
 
 [[package]]
+name = "p2249_count_lattice_points_inside_a_circle"
+version = "0.1.0"
+
+[[package]]
 name = "p2251_number_of_flowers_in_full_bloom"
 version = "0.1.0"
 

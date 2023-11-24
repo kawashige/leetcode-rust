@@ -947,6 +947,7 @@ members = [
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2245_maximum_trailing_zeros_in_a_cornered_path",
     "problems/p2246_longest_path_with_different_adjacent_characters",
+    "problems/p2249_count_lattice_points_inside_a_circle",
     "problems/p2251_number_of_flowers_in_full_bloom",
     "problems/p2256_minimum_averate_difference",
     "problems/p2265_count_nodes_equal_to_average_of_subtree",
