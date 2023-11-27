@@ -4378,6 +4378,10 @@ name = "p2251_number_of_flowers_in_full_bloom"
 version = "0.1.0"
 
 [[package]]
+name = "p2255_count_prefixes_of_a_given_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2256_minimum_averate_difference"
 version = "0.1.0"
 
