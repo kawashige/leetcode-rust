@@ -1719,6 +1719,7 @@ members = [
     "problems/p2244_minimum_rounds_to_complete_all_takes",
     "problems/p2246_longest_path_with_different_adjacent_characters",
     "problems/p2256_minimum_averate_difference",
+    "problems/p2259_remove_digit_from_number_to_maximize_result",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",

@@ -4394,6 +4394,10 @@ name = "p2257_count_unguarded_cells_in_the_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2259_remove_digit_from_number_to_maximize_result"
+version = "0.1.0"
+
+[[package]]
 name = "p2265_count_nodes_equal_to_average_of_subtree"
 version = "0.1.0"
 
