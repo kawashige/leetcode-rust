@@ -2938,6 +2938,10 @@ name = "p1609_even_odd_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p1611_minimum_one_bit_operations_to_make_integers_zero"
+version = "0.1.0"
+
+[[package]]
 name = "p1614_maximum_nesting_depth_of_the_parentheses"
 version = "0.1.0"
 

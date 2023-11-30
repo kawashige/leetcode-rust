@@ -600,6 +600,7 @@ members = [
     "problems/p1605_find_valid_matrix_given_row_and_column_sums",
     "problems/p1608_special_array_with_x_elements_greater_than_or_equal_x",
     "problems/p1609_even_odd_tree",
+    "problems/p1611_minimum_one_bit_operations_to_make_integers_zero",
     "problems/p1614_maximum_nesting_depth_of_the_parentheses",
     "problems/p1615_maximal_network_rank",
     "problems/p1616_split_two_strings_to_make_palindrome",
