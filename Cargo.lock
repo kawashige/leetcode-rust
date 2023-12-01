@@ -4402,6 +4402,10 @@ name = "p2259_remove_digit_from_number_to_maximize_result"
 version = "0.1.0"
 
 [[package]]
+name = "p2260_minimum_consecutive_cards_to_pick_up"
+version = "0.1.0"
+
+[[package]]
 name = "p2265_count_nodes_equal_to_average_of_subtree"
 version = "0.1.0"
 
