@@ -955,6 +955,7 @@ members = [
     "problems/p2256_minimum_averate_difference",
     "problems/p2257_count_unguarded_cells_in_the_grid",
     "problems/p2260_minimum_consecutive_cards_to_pick_up",
+    "problems/p2261_k_divisible_elements_subarrays",
     "problems/p2265_count_nodes_equal_to_average_of_subtree",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2300_successful_pairs_of_spells_and_potions",
