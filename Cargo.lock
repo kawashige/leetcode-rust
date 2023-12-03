@@ -4414,6 +4414,10 @@ name = "p2265_count_nodes_equal_to_average_of_subtree"
 version = "0.1.0"
 
 [[package]]
+name = "p2266_count_number_of_texts"
+version = "0.1.0"
+
+[[package]]
 name = "p2272_substring_with_largest_variance"
 version = "0.1.0"
 

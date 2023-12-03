@@ -957,6 +957,7 @@ members = [
     "problems/p2260_minimum_consecutive_cards_to_pick_up",
     "problems/p2261_k_divisible_elements_subarrays",
     "problems/p2265_count_nodes_equal_to_average_of_subtree",
+    "problems/p2266_count_number_of_texts",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
