@@ -956,6 +956,7 @@ members = [
     "problems/p2257_count_unguarded_cells_in_the_grid",
     "problems/p2260_minimum_consecutive_cards_to_pick_up",
     "problems/p2261_k_divisible_elements_subarrays",
+    "problems/p2264_largest_3_same_digit_number_in_string",
     "problems/p2265_count_nodes_equal_to_average_of_subtree",
     "problems/p2266_count_number_of_texts",
     "problems/p2272_substring_with_largest_variance",

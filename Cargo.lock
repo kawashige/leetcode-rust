@@ -4410,6 +4410,10 @@ name = "p2261_k_divisible_elements_subarrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2264_largest_3_same_digit_number_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2265_count_nodes_equal_to_average_of_subtree"
 version = "0.1.0"
 
