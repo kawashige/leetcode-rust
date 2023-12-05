@@ -4422,6 +4422,10 @@ name = "p2266_count_number_of_texts"
 version = "0.1.0"
 
 [[package]]
+name = "p2269_find_the_k_bueaty_of_a_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2272_substring_with_largest_variance"
 version = "0.1.0"
 

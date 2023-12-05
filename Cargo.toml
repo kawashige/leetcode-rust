@@ -959,6 +959,7 @@ members = [
     "problems/p2264_largest_3_same_digit_number_in_string",
     "problems/p2265_count_nodes_equal_to_average_of_subtree",
     "problems/p2266_count_number_of_texts",
+    "problems/p2269_find_the_k_bueaty_of_a_number",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
