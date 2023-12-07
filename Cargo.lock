@@ -4430,6 +4430,10 @@ name = "p2270_number_of_ways_to_split_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2271_maximum_white_tiles_converted_by_a_carpet"
+version = "0.1.0"
+
+[[package]]
 name = "p2272_substring_with_largest_variance"
 version = "0.1.0"
 
