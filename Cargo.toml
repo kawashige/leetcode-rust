@@ -964,6 +964,7 @@ members = [
     "problems/p2271_maximum_white_tiles_converted_by_a_carpet",
     "problems/p2272_substring_with_largest_variance",
     "problems/p2273_find_restaulant_array_after_removing_anagrams",
+    "problems/p2274_maximum_consecutive_floors_without_special_floors",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",

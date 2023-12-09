@@ -4442,6 +4442,10 @@ name = "p2273_find_restaulant_array_after_removing_anagrams"
 version = "0.1.0"
 
 [[package]]
+name = "p2274_maximum_consecutive_floors_without_special_floors"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
