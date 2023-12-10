@@ -1,0 +1,8 @@
+[package]
+name = "p2275_largest_combination_with_bitwise_and_greater_than_zero"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
