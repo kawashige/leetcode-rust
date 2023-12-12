@@ -4454,6 +4454,10 @@ name = "p2278_percentage_of_letter_in_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2280_minimum_lines_to_represent_a_line_chart"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 

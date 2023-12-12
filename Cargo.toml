@@ -967,6 +967,7 @@ members = [
     "problems/p2274_maximum_consecutive_floors_without_special_floors",
     "problems/p2275_largest_combination_with_bitwise_and_greater_than_zero",
     "problems/p2278_percentage_of_letter_in_string",
+    "problems/p2280_minimum_lines_to_represent_a_line_chart",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",
