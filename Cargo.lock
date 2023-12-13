@@ -4458,6 +4458,10 @@ name = "p2280_minimum_lines_to_represent_a_line_chart"
 version = "0.1.0"
 
 [[package]]
+name = "p2283_check_if_number_has_equal_digit_count_and_digit_value"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
