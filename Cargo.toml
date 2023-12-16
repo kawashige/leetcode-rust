@@ -970,6 +970,7 @@ members = [
     "problems/p2280_minimum_lines_to_represent_a_line_chart",
     "problems/p2283_check_if_number_has_equal_digit_count_and_digit_value",
     "problems/p2284_sender_with_largest_word_count",
+    "problems/p2285_maximum_total_importance_of_roads",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",

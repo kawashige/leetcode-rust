@@ -4466,6 +4466,10 @@ name = "p2284_sender_with_largest_word_count"
 version = "0.1.0"
 
 [[package]]
+name = "p2285_maximum_total_importance_of_roads"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
