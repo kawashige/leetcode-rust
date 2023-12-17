@@ -4502,6 +4502,10 @@ name = "p2352_equal_row_and_column_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p2353_design_a_food_rating_system"
+version = "0.1.0"
+
+[[package]]
 name = "p2359_find_the_closest_node_to_given_nodes"
 version = "0.1.0"
 
