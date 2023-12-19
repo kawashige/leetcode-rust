@@ -972,6 +972,7 @@ members = [
     "problems/p2284_sender_with_largest_word_count",
     "problems/p2285_maximum_total_importance_of_roads",
     "problems/p2287_rearrange_characters_to_make_target_string",
+    "problems/p2288_apply_discount_to_pieces",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",

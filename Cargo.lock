@@ -4474,6 +4474,10 @@ name = "p2287_rearrange_characters_to_make_target_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2288_apply_discount_to_pieces"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
