@@ -4606,6 +4606,10 @@ name = "p2642_design_graph_with_shortest_path_calculator"
 version = "0.1.0"
 
 [[package]]
+name = "p2706_buy_two_chocolates"
+version = "0.1.0"
+
+[[package]]
 name = "p2707_extra_characters_in_a_string"
 version = "0.1.0"
 
