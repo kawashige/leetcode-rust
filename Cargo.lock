@@ -4478,6 +4478,10 @@ name = "p2288_apply_discount_to_pieces"
 version = "0.1.0"
 
 [[package]]
+name = "p2289_steps_to_make_array_non_decreasing"
+version = "0.1.0"
+
+[[package]]
 name = "p2293_min_max_game"
 version = "0.1.0"
 
