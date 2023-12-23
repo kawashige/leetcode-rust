@@ -16,8 +16,6 @@ impl Solution {
             stack.push(i);
         }
 
-        print!("dp: {:?}", dp);
-
         dp.into_iter().max().unwrap()
     }
 }
