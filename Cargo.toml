@@ -975,6 +975,7 @@ members = [
     "problems/p2288_apply_discount_to_pieces",
     "problems/p2289_steps_to_make_array_non_decreasing",
     "problems/p2293_min_max_game",
+    "problems/p2294_partition_array_such_that_maximum_difference_is_k",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",

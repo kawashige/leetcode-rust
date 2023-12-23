@@ -4486,6 +4486,10 @@ name = "p2293_min_max_game"
 version = "0.1.0"
 
 [[package]]
+name = "p2294_partition_array_such_that_maximum_difference_is_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 

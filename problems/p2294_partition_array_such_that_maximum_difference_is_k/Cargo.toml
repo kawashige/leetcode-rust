@@ -1,0 +1,8 @@
+[package]
+name = "p2294_partition_array_such_that_maximum_difference_is_k"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
