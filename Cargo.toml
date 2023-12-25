@@ -977,6 +977,7 @@ members = [
     "problems/p2293_min_max_game",
     "problems/p2294_partition_array_such_that_maximum_difference_is_k",
     "problems/p2295_replace_elements_in_an_array",
+    "problems/p2299_strong_password_character_ii",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",
