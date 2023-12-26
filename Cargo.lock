@@ -4502,6 +4502,10 @@ name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
 [[package]]
+name = "p2303_calculate_amount_paid_i_taxes"
+version = "0.1.0"
+
+[[package]]
 name = "p2305_fair_destribution_of_cookies"
 version = "0.1.0"
 
