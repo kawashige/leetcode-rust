@@ -11,7 +11,6 @@ impl Solution {
             }
             let amount =
                 (brackets[i][0] - if i == 0 { 0 } else { brackets[i - 1][0] }).min(remains);
-            println!("{}: {}", i, amount);
             remains -= amount;
             taxes += amount * brackets[i][1];
         }
