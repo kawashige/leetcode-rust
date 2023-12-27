@@ -980,6 +980,7 @@ members = [
     "problems/p2299_strong_password_character_ii",
     "problems/p2300_successful_pairs_of_spells_and_potions",
     "problems/p2303_calculate_amount_paid_i_taxes",
+    "problems/p2304_minimum_path_cost_in_a_grid",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",

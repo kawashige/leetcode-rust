@@ -4506,6 +4506,10 @@ name = "p2303_calculate_amount_paid_i_taxes"
 version = "0.1.0"
 
 [[package]]
+name = "p2304_minimum_path_cost_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p2305_fair_destribution_of_cookies"
 version = "0.1.0"
 
