@@ -983,6 +983,7 @@ members = [
     "problems/p2304_minimum_path_cost_in_a_grid",
     "problems/p2305_fair_destribution_of_cookies",
     "problems/p2306_naming_a_company",
+    "problems/p2309_greatest_english_letter_in_upper_and_lower_case",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2336_smallest_number_in_infinite_set",
     "problems/p2328_number_of_increasing_path_in_a_grid",
