@@ -986,6 +986,7 @@ members = [
     "problems/p2309_greatest_english_letter_in_upper_and_lower_case",
     "problems/p2310_sum_of_numbers_with_units_digit_k",
     "problems/p2311_longest_binary_subsequence_less_than_or_equal_to_k",
+    "problems/p2315_count_asterisks",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2317_maximum_xor_after_operations",
     "problems/p2336_smallest_number_in_infinite_set",

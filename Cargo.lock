@@ -4530,6 +4530,10 @@ name = "p2311_longest_binary_subsequence_less_than_or_equal_to_k"
 version = "0.1.0"
 
 [[package]]
+name = "p2315_count_asterisks"
+version = "0.1.0"
+
+[[package]]
 name = "p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph"
 version = "0.1.0"
 
