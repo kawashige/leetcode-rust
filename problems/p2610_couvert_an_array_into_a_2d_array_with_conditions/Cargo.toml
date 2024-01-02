@@ -1,0 +1,8 @@
+[package]
+name = "p2610_couvert_an_array_into_a_2d_array_with_conditions"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
