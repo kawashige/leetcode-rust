@@ -989,6 +989,7 @@ members = [
     "problems/p2315_count_asterisks",
     "problems/p2316_count_unreachable_paris_of_nodes_in_an_undirected_graph",
     "problems/p2317_maximum_xor_after_operations",
+    "problems/p2320_count_number_of_ways_to_place_houses",
     "problems/p2336_smallest_number_in_infinite_set",
     "problems/p2328_number_of_increasing_path_in_a_grid",
     "problems/p2348_number_of_zero_filled_subarrays",
