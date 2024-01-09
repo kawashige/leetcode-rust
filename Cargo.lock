@@ -4546,6 +4546,10 @@ name = "p2320_count_number_of_ways_to_place_houses"
 version = "0.1.0"
 
 [[package]]
+name = "p2327_number_of_people_aware_of_a_secret"
+version = "0.1.0"
+
+[[package]]
 name = "p2328_number_of_increasing_path_in_a_grid"
 version = "0.1.0"
 
