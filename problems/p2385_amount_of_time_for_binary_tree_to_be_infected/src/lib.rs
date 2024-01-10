@@ -51,7 +51,6 @@ impl Solution {
             if seen[node] {
                 continue;
             }
-            println!("{}: {}", node, time);
             seen[node] = true;
             max = max.max(time);
 
