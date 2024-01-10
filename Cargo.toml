@@ -1000,6 +1000,7 @@ members = [
     "problems/p2360_longest_cycle_in_a_graph",
     "problems/p2366_minimum_replacement_to_sort_the_array",
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
+    "problems/p2385_amount_of_time_for_binary_tree_to_be_infected",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2390_removing_stars_from_a_string",
     "problems/p2391_minimum_amount_of_time_to_collect_garbage",
