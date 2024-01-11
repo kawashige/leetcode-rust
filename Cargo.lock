@@ -4542,6 +4542,10 @@ name = "p2317_maximum_xor_after_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p2319_check_if_matrix_is_x_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "p2320_count_number_of_ways_to_place_houses"
 version = "0.1.0"
 
