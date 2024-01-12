@@ -991,6 +991,7 @@ members = [
     "problems/p2317_maximum_xor_after_operations",
     "problems/p2319_check_if_matrix_is_x_matrix",
     "problems/p2320_count_number_of_ways_to_place_houses",
+    "problems/p2325_decode_the_message",
     "problems/p2327_number_of_people_aware_of_a_secret",
     "problems/p2336_smallest_number_in_infinite_set",
     "problems/p2328_number_of_increasing_path_in_a_grid",
