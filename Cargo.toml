@@ -994,6 +994,7 @@ members = [
     "problems/p2325_decode_the_message",
     "problems/p2326_spiral_matrix_iv",
     "problems/p2327_number_of_people_aware_of_a_secret",
+    "problems/p2332_the_latest_time_to_catch_a_bus",
     "problems/p2336_smallest_number_in_infinite_set",
     "problems/p2328_number_of_increasing_path_in_a_grid",
     "problems/p2348_number_of_zero_filled_subarrays",
