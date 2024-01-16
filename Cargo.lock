@@ -4574,6 +4574,10 @@ name = "p2332_the_latest_time_to_catch_a_bus"
 version = "0.1.0"
 
 [[package]]
+name = "p2333_minimum_sum_of_squared_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p2336_smallest_number_in_infinite_set"
 version = "0.1.0"
 
