@@ -4602,6 +4602,10 @@ name = "p2343_query_kth_smallest_trimmed_number"
 version = "0.1.0"
 
 [[package]]
+name = "p2347_best_poker_hand"
+version = "0.1.0"
+
+[[package]]
 name = "p2348_number_of_zero_filled_subarrays"
 version = "0.1.0"
 
