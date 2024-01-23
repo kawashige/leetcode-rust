@@ -7,7 +7,7 @@ impl Solution {
         }
         let max_count = ranks
             .into_iter()
-            .fold([0; 13], |mut count, r| {
+            .fold([0; 14], |mut count, r| {
                 count[r as usize] += 1;
                 count
             })
