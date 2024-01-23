@@ -4610,6 +4610,10 @@ name = "p2348_number_of_zero_filled_subarrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2349_design_a_number_container_system"
+version = "0.1.0"
+
+[[package]]
 name = "p2352_equal_row_and_column_pairs"
 version = "0.1.0"
 
