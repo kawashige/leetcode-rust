@@ -1007,6 +1007,7 @@ members = [
     "problems/p2347_best_poker_hand",
     "problems/p2348_number_of_zero_filled_subarrays",
     "problems/p2349_design_a_number_container_system",
+    "problems/p2351_first_letter_to_appear_twice",
     "problems/p2352_equal_row_and_column_pairs",
     "problems/p2353_design_a_food_rating_system",
     "problems/p2359_find_the_closest_node_to_given_nodes",
