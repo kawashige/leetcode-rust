@@ -1010,6 +1010,7 @@ members = [
     "problems/p2351_first_letter_to_appear_twice",
     "problems/p2352_equal_row_and_column_pairs",
     "problems/p2353_design_a_food_rating_system",
+    "problems/p2357_make_array_zero_by_subtracting_equal_amounts",
     "problems/p2359_find_the_closest_node_to_given_nodes",
     "problems/p2360_longest_cycle_in_a_graph",
     "problems/p2366_minimum_replacement_to_sort_the_array",
