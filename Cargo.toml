@@ -1013,6 +1013,7 @@ members = [
     "problems/p2357_make_array_zero_by_subtracting_equal_amounts",
     "problems/p2359_find_the_closest_node_to_given_nodes",
     "problems/p2360_longest_cycle_in_a_graph",
+    "problems/p2363_merge_similar_items",
     "problems/p2366_minimum_replacement_to_sort_the_array",
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
     "problems/p2385_amount_of_time_for_binary_tree_to_be_infected",
