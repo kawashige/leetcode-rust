@@ -4642,6 +4642,10 @@ name = "p2363_merge_similar_items"
 version = "0.1.0"
 
 [[package]]
+name = "p2364_count_number_of_bad_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p2366_minimum_replacement_to_sort_the_array"
 version = "0.1.0"
 
