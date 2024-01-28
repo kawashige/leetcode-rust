@@ -4646,6 +4646,10 @@ name = "p2364_count_number_of_bad_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p2365_task_scheduler_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2366_minimum_replacement_to_sort_the_array"
 version = "0.1.0"
 
