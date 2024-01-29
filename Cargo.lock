@@ -4630,6 +4630,10 @@ name = "p2357_make_array_zero_by_subtracting_equal_amounts"
 version = "0.1.0"
 
 [[package]]
+name = "p2358_maximum_number_of_groups_entering_a_competition"
+version = "0.1.0"
+
+[[package]]
 name = "p2359_find_the_closest_node_to_given_nodes"
 version = "0.1.0"
 
