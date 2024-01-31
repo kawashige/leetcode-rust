@@ -1019,6 +1019,7 @@ members = [
     "problems/p2365_task_scheduler_ii",
     "problems/p2366_minimum_replacement_to_sort_the_array",
     "problems/p2367_number_of_arithmetic_triplets",
+    "problems/p2368_reachable_nodes_with_restrictions",
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
     "problems/p2385_amount_of_time_for_binary_tree_to_be_infected",
     "problems/p2389_longest_subsequence_with_limited_sum",

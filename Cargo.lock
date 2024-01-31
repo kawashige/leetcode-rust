@@ -4662,6 +4662,10 @@ name = "p2367_number_of_arithmetic_triplets"
 version = "0.1.0"
 
 [[package]]
+name = "p2368_reachable_nodes_with_restrictions"
+version = "0.1.0"
+
+[[package]]
 name = "p2369_check_if_there_is_a_valid_partition_for_the_array"
 version = "0.1.0"
 
