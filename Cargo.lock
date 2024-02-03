@@ -4674,6 +4674,10 @@ name = "p2370_longest_ideal_subsequence"
 version = "0.1.0"
 
 [[package]]
+name = "p2373_largest_local_values_in_a_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "p2385_amount_of_time_for_binary_tree_to_be_infected"
 version = "0.1.0"
 
