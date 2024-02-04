@@ -1023,6 +1023,7 @@ members = [
     "problems/p2369_check_if_there_is_a_valid_partition_for_the_array",
     "problems/p2370_longest_ideal_subsequence",
     "problems/p2373_largest_local_values_in_a_matrix",
+    "problems/p2374_node_with_highest_edge_score",
     "problems/p2385_amount_of_time_for_binary_tree_to_be_infected",
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2390_removing_stars_from_a_string",

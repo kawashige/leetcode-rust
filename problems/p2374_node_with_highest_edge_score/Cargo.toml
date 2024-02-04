@@ -1,0 +1,8 @@
+[package]
+name = "p2374_node_with_highest_edge_score"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
