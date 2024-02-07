@@ -4690,6 +4690,10 @@ name = "p2379_minimum_recolor_to_get_k_consecutive_black_blocks"
 version = "0.1.0"
 
 [[package]]
+name = "p2380_time_needed_to_rearrange_a_binary_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2385_amount_of_time_for_binary_tree_to_be_infected"
 version = "0.1.0"
 

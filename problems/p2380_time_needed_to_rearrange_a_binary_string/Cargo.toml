@@ -1,0 +1,8 @@
+[package]
+name = "p2380_time_needed_to_rearrange_a_binary_string"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
