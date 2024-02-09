@@ -1,47 +1,33 @@
 pub struct Solution {}
 
-use std::collections::HashMap;
 impl Solution {
     pub fn largest_divisible_subset(nums: Vec<i32>) -> Vec<i32> {
-        fn recurse(nums: &[i32], target: i32, opened: &mut HashMap<i32, Vec<i32>>) -> Vec<i32> {
-            if let Some(v) = opened.get(&target) {
-                return v.clone();
-            }
-
-            let mut results = Vec::new();
-            for i in 0..nums.len() {
-                if nums.len() - i < results.len() {
-                    break;
-                }
-                if target % nums[i] == 0 {
-                    let mut tmp = recurse(&nums[(i + 1)..], nums[i], opened);
-                    tmp.push(nums[i]);
-                    if results.len() < tmp.len() {
-                        results = tmp;
-                    }
-                }
-            }
-            results
+        if nums.is_empty() {
+            return Default::default();
         }
-
         let mut nums = nums;
-        nums.sort_by_key(|n| -n);
+        nums.sort_unstable();
 
-        let mut opened = HashMap::new();
-        let mut results = Vec::new();
-        for i in 0..nums.len() {
-            if nums.len() - i < results.len() {
-                break;
-            }
-            if !opened.contains_key(&nums[i]) {
-                let mut tmp = recurse(&nums[(i + 1)..], nums[i], &mut opened);
-                tmp.push(nums[i]);
-                if results.len() < tmp.len() {
-                    results = tmp;
+        let mut max = vec![1; nums.len()];
+        let mut prev = vec![nums.len(); nums.len()];
+
+        for i in 1..nums.len() {
+            for j in 0..i {
+                if nums[i] % nums[j] == 0 && max[i] < max[j] + 1 {
+                    max[i] = max[j] + 1;
+                    prev[i] = j;
                 }
             }
         }
-        results
+
+        let mut result = Vec::new();
+        let mut j = (0..nums.len()).max_by_key(|i| max[*i]).unwrap();
+        result.push(nums[j]);
+        while prev[j] != nums.len() {
+            j = prev[j];
+            result.push(nums[j]);
+        }
+        result
     }
 }
 
