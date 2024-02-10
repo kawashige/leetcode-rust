@@ -4698,6 +4698,10 @@ name = "p2381_shifting_letters_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2383_minimum_hours_of_training_to_win_a_competition"
+version = "0.1.0"
+
+[[package]]
 name = "p2385_amount_of_time_for_binary_tree_to_be_infected"
 version = "0.1.0"
 
