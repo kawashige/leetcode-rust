@@ -4722,6 +4722,10 @@ name = "p2391_minimum_amount_of_time_to_collect_garbage"
 version = "0.1.0"
 
 [[package]]
+name = "p2395_find_subarrays_with_equal_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p2397_maximum_rows_covered_by_columns"
 version = "0.1.0"
 
