@@ -4726,6 +4726,10 @@ name = "p2395_find_subarrays_with_equal_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p2396_strictly_palindromic_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2397_maximum_rows_covered_by_columns"
 version = "0.1.0"
 
