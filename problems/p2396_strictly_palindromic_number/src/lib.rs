@@ -21,8 +21,6 @@ impl Solution {
                 div /= b;
             }
 
-            println!("{}: {:?}", b, digits);
-
             if (0..digits.len()).any(|i| digits[i] != digits[digits.len() - 1 - i]) {
                 return false;
             }
