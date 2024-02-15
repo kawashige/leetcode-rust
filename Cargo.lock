@@ -4830,6 +4830,10 @@ name = "p2966_divide_array_into_arrays_with_max_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p2971_find_polygon_with_the_largest_perimeter"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
