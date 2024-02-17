@@ -4738,6 +4738,10 @@ name = "p2400_number_of_ways_to_reach_a_poasition_after_exactly_k_steps"
 version = "0.1.0"
 
 [[package]]
+name = "p2401_largest_nice_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "p2405_optimal_partition_of_string"
 version = "0.1.0"
 
