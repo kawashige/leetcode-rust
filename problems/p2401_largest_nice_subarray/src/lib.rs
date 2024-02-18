@@ -15,7 +15,6 @@ impl Solution {
                 }
             }
             tmp_max = max;
-            println!("i: {}, max: {}", i, max);
             result = result.max(i as i32 - max + 1);
         }
 
