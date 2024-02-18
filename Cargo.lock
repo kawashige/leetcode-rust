@@ -4742,6 +4742,10 @@ name = "p2401_largest_nice_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p2402_meeting_rooms_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p2405_optimal_partition_of_string"
 version = "0.1.0"
 

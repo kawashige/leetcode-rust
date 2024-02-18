@@ -1039,6 +1039,7 @@ members = [
     "problems/p2397_maximum_rows_covered_by_columns",
     "problems/p2400_number_of_ways_to_reach_a_poasition_after_exactly_k_steps",
     "problems/p2401_largest_nice_subarray",
+    "problems/p2402_meeting_rooms_iii",
     "problems/p2405_optimal_partition_of_string",
     "problems/p2421_number_of_good_paths",
     "problems/p2433_find_the_original_array_of_prefix_xor",
