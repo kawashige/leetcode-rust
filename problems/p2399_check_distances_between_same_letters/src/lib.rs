@@ -15,7 +15,6 @@ impl Solution {
                 dist
             });
 
-        println!("{:?}", dist);
         (0..distance.len()).all(|i| dist[i] == 100 || dist[i] as i32 == distance[i])
     }
 }
