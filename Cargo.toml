@@ -1037,6 +1037,7 @@ members = [
     "problems/p2395_find_subarrays_with_equal_sum",
     "problems/p2396_strictly_palindromic_number",
     "problems/p2397_maximum_rows_covered_by_columns",
+    "problems/p2399_check_distances_between_same_letters",
     "problems/p2400_number_of_ways_to_reach_a_poasition_after_exactly_k_steps",
     "problems/p2401_largest_nice_subarray",
     "problems/p2402_meeting_rooms_iii",
