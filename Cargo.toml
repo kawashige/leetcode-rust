@@ -1813,6 +1813,7 @@ members = [
     "problems/p2389_longest_subsequence_with_limited_sum",
     "problems/p2390_removing_stars_from_a_string",
     "problems/p2405_optimal_partition_of_string",
+    "problems/p2409_count_days_spent_together",
     "problems/p2421_number_of_good_paths",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
