@@ -4758,6 +4758,10 @@ name = "p2405_optimal_partition_of_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2406_divide_intervals_into_minimum_number_of_groups"
+version = "0.1.0"
+
+[[package]]
 name = "p2409_count_days_spent_together"
 version = "0.1.0"
 
