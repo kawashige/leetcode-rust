@@ -3990,6 +3990,10 @@ name = "p2091_removing_minimum_and_maximum_from_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2092_find_all_people_with_secret"
+version = "0.1.0"
+
+[[package]]
 name = "p2094_finding_3_digit_even_numbers"
 version = "0.1.0"
 
