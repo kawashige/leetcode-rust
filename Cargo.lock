@@ -4770,6 +4770,10 @@ name = "p2409_count_days_spent_together"
 version = "0.1.0"
 
 [[package]]
+name = "p2410_maximum_matching_of_players_with_trainers"
+version = "0.1.0"
+
+[[package]]
 name = "p2421_number_of_good_paths"
 version = "0.1.0"
 

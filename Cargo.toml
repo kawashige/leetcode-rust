@@ -1816,6 +1816,7 @@ members = [
     "problems/p2405_optimal_partition_of_string",
     "problems/p2406_divide_intervals_into_minimum_number_of_groups",
     "problems/p2409_count_days_spent_together",
+    "problems/p2410_maximum_matching_of_players_with_trainers",
     "problems/p2421_number_of_good_paths",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
