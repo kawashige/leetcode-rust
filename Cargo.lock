@@ -4782,6 +4782,10 @@ name = "p2413_smallest_even_mnultiple"
 version = "0.1.0"
 
 [[package]]
+name = "p2414_length_of_the_longest_alphabetical_continuous_substring"
+version = "0.1.0"
+
+[[package]]
 name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
