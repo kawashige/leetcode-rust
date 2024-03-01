@@ -4874,6 +4874,10 @@ name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
 [[package]]
+name = "p2864_maximum_odd_binary_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2870_minimum_number_of_operations_to_make_array_empty"
 version = "0.1.0"
 
