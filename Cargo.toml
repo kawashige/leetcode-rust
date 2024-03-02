@@ -1820,6 +1820,7 @@ members = [
     "problems/p2411_smallest_subarrays_with_maximum_bitwise_or",
     "problems/p2413_smallest_even_mnultiple",
     "problems/p2414_length_of_the_longest_alphabetical_continuous_substring",
+    "problems/p2415_reverse_odd_levels_of_binary_tree",
     "problems/p2421_number_of_good_paths",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
