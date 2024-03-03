@@ -4790,6 +4790,10 @@ name = "p2415_reverse_odd_levels_of_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p2419_longest_subarray_with_maximum_bitwise_and"
+version = "0.1.0"
+
+[[package]]
 name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
