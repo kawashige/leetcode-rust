@@ -1821,6 +1821,7 @@ members = [
     "problems/p2413_smallest_even_mnultiple",
     "problems/p2414_length_of_the_longest_alphabetical_continuous_substring",
     "problems/p2415_reverse_odd_levels_of_binary_tree",
+    "problems/p2418_sort_the_people",
     "problems/p2419_longest_subarray_with_maximum_bitwise_and",
     "problems/p2421_number_of_good_paths",
     "problems/p2439_minimize_maximum_of_array",
