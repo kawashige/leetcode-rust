@@ -16,9 +16,6 @@ impl Solution {
             }
         }
 
-        println!("{:?}", left_non_increaseing);
-        println!("{:?}", right_non_decreasing);
-
         (k..nums.len() as i32 - k)
             .filter(|i| {
                 k <= left_non_increaseing[*i as usize - 1]
