@@ -1825,6 +1825,7 @@ members = [
     "problems/p2419_longest_subarray_with_maximum_bitwise_and",
     "problems/p2420_find_all_good_indices",
     "problems/p2421_number_of_good_paths",
+    "problems/p2423_remove_letter_to_equalize_frequency",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
     "problems/p2448_minimum_cost_to_make_array_equal",

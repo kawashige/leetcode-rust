@@ -4806,6 +4806,10 @@ name = "p2421_number_of_good_paths"
 version = "0.1.0"
 
 [[package]]
+name = "p2423_remove_letter_to_equalize_frequency"
+version = "0.1.0"
+
+[[package]]
 name = "p2433_find_the_original_array_of_prefix_xor"
 version = "0.1.0"
 
