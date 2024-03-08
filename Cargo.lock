@@ -4914,6 +4914,10 @@ name = "p2971_find_polygon_with_the_largest_perimeter"
 version = "0.1.0"
 
 [[package]]
+name = "p3005_count_elements_with_maximum_frequency"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

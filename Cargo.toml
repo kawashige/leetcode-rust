@@ -1838,6 +1838,7 @@ members = [
     "problems/p2551_put_marbles_in_bags",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2864_maximum_odd_binary_number",
+    "problems/p3005_count_elements_with_maximum_frequency",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
