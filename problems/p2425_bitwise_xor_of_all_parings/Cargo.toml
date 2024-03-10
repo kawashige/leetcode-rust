@@ -1,0 +1,8 @@
+[package]
+name = "p2425_bitwise_xor_of_all_parings"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
