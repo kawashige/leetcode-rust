@@ -4818,6 +4818,10 @@ name = "p2425_bitwise_xor_of_all_parings"
 version = "0.1.0"
 
 [[package]]
+name = "p2427_number_of_common_factors"
+version = "0.1.0"
+
+[[package]]
 name = "p2433_find_the_original_array_of_prefix_xor"
 version = "0.1.0"
 
