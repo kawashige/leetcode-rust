@@ -33,7 +33,6 @@ impl Solution {
                 }
             }
         }
-        println!("{:?}", sum);
 
         max
     }
