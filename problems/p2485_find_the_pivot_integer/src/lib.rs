@@ -6,7 +6,6 @@ impl Solution {
         let mut sum = 0;
 
         for i in 1..=n {
-            println!("i: {}, sum: {}, total - sum: {}", i, sum, total - sum);
             if sum + i == total - sum {
                 return i;
             }
