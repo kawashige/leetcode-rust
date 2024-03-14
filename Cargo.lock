@@ -4826,6 +4826,10 @@ name = "p2428_maximum_sum_of_an_hourglass"
 version = "0.1.0"
 
 [[package]]
+name = "p2432_the_employee_that_worked_on_the_longest_task"
+version = "0.1.0"
+
+[[package]]
 name = "p2433_find_the_original_array_of_prefix_xor"
 version = "0.1.0"
 

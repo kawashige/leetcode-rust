@@ -1830,6 +1830,7 @@ members = [
     "problems/p2425_bitwise_xor_of_all_parings",
     "problems/p2427_number_of_common_factors",
     "problems/p2428_maximum_sum_of_an_hourglass",
+    "problems/p2432_the_employee_that_worked_on_the_longest_task",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2444_count_subarrays_with_fixed_bounds",
     "problems/p2448_minimum_cost_to_make_array_equal",
