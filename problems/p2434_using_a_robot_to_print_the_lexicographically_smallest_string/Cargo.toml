@@ -1,0 +1,8 @@
+[package]
+name = "p2434_using_a_robot_to_print_the_lexicographically_smallest_string"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
