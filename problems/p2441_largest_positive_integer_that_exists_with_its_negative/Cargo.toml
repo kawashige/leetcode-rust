@@ -1,0 +1,8 @@
+[package]
+name = "p2441_largest_positive_integer_that_exists_with_its_negative"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

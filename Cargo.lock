@@ -4854,6 +4854,10 @@ name = "p2439_minimize_maximum_of_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2441_largest_positive_integer_that_exists_with_its_negative"
+version = "0.1.0"
+
+[[package]]
 name = "p2444_count_subarrays_with_fixed_bounds"
 version = "0.1.0"
 
