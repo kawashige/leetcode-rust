@@ -4858,6 +4858,10 @@ name = "p2441_largest_positive_integer_that_exists_with_its_negative"
 version = "0.1.0"
 
 [[package]]
+name = "p2442_count_number_of_distinct_integers_after_reverse_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p2444_count_subarrays_with_fixed_bounds"
 version = "0.1.0"
 

@@ -1837,6 +1837,7 @@ members = [
     "problems/p2438_range_product_queries_of_powers",
     "problems/p2439_minimize_maximum_of_array",
     "problems/p2441_largest_positive_integer_that_exists_with_its_negative",
+    "problems/p2442_count_number_of_distinct_integers_after_reverse_operations",
     "problems/p2444_count_subarrays_with_fixed_bounds",
     "problems/p2448_minimum_cost_to_make_array_equal",
     "problems/p2462_total_cost_to_hire_k_workers",
