@@ -4862,6 +4862,10 @@ name = "p2442_count_number_of_distinct_integers_after_reverse_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p2443_sum_of_number_and_its_reverse"
+version = "0.1.0"
+
+[[package]]
 name = "p2444_count_subarrays_with_fixed_bounds"
 version = "0.1.0"
 
