@@ -1841,6 +1841,7 @@ members = [
     "problems/p2443_sum_of_number_and_its_reverse",
     "problems/p2444_count_subarrays_with_fixed_bounds",
     "problems/p2446_determine_if_two_events_have_conflict",
+    "problems/p2447_number_of_subarrays_with_gcd_equal_to_k",
     "problems/p2448_minimum_cost_to_make_array_equal",
     "problems/p2462_total_cost_to_hire_k_workers",
     "problems/p2466_count_ways_to_build_good_strings",

@@ -8,6 +8,7 @@ impl Solution {
             .collect::<Vec<_>>();
         v[0] * 60 + v[1]
     }
+
     pub fn have_conflict(event1: Vec<String>, event2: Vec<String>) -> bool {
         let t1 = (Self::convert(&event1[0]), Self::convert(&event1[1]));
         let t2 = (Self::convert(&event2[0]), Self::convert(&event2[1]));
