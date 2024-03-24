@@ -1,0 +1,8 @@
+[package]
+name = "p2452_words_within_two_edits_of_dictionary"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
