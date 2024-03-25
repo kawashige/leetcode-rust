@@ -1843,6 +1843,7 @@ members = [
     "problems/p2446_determine_if_two_events_have_conflict",
     "problems/p2447_number_of_subarrays_with_gcd_equal_to_k",
     "problems/p2448_minimum_cost_to_make_array_equal",
+    "problems/p2451_odd_string_difference",
     "problems/p2452_words_within_two_edits_of_dictionary",
     "problems/p2462_total_cost_to_hire_k_workers",
     "problems/p2466_count_ways_to_build_good_strings",
