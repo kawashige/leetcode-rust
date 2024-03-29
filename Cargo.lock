@@ -4986,6 +4986,10 @@ name = "p2958_length_of_longest_subarray_with_at_most_k_frequency"
 version = "0.1.0"
 
 [[package]]
+name = "p2962_count_subarrays_where_max_element_appears_at_less_than_k_times"
+version = "0.1.0"
+
+[[package]]
 name = "p2966_divide_array_into_arrays_with_max_difference"
 version = "0.1.0"
 
