@@ -1738,6 +1738,10 @@ name = "p0990_satisfiability_of_equality_equations"
 version = "0.1.0"
 
 [[package]]
+name = "p0992_subarrays_with_k_different_integers"
+version = "0.1.0"
+
+[[package]]
 name = "p0993_cousins_in_binary_tree"
 version = "0.1.0"
 
