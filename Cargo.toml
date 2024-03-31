@@ -1848,6 +1848,7 @@ members = [
     "problems/p2452_words_within_two_edits_of_dictionary",
     "problems/p2453_destroy_sequential_targets",
     "problems/p2455_average_value_of_even_numbers_that_are_divisible_by_three",
+    "problems/p2456_most_popular_video_creator",
     "problems/p2462_total_cost_to_hire_k_workers",
     "problems/p2466_count_ways_to_build_good_strings",
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
