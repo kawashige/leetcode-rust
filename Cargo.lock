@@ -4918,6 +4918,10 @@ name = "p2462_total_cost_to_hire_k_workers"
 version = "0.1.0"
 
 [[package]]
+name = "p2465_number_of_distinct_averages"
+version = "0.1.0"
+
+[[package]]
 name = "p2466_count_ways_to_build_good_strings"
 version = "0.1.0"
 
