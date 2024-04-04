@@ -86,8 +86,6 @@ impl Solution {
             bob_time[path[i]] = i;
         }
 
-        println!("bob_time: {:?}", bob_time);
-
         let mut max_amount = std::i32::MIN;
         let mut seen = vec![false; list.len()];
         Self::recurse2(
