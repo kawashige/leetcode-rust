@@ -4926,6 +4926,10 @@ name = "p2466_count_ways_to_build_good_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p2467_most_profitable_path_in_a_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p2477_minimum_fuel_cost_to_report_to_the_capital"
 version = "0.1.0"
 
