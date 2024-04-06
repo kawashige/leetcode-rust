@@ -1856,6 +1856,7 @@ members = [
     "problems/p2466_count_ways_to_build_good_strings",
     "problems/p2467_most_profitable_path_in_a_tree",
     "problems/p2469_counvert_the_tempoerature",
+    "problems/p2470_number_of_subarrays_with_lcm_equal_to_k",
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
     "problems/p2485_find_the_pivot_integer",
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
