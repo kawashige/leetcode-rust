@@ -4914,6 +4914,10 @@ name = "p2460_apply_operations_to_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2461_maximum_sum_of_distinct_subarrays_with_length_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2462_total_cost_to_hire_k_workers"
 version = "0.1.0"
 
