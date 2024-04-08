@@ -53,7 +53,6 @@ impl Solution {
                     values[i][min_index] = values[i][j];
                 }
             }
-            println!("{}: {}", i, count);
         }
         count
     }
