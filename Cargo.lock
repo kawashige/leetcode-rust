@@ -4946,6 +4946,10 @@ name = "p2471_minimum_number_of_operations_to_sort_a_binary_tree_by_level"
 version = "0.1.0"
 
 [[package]]
+name = "p2475_number_of_unequal_triplets_in_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2477_minimum_fuel_cost_to_report_to_the_capital"
 version = "0.1.0"
 
