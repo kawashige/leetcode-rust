@@ -4950,6 +4950,10 @@ name = "p2475_number_of_unequal_triplets_in_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2476_closest_nodes_queries_in_a_binary_search_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p2477_minimum_fuel_cost_to_report_to_the_capital"
 version = "0.1.0"
 
