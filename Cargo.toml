@@ -1862,6 +1862,7 @@ members = [
     "problems/p2475_number_of_unequal_triplets_in_array",
     "problems/p2476_closest_nodes_queries_in_a_binary_search_tree",
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
+    "problems/p2481_minimum_cuts_to_divide_a_circle",
     "problems/p2485_find_the_pivot_integer",
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2540_minimum_common_value",
