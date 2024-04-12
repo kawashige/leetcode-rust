@@ -1864,6 +1864,7 @@ members = [
     "problems/p2477_minimum_fuel_cost_to_report_to_the_capital",
     "problems/p2481_minimum_cuts_to_divide_a_circle",
     "problems/p2485_find_the_pivot_integer",
+    "problems/p2486_append_characters_to_string_to_make_subsequence",
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",

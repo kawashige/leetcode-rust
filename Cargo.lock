@@ -4974,6 +4974,10 @@ name = "p2485_find_the_pivot_integer"
 version = "0.1.0"
 
 [[package]]
+name = "p2486_append_characters_to_string_to_make_subsequence"
+version = "0.1.0"
+
+[[package]]
 name = "p2492_minimum_score_of_a_path_between_two_cities"
 version = "0.1.0"
 
