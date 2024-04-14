@@ -13,8 +13,6 @@ impl Solution {
         }
         sum /= skill.len() as i32 / 2;
 
-        println!("{:?}", sum);
-
         let mut result = 0;
         for i in 1..=sum / 2 {
             if count[i as usize] == 0 {
@@ -31,7 +29,6 @@ impl Solution {
                 }
                 result += count[i as usize] as i64 * i as i64 * (sum - i) as i64;
             }
-            println!("{}: {}", i, result);
         }
         result
     }
