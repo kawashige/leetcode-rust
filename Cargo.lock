@@ -4982,6 +4982,10 @@ name = "p2487_remove_nodes_from_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p2490_circular_sentence"
+version = "0.1.0"
+
+[[package]]
 name = "p2491_divide_players_into_teams_of_equal_skill"
 version = "0.1.0"
 
