@@ -4998,6 +4998,10 @@ name = "p2496_maximum_value_of_a_string_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2497_maximum_star_sum_of_a_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
