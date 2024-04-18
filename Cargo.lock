@@ -5002,6 +5002,10 @@ name = "p2497_maximum_star_sum_of_a_graph"
 version = "0.1.0"
 
 [[package]]
+name = "p2498_frog_jump_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 

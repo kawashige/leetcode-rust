@@ -1871,6 +1871,7 @@ members = [
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2496_maximum_value_of_a_string_in_an_array",
     "problems/p2497_maximum_star_sum_of_a_graph",
+    "problems/p2498_frog_jump_ii",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
