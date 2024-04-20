@@ -5010,6 +5010,10 @@ name = "p2500_delete_greatest_value_in_each_row"
 version = "0.1.0"
 
 [[package]]
+name = "p2501_longest_square_streak_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
