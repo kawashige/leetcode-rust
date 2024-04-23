@@ -5022,6 +5022,10 @@ name = "p2506_count_pairs_of_similar_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p2507_smallest_value_after_replacing_with_sum_of_prime_factors"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
