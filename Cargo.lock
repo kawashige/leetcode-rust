@@ -5026,6 +5026,10 @@ name = "p2507_smallest_value_after_replacing_with_sum_of_prime_factors"
 version = "0.1.0"
 
 [[package]]
+name = "p2511_maximum_enemy_forts_that_can_be_captured"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
