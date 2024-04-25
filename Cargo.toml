@@ -1878,6 +1878,7 @@ members = [
     "problems/p2506_count_pairs_of_similar_strings",
     "problems/p2507_smallest_value_after_replacing_with_sum_of_prime_factors",
     "problems/p2511_maximum_enemy_forts_that_can_be_captured",
+    "problems/p2512_reward_top_k_students",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
