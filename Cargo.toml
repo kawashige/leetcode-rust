@@ -421,6 +421,7 @@ members = [
     "problems/p1281_subtract_the_product_and_sum_of_digits_of_an_integer",
     "problems/p1282_group_the_people_given_the_group_size_they_belong_to",
     "problems/p1287_element_appearing_more_than_25_percent_in_sorted_array",
+    "problems/p1289_minimum_falling_path_sum_ii",
     "problems/p1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold",
     "problems/p1295_find_numbers_with_even_number_of_digits",
     "problems/p1296_divide_array_in_sets_of_k_consevutive_numbers",
