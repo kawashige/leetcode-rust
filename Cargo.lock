@@ -737,6 +737,10 @@ name = "p0513_find_bottom_left_tree_value"
 version = "0.1.0"
 
 [[package]]
+name = "p0514_freedom_trail"
+version = "0.1.0"
+
+[[package]]
 name = "p0515_find_largest_value_in_each_row"
 version = "0.1.0"
 
