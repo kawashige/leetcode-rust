@@ -5042,6 +5042,10 @@ name = "p2512_reward_top_k_students"
 version = "0.1.0"
 
 [[package]]
+name = "p2513_minimize_the_maximum_of_two_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
