@@ -5118,6 +5118,10 @@ name = "p2971_find_polygon_with_the_largest_perimeter"
 version = "0.1.0"
 
 [[package]]
+name = "p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3005_count_elements_with_maximum_frequency"
 version = "0.1.0"
 
