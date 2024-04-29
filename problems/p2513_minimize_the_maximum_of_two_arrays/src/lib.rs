@@ -28,11 +28,6 @@ impl Solution {
         let unique_cnt1 = (unique_cnt1 - (count_div2 - count_div1_and_dic2)).max(0);
         let unique_cnt2 = (unique_cnt2 - (count_div1 - count_div1_and_dic2)).max(0);
 
-        println!(
-            "{}: {}, {}, {}, {}, {}",
-            mid, count_div1, count_div2, count_div1_and_dic2, unique_cnt1, unique_cnt2
-        );
-
         unique_cnt1 + unique_cnt2 <= mid - (count_div1 + count_div2 - count_div1_and_dic2)
     }
 
