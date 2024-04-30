@@ -5046,6 +5046,10 @@ name = "p2513_minimize_the_maximum_of_two_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2515_shortest_distance_to_target_string_in_a_circular_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
