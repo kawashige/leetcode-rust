@@ -5054,6 +5054,10 @@ name = "p2516_take_k_of_each_character_from_left_and_right"
 version = "0.1.0"
 
 [[package]]
+name = "p2517_maximum_tastines_of_candy_basket"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
