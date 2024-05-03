@@ -1885,6 +1885,7 @@ members = [
     "problems/p2515_shortest_distance_to_target_string_in_a_circular_array",
     "problems/p2516_take_k_of_each_character_from_left_and_right",
     "problems/p2517_maximum_tastines_of_candy_basket",
+    "problems/p2521_distinct_prime_factors_of_product_of_array",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
