@@ -5062,6 +5062,10 @@ name = "p2521_distinct_prime_factors_of_product_of_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2522_partition_string_into_substrings_with_value_with_at_most_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
