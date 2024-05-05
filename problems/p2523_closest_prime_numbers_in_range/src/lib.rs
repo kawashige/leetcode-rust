@@ -11,8 +11,6 @@ impl Solution {
                 continue;
             }
 
-            println!("i: {}, prev: {}, result: {:?}", i, prev, result);
-
             if left <= prev as i32
                 && (result[0] == -1 || (((i - prev) as i32) < result[1] - result[0]))
             {
