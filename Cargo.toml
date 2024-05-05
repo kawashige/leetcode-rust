@@ -1887,6 +1887,7 @@ members = [
     "problems/p2517_maximum_tastines_of_candy_basket",
     "problems/p2521_distinct_prime_factors_of_product_of_array",
     "problems/p2522_partition_string_into_substrings_with_value_with_at_most_k",
+    "problems/p2523_closest_prime_numbers_in_range",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
