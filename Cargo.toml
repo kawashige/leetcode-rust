@@ -1893,6 +1893,7 @@ members = [
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
     "problems/p2709_greatest_common_divisor_traversal",
+    "problems/p2816_double_a_number_represented_as_a_liked_list",
     "problems/p2864_maximum_odd_binary_number",
     "problems/p2958_length_of_longest_subarray_with_at_most_k_frequency",
     "problems/p2962_count_subarrays_where_max_element_appears_at_less_than_k_times",
