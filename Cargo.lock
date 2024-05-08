@@ -5058,6 +5058,10 @@ name = "p2517_maximum_tastines_of_candy_basket"
 version = "0.1.0"
 
 [[package]]
+name = "p2520_count_the_digits_that_divide_a_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2521_distinct_prime_factors_of_product_of_array"
 version = "0.1.0"
 
