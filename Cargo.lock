@@ -1270,6 +1270,10 @@ name = "p0781_rabbits_in_forest"
 version = "0.1.0"
 
 [[package]]
+name = "p0786_k_th_smallest_prime_fraction"
+version = "0.1.0"
+
+[[package]]
 name = "p0787_cheapest_flights_within_k_stops"
 version = "0.1.0"
 

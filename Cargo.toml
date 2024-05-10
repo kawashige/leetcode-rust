@@ -183,6 +183,7 @@ members = [
     "problems/p0777_swap_adjacent_in_a_string",
     "problems/p0779_kth_symbol_in_grammar",
     "problems/p0781_rabbits_in_forest",
+    "problems/p0786_k_th_smallest_prime_fraction",
     "problems/p0787_cheapest_flights_within_k_stops",
     "problems/p0789_escape_the_ghosts",
     "problems/p0791_custom_sort_string",
