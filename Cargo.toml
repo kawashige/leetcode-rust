@@ -1894,6 +1894,7 @@ members = [
     "problems/p2525_categorize_box_according_to_criteria",
     "problems/p2526_find_consecutive_integers_from_a_data_stream",
     "problems/p2527_find_xor_beauty_of_array",
+    "problems/p2529_minimum_count_of_positive_integer_and_negative_integer",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
