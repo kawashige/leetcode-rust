@@ -5098,6 +5098,10 @@ name = "p2529_minimum_count_of_positive_integer_and_negative_integer"
 version = "0.1.0"
 
 [[package]]
+name = "p2530_maximal_score_after_applying_k_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
