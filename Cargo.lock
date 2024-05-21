@@ -5102,6 +5102,10 @@ name = "p2530_maximal_score_after_applying_k_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p2531_make_number_of_distinct_characters_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
