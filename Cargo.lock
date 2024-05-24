@@ -2178,6 +2178,10 @@ name = "p1254_number_of_closed_islands"
 version = "0.1.0"
 
 [[package]]
+name = "p1255_maximum_score_words_formed_by_letters"
+version = "0.1.0"
+
+[[package]]
 name = "p1260_shift_2d_grid"
 version = "0.1.0"
 
