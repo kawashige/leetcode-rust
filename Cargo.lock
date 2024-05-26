@@ -838,6 +838,10 @@ name = "p0551_student_attendance_record_i"
 version = "0.1.0"
 
 [[package]]
+name = "p0552_student_attendance_record_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p0553_optimal_division"
 version = "0.1.0"
 
