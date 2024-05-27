@@ -5122,6 +5122,10 @@ name = "p2535_difference_between_element_sum_and_digit_sum_of_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2536_increment_submatrices_by_one"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
