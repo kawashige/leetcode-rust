@@ -1902,6 +1902,7 @@ members = [
     "problems/p2531_make_number_of_distinct_characters_equal",
     "problems/p2535_difference_between_element_sum_and_digit_sum_of_an_array",
     "problems/p2536_increment_submatrices_by_one",
+    "problems/p2537_count_the_number_of_good_subarrays",
     "problems/p2540_minimum_common_value",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",

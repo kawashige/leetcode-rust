@@ -5126,6 +5126,10 @@ name = "p2536_increment_submatrices_by_one"
 version = "0.1.0"
 
 [[package]]
+name = "p2537_count_the_number_of_good_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2540_minimum_common_value"
 version = "0.1.0"
 
