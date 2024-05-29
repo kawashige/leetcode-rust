@@ -5134,6 +5134,10 @@ name = "p2540_minimum_common_value"
 version = "0.1.0"
 
 [[package]]
+name = "p2541_minimum_operations_to_make_array_equal_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2542_maximum_subsequence_score"
 version = "0.1.0"
 
