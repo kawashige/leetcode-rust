@@ -1906,6 +1906,7 @@ members = [
     "problems/p2540_minimum_common_value",
     "problems/p2541_minimum_operations_to_make_array_equal_ii",
     "problems/p2542_maximum_subsequence_score",
+    "problems/p2544_alternating_digit_sum",
     "problems/p2551_put_marbles_in_bags",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",

@@ -5142,6 +5142,10 @@ name = "p2542_maximum_subsequence_score"
 version = "0.1.0"
 
 [[package]]
+name = "p2544_alternating_digit_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p2551_put_marbles_in_bags"
 version = "0.1.0"
 
