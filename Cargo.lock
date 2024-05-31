@@ -5146,6 +5146,10 @@ name = "p2544_alternating_digit_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p2545_sort_the_students_by_their_kth_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2551_put_marbles_in_bags"
 version = "0.1.0"
 
