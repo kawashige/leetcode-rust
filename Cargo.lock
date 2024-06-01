@@ -5242,6 +5242,10 @@ name = "p3075_maximize_happiness_of_selected_children"
 version = "0.1.0"
 
 [[package]]
+name = "p3110_score_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
