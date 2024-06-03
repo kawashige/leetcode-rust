@@ -5154,6 +5154,10 @@ name = "p2546_apply_bitwise_operations_to_make_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p2549_count_distinct_numbers_on_board"
+version = "0.1.0"
+
+[[package]]
 name = "p2551_put_marbles_in_bags"
 version = "0.1.0"
 

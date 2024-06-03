@@ -1909,6 +1909,7 @@ members = [
     "problems/p2544_alternating_digit_sum",
     "problems/p2545_sort_the_students_by_their_kth_score",
     "problems/p2546_apply_bitwise_operations_to_make_strings_equal",
+    "problems/p2549_count_distinct_numbers_on_board",
     "problems/p2551_put_marbles_in_bags",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
