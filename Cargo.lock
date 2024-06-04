@@ -5158,6 +5158,10 @@ name = "p2549_count_distinct_numbers_on_board"
 version = "0.1.0"
 
 [[package]]
+name = "p2550_count_collisions_of_monkeys_on_a_polygon"
+version = "0.1.0"
+
+[[package]]
 name = "p2551_put_marbles_in_bags"
 version = "0.1.0"
 
