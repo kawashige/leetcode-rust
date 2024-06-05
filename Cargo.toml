@@ -1912,6 +1912,7 @@ members = [
     "problems/p2549_count_distinct_numbers_on_board",
     "problems/p2550_count_collisions_of_monkeys_on_a_polygon",
     "problems/p2551_put_marbles_in_bags",
+    "problems/p2553_separate_the_digits_in_an_array",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",
