@@ -1,0 +1,8 @@
+[package]
+name = "p2554_maximum_number_of_integers_to_choose_from_a_range_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
