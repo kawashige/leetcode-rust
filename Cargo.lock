@@ -5182,6 +5182,10 @@ name = "p2556_disconnect_path_in_a_binary_matrix_by_at_most_one_flip"
 version = "0.1.0"
 
 [[package]]
+name = "p2559_count_vowel_strings_in_ranges"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
