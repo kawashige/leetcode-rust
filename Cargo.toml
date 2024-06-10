@@ -1916,6 +1916,7 @@ members = [
     "problems/p2554_maximum_number_of_integers_to_choose_from_a_range_i",
     "problems/p2555_minimize_win_from_two_segments",
     "problems/p2556_disconnect_path_in_a_binary_matrix_by_at_most_one_flip",
+    "problems/p2558_take_gifts_from_the_richest_pile",
     "problems/p2559_count_vowel_strings_in_ranges",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
