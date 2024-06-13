@@ -1920,6 +1920,7 @@ members = [
     "problems/p2559_count_vowel_strings_in_ranges",
     "problems/p2560_house_robber_iv",
     "problems/p2562_find_the_array_concatenation_value",
+    "problems/p2563_count_the_number_of_fair_pairs",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",

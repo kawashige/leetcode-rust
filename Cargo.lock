@@ -5198,6 +5198,10 @@ name = "p2562_find_the_array_concatenation_value"
 version = "0.1.0"
 
 [[package]]
+name = "p2563_count_the_number_of_fair_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
