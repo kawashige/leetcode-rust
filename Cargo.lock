@@ -5206,6 +5206,10 @@ name = "p2564_substring_xor_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p2567_minimum_score_by_changing_two_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
