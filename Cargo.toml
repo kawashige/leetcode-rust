@@ -1922,6 +1922,7 @@ members = [
     "problems/p2562_find_the_array_concatenation_value",
     "problems/p2563_count_the_number_of_fair_pairs",
     "problems/p2564_substring_xor_queries",
+    "problems/p2566_maximum_difference_by_remapping_a_digit",
     "problems/p2567_minimum_score_by_changing_two_elements",
     "problems/p2568_minimum_impossible_or",
     "problems/p2597_the_number_of_beuatiful_subsets",
