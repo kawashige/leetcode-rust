@@ -1925,6 +1925,7 @@ members = [
     "problems/p2566_maximum_difference_by_remapping_a_digit",
     "problems/p2567_minimum_score_by_changing_two_elements",
     "problems/p2568_minimum_impossible_or",
+    "problems/p2570_merge_two_2d_arrays_by_summing_values",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",
