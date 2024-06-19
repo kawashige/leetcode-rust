@@ -21,7 +21,7 @@ impl Solution {
     }
 
     pub fn min_days(bloom_day: Vec<i32>, m: i32, k: i32) -> i32 {
-        if (bloom_day.len() as i32) < m * k {
+        if (bloom_day.len() as i64) < m as i64 * k as i64 {
             return -1;
         }
 
