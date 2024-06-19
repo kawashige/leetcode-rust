@@ -5222,6 +5222,10 @@ name = "p2570_merge_two_2d_arrays_by_summing_values"
 version = "0.1.0"
 
 [[package]]
+name = "p2571_minimum_operations_to_reduce_an_integer_to_0"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
