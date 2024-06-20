@@ -5226,6 +5226,10 @@ name = "p2571_minimum_operations_to_reduce_an_integer_to_0"
 version = "0.1.0"
 
 [[package]]
+name = "p2572_count_the_number_of_square_free_subsets"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
