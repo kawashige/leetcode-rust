@@ -5230,6 +5230,10 @@ name = "p2572_count_the_number_of_square_free_subsets"
 version = "0.1.0"
 
 [[package]]
+name = "p2574_left_and_right_sum_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
