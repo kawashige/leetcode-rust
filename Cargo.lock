@@ -2578,6 +2578,10 @@ name = "p1436_destination_city"
 version = "0.1.0"
 
 [[package]]
+name = "p1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equeal_to_limit"
+version = "0.1.0"
+
+[[package]]
 name = "p1441_build_an_array_with_stack_operation"
 version = "0.1.0"
 

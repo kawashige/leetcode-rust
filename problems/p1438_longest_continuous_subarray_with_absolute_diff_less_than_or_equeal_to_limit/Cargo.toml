@@ -1,0 +1,8 @@
+[package]
+name = "p1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equeal_to_limit"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

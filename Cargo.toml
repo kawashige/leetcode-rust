@@ -511,6 +511,7 @@ members = [
     "problems/p1432_max_difference_you_can_get_from_changing_an_integer",
     "problems/p1433_check_if_a_string_can_break_another_string",
     "problems/p1436_destination_city",
+    "problems/p1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equeal_to_limit",
     "problems/p1937_maximum_number_of_points_with_cost",
     "problems/p1441_build_an_array_with_stack_operation",
     "problems/p1442_count_triples_that_can_from_two_arrays_of_equal_xor",
