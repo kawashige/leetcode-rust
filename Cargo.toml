@@ -1229,6 +1229,7 @@ members = [
     "problems/p0989_add_to_array_form_of_integer",
     "problems/p0990_satisfiability_of_equality_equations",
     "problems/p0993_cousins_in_binary_tree",
+    "problems/p0995_minimum_number_of_k_consecutive_bit_flips",
     "problems/p0997_find_the_town_judge",
     "problems/p0998_maximum_binary_tree_ii",
     "problems/p0999_available_captures_for_rook",
