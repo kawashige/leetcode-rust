@@ -1932,6 +1932,7 @@ members = [
     "problems/p2572_count_the_number_of_square_free_subsets",
     "problems/p2574_left_and_right_sum_difference",
     "problems/p2575_find_the_divisiblitity_array_of_a_string",
+    "problems/p2576_find_the_maximum_number_of_marked_indices",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",
