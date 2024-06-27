@@ -5254,6 +5254,10 @@ name = "p2578_split_with_minimum_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p2579_count_total_number_of_colored_cells"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
