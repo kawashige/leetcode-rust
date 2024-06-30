@@ -1937,6 +1937,7 @@ members = [
     "problems/p2579_count_total_number_of_colored_cells",
     "problems/p2580_count_ways_to_group_overlapping_ranges",
     "problems/p2583_kth_largest_sum_in_a_binary_tree",
+    "problems/p2587_rearrange_array_to_maximize_prefix_score",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",
