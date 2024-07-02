@@ -1938,6 +1938,7 @@ members = [
     "problems/p2580_count_ways_to_group_overlapping_ranges",
     "problems/p2582_pass_the_pillow",
     "problems/p2583_kth_largest_sum_in_a_binary_tree",
+    "problems/p2586_count_the_number_of_vowel_strings_in_range",
     "problems/p2587_rearrange_array_to_maximize_prefix_score",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",

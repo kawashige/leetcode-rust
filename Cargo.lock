@@ -5270,6 +5270,10 @@ name = "p2583_kth_largest_sum_in_a_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p2586_count_the_number_of_vowel_strings_in_range"
+version = "0.1.0"
+
+[[package]]
 name = "p2587_rearrange_array_to_maximize_prefix_score"
 version = "0.1.0"
 
