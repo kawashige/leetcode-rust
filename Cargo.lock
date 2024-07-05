@@ -5286,6 +5286,10 @@ name = "p2591_distribute_money_to_maximum_children"
 version = "0.1.0"
 
 [[package]]
+name = "p2592_maximize_greatness_of_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
