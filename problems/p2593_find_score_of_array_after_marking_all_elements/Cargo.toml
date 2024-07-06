@@ -1,0 +1,8 @@
+[package]
+name = "p2593_find_score_of_array_after_marking_all_elements"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

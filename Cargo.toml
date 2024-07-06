@@ -1943,6 +1943,7 @@ members = [
     "problems/p2588_count_the_number_of_beautiful_subarrays",
     "problems/p2591_distribute_money_to_maximum_children",
     "problems/p2592_maximize_greatness_of_an_array",
+    "problems/p2593_find_score_of_array_after_marking_all_elements",
     "problems/p2597_the_number_of_beuatiful_subsets",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2812_find_the_safest_path_in_a_grid",
