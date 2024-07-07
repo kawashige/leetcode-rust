@@ -5294,6 +5294,10 @@ name = "p2593_find_score_of_array_after_marking_all_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p2594_minimum_time_to_repair_cars"
+version = "0.1.0"
+
+[[package]]
 name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
