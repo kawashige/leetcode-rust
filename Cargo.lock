@@ -5310,6 +5310,10 @@ name = "p2597_the_number_of_beuatiful_subsets"
 version = "0.1.0"
 
 [[package]]
+name = "p2598_smallest_missing_non_negative_integer_after_operation"
+version = "0.1.0"
+
+[[package]]
 name = "p2610_couvert_an_array_into_a_2d_array_with_conditions"
 version = "0.1.0"
 
