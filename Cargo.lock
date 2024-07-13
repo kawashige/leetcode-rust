@@ -5350,6 +5350,10 @@ name = "p2742_painting_the_walls"
 version = "0.1.0"
 
 [[package]]
+name = "p2751_robot_collisions"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
