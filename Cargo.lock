@@ -1178,6 +1178,10 @@ name = "p0725_split_linked_list_in_parts"
 version = "0.1.0"
 
 [[package]]
+name = "p0726_number_of_atoms"
+version = "0.1.0"
+
+[[package]]
 name = "p0728_self_dividing_numbers"
 version = "0.1.0"
 
