@@ -1953,6 +1953,7 @@ members = [
     "problems/p2600_k_item_with_the_maximum_sum",
     "problems/p2601_prime_subtraction_operation",
     "problems/p2602_minimum_operations_to_make_array_elements_equal",
+    "problems/p2605_form_smallest_number_from_two_digit_arrays",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2751_robot_collisions",
     "problems/p2812_find_the_safest_path_in_a_grid",
