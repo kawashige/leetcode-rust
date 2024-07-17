@@ -5334,6 +5334,10 @@ name = "p2605_form_smallest_number_from_two_digit_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2606_find_the_substring_with_maximum_cost"
+version = "0.1.0"
+
+[[package]]
 name = "p2610_couvert_an_array_into_a_2d_array_with_conditions"
 version = "0.1.0"
 
