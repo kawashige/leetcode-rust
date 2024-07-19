@@ -5342,6 +5342,10 @@ name = "p2607_make_k_subaray_sums_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p2609_find_the_longest_balanced_substring_of_a_binary_string"
+version = "0.1.0"
+
+[[package]]
 name = "p2610_couvert_an_array_into_a_2d_array_with_conditions"
 version = "0.1.0"
 
