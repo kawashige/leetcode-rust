@@ -4770,6 +4770,10 @@ name = "p2391_minimum_amount_of_time_to_collect_garbage"
 version = "0.1.0"
 
 [[package]]
+name = "p2392_build_a_matrix_with_conditions"
+version = "0.1.0"
+
+[[package]]
 name = "p2395_find_subarrays_with_equal_sum"
 version = "0.1.0"
 
