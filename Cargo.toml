@@ -1068,6 +1068,7 @@ members = [
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
     "problems/p2610_couvert_an_array_into_a_2d_array_with_conditions",
+    "problems/p2614_prime_in_diagonal",
     "problems/p2616_minimize_the_maximum_difference_of_pairs",
     "problems/p2642_design_graph_with_shortest_path_calculator",
     "problems/p2642_design_graph_with_shortest_path_calculator",
