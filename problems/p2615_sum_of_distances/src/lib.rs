@@ -15,7 +15,6 @@ impl Solution {
             entry.0 += i as i64;
             entry.1 += 1;
         }
-        println!("{:?}", map);
 
         let mut map = HashMap::new();
         for i in (0..nums.len()).rev() {
