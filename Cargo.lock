@@ -5362,6 +5362,10 @@ name = "p2614_prime_in_diagonal"
 version = "0.1.0"
 
 [[package]]
+name = "p2615_sum_of_distances"
+version = "0.1.0"
+
+[[package]]
 name = "p2616_minimize_the_maximum_difference_of_pairs"
 version = "0.1.0"
 
