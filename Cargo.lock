@@ -5370,6 +5370,10 @@ name = "p2616_minimize_the_maximum_difference_of_pairs"
 version = "0.1.0"
 
 [[package]]
+name = "p2639_find_the_width_of_columns_of_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p2642_design_graph_with_shortest_path_calculator"
 version = "0.1.0"
 

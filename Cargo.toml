@@ -1071,7 +1071,7 @@ members = [
     "problems/p2614_prime_in_diagonal",
     "problems/p2615_sum_of_distances",
     "problems/p2616_minimize_the_maximum_difference_of_pairs",
-    "problems/p2642_design_graph_with_shortest_path_calculator",
+    "problems/p2639_find_the_width_of_columns_of_a_grid",
     "problems/p2642_design_graph_with_shortest_path_calculator",
     "problems/p2706_buy_two_chocolates",
     "problems/p2707_extra_characters_in_a_string",
