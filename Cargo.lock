@@ -5378,6 +5378,10 @@ name = "p2640_find_the_score_of_all_prefixes_of_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2641_counsins_in_binary_tree_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2642_design_graph_with_shortest_path_calculator"
 version = "0.1.0"
 
