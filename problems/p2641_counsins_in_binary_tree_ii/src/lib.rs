@@ -56,7 +56,6 @@ impl Solution {
     ) -> Option<Rc<RefCell<TreeNode>>> {
         let mut sum = vec![];
         Self::depth_sum(&root, 0, &mut sum);
-        println!("sum: {:?}", sum);
 
         let mut root = root;
         Self::recurse(&mut root, 0, 0, &sum);
