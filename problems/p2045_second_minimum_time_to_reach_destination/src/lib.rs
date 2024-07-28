@@ -32,7 +32,6 @@ impl Solution {
                 queue.push_back((*next, leave_t + time));
             }
         }
-        println!("seen: {:?}", seen);
 
         unreachable!()
     }
@@ -60,15 +59,15 @@ mod test {
             ),
             12
         );
-        // assert_eq!(
-        //     Solution::second_minimum(
-        //         5,
-        //         vec![vec![1, 2], vec![1, 3], vec![1, 4], vec![3, 4], vec![4, 5]],
-        //         3,
-        //         5
-        //     ),
-        //     13
-        // );
-        // assert_eq!(Solution::second_minimum(2, vec![vec![1, 2]], 3, 2), 11);
+        assert_eq!(
+            Solution::second_minimum(
+                5,
+                vec![vec![1, 2], vec![1, 3], vec![1, 4], vec![3, 4], vec![4, 5]],
+                3,
+                5
+            ),
+            13
+        );
+        assert_eq!(Solution::second_minimum(2, vec![vec![1, 2]], 3, 2), 11);
     }
 }
