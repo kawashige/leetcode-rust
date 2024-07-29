@@ -5390,6 +5390,10 @@ name = "p2642_design_graph_with_shortest_path_calculator"
 version = "0.1.0"
 
 [[package]]
+name = "p2643_row_with_maximum_ones"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
