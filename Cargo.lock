@@ -5394,6 +5394,10 @@ name = "p2643_row_with_maximum_ones"
 version = "0.1.0"
 
 [[package]]
+name = "p2644_find_the_maximum_divisibility_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
