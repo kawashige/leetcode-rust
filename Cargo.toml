@@ -1077,6 +1077,7 @@ members = [
     "problems/p2642_design_graph_with_shortest_path_calculator",
     "problems/p2643_row_with_maximum_ones",
     "problems/p2644_find_the_maximum_divisibility_score",
+    "problems/p2645_minimum_additions_to_make_valid_string",
     "problems/p2706_buy_two_chocolates",
     "problems/p2707_extra_characters_in_a_string",
     "problems/p2742_painting_the_walls",
