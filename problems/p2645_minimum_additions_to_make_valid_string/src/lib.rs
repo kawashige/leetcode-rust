@@ -12,7 +12,6 @@ impl Solution {
             }
             i = (i + 1) % bytes.len();
         }
-        println!("count: {}", count);
         count + (bytes.len() - 1 - (i + bytes.len() - 1) % bytes.len()) as i32
     }
 }
