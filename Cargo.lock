@@ -5406,6 +5406,10 @@ name = "p2651_calculate_delayed_arrival_time"
 version = "0.1.0"
 
 [[package]]
+name = "p2653_sliding_subarray_beauty"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
