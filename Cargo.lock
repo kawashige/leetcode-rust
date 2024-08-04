@@ -5410,6 +5410,10 @@ name = "p2653_sliding_subarray_beauty"
 version = "0.1.0"
 
 [[package]]
+name = "p2654_minimum_number_of_operations_to_make_all_array_elements_equal_to_1"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
