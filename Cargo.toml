@@ -1079,6 +1079,7 @@ members = [
     "problems/p2644_find_the_maximum_divisibility_score",
     "problems/p2645_minimum_additions_to_make_valid_string",
     "problems/p2651_calculate_delayed_arrival_time",
+    "problems/p2652_sum_multiples",
     "problems/p2653_sliding_subarray_beauty",
     "problems/p2654_minimum_number_of_operations_to_make_all_array_elements_equal_to_1",
     "problems/p2678_number_of_senior_citizens",
