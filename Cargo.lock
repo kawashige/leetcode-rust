@@ -5426,6 +5426,10 @@ name = "p2656_maximum_sum_with_exactly_k_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p2657_find_the_prefix_common_array_of_two_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
