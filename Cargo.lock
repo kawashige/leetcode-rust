@@ -5430,6 +5430,10 @@ name = "p2657_find_the_prefix_common_array_of_two_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2658_maximum_number_of_fish_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
