@@ -5438,6 +5438,10 @@ name = "p2658_maximum_number_of_fish_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2661_first_completely_painted_row_or_column"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
