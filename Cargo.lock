@@ -5438,6 +5438,10 @@ name = "p2658_maximum_number_of_fish_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2660_determine_the_winner_of_a_bowling_game"
+version = "0.1.0"
+
+[[package]]
 name = "p2661_first_completely_painted_row_or_column"
 version = "0.1.0"
 

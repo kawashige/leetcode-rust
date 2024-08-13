@@ -1979,6 +1979,7 @@ members = [
     "problems/p2607_make_k_subaray_sums_equal",
     "problems/p2609_find_the_longest_balanced_substring_of_a_binary_string",
     "problems/p2611_mice_and_cheese",
+    "problems/p2660_determine_the_winner_of_a_bowling_game",
     "problems/p2661_first_completely_painted_row_or_column",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2751_robot_collisions",
