@@ -155,6 +155,7 @@ members = [
     "problems/p0714_best_time_to_buy_sell_stock_with_transaction_fee",
     "problems/p0717_1_bit_and_2_bit_characters",
     "problems/p0718_maximum_length_of_repeated_subarray",
+    "problems/p0719_find_k_th_smallest_pair_distance",
     "problems/p0720_longest_word_in_dictionary",
     "problems/p0721_accounts_merge",
     "problems/p0722_remove_comments",

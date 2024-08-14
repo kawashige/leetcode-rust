@@ -1162,6 +1162,10 @@ name = "p0718_maximum_length_of_repeated_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p0719_find_k_th_smallest_pair_distance"
+version = "0.1.0"
+
+[[package]]
 name = "p0720_longest_word_in_dictionary"
 version = "0.1.0"
 
