@@ -5450,6 +5450,10 @@ name = "p2661_first_completely_painted_row_or_column"
 version = "0.1.0"
 
 [[package]]
+name = "p2662_minimum_cost_to_a_path_with_special_roads"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
