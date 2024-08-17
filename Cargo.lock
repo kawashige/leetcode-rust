@@ -5462,6 +5462,10 @@ name = "p2670_find_the_distinct_difference_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2671_frequency_tracker"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
