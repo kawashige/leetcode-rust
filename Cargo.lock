@@ -5470,6 +5470,10 @@ name = "p2672_number_of_adjacent_elements_with_the_same_color"
 version = "0.1.0"
 
 [[package]]
+name = "p2673_make_costs_of_paths_equal_in_a_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p2678_number_of_senior_citizens"
 version = "0.1.0"
 
