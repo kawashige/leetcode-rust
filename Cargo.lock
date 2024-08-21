@@ -5482,6 +5482,10 @@ name = "p2679_sum_in_a_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p2680_maximum_or"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
