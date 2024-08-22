@@ -5486,6 +5486,10 @@ name = "p2680_maximum_or"
 version = "0.1.0"
 
 [[package]]
+name = "p2682_find_the_losers_of_the_circular_game"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
