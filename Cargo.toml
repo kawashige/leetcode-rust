@@ -1991,6 +1991,7 @@ members = [
     "problems/p2679_sum_in_a_matrix",
     "problems/p2680_maximum_or",
     "problems/p2682_find_the_losers_of_the_circular_game",
+    "problems/p2683_neighboring_bitwise_xor",
     "problems/p2709_greatest_common_divisor_traversal",
     "problems/p2751_robot_collisions",
     "problems/p2812_find_the_safest_path_in_a_grid",
