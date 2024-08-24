@@ -866,6 +866,10 @@ name = "p0561_array_partition_i"
 version = "0.1.0"
 
 [[package]]
+name = "p0564_find_the_closest_palindrome"
+version = "0.1.0"
+
+[[package]]
 name = "p0565_array_nesting"
 version = "0.1.0"
 
