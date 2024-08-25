@@ -5498,6 +5498,10 @@ name = "p2683_neighboring_bitwise_xor"
 version = "0.1.0"
 
 [[package]]
+name = "p2684_maximum_number_of_moves_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 

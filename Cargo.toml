@@ -1089,6 +1089,7 @@ members = [
     "problems/p2653_sliding_subarray_beauty",
     "problems/p2654_minimum_number_of_operations_to_make_all_array_elements_equal_to_1",
     "problems/p2678_number_of_senior_citizens",
+    "problems/p2684_maximum_number_of_moves_in_a_grid",
     "problems/p2706_buy_two_chocolates",
     "problems/p2707_extra_characters_in_a_string",
     "problems/p2742_painting_the_walls",
