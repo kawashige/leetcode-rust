@@ -5506,6 +5506,10 @@ name = "p2685_count_the_number_of_complete_components"
 version = "0.1.0"
 
 [[package]]
+name = "p2696_minimum_string_length_after_removing_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
