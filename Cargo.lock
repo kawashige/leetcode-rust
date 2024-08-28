@@ -5510,6 +5510,10 @@ name = "p2696_minimum_string_length_after_removing_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p2697_lexicographically_smallest_palindrome"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
