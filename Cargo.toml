@@ -1093,6 +1093,7 @@ members = [
     "problems/p2685_count_the_number_of_complete_components",
     "problems/p2696_minimum_string_length_after_removing_substrings",
     "problems/p2697_lexicographically_smallest_palindrome",
+    "problems/p2698_find_the_punishment_number_in_an_integer",
     "problems/p2706_buy_two_chocolates",
     "problems/p2707_extra_characters_in_a_string",
     "problems/p2742_painting_the_walls",

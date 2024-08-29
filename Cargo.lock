@@ -5514,6 +5514,10 @@ name = "p2697_lexicographically_smallest_palindrome"
 version = "0.1.0"
 
 [[package]]
+name = "p2698_find_the_punishment_number_in_an_integer"
+version = "0.1.0"
+
+[[package]]
 name = "p2706_buy_two_chocolates"
 version = "0.1.0"
 
