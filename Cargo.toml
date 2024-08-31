@@ -1097,6 +1097,7 @@ members = [
     "problems/p2699_modify_graph_edge_weights",
     "problems/p2706_buy_two_chocolates",
     "problems/p2707_extra_characters_in_a_string",
+    "problems/p2708_maximum_strength_of_a_group",
     "problems/p2742_painting_the_walls",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
