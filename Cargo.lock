@@ -5538,6 +5538,10 @@ name = "p2709_greatest_common_divisor_traversal"
 version = "0.1.0"
 
 [[package]]
+name = "p2711_difference_of_number_of_distinct_values_on_diagonals"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
