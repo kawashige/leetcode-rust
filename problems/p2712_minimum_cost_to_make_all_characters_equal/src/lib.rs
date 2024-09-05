@@ -38,9 +38,6 @@ impl Solution {
             }
         }
 
-        println!("left: {:?}", left);
-        println!("right: {:?}", right);
-
         let mut result = right[0][0]
             .min(right[0][1])
             .min(left[s.len() - 1][0])
