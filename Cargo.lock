@@ -5546,6 +5546,10 @@ name = "p2711_difference_of_number_of_distinct_values_on_diagonals"
 version = "0.1.0"
 
 [[package]]
+name = "p2712_minimum_cost_to_make_all_characters_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
