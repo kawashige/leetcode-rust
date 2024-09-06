@@ -5626,6 +5626,10 @@ name = "p3110_score_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p3217_delete_nodes_from_linked_list_present_in_array"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
