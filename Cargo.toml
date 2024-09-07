@@ -1101,6 +1101,7 @@ members = [
     "problems/p2710_remove_trailing_zeros_from_a_string",
     "problems/p2711_difference_of_number_of_distinct_values_on_diagonals",
     "problems/p2712_minimum_cost_to_make_all_characters_equal",
+    "problems/p2718_sum_of_matrix_after_queries",
     "problems/p2742_painting_the_walls",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",

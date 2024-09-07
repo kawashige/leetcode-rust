@@ -5550,6 +5550,10 @@ name = "p2712_minimum_cost_to_make_all_characters_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p2718_sum_of_matrix_after_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
