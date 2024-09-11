@@ -5554,6 +5554,10 @@ name = "p2716_minimize_string_length"
 version = "0.1.0"
 
 [[package]]
+name = "p2717_semi_ordered_permutation"
+version = "0.1.0"
+
+[[package]]
 name = "p2718_sum_of_matrix_after_queries"
 version = "0.1.0"
 
