@@ -5562,6 +5562,10 @@ name = "p2718_sum_of_matrix_after_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p2729_check_if_the_number_is_fascinating"
+version = "0.1.0"
+
+[[package]]
 name = "p2730_find_the_longest_semi_repetitive_substring"
 version = "0.1.0"
 

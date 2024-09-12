@@ -1104,6 +1104,7 @@ members = [
     "problems/p2716_minimize_string_length",
     "problems/p2717_semi_ordered_permutation",
     "problems/p2718_sum_of_matrix_after_queries",
+    "problems/p2729_check_if_the_number_is_fascinating",
     "problems/p2730_find_the_longest_semi_repetitive_substring",
     "problems/p2742_painting_the_walls",
     "problems/p2785_sort_vowels_in_a_string",
