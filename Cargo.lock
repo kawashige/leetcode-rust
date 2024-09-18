@@ -5570,6 +5570,10 @@ name = "p2730_find_the_longest_semi_repetitive_substring"
 version = "0.1.0"
 
 [[package]]
+name = "p2731_movement_of_robots"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
