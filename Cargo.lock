@@ -5574,6 +5574,10 @@ name = "p2731_movement_of_robots"
 version = "0.1.0"
 
 [[package]]
+name = "p2733_neither_minimum_nor_maximum"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
