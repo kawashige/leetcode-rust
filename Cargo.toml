@@ -1108,6 +1108,7 @@ members = [
     "problems/p2730_find_the_longest_semi_repetitive_substring",
     "problems/p2731_movement_of_robots",
     "problems/p2733_neither_minimum_nor_maximum",
+    "problems/p2734_lexicographically_smallest_string_after_substring_operation",
     "problems/p2742_painting_the_walls",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",

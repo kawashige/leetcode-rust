@@ -5582,6 +5582,10 @@ name = "p2733_neither_minimum_nor_maximum"
 version = "0.1.0"
 
 [[package]]
+name = "p2734_lexicographically_smallest_string_after_substring_operation"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
