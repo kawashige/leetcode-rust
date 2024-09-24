@@ -5662,6 +5662,10 @@ name = "p3016_minimum_number_of_pushes_to_type_word_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3043_find_the_length_of_the_longest_common_prefix"
+version = "0.1.0"
+
+[[package]]
 name = "p3068_find_the_maximum_sum_of_node_values"
 version = "0.1.0"
 
