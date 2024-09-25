@@ -4870,6 +4870,10 @@ name = "p2415_reverse_odd_levels_of_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p2416_sum_of_prefix_scores_of_strings"
+version = "0.1.0"
+
+[[package]]
 name = "p2418_sort_the_people"
 version = "0.1.0"
 
