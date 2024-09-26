@@ -5598,6 +5598,10 @@ name = "p2735_collecting_chocolates"
 version = "0.1.0"
 
 [[package]]
+name = "p2739_total_distance_traveled"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
