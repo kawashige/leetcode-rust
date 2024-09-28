@@ -5606,6 +5606,10 @@ name = "p2740_find_the_value_of_the_partition"
 version = "0.1.0"
 
 [[package]]
+name = "p2741_special_permutations"
+version = "0.1.0"
+
+[[package]]
 name = "p2742_painting_the_walls"
 version = "0.1.0"
 
