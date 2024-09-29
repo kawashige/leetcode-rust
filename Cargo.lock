@@ -618,6 +618,10 @@ name = "p0410_split_array_largest_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p0432_all_o_one_data_structure"
+version = "0.1.0"
+
+[[package]]
 name = "p0440_k_th_smallest_in_lexicographical_order"
 version = "0.1.0"
 

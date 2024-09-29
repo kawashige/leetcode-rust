@@ -21,6 +21,8 @@ members = [
     "problems/p0354_russian_doll_envelopes",
     "problems/p0403_frog_jump",
     "problems/p0410_split_array_largest_sum",
+    "problems/p0410_split_array_largest_sum",
+    "problems/p0432_all_o_one_data_structure",
     "problems/p0440_k_th_smallest_in_lexicographical_order",
     "problems/p0456_132_pattern",
     "problems/p0460_lfu_cache",
