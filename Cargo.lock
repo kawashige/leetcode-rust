@@ -5634,6 +5634,10 @@ name = "p2747_count_zero_requrest_servers"
 version = "0.1.0"
 
 [[package]]
+name = "p2748_number_of_beautiful_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p2751_robot_collisions"
 version = "0.1.0"
 
