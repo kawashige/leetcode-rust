@@ -5646,6 +5646,10 @@ name = "p2751_robot_collisions"
 version = "0.1.0"
 
 [[package]]
+name = "p2760_longest_even_odd_subarray_with_threshold"
+version = "0.1.0"
+
+[[package]]
 name = "p2761_prime_pairs_with_target_sum"
 version = "0.1.0"
 
