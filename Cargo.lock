@@ -5654,6 +5654,10 @@ name = "p2761_prime_pairs_with_target_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p2762_continuous_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
