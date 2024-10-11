@@ -5642,6 +5642,10 @@ name = "p2749_minimum_operations_to_make_the_integer_zero"
 version = "0.1.0"
 
 [[package]]
+name = "p2750_ways_to_split_array_into_good_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2751_robot_collisions"
 version = "0.1.0"
 
@@ -5659,6 +5663,10 @@ version = "0.1.0"
 
 [[package]]
 name = "p2765_longest_altenating_subarray"
+version = "0.1.0"
+
+[[package]]
+name = "p2766_relocate_marbles"
 version = "0.1.0"
 
 [[package]]
