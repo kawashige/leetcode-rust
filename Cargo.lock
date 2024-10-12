@@ -5670,6 +5670,10 @@ name = "p2766_relocate_marbles"
 version = "0.1.0"
 
 [[package]]
+name = "p2767_partition_string_into_minimum_beautiful_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
