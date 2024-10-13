@@ -5,7 +5,6 @@ impl Solution {
         if i == s.len() {
             return count;
         }
-        println!("i: {}, count: {}", i, count);
         for j in (0..candidates.len()).rev() {
             if s[i..].starts_with(&candidates[j]) {
                 let result = Self::recurse(s, i + candidates[j].len(), candidates, count + 1);
@@ -24,7 +23,6 @@ impl Solution {
             candidates.push(format!("{:b}", i));
             i *= 5;
         }
-        println!("{:?}", candidates);
 
         Self::recurse(&s, 0, &candidates, 0)
     }
