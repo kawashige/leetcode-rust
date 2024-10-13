@@ -966,6 +966,10 @@ name = "p0628_maximum_product_of_three_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "p0632_smallest_range_covering_elements_from_k_lists"
+version = "0.1.0"
+
+[[package]]
 name = "p0633_sum_of_square_numbers"
 version = "0.1.0"
 
