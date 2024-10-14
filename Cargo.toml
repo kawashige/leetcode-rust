@@ -1128,6 +1128,7 @@ members = [
     "problems/p2765_longest_altenating_subarray",
     "problems/p2766_relocate_marbles",
     "problems/p2767_partition_string_into_minimum_beautiful_substrings",
+    "problems/p2768_number_of_black_blocks",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
