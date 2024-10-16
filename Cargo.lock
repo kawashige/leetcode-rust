@@ -5682,6 +5682,10 @@ name = "p2768_number_of_black_blocks"
 version = "0.1.0"
 
 [[package]]
+name = "p2769_find_the_maximum_achibable_number"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
