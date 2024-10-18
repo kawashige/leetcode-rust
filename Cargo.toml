@@ -1131,6 +1131,7 @@ members = [
     "problems/p2768_number_of_black_blocks",
     "problems/p2769_find_the_maximum_achibable_number",
     "problems/p2770_maximum_number_of_jumps_to_reach_the_last_index",
+    "problems/p2771_longest_non_decreasing_subarray_from_two_arrays",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
