@@ -12,7 +12,6 @@ impl Solution {
                 dp[i] = dp[i].max(dp[j] + 1);
             }
         }
-        println!("{:?}", dp);
         dp[dp.len() - 1]
     }
 }
