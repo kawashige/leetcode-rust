@@ -5702,6 +5702,10 @@ name = "p2772_apply_operations_to_make_all_array_elements_equal_to_zero"
 version = "0.1.0"
 
 [[package]]
+name = "p2778_sum_of_squares_of_special_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
