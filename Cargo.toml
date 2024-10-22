@@ -1134,6 +1134,7 @@ members = [
     "problems/p2771_longest_non_decreasing_subarray_from_two_arrays",
     "problems/p2772_apply_operations_to_make_all_array_elements_equal_to_zero",
     "problems/p2778_sum_of_squares_of_special_elements",
+    "problems/p2779_maximum_beauty_of_an_array_after_applying_operation",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
