@@ -5710,6 +5710,10 @@ name = "p2779_maximum_beauty_of_an_array_after_applying_operation"
 version = "0.1.0"
 
 [[package]]
+name = "p2780_minimum_index_of_a_valid_split"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
