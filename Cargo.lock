@@ -5714,6 +5714,10 @@ name = "p2780_minimum_index_of_a_valid_split"
 version = "0.1.0"
 
 [[package]]
+name = "p2784_check_if_array_is_good"
+version = "0.1.0"
+
+[[package]]
 name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 

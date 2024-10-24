@@ -1136,6 +1136,7 @@ members = [
     "problems/p2778_sum_of_squares_of_special_elements",
     "problems/p2779_maximum_beauty_of_an_array_after_applying_operation",
     "problems/p2780_minimum_index_of_a_valid_split",
+    "problems/p2784_check_if_array_is_good",
     "problems/p2785_sort_vowels_in_a_string",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
