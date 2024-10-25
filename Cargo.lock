@@ -5722,6 +5722,10 @@ name = "p2785_sort_vowels_in_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2786_visit_array_positions_to_maximize_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2807_insert_greatest_coommon_divisor_in_linked_list"
 version = "0.1.0"
 
