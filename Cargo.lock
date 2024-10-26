@@ -5002,6 +5002,10 @@ name = "p2457_maximum_addition_to_make_integer_beautiful"
 version = "0.1.0"
 
 [[package]]
+name = "p2458_highest_of_binary_tree_after_subtree_removal_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p2460_apply_operations_to_array"
 version = "0.1.0"
 

@@ -1937,6 +1937,7 @@ members = [
     "problems/p2455_average_value_of_even_numbers_that_are_divisible_by_three",
     "problems/p2456_most_popular_video_creator",
     "problems/p2457_maximum_addition_to_make_integer_beautiful",
+    "problems/p2458_highest_of_binary_tree_after_subtree_removal_queries",
     "problems/p2460_apply_operations_to_array",
     "problems/p2461_maximum_sum_of_distinct_subarrays_with_length_k",
     "problems/p2462_total_cost_to_hire_k_workers",
