@@ -5730,6 +5730,10 @@ name = "p2786_visit_array_positions_to_maximize_score"
 version = "0.1.0"
 
 [[package]]
+name = "p2787_ways_to_express_an_integer_as_sum_of_powers"
+version = "0.1.0"
+
+[[package]]
 name = "p2807_insert_greatest_coommon_divisor_in_linked_list"
 version = "0.1.0"
 
