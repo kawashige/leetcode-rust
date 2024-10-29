@@ -5738,6 +5738,10 @@ name = "p2788_split_strings_by_separator"
 version = "0.1.0"
 
 [[package]]
+name = "p2789_largest_element_in_an_array_after_merge_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p2807_insert_greatest_coommon_divisor_in_linked_list"
 version = "0.1.0"
 
