@@ -3122,6 +3122,10 @@ name = "p1670_design_front_middle_bacK_queue"
 version = "0.1.0"
 
 [[package]]
+name = "p1671_minimum_number_of_removals_to_make_mountain_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1672_richest_customer_wealth"
 version = "0.1.0"
 
