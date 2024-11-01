@@ -1143,6 +1143,7 @@ members = [
     "problems/p2787_ways_to_express_an_integer_as_sum_of_powers",
     "problems/p2788_split_strings_by_separator",
     "problems/p2789_largest_element_in_an_array_after_merge_operations",
+    "problems/p2799_count_complete_subarrays_in_an_array",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
