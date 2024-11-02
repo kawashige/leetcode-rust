@@ -5754,6 +5754,10 @@ name = "p2799_count_complete_subarrays_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2800_shortest_string_that_contains_three_strings"
+version = "0.1.0"
+
+[[package]]
 name = "p2807_insert_greatest_coommon_divisor_in_linked_list"
 version = "0.1.0"
 
