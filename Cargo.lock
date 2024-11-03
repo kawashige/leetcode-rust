@@ -5762,6 +5762,10 @@ name = "p2807_insert_greatest_coommon_divisor_in_linked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p2808_minimum_seconds_to_equalize_a_circular_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2812_find_the_safest_path_in_a_grid"
 version = "0.1.0"
 
