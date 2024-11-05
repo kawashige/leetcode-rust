@@ -5786,6 +5786,10 @@ name = "p2870_minimum_number_of_operations_to_make_array_empty"
 version = "0.1.0"
 
 [[package]]
+name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
+version = "0.1.0"
+
+[[package]]
 name = "p2938_separate_black_and_white_balls"
 version = "0.1.0"
 

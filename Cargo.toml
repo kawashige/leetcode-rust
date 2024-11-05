@@ -1149,6 +1149,7 @@ members = [
     "problems/p2808_minimum_seconds_to_equalize_a_circular_array",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
+    "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
     "problems/p2938_separate_black_and_white_balls",
     "problems/p2966_divide_array_into_arrays_with_max_difference",
     "problems/p2971_find_polygon_with_the_largest_perimeter",
