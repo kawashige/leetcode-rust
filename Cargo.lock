@@ -5822,6 +5822,10 @@ name = "p3005_count_elements_with_maximum_frequency"
 version = "0.1.0"
 
 [[package]]
+name = "p3011_find_if_array_can_be_sorted"
+version = "0.1.0"
+
+[[package]]
 name = "p3016_minimum_number_of_pushes_to_type_word_ii"
 version = "0.1.0"
 
