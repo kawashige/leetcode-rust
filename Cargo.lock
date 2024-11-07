@@ -5750,6 +5750,10 @@ name = "p2789_largest_element_in_an_array_after_merge_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p2798_number_of_employees_who_met_the_target"
+version = "0.1.0"
+
+[[package]]
 name = "p2799_count_complete_subarrays_in_an_array"
 version = "0.1.0"
 
