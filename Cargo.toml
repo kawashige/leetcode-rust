@@ -1146,6 +1146,7 @@ members = [
     "problems/p2798_number_of_employees_who_met_the_target",
     "problems/p2799_count_complete_subarrays_in_an_array",
     "problems/p2800_shortest_string_that_contains_three_strings",
+    "problems/p2806_account_balance_after_rounded_purchase",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2808_minimum_seconds_to_equalize_a_circular_array",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
