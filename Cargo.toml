@@ -1159,6 +1159,7 @@ members = [
     "problems/p3011_find_if_array_can_be_sorted",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
+    "problems/p3133_minimum_array_end",
     "problems/p3163_string_compression_iii",
     "problems/p3217_delete_nodes_from_linked_list_present_in_array",
     "august_leetcoding_challenge",
