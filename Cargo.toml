@@ -1149,6 +1149,7 @@ members = [
     "problems/p2806_account_balance_after_rounded_purchase",
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2808_minimum_seconds_to_equalize_a_circular_array",
+    "problems/p2810_faulty_keyboard",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
