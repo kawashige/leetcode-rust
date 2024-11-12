@@ -5782,6 +5782,10 @@ name = "p2812_find_the_safest_path_in_a_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2815_max_pair_sum_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2816_double_a_number_represented_as_a_liked_list"
 version = "0.1.0"
 
