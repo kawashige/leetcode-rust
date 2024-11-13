@@ -5778,6 +5778,10 @@ name = "p2810_faulty_keyboard"
 version = "0.1.0"
 
 [[package]]
+name = "p2811_check_if_it_is_possible_to_split_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2812_find_the_safest_path_in_a_grid"
 version = "0.1.0"
 

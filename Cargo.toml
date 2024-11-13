@@ -1150,6 +1150,7 @@ members = [
     "problems/p2807_insert_greatest_coommon_divisor_in_linked_list",
     "problems/p2808_minimum_seconds_to_equalize_a_circular_array",
     "problems/p2810_faulty_keyboard",
+    "problems/p2811_check_if_it_is_possible_to_split_array",
     "problems/p2815_max_pair_sum_in_an_array",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
