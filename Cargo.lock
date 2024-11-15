@@ -5798,6 +5798,10 @@ name = "p2824_count_pairs_whose_sum_is_less_than_target"
 version = "0.1.0"
 
 [[package]]
+name = "p2825_make_string_a_subsequence_using_cyclic_increments"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 

@@ -1,0 +1,8 @@
+[package]
+name = "p2825_make_string_a_subsequence_using_cyclic_increments"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
