@@ -1498,6 +1498,10 @@ name = "p0861_score_after_flipping_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p0862_shortest_subarray_with_sum_at_least_k"
+version = "0.1.0"
+
+[[package]]
 name = "p0863_all_nodes_distance_k_in_binary_tree"
 version = "0.1.0"
 
