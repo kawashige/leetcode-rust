@@ -1153,6 +1153,7 @@ members = [
     "problems/p2810_faulty_keyboard",
     "problems/p2811_check_if_it_is_possible_to_split_array",
     "problems/p2815_max_pair_sum_in_an_array",
+    "problems/p2817_minimum_absolute_difference_between_elements_with_constraint",
     "problems/p2824_count_pairs_whose_sum_is_less_than_target",
     "problems/p2825_make_string_a_subsequence_using_cyclic_increments",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",

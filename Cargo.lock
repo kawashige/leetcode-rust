@@ -5798,6 +5798,10 @@ name = "p2816_double_a_number_represented_as_a_liked_list"
 version = "0.1.0"
 
 [[package]]
+name = "p2817_minimum_absolute_difference_between_elements_with_constraint"
+version = "0.1.0"
+
+[[package]]
 name = "p2824_count_pairs_whose_sum_is_less_than_target"
 version = "0.1.0"
 
