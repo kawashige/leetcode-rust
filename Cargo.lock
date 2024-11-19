@@ -5810,6 +5810,10 @@ name = "p2825_make_string_a_subsequence_using_cyclic_increments"
 version = "0.1.0"
 
 [[package]]
+name = "p2826_sorting_three_groups"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
