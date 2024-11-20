@@ -5814,6 +5814,10 @@ name = "p2826_sorting_three_groups"
 version = "0.1.0"
 
 [[package]]
+name = "p2828_check_if_a_string_is_an_acronym_of_words"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
