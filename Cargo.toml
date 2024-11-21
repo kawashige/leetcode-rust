@@ -1158,6 +1158,7 @@ members = [
     "problems/p2825_make_string_a_subsequence_using_cyclic_increments",
     "problems/p2826_sorting_three_groups",
     "problems/p2828_check_if_a_string_is_an_acronym_of_words",
+    "problems/p2829_determine_the_minimum_sum_of_a_k_avoiding_array",
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
