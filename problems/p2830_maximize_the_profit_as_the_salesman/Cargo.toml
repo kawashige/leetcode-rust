@@ -1,0 +1,8 @@
+[package]
+name = "p2830_maximize_the_profit_as_the_salesman"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
