@@ -5826,6 +5826,10 @@ name = "p2830_maximize_the_profit_as_the_salesman"
 version = "0.1.0"
 
 [[package]]
+name = "p2831_find_the_longest_equal_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
