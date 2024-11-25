@@ -1298,6 +1298,10 @@ name = "p0771_jewels_and_stones"
 version = "0.1.0"
 
 [[package]]
+name = "p0773_sliding_puzzle"
+version = "0.1.0"
+
+[[package]]
 name = "p0775_global_and_local_inversions"
 version = "0.1.0"
 
