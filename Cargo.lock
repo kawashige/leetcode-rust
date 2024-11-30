@@ -4106,6 +4106,10 @@ name = "p2096_step_by_step_directions_from_a_binary_tree_node_to_another"
 version = "0.1.0"
 
 [[package]]
+name = "p2097_valid_arrangement_of_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p2099_find_subsequence_of_k_with_the_largest_sum"
 version = "0.1.0"
 
