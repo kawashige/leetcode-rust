@@ -5850,6 +5850,10 @@ name = "p2834_find_the_minimum_possible_sum_of_a_beautiful_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2840_check_if_strings_can_be_made_equal_with_operations_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
