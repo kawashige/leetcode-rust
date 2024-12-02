@@ -5846,6 +5846,10 @@ name = "p2831_find_the_longest_equal_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p2833_furthest_point_from_origin"
+version = "0.1.0"
+
+[[package]]
 name = "p2834_find_the_minimum_possible_sum_of_a_beautiful_array"
 version = "0.1.0"
 
