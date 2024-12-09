@@ -1186,6 +1186,7 @@ members = [
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
     "problems/p3133_minimum_array_end",
+    "problems/p3152_special_array_ii",
     "problems/p3163_string_compression_iii",
     "problems/p3217_delete_nodes_from_linked_list_present_in_array",
     "problems/p3243_shortest_distance_after_road_addition_queries_i",

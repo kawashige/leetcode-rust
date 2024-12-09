@@ -5966,6 +5966,10 @@ name = "p3133_minimum_array_end"
 version = "0.1.0"
 
 [[package]]
+name = "p3152_special_array_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3163_string_compression_iii"
 version = "0.1.0"
 
