@@ -5878,6 +5878,10 @@ name = "p2845_count_of_interesting_subarrays"
 version = "0.1.0"
 
 [[package]]
+name = "p2848_points_that_intersect_with_car"
+version = "0.1.0"
+
+[[package]]
 name = "p2849_determine_if_a_cell_is_reachable_at_a_given_time"
 version = "0.1.0"
 
