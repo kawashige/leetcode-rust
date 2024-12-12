@@ -5890,6 +5890,10 @@ name = "p2850_minimum_moves_to_spread_stones_over_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2855_minimum_right_shifts_to_sort_the_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2864_maximum_odd_binary_number"
 version = "0.1.0"
 
