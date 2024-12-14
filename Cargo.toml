@@ -1176,6 +1176,7 @@ members = [
     "problems/p2849_determine_if_a_cell_is_reachable_at_a_given_time",
     "problems/p2850_minimum_moves_to_spread_stones_over_grid",
     "problems/p2855_minimum_right_shifts_to_sort_the_array",
+    "problems/p2856_mimimum_array_length_after_pair_removals",
     "problems/p2859_sum_of_values_at_indices_with_k_set_bits",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
