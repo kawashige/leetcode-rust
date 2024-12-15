@@ -5898,6 +5898,10 @@ name = "p2856_mimimum_array_length_after_pair_removals"
 version = "0.1.0"
 
 [[package]]
+name = "p2857_count_pairs_of_points_with_distance_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2859_sum_of_values_at_indices_with_k_set_bits"
 version = "0.1.0"
 
