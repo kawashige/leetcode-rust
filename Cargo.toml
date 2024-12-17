@@ -2103,6 +2103,7 @@ members = [
     "problems/p2740_find_the_value_of_the_partition",
     "problems/p2741_special_permutations",
     "problems/p2751_robot_collisions",
+    "problems/p2860_happy_students",
     "problems/p2812_find_the_safest_path_in_a_grid",
     "problems/p2816_double_a_number_represented_as_a_liked_list",
     "problems/p2864_maximum_odd_binary_number",
