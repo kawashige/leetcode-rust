@@ -5910,6 +5910,10 @@ name = "p2860_happy_students"
 version = "0.1.0"
 
 [[package]]
+name = "p2861_maximum_number_of_alloys"
+version = "0.1.0"
+
+[[package]]
 name = "p2864_maximum_odd_binary_number"
 version = "0.1.0"
 
