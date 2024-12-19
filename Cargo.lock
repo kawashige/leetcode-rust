@@ -5918,6 +5918,10 @@ name = "p2864_maximum_odd_binary_number"
 version = "0.1.0"
 
 [[package]]
+name = "p2865_beautiful_towers_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2870_minimum_number_of_operations_to_make_array_empty"
 version = "0.1.0"
 

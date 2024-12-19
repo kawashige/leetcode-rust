@@ -2108,6 +2108,7 @@ members = [
     "problems/p2860_happy_students",
     "problems/p2861_maximum_number_of_alloys",
     "problems/p2864_maximum_odd_binary_number",
+    "problems/p2865_beautiful_towers_i",
     "problems/p2958_length_of_longest_subarray_with_at_most_k_frequency",
     "problems/p2962_count_subarrays_where_max_element_appears_at_less_than_k_times",
     "problems/p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k",
