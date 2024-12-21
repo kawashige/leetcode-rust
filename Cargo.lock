@@ -5930,6 +5930,10 @@ name = "p2870_minimum_number_of_operations_to_make_array_empty"
 version = "0.1.0"
 
 [[package]]
+name = "p2872_maximum_number_of_k_divisible_components"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
