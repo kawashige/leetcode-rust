@@ -5934,6 +5934,10 @@ name = "p2870_minimum_number_of_operations_to_make_array_empty"
 version = "0.1.0"
 
 [[package]]
+name = "p2871_split_array_into_maximum_number_of_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2872_maximum_number_of_k_divisible_components"
 version = "0.1.0"
 

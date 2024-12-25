@@ -2111,6 +2111,7 @@ members = [
     "problems/p2865_beautiful_towers_i",
     "problems/p2866_beautiful_towers_ii",
     "problems/p2869_minimum_operations_to_collect_elements",
+    "problems/p2871_split_array_into_maximum_number_of_subarrays",
     "problems/p2872_maximum_number_of_k_divisible_components",
     "problems/p2940_find_building_when_alice_and_bob_can_meet",
     "problems/p2958_length_of_longest_subarray_with_at_most_k_frequency",
