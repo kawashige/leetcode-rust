@@ -5942,6 +5942,10 @@ name = "p2872_maximum_number_of_k_divisible_components"
 version = "0.1.0"
 
 [[package]]
+name = "p2873_maximum_value_of_an_ordered_triplet_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
