@@ -522,6 +522,10 @@ name = "p0004_median_of_two_sorted_array"
 version = "0.1.0"
 
 [[package]]
+name = "p0010_regular_expression_matching"
+version = "0.1.0"
+
+[[package]]
 name = "p0011_containing_with_most_water"
 version = "0.1.0"
 

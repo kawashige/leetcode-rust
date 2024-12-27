@@ -3,6 +3,7 @@
 members = [
     "problems",
     "problems/p0004_median_of_two_sorted_array",
+    "problems/p0010_regular_expression_matching",
     "problems/p0011_containing_with_most_water",
     "problems/p0016_3sum_closest",
     "problems/p0030_substring_with_concatenation_of_all_words",
