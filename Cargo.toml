@@ -1180,6 +1180,7 @@ members = [
     "problems/p2857_count_pairs_of_points_with_distance_k",
     "problems/p2859_sum_of_values_at_indices_with_k_set_bits",
     "problems/p2870_minimum_number_of_operations_to_make_array_empty",
+    "problems/p2874_maximum_value_of_an_ordered_triplet_ii",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
     "problems/p2924_find_champion_ii",
     "problems/p2938_separate_black_and_white_balls",
