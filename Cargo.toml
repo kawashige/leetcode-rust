@@ -147,6 +147,7 @@ members = [
     "problems/p0686_repeated_string_match",
     "problems/p0687_longest_univalue_path",
     "problems/p0688_knight_probability_in_chessboard",
+    "problems/p0689_maximum_sum_of_3_non_overlapping_subarrays",
     "problems/p0692_top_k_frequent_words",
     "problems/p0693_binary_number_with_altenating_bits",
     "problems/p0695_max_area_of_island",
