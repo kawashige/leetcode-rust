@@ -40,7 +40,6 @@ impl Solution {
                     ],
                 );
             }
-            println!("{}: {:?}", i, max[i]);
         }
         max[nums.len() - 1][3].1.clone()
     }
