@@ -538,6 +538,10 @@ name = "p0030_substring_with_concatenation_of_all_words"
 version = "0.1.0"
 
 [[package]]
+name = "p0044_wildcard_matching"
+version = "0.1.0"
+
+[[package]]
 name = "p0053_maximum_subarray"
 version = "0.1.0"
 
