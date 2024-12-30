@@ -5962,6 +5962,10 @@ name = "p2875_maximum_size_subarray_in_infinite_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2895_minimum_processing_time"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
