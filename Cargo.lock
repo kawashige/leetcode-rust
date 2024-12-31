@@ -546,6 +546,10 @@ name = "p0053_maximum_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p0060_permutataion_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "p0068_text_justification"
 version = "0.1.0"
 
