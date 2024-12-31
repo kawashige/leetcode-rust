@@ -5970,6 +5970,10 @@ name = "p2895_minimum_processing_time"
 version = "0.1.0"
 
 [[package]]
+name = "p2896_apply_operations_to_make_two_strings_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
