@@ -15,7 +15,6 @@ impl Solution {
                 continue;
             }
             if k <= d {
-                println!("i: {}, k: {}, d: {}", i, k, d);
                 seen[i] = true;
                 (*result).push((b'0' + i as u8) as char);
                 Self::recurse(k, seen, result);
