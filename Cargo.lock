@@ -610,6 +610,10 @@ name = "p0214_shortest_palindrome"
 version = "0.1.0"
 
 [[package]]
+name = "p0233_number_of_digit_one"
+version = "0.1.0"
+
+[[package]]
 name = "p0273_integer_to_english_words"
 version = "0.1.0"
 

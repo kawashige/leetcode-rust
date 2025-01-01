@@ -20,6 +20,7 @@ members = [
     "problems/p0134_gas_station",
     "problems/p0140_word_break_ii",
     "problems/p0149_max_line_on_a_line",
+    "problems/p0233_number_of_digit_one",
     "problems/p0352_datastream_as_disjoint_intervals",
     "problems/p0354_russian_doll_envelopes",
     "problems/p0403_frog_jump",
