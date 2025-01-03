@@ -622,6 +622,10 @@ name = "p0297_serialize_and_deserialize_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "p0301_remove_invalid_parentheses"
+version = "0.1.0"
+
+[[package]]
 name = "p0352_datastream_as_disjoint_intervals"
 version = "0.1.0"
 
