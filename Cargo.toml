@@ -1192,6 +1192,7 @@ members = [
     "problems/p2874_maximum_value_of_an_ordered_triplet_ii",
     "problems/p2875_maximum_size_subarray_in_infinite_array",
     "problems/p2895_minimum_processing_time",
+    "problems/p2894_divisible_and_non_divisible_sums_difference",
     "problems/p2896_apply_operations_to_make_two_strings_equal",
     "problems/p2901_longest_unequal_adjacent_groups_subsequence_ii",
     "problems/p2904_shortest_and_lexicographically_smallest_beautiful_string",

@@ -5982,6 +5982,10 @@ name = "p2875_maximum_size_subarray_in_infinite_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2894_divisible_and_non_divisible_sums_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p2895_minimum_processing_time"
 version = "0.1.0"
 
