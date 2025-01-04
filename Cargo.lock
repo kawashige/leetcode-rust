@@ -6002,6 +6002,10 @@ name = "p2905_find_indices_with_index_and_value_different_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2906_construct_product_matrix"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
