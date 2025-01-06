@@ -6010,6 +6010,10 @@ name = "p2906_construct_product_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p2909_minimum_sum_of_mountain_triplets_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 

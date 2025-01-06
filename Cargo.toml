@@ -1196,6 +1196,7 @@ members = [
     "problems/p2896_apply_operations_to_make_two_strings_equal",
     "problems/p2901_longest_unequal_adjacent_groups_subsequence_ii",
     "problems/p2904_shortest_and_lexicographically_smallest_beautiful_string",
+    "problems/p2909_minimum_sum_of_mountain_triplets_ii",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
     "problems/p2924_find_champion_ii",
     "problems/p2938_separate_black_and_white_balls",
