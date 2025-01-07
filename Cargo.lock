@@ -626,6 +626,10 @@ name = "p0301_remove_invalid_parentheses"
 version = "0.1.0"
 
 [[package]]
+name = "p0321_create_maximum_number"
+version = "0.1.0"
+
+[[package]]
 name = "p0352_datastream_as_disjoint_intervals"
 version = "0.1.0"
 
@@ -6011,6 +6015,10 @@ version = "0.1.0"
 
 [[package]]
 name = "p2909_minimum_sum_of_mountain_triplets_ii"
+version = "0.1.0"
+
+[[package]]
+name = "p2910_minimum_number_of_groups_to_create_a_valid_assignment"
 version = "0.1.0"
 
 [[package]]
