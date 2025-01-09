@@ -5998,6 +5998,10 @@ name = "p2896_apply_operations_to_make_two_strings_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p2899_last_visited_integers"
+version = "0.1.0"
+
+[[package]]
 name = "p2901_longest_unequal_adjacent_groups_subsequence_ii"
 version = "0.1.0"
 
