@@ -1197,6 +1197,7 @@ members = [
     "problems/p2894_divisible_and_non_divisible_sums_difference",
     "problems/p2896_apply_operations_to_make_two_strings_equal",
     "problems/p2899_last_visited_integers",
+    "problems/p2900_longest_unequal_adjacent_groups_subsequence_i",
     "problems/p2901_longest_unequal_adjacent_groups_subsequence_ii",
     "problems/p2904_shortest_and_lexicographically_smallest_beautiful_string",
     "problems/p2909_minimum_sum_of_mountain_triplets_ii",
