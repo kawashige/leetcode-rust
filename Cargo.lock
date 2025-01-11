@@ -630,6 +630,10 @@ name = "p0321_create_maximum_number"
 version = "0.1.0"
 
 [[package]]
+name = "p0327_count_of_range_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p0352_datastream_as_disjoint_intervals"
 version = "0.1.0"
 
