@@ -6034,6 +6034,10 @@ name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
 [[package]]
+name = "p2915_length_of_the_longest_subsequence_that_sums_to_target"
+version = "0.1.0"
+
+[[package]]
 name = "p2924_find_champion_ii"
 version = "0.1.0"
 

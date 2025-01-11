@@ -1,0 +1,8 @@
+[package]
+name = "p2915_length_of_the_longest_subsequence_that_sums_to_target"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
