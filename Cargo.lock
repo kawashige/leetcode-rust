@@ -6042,6 +6042,10 @@ name = "p2915_length_of_the_longest_subsequence_that_sums_to_target"
 version = "0.1.0"
 
 [[package]]
+name = "p2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros"
+version = "0.1.0"
+
+[[package]]
 name = "p2924_find_champion_ii"
 version = "0.1.0"
 
