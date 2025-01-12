@@ -25,6 +25,7 @@ members = [
     "problems/p0301_remove_invalid_parentheses",
     "problems/p0321_create_maximum_number",
     "problems/p0327_count_of_range_sum",
+    "problems/p0335_self_crossing",
     "problems/p0352_datastream_as_disjoint_intervals",
     "problems/p0354_russian_doll_envelopes",
     "problems/p0403_frog_jump",
