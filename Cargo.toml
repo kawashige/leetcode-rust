@@ -29,6 +29,7 @@ members = [
     "problems/p0352_datastream_as_disjoint_intervals",
     "problems/p0354_russian_doll_envelopes",
     "problems/p0403_frog_jump",
+    "problems/p0407_trapping_water_ii",
     "problems/p0410_split_array_largest_sum",
     "problems/p0432_all_o_one_data_structure",
     "problems/p0440_k_th_smallest_in_lexicographical_order",
