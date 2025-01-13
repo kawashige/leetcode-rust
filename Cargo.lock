@@ -6146,6 +6146,10 @@ name = "p3217_delete_nodes_from_linked_list_present_in_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3223_minimum_length_of_string_after_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p3243_shortest_distance_after_road_addition_queries_i"
 version = "0.1.0"
 
