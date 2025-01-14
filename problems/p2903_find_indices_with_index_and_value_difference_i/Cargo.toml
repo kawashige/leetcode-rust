@@ -1,0 +1,8 @@
+[package]
+name = "p2903_find_indices_with_index_and_value_difference_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

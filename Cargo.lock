@@ -6022,6 +6022,10 @@ name = "p2901_longest_unequal_adjacent_groups_subsequence_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2903_find_indices_with_index_and_value_difference_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2904_shortest_and_lexicographically_smallest_beautiful_string"
 version = "0.1.0"
 
