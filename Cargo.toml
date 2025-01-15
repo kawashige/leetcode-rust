@@ -1202,6 +1202,7 @@ members = [
     "problems/p2904_shortest_and_lexicographically_smallest_beautiful_string",
     "problems/p2905_find_indices_with_index_and_value_different_ii",
     "problems/p2906_construct_product_matrix",
+    "problems/p2908_minimum_sum_of_mountain_triplets_i",
     "problems/p2909_minimum_sum_of_mountain_triplets_ii",
     "problems/p2910_minimum_number_of_groups_to_create_a_valid_assignment",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
