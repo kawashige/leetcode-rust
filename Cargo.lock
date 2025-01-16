@@ -6050,6 +6050,10 @@ name = "p2910_minimum_number_of_groups_to_create_a_valid_assignment"
 version = "0.1.0"
 
 [[package]]
+name = "p2913_subarrays_distinct_element_sum_of_squares_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2914_minimum_number_of_changes_to_make_binary_string_beautiful"
 version = "0.1.0"
 
