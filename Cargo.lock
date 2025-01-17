@@ -6062,6 +6062,10 @@ name = "p2915_length_of_the_longest_subsequence_that_sums_to_target"
 version = "0.1.0"
 
 [[package]]
+name = "p2917_find_the_k_or_of_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros"
 version = "0.1.0"
 

@@ -1208,6 +1208,7 @@ members = [
     "problems/p2913_subarrays_distinct_element_sum_of_squares_i",
     "problems/p2914_minimum_number_of_changes_to_make_binary_string_beautiful",
     "problems/p2915_length_of_the_longest_subsequence_that_sums_to_target",
+    "problems/p2917_find_the_k_or_of_an_array",
     "problems/p2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros",
     "problems/p2924_find_champion_ii",
     "problems/p2938_separate_black_and_white_balls",
