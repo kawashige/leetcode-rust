@@ -729,6 +729,10 @@ name = "p0482_license_key_formatting"
 version = "0.1.0"
 
 [[package]]
+name = "p0483_smallest_good_base"
+version = "0.1.0"
+
+[[package]]
 name = "p0485_max_consecutive_ones"
 version = "0.1.0"
 
