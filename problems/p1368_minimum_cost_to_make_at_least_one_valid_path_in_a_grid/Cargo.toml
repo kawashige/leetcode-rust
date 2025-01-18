@@ -1,0 +1,8 @@
+[package]
+name = "p1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

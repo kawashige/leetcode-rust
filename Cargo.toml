@@ -1541,6 +1541,7 @@ members = [
     "problems/p1365_how_many_numbers_are_smaller_than_the_current_number",
     "problems/p1366_rank_team_by_votes",
     "problems/p1367_linked_list_in_binary_tree",
+    "problems/p1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid",
     "problems/p1370_increasing_decreasing_string",
     "problems/p1371_find_the_longest_substring_containing_vowels_in_even_counts",
     "problems/p1372_longest_zigzag_path_in_a_binary_tree",
