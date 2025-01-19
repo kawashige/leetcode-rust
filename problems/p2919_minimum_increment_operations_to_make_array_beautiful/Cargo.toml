@@ -1,0 +1,8 @@
+[package]
+name = "p2919_minimum_increment_operations_to_make_array_beautiful"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

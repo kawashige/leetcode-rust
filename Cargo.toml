@@ -1211,6 +1211,7 @@ members = [
     "problems/p2915_length_of_the_longest_subsequence_that_sums_to_target",
     "problems/p2917_find_the_k_or_of_an_array",
     "problems/p2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros",
+    "problems/p2919_minimum_increment_operations_to_make_array_beautiful",
     "problems/p2924_find_champion_ii",
     "problems/p2938_separate_black_and_white_balls",
     "problems/p2966_divide_array_into_arrays_with_max_difference",

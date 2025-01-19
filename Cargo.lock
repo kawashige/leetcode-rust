@@ -6078,6 +6078,10 @@ name = "p2918_minimum_equal_sum_of_two_arrays_after_replacing_zeros"
 version = "0.1.0"
 
 [[package]]
+name = "p2919_minimum_increment_operations_to_make_array_beautiful"
+version = "0.1.0"
+
+[[package]]
 name = "p2924_find_champion_ii"
 version = "0.1.0"
 
