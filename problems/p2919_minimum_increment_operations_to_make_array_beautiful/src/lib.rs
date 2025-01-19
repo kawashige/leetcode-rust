@@ -12,7 +12,6 @@ impl Solution {
                 dp[i] = dp[i].min((k - nums[i]).max(0) as i64 + dp[j]);
             }
         }
-        println!("{:?}", dp);
         dp.into_iter().rev().take(3).min().unwrap()
     }
 }
