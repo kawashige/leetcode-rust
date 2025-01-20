@@ -682,6 +682,10 @@ name = "p0464_can_i_win"
 version = "0.1.0"
 
 [[package]]
+name = "p0466_count_the_repetitions"
+version = "0.1.0"
+
+[[package]]
 name = "p0467_unique_substrings_in_wraparound_string"
 version = "0.1.0"
 
@@ -6079,6 +6083,10 @@ version = "0.1.0"
 
 [[package]]
 name = "p2919_minimum_increment_operations_to_make_array_beautiful"
+version = "0.1.0"
+
+[[package]]
+name = "p2923_find_champion_i"
 version = "0.1.0"
 
 [[package]]
