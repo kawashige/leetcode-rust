@@ -6094,6 +6094,10 @@ name = "p2924_find_champion_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2925_maximum_score_after_applying_operations_on_a_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p2938_separate_black_and_white_balls"
 version = "0.1.0"
 

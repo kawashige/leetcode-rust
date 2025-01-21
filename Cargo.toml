@@ -1215,6 +1215,7 @@ members = [
     "problems/p2919_minimum_increment_operations_to_make_array_beautiful",
     "problems/p2923_find_champion_i",
     "problems/p2924_find_champion_ii",
+    "problems/p2925_maximum_score_after_applying_operations_on_a_tree",
     "problems/p2938_separate_black_and_white_balls",
     "problems/p2966_divide_array_into_arrays_with_max_difference",
     "problems/p2971_find_polygon_with_the_largest_perimeter",
