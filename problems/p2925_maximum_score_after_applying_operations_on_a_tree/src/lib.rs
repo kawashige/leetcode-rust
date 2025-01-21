@@ -9,7 +9,6 @@ impl Solution {
                 continue;
             }
             let result = Self::recurce(*n, cur, list, values);
-            println!("result: {:?}", result);
             dp += result.0;
             sum += result.1;
         }
