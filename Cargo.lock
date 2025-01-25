@@ -6118,6 +6118,10 @@ name = "p2940_find_building_when_alice_and_bob_can_meet"
 version = "0.1.0"
 
 [[package]]
+name = "p2948_make_lexicographically_smallest_array_by_swapping_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p2958_length_of_longest_subarray_with_at_most_k_frequency"
 version = "0.1.0"
 
