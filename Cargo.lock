@@ -4238,6 +4238,10 @@ name = "p2126_destroying_asteroids"
 version = "0.1.0"
 
 [[package]]
+name = "p2127_maximum_employees_to_be_invited_to_a_meeting"
+version = "0.1.0"
+
+[[package]]
 name = "p2129_capitalize_the_title"
 version = "0.1.0"
 
