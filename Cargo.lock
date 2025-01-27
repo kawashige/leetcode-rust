@@ -6114,6 +6114,10 @@ name = "p2930_number_of_strings_which_can_be_rearranged_to_contain_substring"
 version = "0.1.0"
 
 [[package]]
+name = "p2932_maximum_strong_pair_xor_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2938_separate_black_and_white_balls"
 version = "0.1.0"
 
