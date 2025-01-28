@@ -6118,6 +6118,10 @@ name = "p2932_maximum_strong_pair_xor_i"
 version = "0.1.0"
 
 [[package]]
+name = "p2933_high_access_employees"
+version = "0.1.0"
+
+[[package]]
 name = "p2938_separate_black_and_white_balls"
 version = "0.1.0"
 
