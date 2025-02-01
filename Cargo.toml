@@ -2169,6 +2169,7 @@ members = [
     "problems/p3068_find_the_maximum_sum_of_node_values",
     "problems/p3075_maximize_happiness_of_selected_children",
     "problems/p3110_score_a_string",
+    "problems/p3151_special_array_i",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
