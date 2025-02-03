@@ -1235,6 +1235,7 @@ members = [
     "problems/p3042_count_prefix_and_suffix_pairs_i",
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
+    "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
     "problems/p3133_minimum_array_end",
     "problems/p3152_special_array_ii",
     "problems/p3163_string_compression_iii",

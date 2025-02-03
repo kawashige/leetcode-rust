@@ -6210,6 +6210,10 @@ name = "p3097_shortest_subarray_with_or_at_least_k_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3105_longest_strictly_increasing_or_strictly_decreasing_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "p3110_score_a_string"
 version = "0.1.0"
 
