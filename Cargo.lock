@@ -6146,6 +6146,10 @@ name = "p2940_find_building_when_alice_and_bob_can_meet"
 version = "0.1.0"
 
 [[package]]
+name = "p2942_find_words_containing_character"
+version = "0.1.0"
+
+[[package]]
 name = "p2948_make_lexicographically_smallest_array_by_swapping_elements"
 version = "0.1.0"
 
