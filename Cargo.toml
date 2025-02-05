@@ -1226,6 +1226,7 @@ members = [
     "problems/p2938_separate_black_and_white_balls",
     "problems/p2939_maximum_xor_product",
     "problems/p2942_find_words_containing_character",
+    "problems/p2943_maximum_area_of_square_hole_in_grid",
     "problems/p2948_make_lexicographically_smallest_array_by_swapping_elements",
     "problems/p2966_divide_array_into_arrays_with_max_difference",
     "problems/p2971_find_polygon_with_the_largest_perimeter",
