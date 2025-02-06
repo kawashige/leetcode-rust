@@ -6154,6 +6154,10 @@ name = "p2943_maximum_area_of_square_hole_in_grid"
 version = "0.1.0"
 
 [[package]]
+name = "p2944_minimum_number_of_coins_for_fruits"
+version = "0.1.0"
+
+[[package]]
 name = "p2948_make_lexicographically_smallest_array_by_swapping_elements"
 version = "0.1.0"
 
