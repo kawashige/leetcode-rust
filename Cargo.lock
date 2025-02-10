@@ -6258,6 +6258,10 @@ name = "p3163_string_compression_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p3174_clear_digits"
+version = "0.1.0"
+
+[[package]]
 name = "p3203_find_minimum_diameter_after_merging_two_trees"
 version = "0.1.0"
 
