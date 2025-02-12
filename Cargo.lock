@@ -6158,6 +6158,10 @@ name = "p2944_minimum_number_of_coins_for_fruits"
 version = "0.1.0"
 
 [[package]]
+name = "p2946_matrix_similarity_after_cyclic_shifts"
+version = "0.1.0"
+
+[[package]]
 name = "p2947_count_beautiful_strings_i"
 version = "0.1.0"
 
