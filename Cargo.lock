@@ -6170,6 +6170,10 @@ name = "p2948_make_lexicographically_smallest_array_by_swapping_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p2951_find_the_peaks"
+version = "0.1.0"
+
+[[package]]
 name = "p2952_minimum_number_of_coins_to_be_added"
 version = "0.1.0"
 

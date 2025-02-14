@@ -1231,6 +1231,7 @@ members = [
     "problems/p2946_matrix_similarity_after_cyclic_shifts",
     "problems/p2947_count_beautiful_strings_i",
     "problems/p2948_make_lexicographically_smallest_array_by_swapping_elements",
+    "problems/p2951_find_the_peaks",
     "problems/p2952_minimum_number_of_coins_to_be_added",
     "problems/p2957_remove_adjacent_almost_equal_characters",
     "problems/p2966_divide_array_into_arrays_with_max_difference",
