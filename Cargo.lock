@@ -6198,6 +6198,10 @@ name = "p2966_divide_array_into_arrays_with_max_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p2967_minimum_cost_to_make_array_equalindromic"
+version = "0.1.0"
+
+[[package]]
 name = "p2971_find_polygon_with_the_largest_perimeter"
 version = "0.1.0"
 
