@@ -6178,6 +6178,10 @@ name = "p2952_minimum_number_of_coins_to_be_added"
 version = "0.1.0"
 
 [[package]]
+name = "p2956_find_common_elements_between_two_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2957_remove_adjacent_almost_equal_characters"
 version = "0.1.0"
 
