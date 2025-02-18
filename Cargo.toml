@@ -1235,6 +1235,7 @@ members = [
     "problems/p2952_minimum_number_of_coins_to_be_added",
     "problems/p2956_find_common_elements_between_two_arrays",
     "problems/p2957_remove_adjacent_almost_equal_characters",
+    "problems/p2960_count_tested_devices_after_test_operations",
     "problems/p2961_double_modular_exponentiation",
     "problems/p2966_divide_array_into_arrays_with_max_difference",
     "problems/p2967_minimum_cost_to_make_array_equalindromic",

@@ -1,0 +1,8 @@
+[package]
+name = "p2960_count_tested_devices_after_test_operations"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
