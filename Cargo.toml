@@ -2182,6 +2182,7 @@ members = [
     "problems/p2958_length_of_longest_subarray_with_at_most_k_frequency",
     "problems/p2962_count_subarrays_where_max_element_appears_at_less_than_k_times",
     "problems/p2965_find_missing_and_repeated_values",
+    "problems/p2970_count_the_number_of_incremovable_subarrays_i",
     "problems/p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k",
     "problems/p3005_count_elements_with_maximum_frequency",
     "problems/p3068_find_the_maximum_sum_of_node_values",

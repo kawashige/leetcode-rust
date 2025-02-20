@@ -6214,6 +6214,10 @@ name = "p2967_minimum_cost_to_make_array_equalindromic"
 version = "0.1.0"
 
 [[package]]
+name = "p2970_count_the_number_of_incremovable_subarrays_i"
+version = "0.1.0"
+
+[[package]]
 name = "p2971_find_polygon_with_the_largest_perimeter"
 version = "0.1.0"
 
