@@ -6222,6 +6222,10 @@ name = "p2971_find_polygon_with_the_largest_perimeter"
 version = "0.1.0"
 
 [[package]]
+name = "p2974_minimum_number_game"
+version = "0.1.0"
+
+[[package]]
 name = "p2976_minimum_cost_to_convert_string_i"
 version = "0.1.0"
 
