@@ -358,6 +358,7 @@ members = [
     "problems/p1024_video_stiching",
     "problems/p1025_divisor_game",
     "problems/p1027_longest_arithmetic_subsequence",
+    "problems/p1028_recover_a_tree_from_preorder_traversal",
     "problems/p1029_two_city_scheduling",
     "problems/p1030_matrix_cells_in_distance_order",
     "problems/p1031_maximum_sum_of_two_non_overlapping_subarrays",
