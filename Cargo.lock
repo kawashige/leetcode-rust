@@ -6230,6 +6230,10 @@ name = "p2974_minimum_number_game"
 version = "0.1.0"
 
 [[package]]
+name = "p2975_maximum_square_area_by_removing_fence_from_a_field"
+version = "0.1.0"
+
+[[package]]
 name = "p2976_minimum_cost_to_convert_string_i"
 version = "0.1.0"
 
