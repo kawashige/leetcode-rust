@@ -6242,6 +6242,10 @@ name = "p2981_find_longest_special_substring_that_occurs_thrice_i"
 version = "0.1.0"
 
 [[package]]
+name = "p2982_find_longest_special_substring_that_occurs_thrice_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k"
 version = "0.1.0"
 
