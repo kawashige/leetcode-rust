@@ -6254,6 +6254,10 @@ name = "p2998_minimum_number_of_operations_to_make_x_and_y_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p3001_minimum_moves_to_capture_the_queen"
+version = "0.1.0"
+
+[[package]]
 name = "p3005_count_elements_with_maximum_frequency"
 version = "0.1.0"
 
