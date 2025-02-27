@@ -2190,6 +2190,7 @@ members = [
     "problems/p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k",
     "problems/p2998_minimum_number_of_operations_to_make_x_and_y_equal",
     "problems/p3001_minimum_moves_to_capture_the_queen",
+    "problems/p3002_maximum_size_of_a_set_after_removals",
     "problems/p3005_count_elements_with_maximum_frequency",
     "problems/p3068_find_the_maximum_sum_of_node_values",
     "problems/p3075_maximize_happiness_of_selected_children",
