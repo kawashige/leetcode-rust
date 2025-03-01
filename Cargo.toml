@@ -1244,6 +1244,7 @@ members = [
     "problems/p2971_find_polygon_with_the_largest_perimeter",
     "problems/p2975_maximum_square_area_by_removing_fence_from_a_field",
     "problems/p2976_minimum_cost_to_convert_string_i",
+    "problems/p2980_check_if_bitwise_or_has_trailing_zeros",
     "problems/p2981_find_longest_special_substring_that_occurs_thrice_i",
     "problems/p3011_find_if_array_can_be_sorted",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",

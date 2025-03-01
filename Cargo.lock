@@ -6242,6 +6242,10 @@ name = "p2976_minimum_cost_to_convert_string_i"
 version = "0.1.0"
 
 [[package]]
+name = "p2980_check_if_bitwise_or_has_trailing_zeros"
+version = "0.1.0"
+
+[[package]]
 name = "p2981_find_longest_special_substring_that_occurs_thrice_i"
 version = "0.1.0"
 
