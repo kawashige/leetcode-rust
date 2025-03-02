@@ -1246,6 +1246,7 @@ members = [
     "problems/p2976_minimum_cost_to_convert_string_i",
     "problems/p2980_check_if_bitwise_or_has_trailing_zeros",
     "problems/p2981_find_longest_special_substring_that_occurs_thrice_i",
+    "problems/p2996_smallest_missing_integer_greater_than_sequential_prefix_sum",
     "problems/p3011_find_if_array_can_be_sorted",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",
     "problems/p3042_count_prefix_and_suffix_pairs_i",

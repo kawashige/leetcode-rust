@@ -1,0 +1,8 @@
+[package]
+name = "p2996_smallest_missing_integer_greater_than_sequential_prefix_sum"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
