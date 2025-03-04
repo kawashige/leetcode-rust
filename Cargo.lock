@@ -6266,6 +6266,10 @@ name = "p2998_minimum_number_of_operations_to_make_x_and_y_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p3000_maximum_area_of_longest_diagonal_rectangle"
+version = "0.1.0"
+
+[[package]]
 name = "p3001_minimum_moves_to_capture_the_queen"
 version = "0.1.0"
 
