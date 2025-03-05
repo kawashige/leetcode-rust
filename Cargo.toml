@@ -1249,6 +1249,8 @@ members = [
     "problems/p2996_smallest_missing_integer_greater_than_sequential_prefix_sum",
     "problems/p3000_maximum_area_of_longest_diagonal_rectangle",
     "problems/p3006_find_beautiful_indices_in_the_given_array_i",
+    "problems/p3007_maximum_number_that_sum_of_the_prices_is_less_than_or_equal_to_k",
+    "problems/p3010_divide_an_array_into_subarrays_with_minimum_cost_i",
     "problems/p3011_find_if_array_can_be_sorted",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",
     "problems/p3042_count_prefix_and_suffix_pairs_i",
