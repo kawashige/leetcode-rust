@@ -1,0 +1,8 @@
+[package]
+name = "p3007_maximum_number_that_sum_of_the_prices_is_less_than_or_equal_to_k"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
