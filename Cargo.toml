@@ -1252,6 +1252,7 @@ members = [
     "problems/p3007_maximum_number_that_sum_of_the_prices_is_less_than_or_equal_to_k",
     "problems/p3010_divide_an_array_into_subarrays_with_minimum_cost_i",
     "problems/p3011_find_if_array_can_be_sorted",
+    "problems/p3012_minimize_length_of_array_using_operations",
     "problems/p3014_minimum_number_of_pushes_to_type_word_i",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",
     "problems/p3019_number_of_changing_keys",
