@@ -1256,6 +1256,7 @@ members = [
     "problems/p3014_minimum_number_of_pushes_to_type_word_i",
     "problems/p3016_minimum_number_of_pushes_to_type_word_ii",
     "problems/p3019_number_of_changing_keys",
+    "problems/p3020_find_the_maximum_number_of_elements_in_subset",
     "problems/p3042_count_prefix_and_suffix_pairs_i",
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",

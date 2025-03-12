@@ -6314,6 +6314,10 @@ name = "p3019_number_of_changing_keys"
 version = "0.1.0"
 
 [[package]]
+name = "p3020_find_the_maximum_number_of_elements_in_subset"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 
