@@ -6406,6 +6406,10 @@ name = "p3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3356_zero_array_transformation_ii"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
