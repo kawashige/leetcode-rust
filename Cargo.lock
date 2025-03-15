@@ -6322,6 +6322,10 @@ name = "p3021_alice_and_bob_playing_flower_game"
 version = "0.1.0"
 
 [[package]]
+name = "p3025_find_the_number_of_ways_to_place_people_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 
