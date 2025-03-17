@@ -1258,6 +1258,7 @@ members = [
     "problems/p3019_number_of_changing_keys",
     "problems/p3020_find_the_maximum_number_of_elements_in_subset",
     "problems/p3021_alice_and_bob_playing_flower_game",
+    "problems/p3024_type_of_triangle",
     "problems/p3025_find_the_number_of_ways_to_place_people_i",
     "problems/p3026_maximum_godd_subarray_sum",
     "problems/p3042_count_prefix_and_suffix_pairs_i",
