@@ -6334,6 +6334,10 @@ name = "p3026_maximum_godd_subarray_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p3028_an_on_the_boundary"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 
