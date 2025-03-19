@@ -6394,6 +6394,10 @@ name = "p3174_clear_digits"
 version = "0.1.0"
 
 [[package]]
+name = "p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3203_find_minimum_diameter_after_merging_two_trees"
 version = "0.1.0"
 

@@ -1272,6 +1272,7 @@ members = [
     "problems/p3160_find_the_number_of_distinct_colors_among_the_balls",
     "problems/p3163_string_compression_iii",
     "problems/p3174_clear_digits",
+    "problems/p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i",
     "problems/p3208_alternating_groups_ii",
     "problems/p3217_delete_nodes_from_linked_list_present_in_array",
     "problems/p3223_minimum_length_of_string_after_operations",
