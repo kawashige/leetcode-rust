@@ -1267,6 +1267,7 @@ members = [
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
+    "problems/p3108_minimum_cost_to_walk_in_weighted_graph",
     "problems/p3133_minimum_array_end",
     "problems/p3152_special_array_ii",
     "problems/p3160_find_the_number_of_distinct_colors_among_the_balls",

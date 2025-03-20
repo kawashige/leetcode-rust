@@ -6366,6 +6366,10 @@ name = "p3105_longest_strictly_increasing_or_strictly_decreasing_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p3108_minimum_cost_to_walk_in_weighted_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p3110_score_a_string"
 version = "0.1.0"
 
