@@ -6338,6 +6338,10 @@ name = "p3028_an_on_the_boundary"
 version = "0.1.0"
 
 [[package]]
+name = "p3029_minimum_time_to_revert_word_to_initial_state_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 
