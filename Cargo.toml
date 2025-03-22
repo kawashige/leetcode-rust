@@ -1263,6 +1263,7 @@ members = [
     "problems/p3026_maximum_godd_subarray_sum",
     "problems/p3028_an_on_the_boundary",
     "problems/p3029_minimum_time_to_revert_word_to_initial_state_i",
+    "problems/p3030_find_the_grid_of_region_average",
     "problems/p3042_count_prefix_and_suffix_pairs_i",
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",
