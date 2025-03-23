@@ -6346,6 +6346,10 @@ name = "p3030_find_the_grid_of_region_average"
 version = "0.1.0"
 
 [[package]]
+name = "p3034_number_of_subarrays_that_matches_a_pattern_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 
