@@ -1275,6 +1275,7 @@ members = [
     "problems/p3152_special_array_ii",
     "problems/p3160_find_the_number_of_distinct_colors_among_the_balls",
     "problems/p3163_string_compression_iii",
+    "problems/p3169_count_days_without_meetings",
     "problems/p3174_clear_digits",
     "problems/p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i",
     "problems/p3208_alternating_groups_ii",

@@ -6406,6 +6406,10 @@ name = "p3163_string_compression_iii"
 version = "0.1.0"
 
 [[package]]
+name = "p3169_count_days_without_meetings"
+version = "0.1.0"
+
+[[package]]
 name = "p3174_clear_digits"
 version = "0.1.0"
 
