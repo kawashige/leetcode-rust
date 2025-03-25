@@ -1,0 +1,8 @@
+[package]
+name = "p3394_check_if_grid_can_be_cut_into_sections"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

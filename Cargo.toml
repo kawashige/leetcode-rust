@@ -1286,6 +1286,7 @@ members = [
     "problems/p3264_find_array_state_after_k_multiplication_operations_i",
     "problems/p3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii",
     "problems/p3356_zero_array_transformation_ii",
+    "problems/p3394_check_if_grid_can_be_cut_into_sections",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
