@@ -1266,6 +1266,7 @@ members = [
     "problems/p3030_find_the_grid_of_region_average",
     "problems/p3033_modify_the_matrix",
     "problems/p3034_number_of_subarrays_that_matches_a_pattern_i",
+    "problems/p3035_maximum_palindromes_after_operations",
     "problems/p3042_count_prefix_and_suffix_pairs_i",
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",
