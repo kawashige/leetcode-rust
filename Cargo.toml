@@ -2106,6 +2106,7 @@ members = [
     "problems/p2500_delete_greatest_value_in_each_row",
     "problems/p2501_longest_square_streak_in_an_array",
     "problems/p2502_design_memory_allocator",
+    "problems/p2503_maximum_number_of_points_from_grid_queries",
     "problems/p2506_count_pairs_of_similar_strings",
     "problems/p2507_smallest_value_after_replacing_with_sum_of_prime_factors",
     "problems/p2511_maximum_enemy_forts_that_can_be_captured",
