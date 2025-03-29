@@ -5894,6 +5894,10 @@ name = "p2817_minimum_absolute_difference_between_elements_with_constraint"
 version = "0.1.0"
 
 [[package]]
+name = "p2818_apply_operations_to_maximize_score"
+version = "0.1.0"
+
+[[package]]
 name = "p2824_count_pairs_whose_sum_is_less_than_target"
 version = "0.1.0"
 
