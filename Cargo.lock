@@ -6382,6 +6382,10 @@ name = "p3043_find_the_length_of_the_longest_common_prefix"
 version = "0.1.0"
 
 [[package]]
+name = "p3044_most_frequent_prime"
+version = "0.1.0"
+
+[[package]]
 name = "p3066_minimum_operations_to_exceed_threshold_value_ii"
 version = "0.1.0"
 
