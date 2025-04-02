@@ -6374,6 +6374,10 @@ name = "p3039_apply_operations_to_make_string_empty"
 version = "0.1.0"
 
 [[package]]
+name = "p3040_maximum_number_of_operations_with_the_same_score_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3042_count_prefix_and_suffix_pairs_i"
 version = "0.1.0"
 

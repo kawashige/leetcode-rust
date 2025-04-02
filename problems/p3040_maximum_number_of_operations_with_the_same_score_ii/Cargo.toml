@@ -1,0 +1,8 @@
+[package]
+name = "p3040_maximum_number_of_operations_with_the_same_score_ii"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
