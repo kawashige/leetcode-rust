@@ -6390,6 +6390,10 @@ name = "p3044_most_frequent_prime"
 version = "0.1.0"
 
 [[package]]
+name = "p3046_split_the_array"
+version = "0.1.0"
+
+[[package]]
 name = "p3066_minimum_operations_to_exceed_threshold_value_ii"
 version = "0.1.0"
 
