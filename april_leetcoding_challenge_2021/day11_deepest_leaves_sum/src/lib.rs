@@ -57,25 +57,33 @@ mod test {
 
     #[test]
     fn test_day11() {
-        let mut t1 = TreeNode::new(1);
-        let mut t2 = TreeNode::new(2);
-        let mut t3 = TreeNode::new(3);
-        let mut t4 = TreeNode::new(4);
-        let t5 = TreeNode::new(5);
-        let mut t6 = TreeNode::new(6);
-        let t7 = TreeNode::new(7);
-        let t8 = TreeNode::new(8);
-        t6.right = Some(Rc::new(RefCell::new(t8)));
-        t4.left = Some(Rc::new(RefCell::new(t7)));
-        t3.right = Some(Rc::new(RefCell::new(t6)));
+        let mut t1 = TreeNode::new(3);
+        let mut t2 = TreeNode::new(5);
+        let mut t3 = TreeNode::new(1);
+        let t4 = TreeNode::new(6);
+        let mut t5 = TreeNode::new(2);
+        let t6 = TreeNode::new(0);
+        let t7 = TreeNode::new(8);
+        let t8 = TreeNode::new(7);
+        let t9 = TreeNode::new(4);
+        t5.left = Some(Rc::new(RefCell::new(t8)));
+        t5.right = Some(Rc::new(RefCell::new(t9)));
+        t3.left = Some(Rc::new(RefCell::new(t6)));
+        t3.right = Some(Rc::new(RefCell::new(t7)));
         t2.left = Some(Rc::new(RefCell::new(t4)));
         t2.right = Some(Rc::new(RefCell::new(t5)));
         t1.left = Some(Rc::new(RefCell::new(t2)));
         t1.right = Some(Rc::new(RefCell::new(t3)));
 
+        let mut r1 = TreeNode::new(2);
+        let r2 = TreeNode::new(7);
+        let r3 = TreeNode::new(4);
+        r1.left = Some(Rc::new(RefCell::new(t2)));
+        r1.right = Some(Rc::new(RefCell::new(t3)));
+
         assert_eq!(
             Solution::deepest_leaves_sum(Some(Rc::new(RefCell::new(t1)))),
-            15
+            Some(Rc::new(RefCell::new(r1))),
         );
     }
 }
