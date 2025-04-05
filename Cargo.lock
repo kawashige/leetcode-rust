@@ -6398,6 +6398,10 @@ name = "p3046_split_the_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3047_find_the_largest_area_of_square_inside_two_rectangles"
+version = "0.1.0"
+
+[[package]]
 name = "p3066_minimum_operations_to_exceed_threshold_value_ii"
 version = "0.1.0"
 
