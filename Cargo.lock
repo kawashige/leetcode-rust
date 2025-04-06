@@ -6402,6 +6402,10 @@ name = "p3047_find_the_largest_area_of_square_inside_two_rectangles"
 version = "0.1.0"
 
 [[package]]
+name = "p3048_earliest_second_to_mark_indices_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3066_minimum_operations_to_exceed_threshold_value_ii"
 version = "0.1.0"
 
