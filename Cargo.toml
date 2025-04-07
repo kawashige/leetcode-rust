@@ -1272,6 +1272,7 @@ members = [
     "problems/p3043_find_the_length_of_the_longest_common_prefix",
     "problems/p3047_find_the_largest_area_of_square_inside_two_rectangles",
     "problems/p3048_earliest_second_to_mark_indices_i",
+    "problems/p3065_minimum_operations_to_exceed_threshold_value_i",
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
