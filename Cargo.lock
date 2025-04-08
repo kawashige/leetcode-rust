@@ -6510,6 +6510,10 @@ name = "p3394_check_if_grid_can_be_cut_into_sections"
 version = "0.1.0"
 
 [[package]]
+name = "p3396_minimum_number_of_operations_to_make_elements_in_array_distinct"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -1293,6 +1293,7 @@ members = [
     "problems/p3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii",
     "problems/p3356_zero_array_transformation_ii",
     "problems/p3394_check_if_grid_can_be_cut_into_sections",
+    "problems/p3396_minimum_number_of_operations_to_make_elements_in_array_distinct",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
