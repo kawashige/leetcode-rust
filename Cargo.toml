@@ -2234,6 +2234,7 @@ members = [
     "problems/p3040_maximum_number_of_operations_with_the_same_score_ii",
     "problems/p3044_most_frequent_prime",
     "problems/p3046_split_the_array",
+    "problems/p3067_count_pairs_of_connectable_searvers_in_a_weighted_tree_network",
     "problems/p3068_find_the_maximum_sum_of_node_values",
     "problems/p3075_maximize_happiness_of_selected_children",
     "problems/p3110_score_a_string",

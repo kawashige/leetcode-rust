@@ -6418,6 +6418,10 @@ name = "p3066_minimum_operations_to_exceed_threshold_value_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3067_count_pairs_of_connectable_searvers_in_a_weighted_tree_network"
+version = "0.1.0"
+
+[[package]]
 name = "p3068_find_the_maximum_sum_of_node_values"
 version = "0.1.0"
 
