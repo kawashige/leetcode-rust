@@ -2236,6 +2236,7 @@ members = [
     "problems/p3046_split_the_array",
     "problems/p3067_count_pairs_of_connectable_searvers_in_a_weighted_tree_network",
     "problems/p3068_find_the_maximum_sum_of_node_values",
+    "problems/p3070_count_submatrices_with_top_left_element_and_sum_less_than_k",
     "problems/p3075_maximize_happiness_of_selected_children",
     "problems/p3110_score_a_string",
     "problems/p3151_special_array_i",
