@@ -1,0 +1,8 @@
+[package]
+name = "p3069_distribute_elements_into_two_arrays_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
