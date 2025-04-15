@@ -4382,6 +4382,10 @@ name = "p2178_maximum_split_of_positive_even_integers"
 version = "0.1.0"
 
 [[package]]
+name = "p2179_count_good_triplets_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p2180_count_integers_with_even_digit_sum"
 version = "0.1.0"
 
