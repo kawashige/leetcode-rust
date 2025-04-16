@@ -1,0 +1,8 @@
+[package]
+name = "p3071_minimum_operations_to_write_the_letter_y_on_a_grid"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

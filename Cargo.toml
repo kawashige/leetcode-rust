@@ -1275,6 +1275,7 @@ members = [
     "problems/p3048_earliest_second_to_mark_indices_i",
     "problems/p3065_minimum_operations_to_exceed_threshold_value_i",
     "problems/p3066_minimum_operations_to_exceed_threshold_value_ii",
+    "problems/p3071_minimum_operations_to_write_the_letter_y_on_a_grid",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
     "problems/p3108_minimum_cost_to_walk_in_weighted_graph",
