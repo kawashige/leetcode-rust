@@ -1278,6 +1278,7 @@ members = [
     "problems/p3071_minimum_operations_to_write_the_letter_y_on_a_grid",
     "problems/p3074_apple_redistribution_into_boxes",
     "problems/p3076_shortest_uncommon_substring_in_an_array",
+    "problems/p3079_find_the_sum_of_encrypted_integers",
     "problems/p3080_make_elements_on_array_by_performing_queries",
     "problems/p3081_replace_question_marks_in_string_to_minimize_its_value",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",

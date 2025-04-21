@@ -6454,6 +6454,10 @@ name = "p3076_shortest_uncommon_substring_in_an_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3079_find_the_sum_of_encrypted_integers"
+version = "0.1.0"
+
+[[package]]
 name = "p3080_make_elements_on_array_by_performing_queries"
 version = "0.1.0"
 
