@@ -4778,6 +4778,10 @@ name = "p2337_move_pieces_to_obtain_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2338_count_the_number_of_ideal_arrays"
+version = "0.1.0"
+
+[[package]]
 name = "p2341_maximum_number_of_pairs_in_array"
 version = "0.1.0"
 
