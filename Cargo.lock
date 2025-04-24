@@ -6474,6 +6474,10 @@ name = "p3083_existence_of_a_substring_in_a_string_and_its_reverse"
 version = "0.1.0"
 
 [[package]]
+name = "p3084_count_substrings_starting_and_ending_with_given_character"
+version = "0.1.0"
+
+[[package]]
 name = "p3097_shortest_subarray_with_or_at_least_k_ii"
 version = "0.1.0"
 

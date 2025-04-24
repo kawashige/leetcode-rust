@@ -1282,6 +1282,7 @@ members = [
     "problems/p3080_make_elements_on_array_by_performing_queries",
     "problems/p3081_replace_question_marks_in_string_to_minimize_its_value",
     "problems/p3083_existence_of_a_substring_in_a_string_and_its_reverse",
+    "problems/p3084_count_substrings_starting_and_ending_with_given_character",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
     "problems/p3108_minimum_cost_to_walk_in_weighted_graph",
