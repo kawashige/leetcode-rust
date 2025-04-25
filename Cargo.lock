@@ -6478,6 +6478,10 @@ name = "p3084_count_substrings_starting_and_ending_with_given_character"
 version = "0.1.0"
 
 [[package]]
+name = "p3085_minimum_deletion_to_make_string_k_special"
+version = "0.1.0"
+
+[[package]]
 name = "p3097_shortest_subarray_with_or_at_least_k_ii"
 version = "0.1.0"
 
