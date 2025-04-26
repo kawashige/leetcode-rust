@@ -6482,6 +6482,10 @@ name = "p3085_minimum_deletion_to_make_string_k_special"
 version = "0.1.0"
 
 [[package]]
+name = "p3091_apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3097_shortest_subarray_with_or_at_least_k_ii"
 version = "0.1.0"
 
