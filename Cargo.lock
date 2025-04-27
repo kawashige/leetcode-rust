@@ -6578,6 +6578,10 @@ name = "p3375_minimum_operations_to_make_array_values_equal_to_k"
 version = "0.1.0"
 
 [[package]]
+name = "p3392_count_subarrays_of_length_three_with_a_condition"
+version = "0.1.0"
+
+[[package]]
 name = "p3394_check_if_grid_can_be_cut_into_sections"
 version = "0.1.0"
 
