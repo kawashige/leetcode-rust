@@ -4690,6 +4690,10 @@ name = "p2300_successful_pairs_of_spells_and_potions"
 version = "0.1.0"
 
 [[package]]
+name = "p2302_count_subsrrays_with_score_less_than_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2303_calculate_amount_paid_i_taxes"
 version = "0.1.0"
 
