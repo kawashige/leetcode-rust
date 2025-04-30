@@ -1284,6 +1284,7 @@ members = [
     "problems/p3083_existence_of_a_substring_in_a_string_and_its_reverse",
     "problems/p3084_count_substrings_starting_and_ending_with_given_character",
     "problems/p3085_minimum_deletion_to_make_string_k_special",
+    "problems/p3090_maximum_length_substring_with_two_occurences",
     "problems/p3091_apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k",
     "problems/p3096_minimum_levels_to_gain_more_points",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
