@@ -2011,6 +2011,7 @@ members = [
     "problems/p2068_check_whether_two_strings_are_almost_equivalent",
     "problems/p2069_walking_robot_simulation_ii",
     "problems/p2070_most_beautiful_item_for_each_query",
+    "problems/p2071_maximum_number_of_tasks_yout_can_assign",
     "problems/p2073_time_needed_to_buy_tickets",
     "problems/p2074_reverse_nodes_in_even_length_groups",
     "problems/p2075_decode_the_slanted_ciphertext",
