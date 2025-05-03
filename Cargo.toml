@@ -1286,6 +1286,7 @@ members = [
     "problems/p3085_minimum_deletion_to_make_string_k_special",
     "problems/p3090_maximum_length_substring_with_two_occurences",
     "problems/p3091_apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k",
+    "problems/p3092_most_frequent_ids",
     "problems/p3095_shortest_subarray_with_or_at_least_k_i",
     "problems/p3096_minimum_levels_to_gain_more_points",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",

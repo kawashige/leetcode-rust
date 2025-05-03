@@ -6498,6 +6498,10 @@ name = "p3091_apply_operations_to_make_sum_of_array_greater_than_or_equal_to_k"
 version = "0.1.0"
 
 [[package]]
+name = "p3092_most_frequent_ids"
+version = "0.1.0"
+
+[[package]]
 name = "p3095_shortest_subarray_with_or_at_least_k_i"
 version = "0.1.0"
 
