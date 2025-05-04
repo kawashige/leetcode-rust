@@ -1290,6 +1290,7 @@ members = [
     "problems/p3095_shortest_subarray_with_or_at_least_k_i",
     "problems/p3096_minimum_levels_to_gain_more_points",
     "problems/p3097_shortest_subarray_with_or_at_least_k_ii",
+    "problems/p3100_water_bottles_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
     "problems/p3108_minimum_cost_to_walk_in_weighted_graph",
     "problems/p3133_minimum_array_end",
