@@ -6518,6 +6518,10 @@ name = "p3100_water_bottles_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3101_count_altenating_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p3105_longest_strictly_increasing_or_strictly_decreasing_subarray"
 version = "0.1.0"
 
