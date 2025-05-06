@@ -2260,6 +2260,7 @@ members = [
     "problems/p3070_count_submatrices_with_top_left_element_and_sum_less_than_k",
     "problems/p3075_maximize_happiness_of_selected_children",
     "problems/p3101_count_altenating_subarrays",
+    "problems/p3106_lexicographically_smallest_string_after_operations_with_constraint",
     "problems/p3110_score_a_string",
     "problems/p3151_special_array_i",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
