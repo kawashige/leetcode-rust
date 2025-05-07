@@ -2265,6 +2265,7 @@ members = [
     "problems/p3151_special_array_i",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3272_find_the_count_of_good_integers",
+    "problems/p3341_find_minimum_time_to_reach_last_room_i",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
