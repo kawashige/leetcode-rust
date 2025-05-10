@@ -2249,6 +2249,7 @@ members = [
     "problems/p3001_minimum_moves_to_capture_the_queen",
     "problems/p3002_maximum_size_of_a_set_after_removals",
     "problems/p3005_count_elements_with_maximum_frequency",
+    "problems/p3015_count_the_number_of_houses_at_a_certain_distance_i",
     "problems/p3038_maximum_number_of_operations_with_the_same_score_i",
     "problems/p3039_apply_operations_to_make_string_empty",
     "problems/p3040_maximum_number_of_operations_with_the_same_score_ii",
