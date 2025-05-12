@@ -6522,6 +6522,10 @@ name = "p3097_shortest_subarray_with_or_at_least_k_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3099_harshad_number"
+version = "0.1.0"
+
+[[package]]
 name = "p3100_water_bottles_ii"
 version = "0.1.0"
 
