@@ -1,0 +1,8 @@
+[package]
+name = "p3335_total_characters_in_string_after_transformations_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
