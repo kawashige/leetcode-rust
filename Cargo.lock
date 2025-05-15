@@ -6542,6 +6542,10 @@ name = "p3106_lexicographically_smallest_string_after_operations_with_constraint
 version = "0.1.0"
 
 [[package]]
+name = "p3107_minimum_operations_to_make_median_of_array_equal_to_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3108_minimum_cost_to_walk_in_weighted_graph"
 version = "0.1.0"
 

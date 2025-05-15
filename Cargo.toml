@@ -1294,6 +1294,7 @@ members = [
     "problems/p3099_harshad_number",
     "problems/p3100_water_bottles_ii",
     "problems/p3105_longest_strictly_increasing_or_strictly_decreasing_subarray",
+    "problems/p3107_minimum_operations_to_make_median_of_array_equal_to_k",
     "problems/p3108_minimum_cost_to_walk_in_weighted_graph",
     "problems/p3133_minimum_array_end",
     "problems/p3152_special_array_ii",
