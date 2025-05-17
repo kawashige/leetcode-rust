@@ -1534,6 +1534,7 @@ members = [
     "problems/p1125_smallest_sufficient_team",
     "problems/p1128_number_of_equivalent_domino_pairs",
     "problems/p1129_shortest_path_with_alternating_colors",
+    "problems/p1130_minimum_cost_tree_from_leaf_values",
     "problems/p1138_alphabet_board_path",
     "problems/p1139_largest_1_bordered_square",
     "problems/p1140_stone_game_ii",
