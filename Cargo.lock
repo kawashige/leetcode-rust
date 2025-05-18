@@ -3782,6 +3782,10 @@ name = "p1930_unique_length_3_palindromic_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p1931_painting_a_grid_with_three_different_colors"
+version = "0.1.0"
+
+[[package]]
 name = "p1935_maximum_number_of_words_you_can_type"
 version = "0.1.0"
 
