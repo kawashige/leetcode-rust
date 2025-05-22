@@ -6670,6 +6670,10 @@ name = "p3356_zero_array_transformation_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3362_zero_array_transformation_iii"
+version = "0.1.0"
+
+[[package]]
 name = "p3375_minimum_operations_to_make_array_values_equal_to_k"
 version = "0.1.0"
 
