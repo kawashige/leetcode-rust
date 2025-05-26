@@ -1544,6 +1544,7 @@ members = [
     "problems/p1145_binary_tree_coloring_game",
     "problems/p1154_day_of_the_year",
     "problems/p1155_number_of_dice_rolls_with_target_sum",
+    "problems/p1156_swap_for_longest_repeated_character_substring",
     "problems/p1160_find_words_that_can_be_formed_by_characters",
     "problems/p1161_maximum_level_sum_of_a_binary_tree",
     "problems/p1162_as_far_from_land_as_possible",
