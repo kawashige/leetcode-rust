@@ -1596,6 +1596,7 @@ members = [
     "problems/p1296_divide_array_in_sets_of_k_consevutive_numbers",
     "problems/p1297_maximum_number_of_occurences_of_a_substring",
     "problems/p1299_replace_elements_with_greatest_element_on_right_side",
+    "problems/p1300_sum_of_mutated_array_closest_to_target/",
     "problems/p1304_find_n_unique_integers_sum_up_to_zero",
     "problems/p1309_decrypt_string_from_alphabet_to_integer_mapping",
     "problems/p1310_xor_queries_of_a_subarray",
