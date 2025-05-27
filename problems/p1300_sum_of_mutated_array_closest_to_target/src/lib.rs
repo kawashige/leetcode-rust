@@ -11,10 +11,8 @@ impl Solution {
 
         let mut l = 0;
         let mut r = *arr.last().unwrap();
-        println!("l:{}, r: {}", l, r);
 
         while 3 <= r - l {
-            println!("l:{}, r: {}", l, r);
             let mid1 = l + (r - l) / 3;
             let mid2 = r - (r - l) / 3;
             let diff1 = Self::diff(&arr, mid1, target);
@@ -25,7 +23,6 @@ impl Solution {
                 l = mid1;
             }
         }
-        println!("l:{}, r: {}", l, r);
 
         (l..=r)
             .min_by_key(|x| Self::diff(&arr, *x, target))
