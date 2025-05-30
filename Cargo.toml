@@ -1299,6 +1299,7 @@ members = [
     "problems/p3111_minimum_number_of_rectangles_to_cover_points",
     "problems/p3114_latest_time_you_can_obtain_after_replacing_characters",
     "problems/p3133_minimum_array_end",
+    "problems/p3136_valid_word",
     "problems/p3152_special_array_ii",
     "problems/p3160_find_the_number_of_distinct_colors_among_the_balls",
     "problems/p3163_string_compression_iii",
