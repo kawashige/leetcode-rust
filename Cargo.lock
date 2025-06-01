@@ -6582,6 +6582,10 @@ name = "p3111_minimum_number_of_rectangles_to_cover_points"
 version = "0.1.0"
 
 [[package]]
+name = "p3112_minimum_time_to_visit_disappearing_nodes"
+version = "0.1.0"
+
+[[package]]
 name = "p3114_latest_time_you_can_obtain_after_replacing_characters"
 version = "0.1.0"
 
