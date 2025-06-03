@@ -2390,6 +2390,10 @@ name = "p1297_maximum_number_of_occurences_of_a_substring"
 version = "0.1.0"
 
 [[package]]
+name = "p1298_maximum_candies_you_can_get_from_boxes"
+version = "0.1.0"
+
+[[package]]
 name = "p1299_replace_elements_with_greatest_element_on_right_side"
 version = "0.1.0"
 
