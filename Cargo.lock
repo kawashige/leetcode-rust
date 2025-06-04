@@ -6738,6 +6738,10 @@ name = "p3396_minimum_number_of_operations_to_make_elements_in_array_distinct"
 version = "0.1.0"
 
 [[package]]
+name = "p3403_find_the_lexicographically_largest_string_from_the_box_i"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

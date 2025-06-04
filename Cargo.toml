@@ -2293,6 +2293,7 @@ members = [
     "problems/p3342_find_minimum_time_to_reach_last_room_ii",
     "problems/p3343_count_number_of_balanced_permutations",
     "problems/p3362_zero_array_transformation_iii",
+    "problems/p3403_find_the_lexicographically_largest_string_from_the_box_i",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
