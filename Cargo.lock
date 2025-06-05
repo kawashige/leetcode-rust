@@ -6594,6 +6594,10 @@ name = "p3114_latest_time_you_can_obtain_after_replacing_characters"
 version = "0.1.0"
 
 [[package]]
+name = "p3115_minimum_prime_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p3120_count_the_number_of_special_chatacters_i"
 version = "0.1.0"
 

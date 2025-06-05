@@ -2281,6 +2281,7 @@ members = [
     "problems/p3106_lexicographically_smallest_string_after_operations_with_constraint",
     "problems/p3110_score_a_string",
     "problems/p3112_minimum_time_to_visit_disappearing_nodes",
+    "problems/p3115_minimum_prime_difference",
     "problems/p3120_count_the_number_of_special_chatacters_i",
     "problems/p3127_make_a_square_with_the_same_color",
     "problems/p3131_fid_the_integer_added_to_array_i",
