@@ -6602,6 +6602,10 @@ name = "p3120_count_the_number_of_special_chatacters_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3121_count_the_number_of_special_characters_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3122_minimum_number_of_operations_to_satisfy_conditions"
 version = "0.1.0"
 
