@@ -2286,6 +2286,7 @@ members = [
     "problems/p3121_count_the_number_of_special_characters_ii",
     "problems/p3122_minimum_number_of_operations_to_satisfy_conditions",
     "problems/p3127_make_a_square_with_the_same_color",
+    "problems/p3128_right_triangles",
     "problems/p3131_fid_the_integer_added_to_array_i",
     "problems/p3142_check_if_grid_satisties_conditions",
     "problems/p3146_permutation_difference_between_two_strings",
