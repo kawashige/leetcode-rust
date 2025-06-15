@@ -6618,6 +6618,10 @@ name = "p3128_right_triangles"
 version = "0.1.0"
 
 [[package]]
+name = "p3129_find_all_possible_stable_binary_arrays_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3131_fid_the_integer_added_to_array_i"
 version = "0.1.0"
 
