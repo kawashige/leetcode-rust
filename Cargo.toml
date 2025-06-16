@@ -2293,6 +2293,7 @@ members = [
     "problems/p3146_permutation_difference_between_two_strings",
     "problems/p3151_special_array_i",
     "problems/p3158_find_the_xor_numbers_which_appear_twice",
+    "problems/p3162_find_the_number_of_good_pairs_i",
     "problems/p3170_laxicographically_minimum_string_after_removing_stars",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3272_find_the_count_of_good_integers",
