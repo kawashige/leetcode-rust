@@ -6778,6 +6778,10 @@ name = "p3403_find_the_lexicographically_largest_string_from_the_box_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array"
 version = "0.1.0"
 

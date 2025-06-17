@@ -1,0 +1,8 @@
+[package]
+name = "p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
