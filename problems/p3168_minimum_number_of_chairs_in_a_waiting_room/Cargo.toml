@@ -1,0 +1,8 @@
+[package]
+name = "p3168_minimum_number_of_chairs_in_a_waiting_room"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
