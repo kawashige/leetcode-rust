@@ -1,0 +1,8 @@
+[package]
+name = "p3178_find_the_child_who_has_the_ball_after_k_seconds"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
