@@ -6798,6 +6798,10 @@ name = "p3442_maximum_difference_between_even_and_odd_frequency_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3443_maximum_manhattan_distance_after_k_changes"
+version = "0.1.0"
+
+[[package]]
 name = "p3445_maximum_difference_between_even_and_odd_frequency_ii"
 version = "0.1.0"
 
