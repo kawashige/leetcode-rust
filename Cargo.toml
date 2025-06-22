@@ -2290,6 +2290,7 @@ members = [
     "problems/p3129_find_all_possible_stable_binary_arrays_i",
     "problems/p3131_fid_the_integer_added_to_array_i",
     "problems/p3132_find_the_integer_added_to_array_ii",
+    "problems/p3137_minimum_number_of_operations_to_make_word_k_periodic",
     "problems/p3142_check_if_grid_satisties_conditions",
     "problems/p3146_permutation_difference_between_two_strings",
     "problems/p3151_special_array_i",
