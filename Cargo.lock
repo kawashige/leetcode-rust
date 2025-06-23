@@ -4170,6 +4170,10 @@ name = "p2080_range_frequency_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p2081_sum_of_k_mirror_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "p2085_count_common_words_with_one_occurence"
 version = "0.1.0"
 
