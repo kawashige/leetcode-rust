@@ -6698,6 +6698,10 @@ name = "p3178_find_the_child_who_has_the_ball_after_k_seconds"
 version = "0.1.0"
 
 [[package]]
+name = "p3184_count_pairs_that_form_a_complete_day_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i"
 version = "0.1.0"
 
