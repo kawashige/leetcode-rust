@@ -1,0 +1,8 @@
+[package]
+name = "p3190_find_minimum_operations_to_make__all_elements_divisible_by_three"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
