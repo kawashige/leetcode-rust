@@ -4002,6 +4002,10 @@ name = "p2013_detect_squares"
 version = "0.1.0"
 
 [[package]]
+name = "p2014_longest_subsequence_repeated_k_times"
+version = "0.1.0"
+
+[[package]]
 name = "p2016_maximum_difference_between_elements"
 version = "0.1.0"
 
