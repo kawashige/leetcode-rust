@@ -6654,6 +6654,10 @@ name = "p3137_minimum_number_of_operations_to_make_word_k_periodic"
 version = "0.1.0"
 
 [[package]]
+name = "p3138_minimum_length_of_anagram_concatenation"
+version = "0.1.0"
+
+[[package]]
 name = "p3142_check_if_grid_satisties_conditions"
 version = "0.1.0"
 
