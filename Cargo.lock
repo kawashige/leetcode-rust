@@ -6662,6 +6662,10 @@ name = "p3142_check_if_grid_satisties_conditions"
 version = "0.1.0"
 
 [[package]]
+name = "p3143_maximum_points_inside_the_square"
+version = "0.1.0"
+
+[[package]]
 name = "p3146_permutation_difference_between_two_strings"
 version = "0.1.0"
 

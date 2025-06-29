@@ -2298,6 +2298,7 @@ members = [
     "problems/p3137_minimum_number_of_operations_to_make_word_k_periodic",
     "problems/p3138_minimum_length_of_anagram_concatenation",
     "problems/p3142_check_if_grid_satisties_conditions",
+    "problems/p3143_maximum_points_inside_the_square",
     "problems/p3146_permutation_difference_between_two_strings",
     "problems/p3151_special_array_i",
     "problems/p3158_find_the_xor_numbers_which_appear_twice",
