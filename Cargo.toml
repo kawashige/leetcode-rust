@@ -2306,6 +2306,7 @@ members = [
     "problems/p3168_minimum_number_of_chairs_in_a_waiting_room",
     "problems/p3170_laxicographically_minimum_string_after_removing_stars",
     "problems/p3178_find_the_child_who_has_the_ball_after_k_seconds",
+    "problems/p3194_minimum_average_of_smallest_and_largest_elements",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3272_find_the_count_of_good_integers",
     "problems/p3355_zero_array_transformation_i",
