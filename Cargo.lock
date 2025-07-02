@@ -6770,6 +6770,10 @@ name = "p3330_find_the_original_typed_string_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3333_find_the_original_typed_string_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3335_total_characters_in_string_after_transformations_i"
 version = "0.1.0"
 
