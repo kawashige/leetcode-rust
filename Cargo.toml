@@ -2309,6 +2309,7 @@ members = [
     "problems/p3194_minimum_average_of_smallest_and_largest_elements",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3272_find_the_count_of_good_integers",
+    "problems/p3304_find_the_k_th_character_in_string_game_i",
     "problems/p3330_find_the_original_typed_string_i",
     "problems/p3333_find_the_original_typed_string_ii",
     "problems/p3355_zero_array_transformation_i",
