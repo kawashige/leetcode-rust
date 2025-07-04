@@ -6770,6 +6770,10 @@ name = "p3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3307_find_th_k_th_character_in_string_game_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3330_find_the_original_typed_string_i"
 version = "0.1.0"
 
