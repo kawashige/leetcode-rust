@@ -6674,6 +6674,10 @@ name = "p3146_permutation_difference_between_two_strings"
 version = "0.1.0"
 
 [[package]]
+name = "p3147_taking_maximum_eneregy_from_the_mystic_dungeon"
+version = "0.1.0"
+
+[[package]]
 name = "p3151_special_array_i"
 version = "0.1.0"
 
