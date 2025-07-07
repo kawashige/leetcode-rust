@@ -6738,6 +6738,10 @@ name = "p3194_minimum_average_of_smallest_and_largest_elements"
 version = "0.1.0"
 
 [[package]]
+name = "p3200_maximum_height_of_a_triangle"
+version = "0.1.0"
+
+[[package]]
 name = "p3203_find_minimum_diameter_after_merging_two_trees"
 version = "0.1.0"
 
