@@ -6678,6 +6678,10 @@ name = "p3147_taking_maximum_eneregy_from_the_mystic_dungeon"
 version = "0.1.0"
 
 [[package]]
+name = "p3148_maximum_difference_score_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p3151_special_array_i"
 version = "0.1.0"
 

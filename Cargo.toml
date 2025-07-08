@@ -2302,6 +2302,7 @@ members = [
     "problems/p3144_minimum_substring_partition_of_equal_character_frequency",
     "problems/p3146_permutation_difference_between_two_strings",
     "problems/p3147_taking_maximum_eneregy_from_the_mystic_dungeon",
+    "problems/p3148_maximum_difference_score_in_a_grid",
     "problems/p3151_special_array_i",
     "problems/p3158_find_the_xor_numbers_which_appear_twice",
     "problems/p3162_find_the_number_of_good_pairs_i",
