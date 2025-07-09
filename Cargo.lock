@@ -6866,6 +6866,10 @@ name = "p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3439_reschedule_meetings_for_maximum_free_time_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3442_maximum_difference_between_even_and_odd_frequency_i"
 version = "0.1.0"
 

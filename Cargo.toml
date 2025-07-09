@@ -2325,6 +2325,7 @@ members = [
     "problems/p3403_find_the_lexicographically_largest_string_from_the_box_i",
     "problems/p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements",
     "problems/p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array",
+    "problems/p3439_reschedule_meetings_for_maximum_free_time_i",
     "problems/p3442_maximum_difference_between_even_and_odd_frequency_i",
     "problems/p3443_maximum_manhattan_distance_after_k_changes",
     "problems/p3445_maximum_difference_between_even_and_odd_frequency_ii",
