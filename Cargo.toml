@@ -784,6 +784,7 @@ members = [
     "problems/p1897_redistrubute_characters_to_make_all_strings_equal",
     "problems/p1898_maximum_number_of_removable_characters",
     "problems/p1899_merge_triplets_to_from_target_triplet",
+    "problems/p1900_the_earliest_and_latest_rounds_where_players_compete",
     "problems/p1901_find_a_peak_element_ii",
     "problems/p1903_largest_odd_number_in_string",
     "problems/p1904_the_number_of_full_rounds_you_have_played",
