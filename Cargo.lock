@@ -6694,6 +6694,10 @@ name = "p3152_special_array_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3153_sum_of_digit_differences_of_all_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "p3158_find_the_xor_numbers_which_appear_twice"
 version = "0.1.0"
 
