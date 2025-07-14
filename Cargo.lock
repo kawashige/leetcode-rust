@@ -6766,6 +6766,10 @@ name = "p3208_alternating_groups_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3210_find_the_encrypted_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3217_delete_nodes_from_linked_list_present_in_array"
 version = "0.1.0"
 
