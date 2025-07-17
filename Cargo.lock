@@ -6758,6 +6758,10 @@ name = "p3201_find_the_maximum_length_of_vaiid_subsequences_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3202_find_the_maximum_length_of_valid_subsequence_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3203_find_minimum_diameter_after_merging_two_trees"
 version = "0.1.0"
 
