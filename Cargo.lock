@@ -4398,6 +4398,10 @@ name = "p2162_minimum_cost_to_set_cooking_time"
 version = "0.1.0"
 
 [[package]]
+name = "p2163_maximum_difference_in_sums_after_removal_of_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p2164_sort_even_and_odd_indices_independently"
 version = "0.1.0"
 

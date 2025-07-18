@@ -944,6 +944,7 @@ members = [
     "problems/p2160_minimum_sum_of_four_degit_number_after_splitting_digits",
     "problems/p2161_partition_array_according_to_given_pivot",
     "problems/p2162_minimum_cost_to_set_cooking_time",
+    "problems/p2163_maximum_difference_in_sums_after_removal_of_elements",
     "problems/p2164_sort_even_and_odd_indices_independently",
     "problems/p2165_smallest_value_of_the_rearranged_number",
     "problems/p2166_design_bitset",
