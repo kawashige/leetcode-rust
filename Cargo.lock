@@ -6706,6 +6706,10 @@ name = "p3158_find_the_xor_numbers_which_appear_twice"
 version = "0.1.0"
 
 [[package]]
+name = "p3159_find_occurrences_of_an_element_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p3160_find_the_number_of_distinct_colors_among_the_balls"
 version = "0.1.0"
 
