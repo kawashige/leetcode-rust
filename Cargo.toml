@@ -2315,6 +2315,7 @@ members = [
     "problems/p3151_special_array_i",
     "problems/p3158_find_the_xor_numbers_which_appear_twice",
     "problems/p3162_find_the_number_of_good_pairs_i",
+    "problems/p3164_find_the_number_of_good_pairs_ii",
     "problems/p3168_minimum_number_of_chairs_in_a_waiting_room",
     "problems/p3170_laxicographically_minimum_string_after_removing_stars",
     "problems/p3178_find_the_child_who_has_the_ball_after_k_seconds",
