@@ -2324,6 +2324,7 @@ members = [
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3206_alternating_goups_i",
     "problems/p3222_find_the_winning_player_in_coin_game",
+    "problems/p3226_number_of_bit_changed_to_make_two_integers_equal",
     "problems/p3272_find_the_count_of_good_integers",
     "problems/p3304_find_the_k_th_character_in_string_game_i",
     "problems/p3307_find_th_k_th_character_in_string_game_ii",

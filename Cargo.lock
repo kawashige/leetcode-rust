@@ -6810,6 +6810,10 @@ name = "p3223_minimum_length_of_string_after_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p3226_number_of_bit_changed_to_make_two_integers_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p3243_shortest_distance_after_road_addition_queries_i"
 version = "0.1.0"
 
