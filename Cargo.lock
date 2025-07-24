@@ -4802,6 +4802,10 @@ name = "p2320_count_number_of_ways_to_place_houses"
 version = "0.1.0"
 
 [[package]]
+name = "p2322_minimum_acore_after_removals_on_a_tree"
+version = "0.1.0"
+
+[[package]]
 name = "p2325_decode_the_message"
 version = "0.1.0"
 
