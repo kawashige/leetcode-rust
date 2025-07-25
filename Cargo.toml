@@ -2344,6 +2344,7 @@ members = [
     "problems/p3442_maximum_difference_between_even_and_odd_frequency_i",
     "problems/p3443_maximum_manhattan_distance_after_k_changes",
     "problems/p3445_maximum_difference_between_even_and_odd_frequency_ii",
+    "problems/p3487_maximum_unique_subarray_sum_after_delettion",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
