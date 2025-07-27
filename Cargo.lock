@@ -6750,6 +6750,10 @@ name = "p3174_clear_digits"
 version = "0.1.0"
 
 [[package]]
+name = "p3175_find_the_first_player_to_win_k_games_in_a_row"
+version = "0.1.0"
+
+[[package]]
 name = "p3178_find_the_child_who_has_the_ball_after_k_seconds"
 version = "0.1.0"
 
@@ -6939,6 +6943,10 @@ version = "0.1.0"
 
 [[package]]
 name = "p3445_maximum_difference_between_even_and_odd_frequency_ii"
+version = "0.1.0"
+
+[[package]]
+name = "p3480_maximum_subarrays_after_removing_one_conflicting_pair"
 version = "0.1.0"
 
 [[package]]
