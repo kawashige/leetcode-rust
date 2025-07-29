@@ -6826,6 +6826,10 @@ name = "p3232_find_if_digit_game_can_be_won"
 version = "0.1.0"
 
 [[package]]
+name = "p3238_find_the_number_of_winning_players"
+version = "0.1.0"
+
+[[package]]
 name = "p3243_shortest_distance_after_road_addition_queries_i"
 version = "0.1.0"
 
