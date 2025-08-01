@@ -1,0 +1,8 @@
+[package]
+name = "p3258_count_substrings_that_satisfy_k_constraint_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
