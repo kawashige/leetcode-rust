@@ -5442,6 +5442,10 @@ name = "p2560_house_robber_iv"
 version = "0.1.0"
 
 [[package]]
+name = "p2561_rearranging_fruits"
+version = "0.1.0"
+
+[[package]]
 name = "p2562_find_the_array_concatenation_value"
 version = "0.1.0"
 

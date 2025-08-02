@@ -1104,6 +1104,7 @@ members = [
     "problems/p2492_minimum_score_of_a_path_between_two_cities",
     "problems/p2542_maximum_subsequence_score",
     "problems/p2551_put_marbles_in_bags",
+    "problems/p2561_rearranging_fruits",
     "problems/p2610_couvert_an_array_into_a_2d_array_with_conditions",
     "problems/p2614_prime_in_diagonal",
     "problems/p2615_sum_of_distances",
