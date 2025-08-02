@@ -8,10 +8,6 @@ impl Solution {
         let mut basket2 = basket2;
         basket1.sort_unstable();
         basket2.sort_unstable();
-
-        println!("basket1: {:?}", basket1);
-        println!("basket2: {:?}", basket2);
-
         let mut i = 0;
         let mut j = 0;
         let mut swap1 = VecDeque::new();
