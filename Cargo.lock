@@ -4258,6 +4258,10 @@ name = "p2105_watering_plants_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p2106_maximum_fruits_harvested_after_at_most_k_steps"
+version = "0.1.0"
+
+[[package]]
 name = "p2108_find_first_palindromic_string_in_the_array"
 version = "0.1.0"
 
