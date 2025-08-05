@@ -6978,6 +6978,10 @@ name = "p3445_maximum_difference_between_even_and_odd_frequency_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3477_fruits_into_baskets_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3480_maximum_subarrays_after_removing_one_conflicting_pair"
 version = "0.1.0"
 
