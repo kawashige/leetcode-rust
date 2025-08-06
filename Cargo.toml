@@ -2354,6 +2354,7 @@ members = [
     "problems/p3443_maximum_manhattan_distance_after_k_changes",
     "problems/p3445_maximum_difference_between_even_and_odd_frequency_ii",
     "problems/p3477_fruits_into_baskets_ii",
+    "problems/p3479_fruits_into_baskets_iii",
     "problems/p3480_maximum_subarrays_after_removing_one_conflicting_pair",
     "problems/p3487_maximum_unique_subarray_sum_after_delettion",
     "august_leetcoding_challenge",
