@@ -1,0 +1,8 @@
+[package]
+name = "p3363_find_the_maximum_number_of_fruits_collected"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
