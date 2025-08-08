@@ -6870,6 +6870,10 @@ name = "p3272_find_the_count_of_good_integers"
 version = "0.1.0"
 
 [[package]]
+name = "p3274_check_if_two_chessboard_squares_have_the_same_color"
+version = "0.1.0"
+
+[[package]]
 name = "p3304_find_the_k_th_character_in_string_game_i"
 version = "0.1.0"
 
