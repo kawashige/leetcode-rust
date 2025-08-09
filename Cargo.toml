@@ -2322,6 +2322,7 @@ members = [
     "problems/p3168_minimum_number_of_chairs_in_a_waiting_room",
     "problems/p3170_laxicographically_minimum_string_after_removing_stars",
     "problems/p3175_find_the_first_player_to_win_k_games_in_a_row",
+    "problems/p3176_find_the_maximum_length_of_a_good_subsequnce_i",
     "problems/p3178_find_the_child_who_has_the_ball_after_k_seconds",
     "problems/p3194_minimum_average_of_smallest_and_largest_elements",
     "problems/p3200_maximum_height_of_a_triangle",

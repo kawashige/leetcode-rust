@@ -6762,6 +6762,10 @@ name = "p3175_find_the_first_player_to_win_k_games_in_a_row"
 version = "0.1.0"
 
 [[package]]
+name = "p3176_find_the_maximum_length_of_a_good_subsequnce_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3178_find_the_child_who_has_the_ball_after_k_seconds"
 version = "0.1.0"
 
