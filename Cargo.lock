@@ -6774,6 +6774,10 @@ name = "p3179_find_the_n_th_value_after_k_seconds"
 version = "0.1.0"
 
 [[package]]
+name = "p3180_maximum_total_reward_using_operations_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3184_count_pairs_that_form_a_complete_day_i"
 version = "0.1.0"
 
