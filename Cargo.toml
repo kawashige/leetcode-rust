@@ -1327,6 +1327,7 @@ members = [
     "problems/p3243_shortest_distance_after_road_addition_queries_i",
     "problems/p3254_find_the_power_of_k_size_subarrays_i",
     "problems/p3264_find_array_state_after_k_multiplication_operations_i",
+    "problems/p3280_convert_date_to_binary",
     "problems/p3306_count_of_substrings_containing_every_vowel_and_k_consonants_ii",
     "problems/p3335_total_characters_in_string_after_transformations_i",
     "problems/p3337_total_characterss_in_string_after_transformations_ii",
