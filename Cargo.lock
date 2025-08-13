@@ -6890,6 +6890,10 @@ name = "p3280_convert_date_to_binary"
 version = "0.1.0"
 
 [[package]]
+name = "p3285_find_indices_of_stable_mountains"
+version = "0.1.0"
+
+[[package]]
 name = "p3304_find_the_k_th_character_in_string_game_i"
 version = "0.1.0"
 
