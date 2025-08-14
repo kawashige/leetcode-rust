@@ -1315,6 +1315,7 @@ members = [
     "problems/p3179_find_the_n_th_value_after_k_seconds",
     "problems/p3180_maximum_total_reward_using_operations_i",
     "problems/p3184_count_pairs_that_form_a_complete_day_i",
+    "problems/p3185_count_pairs_from_a_complete_day_ii",
     "problems/p3190_find_minimum_operations_to_make__all_elements_divisible_by_three",
     "problems/p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i",
     "problems/p3201_find_the_maximum_length_of_vaiid_subsequences_i",

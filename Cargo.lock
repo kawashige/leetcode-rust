@@ -6782,6 +6782,10 @@ name = "p3184_count_pairs_that_form_a_complete_day_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3185_count_pairs_from_a_complete_day_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3190_find_minimum_operations_to_make__all_elements_divisible_by_three"
 version = "0.1.0"
 
