@@ -1319,6 +1319,7 @@ members = [
     "problems/p3186_maximum_total_damage_with_spell_casting",
     "problems/p3190_find_minimum_operations_to_make__all_elements_divisible_by_three",
     "problems/p3191_minimum_operations_to_make_binary_array_elements_equal_to_one_i",
+    "problems/p3192_maximum_operations_to_make_binary_array_elements_equal_to_one_ii",
     "problems/p3201_find_the_maximum_length_of_vaiid_subsequences_i",
     "problems/p3202_find_the_maximum_length_of_valid_subsequence_ii",
     "problems/p3208_alternating_groups_ii",
