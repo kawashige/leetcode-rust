@@ -1150,6 +1150,10 @@ name = "p0678_valid_parenthesis_string"
 version = "0.1.0"
 
 [[package]]
+name = "p0679_24_game"
+version = "0.1.0"
+
+[[package]]
 name = "p0680_valid_palindrome_ii"
 version = "0.1.0"
 
