@@ -6814,6 +6814,10 @@ name = "p3195_find_the_maximum_area_to_cover_all_ones_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3196_maximize_total_cost_of_altenating_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p3197_find_the_maximum_area_to_cover_all_ones_ii"
 version = "0.1.0"
 
