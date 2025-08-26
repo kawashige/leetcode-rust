@@ -2361,6 +2361,7 @@ members = [
     "problems/p3341_find_minimum_time_to_reach_last_room_i",
     "problems/p3342_find_minimum_time_to_reach_last_room_ii",
     "problems/p3343_count_number_of_balanced_permutations",
+    "problems/p3345_smallest_divisible_digit_product_i",
     "problems/p3355_zero_array_transformation_i",
     "problems/p3362_zero_array_transformation_iii",
     "problems/p3363_find_the_maximum_number_of_fruits_collected",

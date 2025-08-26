@@ -6982,6 +6982,10 @@ name = "p3343_count_number_of_balanced_permutations"
 version = "0.1.0"
 
 [[package]]
+name = "p3345_smallest_divisible_digit_product_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3355_zero_array_transformation_i"
 version = "0.1.0"
 
