@@ -2373,6 +2373,7 @@ members = [
     "problems/p3442_maximum_difference_between_even_and_odd_frequency_i",
     "problems/p3443_maximum_manhattan_distance_after_k_changes",
     "problems/p3445_maximum_difference_between_even_and_odd_frequency_ii",
+    "problems/p3446_sort_matrix_by_diagonals",
     "problems/p3459_length_of_longest_v_shaped_diagonal_segment",
     "problems/p3477_fruits_into_baskets_ii",
     "problems/p3479_fruits_into_baskets_iii",
