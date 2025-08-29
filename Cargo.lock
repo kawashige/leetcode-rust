@@ -7062,6 +7062,10 @@ name = "p3446_sort_matrix_by_diagonals"
 version = "0.1.0"
 
 [[package]]
+name = "p3449_adjacent_increasing_subarrays_detection_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3459_length_of_longest_v_shaped_diagonal_segment"
 version = "0.1.0"
 
