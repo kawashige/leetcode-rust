@@ -2343,6 +2343,7 @@ members = [
     "problems/p3200_maximum_height_of_a_triangle",
     "problems/p3203_find_minimum_diameter_after_merging_two_trees",
     "problems/p3206_alternating_goups_i",
+    "problems/p3207_maximum_points_after_enemy_battles",
     "problems/p3222_find_the_winning_player_in_coin_game",
     "problems/p3226_number_of_bit_changed_to_make_two_integers_equal",
     "problems/p3232_find_if_digit_game_can_be_won",

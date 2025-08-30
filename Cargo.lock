@@ -6842,6 +6842,10 @@ name = "p3206_alternating_goups_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3207_maximum_points_after_enemy_battles"
+version = "0.1.0"
+
+[[package]]
 name = "p3208_alternating_groups_ii"
 version = "0.1.0"
 
