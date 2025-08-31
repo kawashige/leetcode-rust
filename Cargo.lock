@@ -6854,6 +6854,10 @@ name = "p3210_find_the_encrypted_string"
 version = "0.1.0"
 
 [[package]]
+name = "p3211_generate_binary_strings_without_adjacent_zeror"
+version = "0.1.0"
+
+[[package]]
 name = "p3216_lexicographically_smallest_string_after_a_swap"
 version = "0.1.0"
 
