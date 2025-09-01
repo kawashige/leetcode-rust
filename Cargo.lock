@@ -6994,6 +6994,10 @@ name = "p3345_smallest_divisible_digit_product_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3354_make_array_elements_equal_to_zero"
+version = "0.1.0"
+
+[[package]]
 name = "p3355_zero_array_transformation_i"
 version = "0.1.0"
 
