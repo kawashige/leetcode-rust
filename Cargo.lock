@@ -7006,6 +7006,10 @@ name = "p3356_zero_array_transformation_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3360_stone_removal_game"
+version = "0.1.0"
+
+[[package]]
 name = "p3362_zero_array_transformation_iii"
 version = "0.1.0"
 
