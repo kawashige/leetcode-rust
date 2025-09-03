@@ -6442,6 +6442,10 @@ name = "p3026_maximum_godd_subarray_sum"
 version = "0.1.0"
 
 [[package]]
+name = "p3027_find_the_number_of_ways_to_place_people_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3028_an_on_the_boundary"
 version = "0.1.0"
 
