@@ -7022,6 +7022,10 @@ name = "p3363_find_the_maximum_number_of_fruits_collected"
 version = "0.1.0"
 
 [[package]]
+name = "p3364_minimum_positive_sum_subarray"
+version = "0.1.0"
+
+[[package]]
 name = "p3372_maximize_the_target_nodes_after_connecting_trees_i"
 version = "0.1.0"
 
