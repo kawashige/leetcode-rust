@@ -2386,6 +2386,7 @@ members = [
     "problems/p3479_fruits_into_baskets_iii",
     "problems/p3480_maximum_subarrays_after_removing_one_conflicting_pair",
     "problems/p3487_maximum_unique_subarray_sum_after_delettion",
+    "problems/p3495_minimum_operations_to_make_array_elements_zero",
     "problems/p3516_find_closest_person",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
