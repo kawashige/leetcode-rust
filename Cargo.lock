@@ -6862,6 +6862,10 @@ name = "p3211_generate_binary_strings_without_adjacent_zeror"
 version = "0.1.0"
 
 [[package]]
+name = "p3212_count_submatrices_with_equal_frequency_of_x_and_y"
+version = "0.1.0"
+
+[[package]]
 name = "p3216_lexicographically_smallest_string_after_a_swap"
 version = "0.1.0"
 

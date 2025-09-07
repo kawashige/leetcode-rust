@@ -1,0 +1,8 @@
+[package]
+name = "p3212_count_submatrices_with_equal_frequency_of_x_and_y"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
