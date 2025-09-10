@@ -2375,6 +2375,7 @@ members = [
     "problems/p3364_minimum_positive_sum_subarray",
     "problems/p3370_smallest_number_with_all_set_bits",
     "problems/p3379_transformed_array",
+    "problems/p3386_button_with_longest_push_time",
     "problems/p3403_find_the_lexicographically_largest_string_from_the_box_i",
     "problems/p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements",
     "problems/p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array",
