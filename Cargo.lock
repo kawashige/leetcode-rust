@@ -6886,6 +6886,10 @@ name = "p3226_number_of_bit_changed_to_make_two_integers_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p3227_vowels_game_in_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3232_find_if_digit_game_can_be_won"
 version = "0.1.0"
 
