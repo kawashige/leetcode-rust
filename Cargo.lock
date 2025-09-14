@@ -6874,6 +6874,10 @@ name = "p3217_delete_nodes_from_linked_list_present_in_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3218_minimum_cost_for_cutting_cake_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3222_find_the_winning_player_in_coin_game"
 version = "0.1.0"
 
