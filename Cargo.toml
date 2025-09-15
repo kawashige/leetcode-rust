@@ -2355,6 +2355,7 @@ members = [
     "problems/p3238_find_the_number_of_winning_players",
     "problems/p3242_design_neighbour_sum_service",
     "problems/p3248_snake_in_matrix",
+    "problems/p3250_count_number_of_rectangles_containing_each_point",
     "problems/p3258_count_substrings_that_satisfy_k_constraint_i",
     "problems/p3270_find_the_key_of_the_numbers",
     "problems/p3272_find_the_count_of_good_integers",

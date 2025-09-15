@@ -6914,6 +6914,10 @@ name = "p3248_snake_in_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p3250_count_number_of_rectangles_containing_each_point"
+version = "0.1.0"
+
+[[package]]
 name = "p3254_find_the_power_of_k_size_subarrays_i"
 version = "0.1.0"
 
