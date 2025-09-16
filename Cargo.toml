@@ -2092,6 +2092,7 @@ members = [
     "problems/p2194_cells_in_a_range_on_an_excel_sheet",
     "problems/p2195_append_k_integers_with_minimal_sum",
     "problems/p2196_crate_binary_tree_from_description",
+    "problems/p2197_replace_non_coprime_numbers_in_array",
     "problems/p2215_find_the_difference_of_two_arrays",
     "problems/p2218_maximum_value_of_k_coins_from_piles",
     "problems/p2224_minimum_number_of_operations_to_convert_time",
