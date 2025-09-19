@@ -7150,6 +7150,10 @@ name = "p3480_maximum_subarrays_after_removing_one_conflicting_pair"
 version = "0.1.0"
 
 [[package]]
+name = "p3484_design_spreadsheet"
+version = "0.1.0"
+
+[[package]]
 name = "p3487_maximum_unique_subarray_sum_after_delettion"
 version = "0.1.0"
 
