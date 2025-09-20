@@ -2399,6 +2399,7 @@ members = [
     "problems/p3484_design_spreadsheet",
     "problems/p3487_maximum_unique_subarray_sum_after_delettion",
     "problems/p3495_minimum_operations_to_make_array_elements_zero",
+    "problems/p3508_implement_router",
     "problems/p3516_find_closest_person",
     "problems/p3541_find_most_frequent_vowels_and_consonant",
     "august_leetcoding_challenge",
