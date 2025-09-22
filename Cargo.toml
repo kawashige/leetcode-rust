@@ -1332,6 +1332,7 @@ members = [
     "problems/p3216_lexicographically_smallest_string_after_a_swap",
     "problems/p3217_delete_nodes_from_linked_list_present_in_array",
     "problems/p3223_minimum_length_of_string_after_operations",
+    "problems/p3224_minimum_array_changes_to_make_differences_equal",
     "problems/p3243_shortest_distance_after_road_addition_queries_i",
     "problems/p3254_find_the_power_of_k_size_subarrays_i",
     "problems/p3264_find_array_state_after_k_multiplication_operations_i",
