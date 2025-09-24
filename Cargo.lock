@@ -7114,6 +7114,10 @@ name = "p3408_design_task_manager"
 version = "0.1.0"
 
 [[package]]
+name = "p3411_maximum_subarray_with_equal_products"
+version = "0.1.0"
+
+[[package]]
 name = "p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array"
 version = "0.1.0"
 
