@@ -1354,6 +1354,7 @@ members = [
     "problems/p3394_check_if_grid_can_be_cut_into_sections",
     "problems/p3396_minimum_number_of_operations_to_make_elements_in_array_distinct",
     "problems/p3411_maximum_subarray_with_equal_products",
+    "problems/p3417_zigzag_grid_traversal_with_skip",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
