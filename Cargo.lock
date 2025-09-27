@@ -6914,6 +6914,10 @@ name = "p3232_find_if_digit_game_can_be_won"
 version = "0.1.0"
 
 [[package]]
+name = "p3233_find_the_count_of_numbers_which_are_not_special"
+version = "0.1.0"
+
+[[package]]
 name = "p3238_find_the_number_of_winning_players"
 version = "0.1.0"
 
