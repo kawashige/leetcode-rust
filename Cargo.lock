@@ -7138,6 +7138,10 @@ name = "p3427_sumg_of_variable_length_subsrrays"
 version = "0.1.0"
 
 [[package]]
+name = "p3432_count_partitions_with_even_sum_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p3439_reschedule_meetings_for_maximum_free_time_i"
 version = "0.1.0"
 

@@ -1358,6 +1358,7 @@ members = [
     "problems/p3411_maximum_subarray_with_equal_products",
     "problems/p3417_zigzag_grid_traversal_with_skip",
     "problems/p3427_sumg_of_variable_length_subsrrays",
+    "problems/p3432_count_partitions_with_even_sum_difference",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
