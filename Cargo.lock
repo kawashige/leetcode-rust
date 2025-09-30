@@ -7142,6 +7142,10 @@ name = "p3432_count_partitions_with_even_sum_difference"
 version = "0.1.0"
 
 [[package]]
+name = "p3438_find_valid_pair_of_adjacent_digits_in_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3439_reschedule_meetings_for_maximum_free_time_i"
 version = "0.1.0"
 
