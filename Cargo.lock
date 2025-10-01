@@ -7174,6 +7174,10 @@ name = "p3449_adjacent_increasing_subarrays_detection_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3452_sum_of_good_numbers"
+version = "0.1.0"
+
+[[package]]
 name = "p3459_length_of_longest_v_shaped_diagonal_segment"
 version = "0.1.0"
 
