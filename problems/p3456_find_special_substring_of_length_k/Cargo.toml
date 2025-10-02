@@ -1,0 +1,8 @@
+[package]
+name = "p3456_findd_special_substring_of_length_k"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
