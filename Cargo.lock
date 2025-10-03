@@ -7186,6 +7186,10 @@ name = "p3459_length_of_longest_v_shaped_diagonal_segment"
 version = "0.1.0"
 
 [[package]]
+name = "p3461_check_if_digits_are_equal_in_string_after_operations_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3477_fruits_into_baskets_ii"
 version = "0.1.0"
 
