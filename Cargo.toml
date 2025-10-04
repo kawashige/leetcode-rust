@@ -1336,6 +1336,7 @@ members = [
     "problems/p3224_minimum_array_changes_to_make_differences_equal",
     "problems/p3233_find_the_count_of_numbers_which_are_not_special",
     "problems/p3234_count_the_number_of_substrings_with_dominant_ones",
+    "problems/p3239_minimum_number_of_flips_to_make_binary_grid_palindromic",
     "problems/p3243_shortest_distance_after_road_addition_queries_i",
     "problems/p3254_find_the_power_of_k_size_subarrays_i",
     "problems/p3264_find_array_state_after_k_multiplication_operations_i",

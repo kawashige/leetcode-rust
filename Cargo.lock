@@ -6926,6 +6926,10 @@ name = "p3238_find_the_number_of_winning_players"
 version = "0.1.0"
 
 [[package]]
+name = "p3239_minimum_number_of_flips_to_make_binary_grid_palindromic"
+version = "0.1.0"
+
+[[package]]
 name = "p3242_design_neighbour_sum_service"
 version = "0.1.0"
 
