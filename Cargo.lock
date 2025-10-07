@@ -7202,6 +7202,10 @@ name = "p3467_transform_array_by_parity"
 version = "0.1.0"
 
 [[package]]
+name = "p3471_find_the_largest_almost_missing_integer"
+version = "0.1.0"
+
+[[package]]
 name = "p3477_fruits_into_baskets_ii"
 version = "0.1.0"
 
