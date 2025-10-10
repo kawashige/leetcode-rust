@@ -7230,6 +7230,10 @@ name = "p3487_maximum_unique_subarray_sum_after_delettion"
 version = "0.1.0"
 
 [[package]]
+name = "p3492_maximum_containers_on_a_ship"
+version = "0.1.0"
+
+[[package]]
 name = "p3494_find_the_maximum_amount_of_time_to_brew_potions"
 version = "0.1.0"
 
