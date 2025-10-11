@@ -6946,6 +6946,10 @@ name = "p3248_snake_in_matrix"
 version = "0.1.0"
 
 [[package]]
+name = "p3249_count_the_number_of_good_nodes"
+version = "0.1.0"
+
+[[package]]
 name = "p3250_count_number_of_rectangles_containing_each_point"
 version = "0.1.0"
 
