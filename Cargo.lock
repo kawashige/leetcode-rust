@@ -7254,6 +7254,10 @@ name = "p3516_find_closest_person"
 version = "0.1.0"
 
 [[package]]
+name = "p3539_find_sum_of_array_product_of_magical_sequaences"
+version = "0.1.0"
+
+[[package]]
 name = "p3541_find_most_frequent_vowels_and_consonant"
 version = "0.1.0"
 
