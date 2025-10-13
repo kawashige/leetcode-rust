@@ -6958,6 +6958,10 @@ name = "p3254_find_the_power_of_k_size_subarrays_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3255_find_the_power_of_k_size_subarrays_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3258_count_substrings_that_satisfy_k_constraint_i"
 version = "0.1.0"
 

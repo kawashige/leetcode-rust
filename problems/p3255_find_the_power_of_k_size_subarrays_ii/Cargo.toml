@@ -1,0 +1,8 @@
+[package]
+name = "p3255_find_the_power_of_k_size_subarrays_ii"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
