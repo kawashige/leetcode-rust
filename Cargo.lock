@@ -7250,6 +7250,10 @@ name = "p3495_minimum_operations_to_make_array_elements_zero"
 version = "0.1.0"
 
 [[package]]
+name = "p3498_reverse_degree_of_a_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3508_implement_router"
 version = "0.1.0"
 
