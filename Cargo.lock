@@ -7054,6 +7054,10 @@ name = "p3345_smallest_divisible_digit_product_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3350_adjacent_increasing_subarrays_detection_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3354_make_array_elements_equal_to_zero"
 version = "0.1.0"
 
