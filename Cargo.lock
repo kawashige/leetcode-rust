@@ -6390,6 +6390,10 @@ name = "p3002_maximum_size_of_a_set_after_removals"
 version = "0.1.0"
 
 [[package]]
+name = "p3003_maximize_the_number_of_partitions_after_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p3005_count_elements_with_maximum_frequency"
 version = "0.1.0"
 

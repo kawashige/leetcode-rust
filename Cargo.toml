@@ -1258,6 +1258,7 @@ members = [
     "problems/p2981_find_longest_special_substring_that_occurs_thrice_i",
     "problems/p2996_smallest_missing_integer_greater_than_sequential_prefix_sum",
     "problems/p3000_maximum_area_of_longest_diagonal_rectangle",
+    "problems/p3003_maximize_the_number_of_partitions_after_operations",
     "problems/p3006_find_beautiful_indices_in_the_given_array_i",
     "problems/p3007_maximum_number_that_sum_of_the_prices_is_less_than_or_equal_to_k",
     "problems/p3010_divide_an_array_into_subarrays_with_minimum_cost_i",
