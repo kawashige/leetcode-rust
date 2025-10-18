@@ -1361,6 +1361,7 @@ members = [
     "problems/p3392_count_subarrays_of_length_three_with_a_condition",
     "problems/p3394_check_if_grid_can_be_cut_into_sections",
     "problems/p3396_minimum_number_of_operations_to_make_elements_in_array_distinct",
+    "problems/p3397_maximum_nember_of_distinct_elemtns_after_operations",
     "problems/p3411_maximum_subarray_with_equal_products",
     "problems/p3417_zigzag_grid_traversal_with_skip",
     "problems/p3427_sumg_of_variable_length_subsrrays",
