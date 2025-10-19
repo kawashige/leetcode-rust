@@ -6970,6 +6970,10 @@ name = "p3258_count_substrings_that_satisfy_k_constraint_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3259_maximum_energy_boost_fro_two_drinks"
+version = "0.1.0"
+
+[[package]]
 name = "p3264_find_array_state_after_k_multiplication_operations_i"
 version = "0.1.0"
 

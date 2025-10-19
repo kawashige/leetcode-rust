@@ -1,0 +1,8 @@
+[package]
+name = "p3259_maximum_energy_boost_fro_two_drinks"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
