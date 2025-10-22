@@ -7066,6 +7066,10 @@ name = "p3346_maximum_frequency_of_an_element_after_preforming_operations_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3347_maximum_frequency_of_an_element_after_performing_operations_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3350_adjacent_increasing_subarrays_detection_ii"
 version = "0.1.0"
 

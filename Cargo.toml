@@ -1356,6 +1356,7 @@ members = [
     "problems/p3337_total_characterss_in_string_after_transformations_ii",
     "problems/p3539_find_sum_of_array_product_of_magical_sequaences",
     "problems/p3346_maximum_frequency_of_an_element_after_preforming_operations_i",
+    "problems/p3347_maximum_frequency_of_an_element_after_performing_operations_ii",
     "problems/p3356_zero_array_transformation_ii",
     "problems/p3372_maximize_the_target_nodes_after_connecting_trees_i",
     "problems/p3373_maximize_the_number_of_target_nodes_after_connecting_trees_ii",
