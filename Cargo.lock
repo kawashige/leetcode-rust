@@ -7290,6 +7290,10 @@ name = "p3508_implement_router"
 version = "0.1.0"
 
 [[package]]
+name = "p3512_minimum_operations_to_make_array_sum_divisible_by_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3516_find_closest_person"
 version = "0.1.0"
 
