@@ -1345,6 +1345,7 @@ members = [
     "problems/p3255_find_the_power_of_k_size_subarrays_ii",
     "problems/p3259_maximum_energy_boost_fro_two_drinks",
     "problems/p3264_find_array_state_after_k_multiplication_operations_i",
+    "problems/p3265_count_almpost_equal_pairs_i",
     "problems/p3280_convert_date_to_binary",
     "problems/p3285_find_indices_of_stable_mountains",
     "problems/p3289_the_two_sneaky_numbers_of_digitville",

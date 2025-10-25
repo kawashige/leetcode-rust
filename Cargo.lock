@@ -6978,6 +6978,10 @@ name = "p3264_find_array_state_after_k_multiplication_operations_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3265_count_almpost_equal_pairs_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3270_find_the_key_of_the_numbers"
 version = "0.1.0"
 
