@@ -6986,6 +6986,10 @@ name = "p3270_find_the_key_of_the_numbers"
 version = "0.1.0"
 
 [[package]]
+name = "p3271_has_divided_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3272_find_the_count_of_good_integers"
 version = "0.1.0"
 
