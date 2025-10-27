@@ -6998,6 +6998,10 @@ name = "p3274_check_if_two_chessboard_squares_have_the_same_color"
 version = "0.1.0"
 
 [[package]]
+name = "p3275_kth_nearest_obstacle_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p3280_convert_date_to_binary"
 version = "0.1.0"
 
