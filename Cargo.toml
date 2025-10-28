@@ -1385,6 +1385,7 @@ members = [
     "problems/p3507_minimum_pair_removal_to_sort_array_i",
     "problems/p3512_minimum_operations_to_make_array_sum_divisible_by_k",
     "problems/p3536_minimum_product_of_two_digits",
+    "problems/p3545_minimum_deletions_for_at_most_k_distinct_characters",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
