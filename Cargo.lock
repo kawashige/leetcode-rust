@@ -7326,6 +7326,10 @@ name = "p3545_minimum_deletions_for_at_most_k_distinct_characters"
 version = "0.1.0"
 
 [[package]]
+name = "p3550_smallest_index_with_digit_sum_equal_to_index"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"

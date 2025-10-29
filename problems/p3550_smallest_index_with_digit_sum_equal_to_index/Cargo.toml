@@ -1,0 +1,8 @@
+[package]
+name = "p3550_smallest_index_with_digit_sum_equal_to_index"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
