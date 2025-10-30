@@ -2922,6 +2922,10 @@ name = "p1525_number_of_good_ways_to_split_a_string"
 version = "0.1.0"
 
 [[package]]
+name = "p1526_minimum_number_of_increment_on_subarrays_to_from_a_target_array"
+version = "0.1.0"
+
+[[package]]
 name = "p1528_shuffle_string"
 version = "0.1.0"
 
