@@ -1352,6 +1352,7 @@ members = [
     "problems/p3281_maximize_score_of_number_in_ranges",
     "problems/p3282_reach_end_of_array_with_max_score",
     "problems/p3285_find_indices_of_stable_mountains",
+    "problems/p3286_find_a_safe_walk_through_a_grid",
     "problems/p3289_the_two_sneaky_numbers_of_digitville",
     "problems/p3300_minimum_element_after_replacement_with_digit_sum",
     "problems/p3314_construct_the_minimum_bitwise_array_i",
