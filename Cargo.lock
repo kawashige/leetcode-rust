@@ -7054,6 +7054,10 @@ name = "p3318_find_x_sum_of_all_k_long_subarrays_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3321_find_x_sum_of_all_k_long_subarrays_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3330_find_the_original_typed_string_i"
 version = "0.1.0"
 
