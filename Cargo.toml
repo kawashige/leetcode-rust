@@ -2243,6 +2243,7 @@ members = [
     "problems/p2525_categorize_box_according_to_criteria",
     "problems/p2526_find_consecutive_integers_from_a_data_stream",
     "problems/p2527_find_xor_beauty_of_array",
+    "problems/p2528_maximize_the_minimum_powered_city",
     "problems/p2529_minimum_count_of_positive_integer_and_negative_integer",
     "problems/p2530_maximal_score_after_applying_k_operations",
     "problems/p2531_make_number_of_distinct_characters_equal",

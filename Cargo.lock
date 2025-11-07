@@ -5374,6 +5374,10 @@ name = "p2527_find_xor_beauty_of_array"
 version = "0.1.0"
 
 [[package]]
+name = "p2528_maximize_the_minimum_powered_city"
+version = "0.1.0"
+
+[[package]]
 name = "p2529_minimum_count_of_positive_integer_and_negative_integer"
 version = "0.1.0"
 
