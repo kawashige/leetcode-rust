@@ -2407,6 +2407,7 @@ members = [
     "problems/p3270_find_the_key_of_the_numbers",
     "problems/p3272_find_the_count_of_good_integers",
     "problems/p3274_check_if_two_chessboard_squares_have_the_same_color",
+    "problems/p3290_maximum_multiplication_score",
     "problems/p3304_find_the_k_th_character_in_string_game_i",
     "problems/p3307_find_th_k_th_character_in_string_game_ii",
     "problems/p3330_find_the_original_typed_string_i",

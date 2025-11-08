@@ -7034,6 +7034,10 @@ name = "p3289_the_two_sneaky_numbers_of_digitville"
 version = "0.1.0"
 
 [[package]]
+name = "p3290_maximum_multiplication_score"
+version = "0.1.0"
+
+[[package]]
 name = "p3300_minimum_element_after_replacement_with_digit_sum"
 version = "0.1.0"
 
