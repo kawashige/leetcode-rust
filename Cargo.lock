@@ -7038,6 +7038,10 @@ name = "p3290_maximum_multiplication_score"
 version = "0.1.0"
 
 [[package]]
+name = "p3291_minimum_number_of_valid_strings_to_from_target_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3300_minimum_element_after_replacement_with_digit_sum"
 version = "0.1.0"
 
