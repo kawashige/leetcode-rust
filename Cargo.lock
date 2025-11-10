@@ -7354,6 +7354,10 @@ name = "p3541_find_most_frequent_vowels_and_consonant"
 version = "0.1.0"
 
 [[package]]
+name = "p3542_minimum_operations_to_convert_all_elements_to_zero"
+version = "0.1.0"
+
+[[package]]
 name = "p3545_minimum_deletions_for_at_most_k_distinct_characters"
 version = "0.1.0"
 
