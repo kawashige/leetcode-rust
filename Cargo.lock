@@ -7050,6 +7050,10 @@ name = "p3296_minimum_number_of_seconds_to_make_mountain_height_zero"
 version = "0.1.0"
 
 [[package]]
+name = "p3297_count_substrings_that_can_be_rearranged_to_cantain_a_string_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3300_minimum_element_after_replacement_with_digit_sum"
 version = "0.1.0"
 

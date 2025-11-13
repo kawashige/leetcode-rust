@@ -2411,6 +2411,7 @@ members = [
     "problems/p3291_minimum_number_of_valid_strings_to_from_target_i",
     "problems/p3295_report_spam_message",
     "problems/p3296_minimum_number_of_seconds_to_make_mountain_height_zero",
+    "problems/p3297_count_substrings_that_can_be_rearranged_to_cantain_a_string_i",
     "problems/p3304_find_the_k_th_character_in_string_game_i",
     "problems/p3307_find_th_k_th_character_in_string_game_ii",
     "problems/p3330_find_the_original_typed_string_i",
