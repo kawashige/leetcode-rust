@@ -7062,6 +7062,10 @@ name = "p3301_maximize_the_total_height_of_unique_tower"
 version = "0.1.0"
 
 [[package]]
+name = "p3302_find_the_lexicogrphically_valid_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "p3304_find_the_k_th_character_in_string_game_i"
 version = "0.1.0"
 
