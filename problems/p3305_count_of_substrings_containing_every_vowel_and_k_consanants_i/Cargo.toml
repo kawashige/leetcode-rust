@@ -1,0 +1,8 @@
+[package]
+name = "p3305_count_of_substrings_containing_every_vowel_and_k_consanants_i"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

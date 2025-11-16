@@ -2415,6 +2415,7 @@ members = [
     "problems/p3301_maximize_the_total_height_of_unique_tower",
     "problems/p3302_find_the_lexicogrphically_valid_sequence",
     "problems/p3304_find_the_k_th_character_in_string_game_i",
+    "problems/p3305_count_of_substrings_containing_every_vowel_and_k_consanants_i",
     "problems/p3307_find_th_k_th_character_in_string_game_ii",
     "problems/p3330_find_the_original_typed_string_i",
     "problems/p3333_find_the_original_typed_string_ii",
