@@ -1,0 +1,8 @@
+[package]
+name = "p3316_find_maximum_removals_from_source_string"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
