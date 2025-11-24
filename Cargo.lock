@@ -7122,6 +7122,10 @@ name = "p3324_find_sequence_of_strings_appeared_on_the_screen"
 version = "0.1.0"
 
 [[package]]
+name = "p3325_count_substrings_with_k_frequency_characters_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3330_find_the_original_typed_string_i"
 version = "0.1.0"
 
