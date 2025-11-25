@@ -2425,6 +2425,7 @@ members = [
     "problems/p3319_k_th_largest_perfect_subtree_size_in_binary_tree",
     "problems/p3324_find_sequence_of_strings_appeared_on_the_screen",
     "problems/p3325_count_substrings_with_k_frequency_characters_i",
+    "problems/p3326_minimum_division_operations_to_make_array_non_decreasing",
     "problems/p3330_find_the_original_typed_string_i",
     "problems/p3333_find_the_original_typed_string_ii",
     "problems/p3340_check_balanced_string",

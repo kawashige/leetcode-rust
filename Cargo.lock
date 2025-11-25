@@ -7126,6 +7126,10 @@ name = "p3325_count_substrings_with_k_frequency_characters_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3326_minimum_division_operations_to_make_array_non_decreasing"
+version = "0.1.0"
+
+[[package]]
 name = "p3330_find_the_original_typed_string_i"
 version = "0.1.0"
 
