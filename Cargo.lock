@@ -5130,6 +5130,10 @@ name = "p2434_using_a_robot_to_print_the_lexicographically_smallest_string"
 version = "0.1.0"
 
 [[package]]
+name = "p2435_paths_in_matrix_whose_sum_is_divisible_by_k"
+version = "0.1.0"
+
+[[package]]
 name = "p2437_number_of_valid_clock_times"
 version = "0.1.0"
 
