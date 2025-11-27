@@ -7230,6 +7230,10 @@ name = "p3379_transformed_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3381_maximum_subarray_sum_with_length_divisible_by_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3386_button_with_longest_push_time"
 version = "0.1.0"
 
