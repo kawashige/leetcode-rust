@@ -7450,6 +7450,10 @@ name = "p3607_power_grid_maintenance"
 version = "0.1.0"
 
 [[package]]
+name = "p3623_count_number_of_trapezoids_i"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
