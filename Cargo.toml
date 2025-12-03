@@ -1400,6 +1400,7 @@ members = [
     "problems/p3582_generate_tag_for_video_caption",
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",
+    "problems/p3625_count_number_of_trapezoids_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
