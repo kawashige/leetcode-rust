@@ -1363,6 +1363,7 @@ members = [
     "problems/p3318_find_x_sum_of_all_k_long_subarrays_i",
     "problems/p3321_find_x_sum_of_all_k_long_subarrays_ii",
     "problems/p3331_find_subtree_sizes_after_changes",
+    "problems/p3332_maximum_points_tourists_can_earn",
     "problems/p3335_total_characters_in_string_after_transformations_i",
     "problems/p3337_total_characterss_in_string_after_transformations_ii",
     "problems/p3539_find_sum_of_array_product_of_magical_sequaences",

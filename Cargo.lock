@@ -7142,6 +7142,10 @@ name = "p3331_find_subtree_sizes_after_changes"
 version = "0.1.0"
 
 [[package]]
+name = "p3332_maximum_points_tourists_can_earn"
+version = "0.1.0"
+
+[[package]]
 name = "p3333_find_the_original_typed_string_ii"
 version = "0.1.0"
 
