@@ -7450,6 +7450,10 @@ name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
 [[package]]
+name = "p3578_count_partitions_with_max_min_difference_at_most_k"
+version = "0.1.0"
+
+[[package]]
 name = "p3582_generate_tag_for_video_caption"
 version = "0.1.0"
 
