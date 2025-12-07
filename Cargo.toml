@@ -2444,6 +2444,7 @@ members = [
     "problems/p3354_make_array_elements_equal_to_zero",
     "problems/p3355_zero_array_transformation_i",
     "problems/p3360_stone_removal_game",
+    "problems/p3361_shift_distance_between_two_strings",
     "problems/p3362_zero_array_transformation_iii",
     "problems/p3363_find_the_maximum_number_of_fruits_collected",
     "problems/p3364_minimum_positive_sum_subarray",

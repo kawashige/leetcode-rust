@@ -7210,6 +7210,10 @@ name = "p3360_stone_removal_game"
 version = "0.1.0"
 
 [[package]]
+name = "p3361_shift_distance_between_two_strings"
+version = "0.1.0"
+
+[[package]]
 name = "p3362_zero_array_transformation_iii"
 version = "0.1.0"
 
