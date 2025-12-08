@@ -1,0 +1,8 @@
+[package]
+name = "p3365_rearrage_k_substrings_to_from_target_string"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

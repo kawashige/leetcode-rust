@@ -7226,6 +7226,10 @@ name = "p3364_minimum_positive_sum_subarray"
 version = "0.1.0"
 
 [[package]]
+name = "p3365_rearrage_k_substrings_to_from_target_string"
+version = "0.1.0"
+
+[[package]]
 name = "p3370_smallest_number_with_all_set_bits"
 version = "0.1.0"
 
