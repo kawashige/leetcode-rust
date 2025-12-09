@@ -2478,6 +2478,7 @@ members = [
     "problems/p3541_find_most_frequent_vowels_and_consonant",
     "problems/p3542_minimum_operations_to_convert_all_elements_to_zero",
     "problems/p3578_count_partitions_with_max_min_difference_at_most_k",
+    "problems/p3583_count_special_triplets",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
