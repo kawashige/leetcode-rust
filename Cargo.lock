@@ -7458,6 +7458,10 @@ name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
 [[package]]
+name = "p3577_count_the_number_of_computer_unlocking_premutaions"
+version = "0.1.0"
+
+[[package]]
 name = "p3578_count_partitions_with_max_min_difference_at_most_k"
 version = "0.1.0"
 
