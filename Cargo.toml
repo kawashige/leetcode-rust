@@ -2459,6 +2459,7 @@ members = [
     "problems/p3407_substring_matching_pattern",
     "problems/p3408_design_task_manager",
     "problems/p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array",
+    "problems/p3433_count_mentions_per_user",
     "problems/p3439_reschedule_meetings_for_maximum_free_time_i",
     "problems/p3440_reschedule_meetings_for_maximum_free_time_ii",
     "problems/p3442_maximum_difference_between_even_and_odd_frequency_i",
