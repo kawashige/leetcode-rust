@@ -7482,6 +7482,10 @@ name = "p3583_count_special_triplets"
 version = "0.1.0"
 
 [[package]]
+name = "p3606_coupon_code_validator"
+version = "0.1.0"
+
+[[package]]
 name = "p3607_power_grid_maintenance"
 version = "0.1.0"
 
