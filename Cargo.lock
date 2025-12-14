@@ -7158,6 +7158,10 @@ name = "p3335_total_characters_in_string_after_transformations_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3336_minimum_array_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p3337_total_characterss_in_string_after_transformations_ii"
 version = "0.1.0"
 
