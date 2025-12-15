@@ -12,13 +12,6 @@ impl Solution {
         let mut result = std::i32::MIN;
         for i in 0..nums.len() {
             let x = sum - nums[i] * 2;
-            println!(
-                "i: {}, nums[i]: {}, x: {}, count[x +1000]: {}",
-                i,
-                nums[i],
-                x,
-                count[(x + 1000) as usize]
-            );
             if (0..count.len() as i32).contains(&(x + 1000))
                 && count[(x + 1000) as usize] > if x != nums[i] { 0 } else { 1 }
             {
