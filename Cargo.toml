@@ -1402,6 +1402,7 @@ members = [
     "problems/p3545_minimum_deletions_for_at_most_k_distinct_characters",
     "problems/p3550_smallest_index_with_digit_sum_equal_to_index",
     "problems/p3560_find_minimum_log_transportation_cost",
+    "problems/p3562_maximum_profit_from_trading_stocks_with_discounts",
     "problems/p3582_generate_tag_for_video_caption",
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",
