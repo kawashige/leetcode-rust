@@ -1,0 +1,8 @@
+[package]
+name = "p3573_best_time_to_by_and_sell_stock_v"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

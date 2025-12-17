@@ -7478,6 +7478,10 @@ name = "p3562_maximum_profit_from_trading_stocks_with_discounts"
 version = "0.1.0"
 
 [[package]]
+name = "p3573_best_time_to_by_and_sell_stock_v"
+version = "0.1.0"
+
+[[package]]
 name = "p3577_count_the_number_of_computer_unlocking_premutaions"
 version = "0.1.0"
 
