@@ -1408,6 +1408,7 @@ members = [
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",
     "problems/p3625_count_number_of_trapezoids_ii",
+    "problems/p3652_best_time_to_buy_and_sell_stock_using_strategy",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
