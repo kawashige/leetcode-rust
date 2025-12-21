@@ -7258,6 +7258,10 @@ name = "p3376_minimum_time_to_break_locks_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3377_digits_operations_to_make_two_integers_equal"
+version = "0.1.0"
+
+[[package]]
 name = "p3379_transformed_array"
 version = "0.1.0"
 
