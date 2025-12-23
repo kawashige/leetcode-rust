@@ -7270,6 +7270,10 @@ name = "p3379_transformed_array"
 version = "0.1.0"
 
 [[package]]
+name = "p3380_maximum_area_rectangle_with_point_constraints_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3381_maximum_subarray_sum_with_length_divisible_by_k"
 version = "0.1.0"
 
