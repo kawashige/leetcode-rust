@@ -2462,6 +2462,7 @@ members = [
     "problems/p3379_transformed_array",
     "problems/p3380_maximum_area_rectangle_with_point_constraints_i",
     "problems/p3386_button_with_longest_push_time",
+    "problems/p3387_maximum_amount_after_two_days_of_conversions",
     "problems/p3402_minimum_operations_to_make_columns_strictly_increasing",
     "problems/p3403_find_the_lexicographically_largest_string_from_the_box_i",
     "problems/p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements",
