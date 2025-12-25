@@ -7286,6 +7286,10 @@ name = "p3387_maximum_amount_after_two_days_of_conversions"
 version = "0.1.0"
 
 [[package]]
+name = "p3388_count_beautiful_splits_in_an_array"
+version = "0.1.0"
+
+[[package]]
 name = "p3392_count_subarrays_of_length_three_with_a_condition"
 version = "0.1.0"
 
