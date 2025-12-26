@@ -7294,6 +7294,10 @@ name = "p3392_count_subarrays_of_length_three_with_a_condition"
 version = "0.1.0"
 
 [[package]]
+name = "p3393_count_paths_with_the_given_xor_value"
+version = "0.1.0"
+
+[[package]]
 name = "p3394_check_if_grid_can_be_cut_into_sections"
 version = "0.1.0"
 
