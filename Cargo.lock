@@ -7334,6 +7334,10 @@ name = "p3408_design_task_manager"
 version = "0.1.0"
 
 [[package]]
+name = "p3409_longest_subsequence_with_decreasing_adjacent_difference"
+version = "0.1.0"
+
+[[package]]
 name = "p3411_maximum_subarray_with_equal_products"
 version = "0.1.0"
 

@@ -2471,6 +2471,7 @@ members = [
     "problems/p3405_count_the_number_of_arrays_with_k_matching_adjacent_elements",
     "problems/p3407_substring_matching_pattern",
     "problems/p3408_design_task_manager",
+    "problems/p3409_longest_subsequence_with_decreasing_adjacent_difference",
     "problems/p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array",
     "problems/p3433_count_mentions_per_user",
     "problems/p3439_reschedule_meetings_for_maximum_free_time_i",
