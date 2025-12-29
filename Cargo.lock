@@ -7342,6 +7342,10 @@ name = "p3411_maximum_subarray_with_equal_products"
 version = "0.1.0"
 
 [[package]]
+name = "p3412_find_mirror_score_of_a_atring"
+version = "0.1.0"
+
+[[package]]
 name = "p3417_zigzag_grid_traversal_with_skip"
 version = "0.1.0"
 
