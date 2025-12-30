@@ -7346,6 +7346,10 @@ name = "p3412_find_mirror_score_of_a_atring"
 version = "0.1.0"
 
 [[package]]
+name = "p3413_maximum_coins_from_k_consecutive_bags"
+version = "0.1.0"
+
+[[package]]
 name = "p3417_zigzag_grid_traversal_with_skip"
 version = "0.1.0"
 

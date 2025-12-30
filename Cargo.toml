@@ -2473,6 +2473,7 @@ members = [
     "problems/p3408_design_task_manager",
     "problems/p3409_longest_subsequence_with_decreasing_adjacent_difference",
     "problems/p3412_find_mirror_score_of_a_atring",
+    "problems/p3413_maximum_coins_from_k_consecutive_bags",
     "problems/p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array",
     "problems/p3433_count_mentions_per_user",
     "problems/p3439_reschedule_meetings_for_maximum_free_time_i",
