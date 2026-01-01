@@ -7358,6 +7358,10 @@ name = "p3418_maximum_amount_of_money_robot_can_earn"
 version = "0.1.0"
 
 [[package]]
+name = "p3419_minimize_the_miximum_edge_weight_of_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p3423_maximum_difference_between_adjacent_elenments_in_a_circular_array"
 version = "0.1.0"
 
