@@ -7350,6 +7350,10 @@ name = "p3413_maximum_coins_from_k_consecutive_bags"
 version = "0.1.0"
 
 [[package]]
+name = "p3414_minimum_cost_to_make_arrays_identical"
+version = "0.1.0"
+
+[[package]]
 name = "p3417_zigzag_grid_traversal_with_skip"
 version = "0.1.0"
 
