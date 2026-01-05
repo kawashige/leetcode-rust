@@ -7382,6 +7382,10 @@ name = "p3428_maximum_and_minimum_sums_of_at_most_size_k_subsequences"
 version = "0.1.0"
 
 [[package]]
+name = "p3429_paint_house_iv"
+version = "0.1.0"
+
+[[package]]
 name = "p3432_count_partitions_with_even_sum_difference"
 version = "0.1.0"
 

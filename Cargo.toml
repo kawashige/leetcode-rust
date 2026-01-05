@@ -1388,6 +1388,7 @@ members = [
     "problems/p3417_zigzag_grid_traversal_with_skip",
     "problems/p3427_sumg_of_variable_length_subsrrays",
     "problems/p3428_maximum_and_minimum_sums_of_at_most_size_k_subsequences",
+    "problems/p3429_paint_house_iv",
     "problems/p3432_count_partitions_with_even_sum_difference",
     "problems/p3438_find_valid_pair_of_adjacent_digits_in_string",
     "problems/p3452_sum_of_good_numbers",
