@@ -7394,6 +7394,10 @@ name = "p3433_count_mentions_per_user"
 version = "0.1.0"
 
 [[package]]
+name = "p3434_maximum_frequency_after_subarray_operation"
+version = "0.1.0"
+
+[[package]]
 name = "p3438_find_valid_pair_of_adjacent_digits_in_string"
 version = "0.1.0"
 
