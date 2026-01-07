@@ -1392,6 +1392,7 @@ members = [
     "problems/p3432_count_partitions_with_even_sum_difference",
     "problems/p3434_maximum_frequency_after_subarray_operation",
     "problems/p3438_find_valid_pair_of_adjacent_digits_in_string",
+    "problems/p3447_assign_elements_to_groups_with_constraints",
     "problems/p3452_sum_of_good_numbers",
     "problems/p3456_find_special_substring_of_length_k",
     "problems/p3461_check_if_digits_are_equal_in_string_after_operations_i",

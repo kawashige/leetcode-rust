@@ -7426,6 +7426,10 @@ name = "p3446_sort_matrix_by_diagonals"
 version = "0.1.0"
 
 [[package]]
+name = "p3447_assign_elements_to_groups_with_constraints"
+version = "0.1.0"
+
+[[package]]
 name = "p3449_adjacent_increasing_subarrays_detection_i"
 version = "0.1.0"
 
