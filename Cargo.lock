@@ -7446,6 +7446,10 @@ name = "p3456_findd_special_substring_of_length_k"
 version = "0.1.0"
 
 [[package]]
+name = "p3457_eat_pizzas"
+version = "0.1.0"
+
+[[package]]
 name = "p3459_length_of_longest_v_shaped_diagonal_segment"
 version = "0.1.0"
 

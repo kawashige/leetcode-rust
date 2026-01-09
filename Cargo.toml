@@ -1396,6 +1396,7 @@ members = [
     "problems/p3452_sum_of_good_numbers",
     "problems/p3453_separate_squares_i",
     "problems/p3456_find_special_substring_of_length_k",
+    "problems/p3457_eat_pizzas",
     "problems/p3461_check_if_digits_are_equal_in_string_after_operations_i",
     "problems/p3467_transform_array_by_parity",
     "problems/p3471_find_the_largest_almost_missing_integer",
