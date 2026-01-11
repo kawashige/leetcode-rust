@@ -7462,6 +7462,10 @@ name = "p3461_check_if_digits_are_equal_in_string_after_operations_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3462_maximum_sum_with_at_most_k_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p3467_transform_array_by_parity"
 version = "0.1.0"
 
