@@ -7474,6 +7474,10 @@ name = "p3468_find_the_number_of_copy_arrays"
 version = "0.1.0"
 
 [[package]]
+name = "p3469_find_minimum_cost_to_remove_array_elements"
+version = "0.1.0"
+
+[[package]]
 name = "p3471_find_the_largest_almost_missing_integer"
 version = "0.1.0"
 

@@ -1402,6 +1402,7 @@ members = [
     "problems/p3462_maximum_sum_with_at_most_k_elements",
     "problems/p3467_transform_array_by_parity",
     "problems/p3468_find_the_number_of_copy_arrays",
+    "problems/p3469_find_minimum_cost_to_remove_array_elements",
     "problems/p3471_find_the_largest_almost_missing_integer",
     "problems/p3483_unique_3_digit_even_numbers",
     "problems/p3492_maximum_containers_on_a_ship",
