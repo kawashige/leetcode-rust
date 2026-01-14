@@ -1395,6 +1395,7 @@ members = [
     "problems/p3447_assign_elements_to_groups_with_constraints",
     "problems/p3452_sum_of_good_numbers",
     "problems/p3453_separate_squares_i",
+    "problems/p3454_separate_squares_ii",
     "problems/p3456_find_special_substring_of_length_k",
     "problems/p3457_eat_pizzas",
     "problems/p3458_select_k_disjoint_special_substrings",

@@ -7442,6 +7442,10 @@ name = "p3453_separate_squares_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3454_separate_squares_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3456_findd_special_substring_of_length_k"
 version = "0.1.0"
 
