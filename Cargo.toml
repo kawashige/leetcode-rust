@@ -1405,6 +1405,7 @@ members = [
     "problems/p3468_find_the_number_of_copy_arrays",
     "problems/p3469_find_minimum_cost_to_remove_array_elements",
     "problems/p3471_find_the_largest_almost_missing_integer",
+    "problems/p3472_longest_palindrome_subsequences_after_at_most_k_operations",
     "problems/p3483_unique_3_digit_even_numbers",
     "problems/p3492_maximum_containers_on_a_ship",
     "problems/p3494_find_the_maximum_amount_of_time_to_brew_potions",
