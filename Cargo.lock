@@ -7490,6 +7490,10 @@ name = "p3472_longest_palindrome_subsequences_after_at_most_k_operations"
 version = "0.1.0"
 
 [[package]]
+name = "p3473_sum_of_k_subarrays_with_length_at_least_m"
+version = "0.1.0"
+
+[[package]]
 name = "p3477_fruits_into_baskets_ii"
 version = "0.1.0"
 

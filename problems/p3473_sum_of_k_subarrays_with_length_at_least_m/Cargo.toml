@@ -1,0 +1,8 @@
+[package]
+name = "p3473_sum_of_k_subarrays_with_length_at_least_m"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
