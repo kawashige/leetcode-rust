@@ -7498,6 +7498,10 @@ name = "p3477_fruits_into_baskets_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3478_choose_k_elements_with_maximum_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p3479_fruits_into_baskets_iii"
 version = "0.1.0"
 

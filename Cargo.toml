@@ -1407,6 +1407,7 @@ members = [
     "problems/p3471_find_the_largest_almost_missing_integer",
     "problems/p3472_longest_palindrome_subsequences_after_at_most_k_operations",
     "problems/p3473_sum_of_k_subarrays_with_length_at_least_m",
+    "problems/p3478_choose_k_elements_with_maximum_sum",
     "problems/p3483_unique_3_digit_even_numbers",
     "problems/p3492_maximum_containers_on_a_ship",
     "problems/p3494_find_the_maximum_amount_of_time_to_brew_potions",
