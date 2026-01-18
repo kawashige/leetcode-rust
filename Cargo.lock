@@ -7522,6 +7522,10 @@ name = "p3487_maximum_unique_subarray_sum_after_delettion"
 version = "0.1.0"
 
 [[package]]
+name = "p3488_closest_equal_element_queries"
+version = "0.1.0"
+
+[[package]]
 name = "p3492_maximum_containers_on_a_ship"
 version = "0.1.0"
 

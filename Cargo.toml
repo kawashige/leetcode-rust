@@ -1409,6 +1409,7 @@ members = [
     "problems/p3473_sum_of_k_subarrays_with_length_at_least_m",
     "problems/p3478_choose_k_elements_with_maximum_sum",
     "problems/p3483_unique_3_digit_even_numbers",
+    "problems/p3488_closest_equal_element_queries",
     "problems/p3492_maximum_containers_on_a_ship",
     "problems/p3494_find_the_maximum_amount_of_time_to_brew_potions",
     "problems/p3498_reverse_degree_of_a_string",
