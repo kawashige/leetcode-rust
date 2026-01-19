@@ -7526,6 +7526,10 @@ name = "p3488_closest_equal_element_queries"
 version = "0.1.0"
 
 [[package]]
+name = "p3489_zero_array_transformation_iv"
+version = "0.1.0"
+
+[[package]]
 name = "p3492_maximum_containers_on_a_ship"
 version = "0.1.0"
 
