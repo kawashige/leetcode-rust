@@ -7534,6 +7534,10 @@ name = "p3492_maximum_containers_on_a_ship"
 version = "0.1.0"
 
 [[package]]
+name = "p3493_properties_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p3494_find_the_maximum_amount_of_time_to_brew_potions"
 version = "0.1.0"
 

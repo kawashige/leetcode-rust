@@ -1412,6 +1412,7 @@ members = [
     "problems/p3488_closest_equal_element_queries",
     "problems/p3489_zero_array_transformation_iv",
     "problems/p3492_maximum_containers_on_a_ship",
+    "problems/p3493_properties_graph",
     "problems/p3494_find_the_maximum_amount_of_time_to_brew_potions",
     "problems/p3498_reverse_degree_of_a_string",
     "problems/p3507_minimum_pair_removal_to_sort_array_i",
