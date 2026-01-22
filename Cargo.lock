@@ -7558,6 +7558,10 @@ name = "p3502_minimum_cost_to_reach_every_position"
 version = "0.1.0"
 
 [[package]]
+name = "p3503_longest_palindrome_after_substring_concatenation_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3507_minimum_pair_removal_to_sort_array_i"
 version = "0.1.0"
 

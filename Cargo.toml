@@ -1416,6 +1416,7 @@ members = [
     "problems/p3494_find_the_maximum_amount_of_time_to_brew_potions",
     "problems/p3498_reverse_degree_of_a_string",
     "problems/p3499_maximize_active_section_with_trade_i",
+    "problems/p3503_longest_palindrome_after_substring_concatenation_i",
     "problems/p3507_minimum_pair_removal_to_sort_array_i",
     "problems/p3512_minimum_operations_to_make_array_sum_divisible_by_k",
     "problems/p3531_count_covered_buildings",
