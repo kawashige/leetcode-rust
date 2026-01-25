@@ -7582,6 +7582,10 @@ name = "p3513_number_of_unique_xor_triplets_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3514_number_of_unique_xor_triplets_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3516_find_closest_person"
 version = "0.1.0"
 
