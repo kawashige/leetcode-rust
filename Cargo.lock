@@ -7590,6 +7590,10 @@ name = "p3516_find_closest_person"
 version = "0.1.0"
 
 [[package]]
+name = "p3517_smallest_palindromic_rearrangement_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3531_count_covered_buildings"
 version = "0.1.0"
 
