@@ -7666,6 +7666,10 @@ name = "p3625_count_number_of_trapezoids_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3650_minimum_cost_path_with_edge_reversal"
+version = "0.1.0"
+
+[[package]]
 name = "p3652_best_time_to_buy_and_sell_stock_using_strategy"
 version = "0.1.0"
 
