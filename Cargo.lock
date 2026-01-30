@@ -6374,6 +6374,10 @@ name = "p2976_minimum_cost_to_convert_string_i"
 version = "0.1.0"
 
 [[package]]
+name = "p2977_minimum_cost_to_convert_string_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p2980_check_if_bitwise_or_has_trailing_zeros"
 version = "0.1.0"
 

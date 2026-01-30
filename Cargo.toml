@@ -2383,6 +2383,7 @@ members = [
     "problems/p2965_find_missing_and_repeated_values",
     "problems/p2970_count_the_number_of_incremovable_subarrays_i",
     "problems/p2974_minimum_number_game",
+    "problems/p2977_minimum_cost_to_convert_string_ii",
     "problems/p2982_find_longest_special_substring_that_occurs_thrice_ii",
     "problems/p2997_minimum_number_of_operations_to_make_array_xor_equal_to_k",
     "problems/p2998_minimum_number_of_operations_to_make_x_and_y_equal",
