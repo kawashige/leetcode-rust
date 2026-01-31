@@ -7602,6 +7602,10 @@ name = "p3522_calculate_score_after_performing_instructions"
 version = "0.1.0"
 
 [[package]]
+name = "p3523_make_array_non_decreasing"
+version = "0.1.0"
+
+[[package]]
 name = "p3531_count_covered_buildings"
 version = "0.1.0"
 
