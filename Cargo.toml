@@ -1425,6 +1425,7 @@ members = [
     "problems/p3517_smallest_palindromic_rearrangement_i",
     "problems/p3522_calculate_score_after_performing_instructions",
     "problems/p3523_make_array_non_decreasing",
+    "problems/p3524_find_x_value_of_array_i",
     "problems/p3531_count_covered_buildings",
     "problems/p3536_minimum_product_of_two_digits",
     "problems/p3545_minimum_deletions_for_at_most_k_distinct_characters",

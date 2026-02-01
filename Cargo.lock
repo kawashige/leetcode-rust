@@ -7606,6 +7606,10 @@ name = "p3523_make_array_non_decreasing"
 version = "0.1.0"
 
 [[package]]
+name = "p3524_find_x_value_of_array_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3531_count_covered_buildings"
 version = "0.1.0"
 
