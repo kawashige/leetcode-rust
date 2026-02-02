@@ -2393,6 +2393,7 @@ members = [
     "problems/p3001_minimum_moves_to_capture_the_queen",
     "problems/p3002_maximum_size_of_a_set_after_removals",
     "problems/p3005_count_elements_with_maximum_frequency",
+    "problems/p3013_divide_an_array_into_subarrays_with_minimum_cost_ii",
     "problems/p3015_count_the_number_of_houses_at_a_certain_distance_i",
     "problems/p3027_find_the_number_of_ways_to_place_people_ii",
     "problems/p3038_maximum_number_of_operations_with_the_same_score_i",
