@@ -7690,6 +7690,10 @@ name = "p3637_trionic_array_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3640_trionic_array_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3650_minimum_cost_path_with_edge_reversal"
 version = "0.1.0"
 

@@ -2534,6 +2534,7 @@ members = [
     "problems/p3583_count_special_triplets",
     "problems/p3606_coupon_code_validator",
     "problems/p3637_trionic_array_i",
+    "problems/p3640_trionic_array_ii",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
