@@ -7622,6 +7622,10 @@ name = "p3528_unit_conversion_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3529_count_cells_in_overlapping_horizontal_and_vertical_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p3531_count_covered_buildings"
 version = "0.1.0"
 
