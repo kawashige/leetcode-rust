@@ -2540,6 +2540,7 @@ members = [
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",
+    "problems/p3719_longest_balanced_subarray_i",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
