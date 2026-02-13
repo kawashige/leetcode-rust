@@ -2541,6 +2541,7 @@ members = [
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",
     "problems/p3713_longest_balanced_substring_i",
+    "problems/p3714_longest_balanced_substring_ii",
     "problems/p3719_longest_balanced_subarray_i",
     "problems/p3721_longest_balanced_subarray_ii",
     "august_leetcoding_challenge",

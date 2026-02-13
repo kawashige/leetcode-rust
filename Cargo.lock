@@ -7730,6 +7730,10 @@ name = "p3713_longest_balanced_substring_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3714_longest_balanced_substring_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3719_longest_balanced_subarray_i"
 version = "0.1.0"
 
