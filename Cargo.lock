@@ -7638,6 +7638,10 @@ name = "p3536_minimum_product_of_two_digits"
 version = "0.1.0"
 
 [[package]]
+name = "p3537_fill_a_special_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p3539_find_sum_of_array_product_of_magical_sequaences"
 version = "0.1.0"
 
