@@ -2535,6 +2535,7 @@ members = [
     "problems/p3541_find_most_frequent_vowels_and_consonant",
     "problems/p3542_minimum_operations_to_convert_all_elements_to_zero",
     "problems/p3543_maximum_weighted_k_edge_path",
+    "problems/p3546_equal_sum_grid_partition_i",
     "problems/p3577_count_the_number_of_computer_unlocking_premutaions",
     "problems/p3578_count_partitions_with_max_min_difference_at_most_k",
     "problems/p3583_count_special_triplets",
