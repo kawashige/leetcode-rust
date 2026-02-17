@@ -7670,6 +7670,10 @@ name = "p3550_smallest_index_with_digit_sum_equal_to_index"
 version = "0.1.0"
 
 [[package]]
+name = "p3551_minimum_swaps_to_sort_by_digit_sum"
+version = "0.1.0"
+
+[[package]]
 name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
