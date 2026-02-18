@@ -2537,6 +2537,7 @@ members = [
     "problems/p3543_maximum_weighted_k_edge_path",
     "problems/p3546_equal_sum_grid_partition_i",
     "problems/p3551_minimum_swaps_to_sort_by_digit_sum",
+    "problems/p3552_grid_teleportation_traversal",
     "problems/p3577_count_the_number_of_computer_unlocking_premutaions",
     "problems/p3578_count_partitions_with_max_min_difference_at_most_k",
     "problems/p3583_count_special_triplets",
