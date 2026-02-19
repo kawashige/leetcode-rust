@@ -7678,6 +7678,10 @@ name = "p3552_grid_teleportation_traversal"
 version = "0.1.0"
 
 [[package]]
+name = "p3556_sum_of_largest_prime_substrings"
+version = "0.1.0"
+
+[[package]]
 name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
