@@ -197,6 +197,7 @@ members = [
     "problems/p0752_open_the_lock",
     "problems/p0756_pyramid_transition_matrix",
     "problems/p0757_set_intersection_size_at_least_two",
+    "problems/p0761_special_binary_string",
     "problems/p0762_prime_number_of_set_bits_in_binary_representation",
     "problems/p0764_largest_plus_sign",
     "problems/p0766_toeplitz_matrix",
