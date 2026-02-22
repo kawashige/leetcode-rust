@@ -7690,6 +7690,10 @@ name = "p3557_find_number_of_non_intersecting_substrings"
 version = "0.1.0"
 
 [[package]]
+name = "p3558_number_of_ways_to_assign_edge_weithgts_i"
+version = "0.1.0"
+
+[[package]]
 name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
