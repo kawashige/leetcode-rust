@@ -1434,6 +1434,7 @@ members = [
     "problems/p3557_find_number_of_non_intersecting_substrings",
     "problems/p3558_number_of_ways_to_assign_edge_weithgts_i",
     "problems/p3560_find_minimum_log_transportation_cost",
+    "problems/p3561_resulting_string_after_adjacent_removals",
     "problems/p3562_maximum_profit_from_trading_stocks_with_discounts",
     "problems/p3573_best_time_to_by_and_sell_stock_v",
     "problems/p3582_generate_tag_for_video_caption",

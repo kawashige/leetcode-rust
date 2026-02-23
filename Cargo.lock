@@ -7698,6 +7698,10 @@ name = "p3560_find_minimum_log_transportation_cost"
 version = "0.1.0"
 
 [[package]]
+name = "p3561_resulting_string_after_adjacent_removals"
+version = "0.1.0"
+
+[[package]]
 name = "p3562_maximum_profit_from_trading_stocks_with_discounts"
 version = "0.1.0"
 
