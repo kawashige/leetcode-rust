@@ -1,0 +1,8 @@
+[package]
+name = "p3566_partition_array_into_two_equal_product_subsets"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
