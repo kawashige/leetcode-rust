@@ -7706,6 +7706,10 @@ name = "p3562_maximum_profit_from_trading_stocks_with_discounts"
 version = "0.1.0"
 
 [[package]]
+name = "p3566_minimum_absolute_difference_in_sliding_submatrix"
+version = "0.1.0"
+
+[[package]]
 name = "p3566_partition_array_into_two_equal_product_subsets"
 version = "0.1.0"
 

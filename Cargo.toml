@@ -1437,6 +1437,7 @@ members = [
     "problems/p3560_find_minimum_log_transportation_cost",
     "problems/p3561_resulting_string_after_adjacent_removals",
     "problems/p3562_maximum_profit_from_trading_stocks_with_discounts",
+    "problems/p3566_minimum_absolute_difference_in_sliding_submatrix",
     "problems/p3573_best_time_to_by_and_sell_stock_v",
     "problems/p3582_generate_tag_for_video_caption",
     "problems/p3607_power_grid_maintenance",
