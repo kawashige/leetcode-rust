@@ -7714,6 +7714,10 @@ name = "p3566_partition_array_into_two_equal_product_subsets"
 version = "0.1.0"
 
 [[package]]
+name = "p3568_minimum_moves_to_clean_the_classroom"
+version = "0.1.0"
+
+[[package]]
 name = "p3573_best_time_to_by_and_sell_stock_v"
 version = "0.1.0"
 

@@ -1,0 +1,8 @@
+[package]
+name = "p3568_minimum_moves_to_clean_the_classroom"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
