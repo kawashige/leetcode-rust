@@ -1447,6 +1447,7 @@ members = [
     "problems/p3650_minimum_cost_path_with_edge_reversal",
     "problems/p3651_minimum_cost_path_with_teleportations",
     "problems/p3652_best_time_to_buy_and_sell_stock_using_strategy",
+    "problems/p3666_minimum_operations_to_equalize_binary_string",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
