@@ -1,0 +1,8 @@
+[package]
+name = "p3572_maximize_y_sum_by_picking_a_triplet_of_distinct_x_values"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
