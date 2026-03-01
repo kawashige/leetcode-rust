@@ -1441,6 +1441,7 @@ members = [
     "problems/p3568_minimum_moves_to_clean_the_classroom",
     "problems/p3572_maximize_y_sum_by_picking_a_triplet_of_distinct_x_values",
     "problems/p3573_best_time_to_by_and_sell_stock_v",
+    "problems/p3576_transform_array_to_all_equal_elements",
     "problems/p3582_generate_tag_for_video_caption",
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",

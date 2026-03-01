@@ -1,0 +1,8 @@
+[package]
+name = "p3576_transform_array_to_all_equal_elements"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
