@@ -7746,6 +7746,10 @@ name = "p3583_count_special_triplets"
 version = "0.1.0"
 
 [[package]]
+name = "p3584_maximum_product_of_first_and_last_elements_of_a_subsequences"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
