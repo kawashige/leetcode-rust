@@ -7754,6 +7754,10 @@ name = "p3587_minimum_adjacent_swaps_to_alternate_parity"
 version = "0.1.0"
 
 [[package]]
+name = "p3588_find_maximum_area_of_a_triangle"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
