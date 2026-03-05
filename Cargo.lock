@@ -7758,6 +7758,10 @@ name = "p3588_find_maximum_area_of_a_triangle"
 version = "0.1.0"
 
 [[package]]
+name = "p3589_count_prime_gap_balanced_subarrays"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
