@@ -1447,6 +1447,7 @@ members = [
     "problems/p3587_minimum_adjacent_swaps_to_alternate_parity",
     "problems/p3588_find_maximum_area_of_a_triangle",
     "problems/p3589_count_prime_gap_balanced_subarrays",
+    "problems/p3591_check_if_any_elemenent_has_prime_frequency",
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",
     "problems/p3625_count_number_of_trapezoids_ii",
