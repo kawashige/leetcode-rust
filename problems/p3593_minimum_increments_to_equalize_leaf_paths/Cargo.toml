@@ -1,0 +1,8 @@
+[package]
+name = "p3593_minimum_increments_to_equalize_leaf_paths"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

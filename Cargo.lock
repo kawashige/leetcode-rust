@@ -7770,6 +7770,10 @@ name = "p3592_inverse_coin_change"
 version = "0.1.0"
 
 [[package]]
+name = "p3593_minimum_increments_to_equalize_leaf_paths"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
