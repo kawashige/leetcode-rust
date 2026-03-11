@@ -1,0 +1,8 @@
+[package]
+name = "p3598_longest_common_prefix_between_adjacent_strings_after_removals"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

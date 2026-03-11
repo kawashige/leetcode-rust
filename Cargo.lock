@@ -7782,6 +7782,10 @@ name = "p3597_partition_string"
 version = "0.1.0"
 
 [[package]]
+name = "p3598_longest_common_prefix_between_adjacent_strings_after_removals"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
