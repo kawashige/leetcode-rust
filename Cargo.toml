@@ -1452,6 +1452,7 @@ members = [
     "problems/p3593_minimum_increments_to_equalize_leaf_paths",
     "problems/p3597_partition_string",
     "problems/p3598_longest_common_prefix_between_adjacent_strings_after_removals",
+    "problems/p3599_partition_array_to_minimize_xor",
     "problems/p3600_maximize_spaniing_tree_stability_with_upgrades",
     "problems/p3607_power_grid_maintenance",
     "problems/p3623_count_number_of_trapezoids_i",
