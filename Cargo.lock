@@ -7794,6 +7794,10 @@ name = "p3600_maximize_spaniing_tree_stability_with_upgrades"
 version = "0.1.0"
 
 [[package]]
+name = "p3602_hexadecimal_and_hexatrigesimal_conversion"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
