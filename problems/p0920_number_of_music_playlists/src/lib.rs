@@ -5,7 +5,7 @@ pub struct Solution {}
 impl Solution {
     const M: usize = 1_000_000_007;
 
-    pub fn modinv(a: usize) -> usize {
+    pub fn modinv(a: i32) -> usize {
         let mut a = a as i64;
         let m = 1_000_000_007;
         let mut b = m;

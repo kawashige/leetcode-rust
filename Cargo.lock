@@ -3178,6 +3178,10 @@ name = "p1621_number_of_sets_of_k_non_overlappin_line_segments"
 version = "0.1.0"
 
 [[package]]
+name = "p1622_fancy_sequence"
+version = "0.1.0"
+
+[[package]]
 name = "p1624_largest_substring_between_two_equal_characters"
 version = "0.1.0"
 
