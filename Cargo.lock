@@ -7802,6 +7802,10 @@ name = "p3602_hexadecimal_and_hexatrigesimal_conversion"
 version = "0.1.0"
 
 [[package]]
+name = "p3603_minimum_cost_path_with_alternating_direnctions_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 

@@ -2566,6 +2566,7 @@ members = [
     "problems/p3577_count_the_number_of_computer_unlocking_premutaions",
     "problems/p3578_count_partitions_with_max_min_difference_at_most_k",
     "problems/p3583_count_special_triplets",
+    "problems/p3603_minimum_cost_path_with_alternating_direnctions_ii",
     "problems/p3606_coupon_code_validator",
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
