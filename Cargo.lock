@@ -7806,6 +7806,10 @@ name = "p3603_minimum_cost_path_with_alternating_direnctions_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3604_minimum_time_to_reach_destination_in_directed_graph"
+version = "0.1.0"
+
+[[package]]
 name = "p3606_coupon_code_validator"
 version = "0.1.0"
 
