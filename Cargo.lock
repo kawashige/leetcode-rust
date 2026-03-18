@@ -7818,6 +7818,10 @@ name = "p3607_power_grid_maintenance"
 version = "0.1.0"
 
 [[package]]
+name = "p3608_minimum_time_for_k_connected_components"
+version = "0.1.0"
+
+[[package]]
 name = "p3623_count_number_of_trapezoids_i"
 version = "0.1.0"
 

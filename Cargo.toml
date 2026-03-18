@@ -2569,6 +2569,7 @@ members = [
     "problems/p3603_minimum_cost_path_with_alternating_direnctions_ii",
     "problems/p3604_minimum_time_to_reach_destination_in_directed_graph",
     "problems/p3606_coupon_code_validator",
+    "problems/p3608_minimum_time_for_k_connected_components",
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",
