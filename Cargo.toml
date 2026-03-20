@@ -2571,6 +2571,7 @@ members = [
     "problems/p3606_coupon_code_validator",
     "problems/p3608_minimum_time_for_k_connected_components",
     "problems/p3612_process_string_with_special_operations_i",
+    "problems/p3613_minimize_maximum_component_cost",
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",

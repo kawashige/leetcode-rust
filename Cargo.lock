@@ -7826,6 +7826,10 @@ name = "p3612_process_string_with_special_operations_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3613_minimize_maximum_component_cost"
+version = "0.1.0"
+
+[[package]]
 name = "p3623_count_number_of_trapezoids_i"
 version = "0.1.0"
 
