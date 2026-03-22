@@ -7830,6 +7830,10 @@ name = "p3613_minimize_maximum_component_cost"
 version = "0.1.0"
 
 [[package]]
+name = "p3618_split_array_by_prime_indices"
+version = "0.1.0"
+
+[[package]]
 name = "p3623_count_number_of_trapezoids_i"
 version = "0.1.0"
 
