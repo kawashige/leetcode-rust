@@ -2575,6 +2575,7 @@ members = [
     "problems/p3618_split_array_by_prime_indices",
     "problems/p3619_count_islands_with_total_value_divisible_by_k",
     "problems/p3622_check_divisibility_by_digit_sum_and_product",
+    "problems/p3627_maximum_median_sum_of_subsequendes_of_size_3",
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",
