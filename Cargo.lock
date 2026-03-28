@@ -5530,6 +5530,10 @@ name = "p2572_count_the_number_of_square_free_subsets"
 version = "0.1.0"
 
 [[package]]
+name = "p2573_find_the_string_with_lcp"
+version = "0.1.0"
+
+[[package]]
 name = "p2574_left_and_right_sum_difference"
 version = "0.1.0"
 
@@ -7678,6 +7682,10 @@ name = "p3546_equal_sum_grid_partition_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3548_equal_sum_grid_partition_ii"
+version = "0.1.0"
+
+[[package]]
 name = "p3550_smallest_index_with_digit_sum_equal_to_index"
 version = "0.1.0"
 
@@ -7851,6 +7859,10 @@ version = "0.1.0"
 
 [[package]]
 name = "p3627_maximum_median_sum_of_subsequendes_of_size_3"
+version = "0.1.0"
+
+[[package]]
+name = "p3628_maximum_number_of_subsequences_after_one_inserting"
 version = "0.1.0"
 
 [[package]]
