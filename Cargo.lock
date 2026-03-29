@@ -7866,6 +7866,10 @@ name = "p3628_maximum_number_of_subsequences_after_one_inserting"
 version = "0.1.0"
 
 [[package]]
+name = "p3629_minimum_jumps_to_reach_end_via_prime_teleportation"
+version = "0.1.0"
+
+[[package]]
 name = "p3634_minimum_removals_to_balance_array"
 version = "0.1.0"
 

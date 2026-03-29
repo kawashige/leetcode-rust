@@ -2579,6 +2579,7 @@ members = [
     "problems/p3622_check_divisibility_by_digit_sum_and_product",
     "problems/p3627_maximum_median_sum_of_subsequendes_of_size_3",
     "problems/p3628_maximum_number_of_subsequences_after_one_inserting",
+    "problems/p3629_minimum_jumps_to_reach_end_via_prime_teleportation",
     "problems/p3634_minimum_removals_to_balance_array",
     "problems/p3637_trionic_array_i",
     "problems/p3640_trionic_array_ii",
