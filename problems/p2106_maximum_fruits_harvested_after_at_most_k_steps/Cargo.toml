@@ -1,0 +1,8 @@
+[package]
+name = "p2106_maximum_fruits_harvested_after_at_most_k_steps"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
