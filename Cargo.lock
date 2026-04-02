@@ -7886,6 +7886,10 @@ name = "p3637_trionic_array_i"
 version = "0.1.0"
 
 [[package]]
+name = "p3638_maximum_balanced_shipments"
+version = "0.1.0"
+
+[[package]]
 name = "p3640_trionic_array_ii"
 version = "0.1.0"
 
