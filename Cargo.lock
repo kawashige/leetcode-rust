@@ -7910,6 +7910,10 @@ name = "p3652_best_time_to_buy_and_sell_stock_using_strategy"
 version = "0.1.0"
 
 [[package]]
+name = "p3661_maximum_walls_destroyed_by_robots"
+version = "0.1.0"
+
+[[package]]
 name = "p3666_minimum_operations_to_equalize_binary_string"
 version = "0.1.0"
 
