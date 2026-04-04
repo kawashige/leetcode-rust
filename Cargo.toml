@@ -2585,6 +2585,7 @@ members = [
     "problems/p3635_earliest_finish_time_for_land_and_water_rides_ii",
     "problems/p3637_trionic_array_i",
     "problems/p3638_maximum_balanced_shipments",
+    "problems/p3639_maximum_time_to_archive_string",
     "problems/p3640_trionic_array_ii",
     "problems/p3643_flip_square_submatrix_varically",
     "problems/p3661_maximum_walls_destroyed_by_robots",
