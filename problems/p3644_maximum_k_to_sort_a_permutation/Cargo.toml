@@ -1,0 +1,6 @@
+[package]
+name = "p3644_maximum_k_to_sort_a_permutation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
