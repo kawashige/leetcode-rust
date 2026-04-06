@@ -2589,6 +2589,7 @@ members = [
     "problems/p3640_trionic_array_ii",
     "problems/p3643_flip_square_submatrix_varically",
     "problems/p3644_maximum_k_to_sort_a_permutation",
+    "problems/p3645_maximum_total_from_optimal_activation_order",
     "problems/p3661_maximum_walls_destroyed_by_robots",
     "problems/p3713_longest_balanced_substring_i",
     "problems/p3714_longest_balanced_substring_ii",

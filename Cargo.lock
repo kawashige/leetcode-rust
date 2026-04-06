@@ -7906,6 +7906,10 @@ name = "p3644_maximum_k_to_sort_a_permutation"
 version = "0.1.0"
 
 [[package]]
+name = "p3645_maximum_total_from_optimal_activation_order"
+version = "0.1.0"
+
+[[package]]
 name = "p3650_minimum_cost_path_with_edge_reversal"
 version = "0.1.0"
 
