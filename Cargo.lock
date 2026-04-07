@@ -7910,6 +7910,10 @@ name = "p3645_maximum_total_from_optimal_activation_order"
 version = "0.1.0"
 
 [[package]]
+name = "p3648_minimum_sensors_to_cover_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p3650_minimum_cost_path_with_edge_reversal"
 version = "0.1.0"
 

@@ -1,0 +1,6 @@
+[package]
+name = "p3648_minimum_sensors_to_cover_grid"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
