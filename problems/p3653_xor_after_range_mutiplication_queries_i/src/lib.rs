@@ -18,8 +18,6 @@ impl Solution {
             result ^= nums[i] as i64 * mul[i] % M;
         }
 
-        println!("mul: {:?}", mul);
-
         result as i32
     }
 }
