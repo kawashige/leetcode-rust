@@ -1,0 +1,6 @@
+[package]
+name = "p1320_minimum_distnce_to_type_a_word_using_two_fingers"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
