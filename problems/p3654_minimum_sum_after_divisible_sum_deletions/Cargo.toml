@@ -1,0 +1,6 @@
+[package]
+name = "p3654_minimum_sum_after_divisible_sum_deletions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
