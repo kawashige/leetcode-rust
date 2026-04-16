@@ -1,0 +1,6 @@
+[package]
+name = "p3659_partition_array_into_k_distinct_groups"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
