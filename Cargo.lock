@@ -7986,6 +7986,10 @@ name = "p3741_minimum_distanca_between_three_equal_elements_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3761_minimum_absolute_distance_between_mirror_pairs"
+version = "0.1.0"
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
