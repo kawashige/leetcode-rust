@@ -1468,6 +1468,7 @@ members = [
     "problems/p3659_partition_array_into_k_distinct_groups",
     "problems/p3666_minimum_operations_to_equalize_binary_string",
     "problems/p3761_minimum_absolute_distance_between_mirror_pairs",
+    "problems/p3783_mirror_distance_of_an_integer",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",
