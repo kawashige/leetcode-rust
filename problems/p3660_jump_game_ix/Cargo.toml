@@ -1,0 +1,6 @@
+[package]
+name = "p3660_jump_game_ix"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
