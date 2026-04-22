@@ -1469,6 +1469,7 @@ members = [
     "problems/p3660_jump_game_ix",
     "problems/p3663_find_the_least_frequent_digit",
     "problems/p3664_two_letter_card_game",
+    "problems/p3665_twisted_mirror_path_count",
     "problems/p3666_minimum_operations_to_equalize_binary_string",
     "problems/p3761_minimum_absolute_distance_between_mirror_pairs",
     "problems/p3783_mirror_distance_of_an_integer",

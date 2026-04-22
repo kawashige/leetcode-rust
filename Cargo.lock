@@ -7970,6 +7970,10 @@ name = "p3664_two_letter_card_game"
 version = "0.1.0"
 
 [[package]]
+name = "p3665_twisted_mirror_path_count"
+version = "0.1.0"
+
+[[package]]
 name = "p3666_minimum_operations_to_equalize_binary_string"
 version = "0.1.0"
 
