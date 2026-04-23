@@ -1,0 +1,6 @@
+[package]
+name = "p3668_restore_finishing_order"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

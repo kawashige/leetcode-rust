@@ -7978,6 +7978,10 @@ name = "p3666_minimum_operations_to_equalize_binary_string"
 version = "0.1.0"
 
 [[package]]
+name = "p3668_restore_finishing_order"
+version = "0.1.0"
+
+[[package]]
 name = "p3713_longest_balanced_substring_i"
 version = "0.1.0"
 

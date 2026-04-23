@@ -1471,6 +1471,7 @@ members = [
     "problems/p3664_two_letter_card_game",
     "problems/p3665_twisted_mirror_path_count",
     "problems/p3666_minimum_operations_to_equalize_binary_string",
+    "problems/p3668_restore_finishing_order",
     "problems/p3761_minimum_absolute_distance_between_mirror_pairs",
     "problems/p3783_mirror_distance_of_an_integer",
     "august_leetcoding_challenge",
