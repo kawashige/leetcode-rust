@@ -7982,6 +7982,10 @@ name = "p3668_restore_finishing_order"
 version = "0.1.0"
 
 [[package]]
+name = "p3669_balanced_k_factor_decomposition"
+version = "0.1.0"
+
+[[package]]
 name = "p3713_longest_balanced_substring_i"
 version = "0.1.0"
 
