@@ -2556,6 +2556,7 @@ members = [
     "problems/p3446_sort_matrix_by_diagonals",
     "problems/p3449_adjacent_increasing_subarrays_detection_i",
     "problems/p3459_length_of_longest_v_shaped_diagonal_segment",
+    "problems/p3464_maximize_the_distance_between_points_on_a_square",
     "problems/p3477_fruits_into_baskets_ii",
     "problems/p3479_fruits_into_baskets_iii",
     "problems/p3480_maximum_subarrays_after_removing_one_conflicting_pair",
