@@ -7994,6 +7994,10 @@ name = "p3670_maximum_product_of_two_integers_with_no_common_bits"
 version = "0.1.0"
 
 [[package]]
+name = "p3674_minimum_operations_to_equalize_array"
+version = "0.1.0"
+
+[[package]]
 name = "p3713_longest_balanced_substring_i"
 version = "0.1.0"
 
