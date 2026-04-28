@@ -1,0 +1,6 @@
+[package]
+name = "p3675_minimum_operations_to_transform_string"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
