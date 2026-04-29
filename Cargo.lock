@@ -6950,6 +6950,10 @@ name = "p3224_minimum_array_changes_to_make_differences_equal"
 version = "0.1.0"
 
 [[package]]
+name = "p3225_maximum_score_from_grid_operations"
+version = "0.1.0"
+
+[[package]]
 name = "p3226_number_of_bit_changed_to_make_two_integers_equal"
 version = "0.1.0"
 

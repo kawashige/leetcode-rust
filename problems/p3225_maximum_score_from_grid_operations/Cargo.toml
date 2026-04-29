@@ -1,0 +1,6 @@
+[package]
+name = "p3225_maximum_score_from_grid_operations"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
