@@ -2618,6 +2618,7 @@ members = [
     "problems/p3721_longest_balanced_subarray_ii",
     "problems/p3740_minimum_distanca_between_three_equal_elements_i",
     "problems/p3741_minimum_distanca_between_three_equal_elements_ii",
+    "problems/p3742_maximum_path_score_in_a_grid",
     "august_leetcoding_challenge",
     "september_leetcoding_challenge",
     "october_leetcoding_challenge",

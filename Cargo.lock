@@ -8030,6 +8030,10 @@ name = "p3741_minimum_distanca_between_three_equal_elements_ii"
 version = "0.1.0"
 
 [[package]]
+name = "p3742_maximum_path_score_in_a_grid"
+version = "0.1.0"
+
+[[package]]
 name = "p3761_minimum_absolute_distance_between_mirror_pairs"
 version = "0.1.0"
 
