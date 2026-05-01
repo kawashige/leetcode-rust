@@ -2612,6 +2612,7 @@ members = [
     "problems/p3670_maximum_product_of_two_integers_with_no_common_bits",
     "problems/p3674_minimum_operations_to_equalize_array",
     "problems/p3675_minimum_operations_to_transform_string",
+    "problems/p3676_count_bowl_subarrays",
     "problems/p3713_longest_balanced_substring_i",
     "problems/p3714_longest_balanced_substring_ii",
     "problems/p3719_longest_balanced_subarray_i",
