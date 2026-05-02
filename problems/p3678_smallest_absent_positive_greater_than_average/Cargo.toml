@@ -1,0 +1,6 @@
+[package]
+name = "p3678_smallest_absent_positive_greater_than_average"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

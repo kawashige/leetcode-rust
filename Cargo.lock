@@ -8010,6 +8010,10 @@ name = "p3676_count_bowl_subarrays"
 version = "0.1.0"
 
 [[package]]
+name = "p3678_smallest_absent_positive_greater_than_average"
+version = "0.1.0"
+
+[[package]]
 name = "p3713_longest_balanced_substring_i"
 version = "0.1.0"
 
