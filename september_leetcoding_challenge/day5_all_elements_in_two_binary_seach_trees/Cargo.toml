@@ -1,0 +1,7 @@
+[package]
+name = "day5_all_elements_in_two_binary_seach_trees"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

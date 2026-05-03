@@ -1,0 +1,7 @@
+[package]
+name = "day18_max_number_of_k_sum_pairs"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

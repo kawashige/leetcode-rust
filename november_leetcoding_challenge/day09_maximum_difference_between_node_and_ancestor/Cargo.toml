@@ -1,0 +1,7 @@
+[package]
+name = "day09_maximum_difference_between_node_and_ancestor"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

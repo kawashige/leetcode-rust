@@ -1,0 +1,7 @@
+[package]
+name = "day05_minimum_cost_to_move_chips_to_the_same_position"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

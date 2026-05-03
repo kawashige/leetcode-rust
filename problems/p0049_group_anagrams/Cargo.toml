@@ -1,0 +1,8 @@
+[package]
+name = "p0049_group_anagrams"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

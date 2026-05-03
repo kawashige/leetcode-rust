@@ -1,0 +1,8 @@
+[package]
+name = "p0094_binary_tree_inorder_traversal"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

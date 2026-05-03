@@ -1,0 +1,8 @@
+[package]
+name = "p0303_range_sum_query_immutable"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

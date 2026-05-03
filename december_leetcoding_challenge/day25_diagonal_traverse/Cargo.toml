@@ -1,0 +1,7 @@
+[package]
+name = "day25_diagonal_traverse"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

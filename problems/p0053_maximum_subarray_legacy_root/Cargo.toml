@@ -1,0 +1,8 @@
+[package]
+name = "p0053_maximum_subarray_legacy_root"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

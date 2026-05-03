@@ -1,0 +1,8 @@
+[package]
+name = "p0398_random_pick_index"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.3"

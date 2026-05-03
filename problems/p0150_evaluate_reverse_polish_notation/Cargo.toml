@@ -1,0 +1,8 @@
+[package]
+name = "p0150_evaluate_reverse_polish_notation"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

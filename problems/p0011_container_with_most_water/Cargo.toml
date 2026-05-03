@@ -1,0 +1,8 @@
+[package]
+name = "p0011_container_with_most_water"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

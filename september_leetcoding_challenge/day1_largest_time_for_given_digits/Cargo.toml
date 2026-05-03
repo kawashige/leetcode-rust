@@ -1,0 +1,7 @@
+[package]
+name = "day1_largest_time_for_given_digits"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

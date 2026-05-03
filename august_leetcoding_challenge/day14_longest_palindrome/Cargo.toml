@@ -1,0 +1,7 @@
+[package]
+name = "day14_longest_palindrome"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

@@ -1,0 +1,7 @@
+[package]
+name = "day27_concetenaion_of_consevutive_binary_numbers"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

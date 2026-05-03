@@ -1,0 +1,8 @@
+[package]
+name = "p0091_decode_ways"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

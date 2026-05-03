@@ -1,0 +1,7 @@
+[package]
+name = "day10_minimum_number_of_arrows_to_balloons"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

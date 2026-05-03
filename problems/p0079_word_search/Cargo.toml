@@ -1,0 +1,8 @@
+[package]
+name = "p0079_word_search"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

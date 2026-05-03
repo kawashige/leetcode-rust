@@ -1,0 +1,8 @@
+[package]
+name = "p0203_remove_linked_list_elements"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

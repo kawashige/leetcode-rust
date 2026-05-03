@@ -1,0 +1,8 @@
+[package]
+name = "p0318_maximum_product_of_word_lengths"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

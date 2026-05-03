@@ -1,0 +1,8 @@
+[package]
+name = "p0462_minimum_moves_to_equal_array_elements_ii"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

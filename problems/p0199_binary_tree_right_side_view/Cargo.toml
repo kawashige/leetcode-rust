@@ -1,0 +1,8 @@
+[package]
+name = "p0199_binary_tree_right_side_view"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

@@ -1,0 +1,8 @@
+[package]
+name = "p0050_pow_x_n"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

@@ -1,0 +1,7 @@
+[package]
+name = "day27_jump_game_iv"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]

@@ -1,0 +1,8 @@
+[package]
+name = "p0047_permutations_ii"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

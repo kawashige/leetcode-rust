@@ -1,0 +1,8 @@
+[package]
+name = "p0102_binary_tree_level_order_traversal"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+

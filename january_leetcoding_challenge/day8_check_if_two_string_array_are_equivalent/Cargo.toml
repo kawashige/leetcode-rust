@@ -1,0 +1,7 @@
+[package]
+name = "day8_check_if_two_string_array_are_equivalent"
+version = "0.1.0"
+authors = ["Takahiro Kawashige <lapavoni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
