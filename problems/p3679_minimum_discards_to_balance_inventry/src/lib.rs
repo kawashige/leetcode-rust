@@ -17,13 +17,6 @@ impl Solution {
                     }
                 }
             }
-            println!(
-                "i: {}, arrivals[i]: {}, queue: {:?}, count: {:?}",
-                i,
-                arrivals[i],
-                queue,
-                count[..10].to_vec()
-            );
             if m <= count[arrivals[i] as usize] {
                 discards += 1;
                 queue.push_back(0);
