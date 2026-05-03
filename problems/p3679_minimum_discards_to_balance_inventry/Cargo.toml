@@ -1,0 +1,6 @@
+[package]
+name = "p3679_minimum_discards_to_balance_inventry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
