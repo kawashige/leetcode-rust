@@ -9,3 +9,5 @@ mod test {
     #[test]
     fn test_0000() {}
 }
+
+fn main() {}
