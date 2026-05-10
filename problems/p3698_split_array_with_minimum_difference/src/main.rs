@@ -18,10 +18,6 @@ impl Solution {
             }
         }
 
-        println!("increasing: {:?}", increasing);
-        println!("decreasing: {:?}", decreasing);
-        println!("sum: {:?}", sum);
-
         let mut result = std::i64::MAX;
         for i in 0..nums.len() - 1 {
             if increasing[i] && decreasing[i + 1] {
