@@ -1,0 +1,6 @@
+[package]
+name = "p3726_remove_zeros_in_decimal_representation"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
