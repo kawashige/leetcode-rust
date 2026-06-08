@@ -1,0 +1,6 @@
+[package]
+name = "p3727_maximum_alternating_sum_of_squares"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
