@@ -1,0 +1,6 @@
+[package]
+name = "p3737_count_subarrays_with_majority_element_i"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
