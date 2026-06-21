@@ -1,0 +1,6 @@
+[package]
+name = "p3738_longest_non_descreasing_subarray_after_replacing_at_most_one_element"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
