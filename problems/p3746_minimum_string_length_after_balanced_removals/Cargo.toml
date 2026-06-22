@@ -1,0 +1,6 @@
+[package]
+name = "p3746_minimum_string_length_after_balanced_removals"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
