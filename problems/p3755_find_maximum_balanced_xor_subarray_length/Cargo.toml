@@ -1,0 +1,6 @@
+[package]
+name = "p3755_find_maximum_balanced_xor_subarray_length"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
