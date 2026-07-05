@@ -1,0 +1,6 @@
+[package]
+name = "p1301_number_of_paths_with_max_score"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
