@@ -1,0 +1,6 @@
+[package]
+name = "p3760_maximum_substrintgs_with_distinct_start"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
