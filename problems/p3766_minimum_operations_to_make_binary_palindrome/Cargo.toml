@@ -1,0 +1,6 @@
+[package]
+name = "p3766_minimum_operations_to_make_binary_palindrome"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
