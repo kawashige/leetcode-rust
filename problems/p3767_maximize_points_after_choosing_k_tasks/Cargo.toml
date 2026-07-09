@@ -1,0 +1,6 @@
+[package]
+name = "p3767_maximize_points_after_choosing_k_tasks"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
