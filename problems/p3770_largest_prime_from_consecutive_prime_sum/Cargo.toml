@@ -1,0 +1,6 @@
+[package]
+name = "p3770_largest_prime_from_consecutive_prime_sum"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
