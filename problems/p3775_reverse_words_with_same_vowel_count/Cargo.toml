@@ -1,0 +1,6 @@
+[package]
+name = "p3775_reverse_words_with_same_vowel_count"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
