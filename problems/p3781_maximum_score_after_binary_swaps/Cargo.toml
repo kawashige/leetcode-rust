@@ -1,0 +1,6 @@
+[package]
+name = "p3781_maximum_score_after_binary_swaps"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
