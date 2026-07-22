@@ -1,0 +1,6 @@
+[package]
+name = "p3501_maximize_active_section_with_trade_ii"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
