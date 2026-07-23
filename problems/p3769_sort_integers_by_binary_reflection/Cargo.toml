@@ -1,0 +1,6 @@
+[package]
+name = "p3769_sort_integers_by_binary_reflection"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
