@@ -1,0 +1,6 @@
+[package]
+name = "p3788_maximum_score_of_a_split"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
