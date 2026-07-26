@@ -1,0 +1,6 @@
+[package]
+name = "p3795_minimum_subarray_length_with_distinct_sum_at_least_k"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
