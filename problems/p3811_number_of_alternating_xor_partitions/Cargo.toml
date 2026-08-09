@@ -1,0 +1,6 @@
+[package]
+name = "p3811_number_of_alternating_xor_partitions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
