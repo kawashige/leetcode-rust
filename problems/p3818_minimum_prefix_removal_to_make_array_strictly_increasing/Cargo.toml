@@ -1,0 +1,6 @@
+[package]
+name = "p3818_minimum_prefix_removal_to_make_array_strictly_increasing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
