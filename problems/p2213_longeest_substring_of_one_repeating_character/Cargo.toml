@@ -1,0 +1,6 @@
+[package]
+name = "p2213_longeest_substring_of_one_repeating_character"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
