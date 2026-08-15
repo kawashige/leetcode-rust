@@ -1,0 +1,6 @@
+[package]
+name = "p3820_pythagorean_distance_nodes_in_a_tree"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
