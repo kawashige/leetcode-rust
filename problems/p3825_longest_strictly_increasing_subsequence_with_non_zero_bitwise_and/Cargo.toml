@@ -1,0 +1,6 @@
+[package]
+name = "p3825_longest_strictly_increasing_subsequence_with_non_zero_bitwise_and"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
