@@ -1,0 +1,6 @@
+[package]
+name = "p3828_final_element_after_subarray_deletions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
