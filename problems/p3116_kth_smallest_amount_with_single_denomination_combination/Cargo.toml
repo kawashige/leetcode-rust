@@ -1,0 +1,6 @@
+[package]
+name = "p3116_kth_smallest_amount_with_single_denomination_combination"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
