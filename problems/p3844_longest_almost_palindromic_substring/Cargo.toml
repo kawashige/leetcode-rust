@@ -1,0 +1,6 @@
+[package]
+name = "p3844_longest_almost_palindromic_substring"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
