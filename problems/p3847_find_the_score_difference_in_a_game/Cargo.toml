@@ -1,0 +1,6 @@
+[package]
+name = "p3847_find_the_score_difference_in_a_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
