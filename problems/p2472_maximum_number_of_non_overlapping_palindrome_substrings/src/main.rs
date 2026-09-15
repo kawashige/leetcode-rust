@@ -24,7 +24,6 @@ impl Solution {
                 }
             }
         }
-        println!("{:?}", is_palindrome);
 
         let mut dp = vec![0; s.len() + 1];
         let k = k as usize;
