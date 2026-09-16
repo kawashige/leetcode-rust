@@ -1,0 +1,6 @@
+[package]
+name = "p3833_count_dominant_indices"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
