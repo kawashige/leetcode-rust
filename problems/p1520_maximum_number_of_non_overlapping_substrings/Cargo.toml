@@ -1,0 +1,6 @@
+[package]
+name = "p1520_maximum_number_of_non_overlapping_substrings"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
