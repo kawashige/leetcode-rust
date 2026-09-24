@@ -1,0 +1,6 @@
+[package]
+name = "p3852_smallest_pair_with_different_frequencies"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
