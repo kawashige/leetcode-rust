@@ -1,0 +1,6 @@
+[package]
+name = "p3854_mimimum_operaiotns_to_make_array_parity_alternating"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
