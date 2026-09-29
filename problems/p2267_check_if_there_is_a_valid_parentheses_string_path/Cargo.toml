@@ -1,0 +1,6 @@
+[package]
+name = "p2267_check_if_there_is_a_valid_parentheses_string_path"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
