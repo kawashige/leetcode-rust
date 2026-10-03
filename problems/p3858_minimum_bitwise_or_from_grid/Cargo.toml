@@ -1,0 +1,6 @@
+[package]
+name = "p3858_minimum_bitwise_or_from_grid"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
