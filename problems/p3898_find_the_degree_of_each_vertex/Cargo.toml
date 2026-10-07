@@ -1,0 +1,6 @@
+[package]
+name = "p3898_find_the_degree_of_each_vertex"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
