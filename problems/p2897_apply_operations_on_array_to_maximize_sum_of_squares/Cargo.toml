@@ -1,0 +1,6 @@
+[package]
+name = "p2897_apply_operations_on_array_to_maximize_sum_of_squares"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
