@@ -1,0 +1,6 @@
+[package]
+name = "p3917_count_indices_with_opposite_parity"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
