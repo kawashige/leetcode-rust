@@ -1,0 +1,6 @@
+[package]
+name = "p3931_check_adjacent_digit_differences"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
