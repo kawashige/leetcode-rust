@@ -1,0 +1,6 @@
+[package]
+name = "p3881_direction_assignments_with_exactly_k_visible_people"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
