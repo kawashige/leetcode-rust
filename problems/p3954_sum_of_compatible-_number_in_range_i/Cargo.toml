@@ -1,0 +1,6 @@
+[package]
+name = "p3954_sum_of_compatible-_number_in_range_i"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
