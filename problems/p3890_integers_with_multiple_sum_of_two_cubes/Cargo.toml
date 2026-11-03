@@ -1,0 +1,6 @@
+[package]
+name = "p3890_integers_with_multiple_sum_of_two_cubes"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
