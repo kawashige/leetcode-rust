@@ -1,0 +1,6 @@
+[package]
+name = "p1606_find_servers_that_handled_most_number_of_requests"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
