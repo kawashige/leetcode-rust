@@ -1,0 +1,6 @@
+[package]
+name = "p3986_number_of_elapsed_seconds_between_two_times"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
