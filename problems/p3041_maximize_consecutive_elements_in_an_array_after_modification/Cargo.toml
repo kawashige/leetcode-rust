@@ -1,0 +1,6 @@
+[package]
+name = "p3041_maximize_consecutive_elements_in_an_array_after_modification"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
