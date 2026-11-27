@@ -1,0 +1,6 @@
+[package]
+name = "p3946_maximum_number_of_items_from_sale_i"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
